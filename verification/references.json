@@ -1,0 +1,545 @@
+{
+  "schema": 1,
+  "references_sha256": "3dd548f9da65061cab67d04e05aab07e025711742521b28ddde47114ef532d07",
+  "bibliography_inputs": {
+    "references.yaml": "3dd548f9da65061cab67d04e05aab07e025711742521b28ddde47114ef532d07"
+  },
+  "entries": [
+    {
+      "id": "longden2017",
+      "doi": "10.1038/nn.4533",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Capillary K+-sensing initiates retrograde hyperpolarization to increase local cerebral blood flow",
+          "registry": [
+            "Capillary K+-sensing initiates retrograde hyperpolarization to increase local cerebral blood flow"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "longden",
+          "registry": "longden",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2017
+          ],
+          "registry": [
+            2017,
+            2017,
+            2017,
+            2017
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "Nature Neuroscience",
+          "registry": [
+            "Nature Neuroscience"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "20",
+          "registry": "20",
+          "match": true
+        },
+        "issue": {
+          "reference": "5",
+          "registry": "5",
+          "match": true
+        },
+        "page": {
+          "reference": "717-726",
+          "registry": "717-726",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T12:47:30.089851+00:00",
+      "record_sha256": "7f8f06153b1f12896136787fd93bd16e2416cf0a8ff73fd53496abc3796659a3",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "moshkforoush2020",
+      "doi": "10.1073/pnas.2000151117",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "The capillary Kir channel as sensor and amplifier of neuronal signals: Modeling insights on K<sup>+</sup>-mediated neurovascular communication",
+          "registry": [
+            "The capillary Kir channel as sensor and amplifier of neuronal signals: Modeling insights on K\n                    <sup>+</sup>\n                    -mediated neurovascular communication"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "moshkforoush",
+          "registry": "moshkforoush",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2020
+          ],
+          "registry": [
+            2020,
+            2020,
+            2020,
+            2020
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "Proceedings of the National Academy of Sciences",
+          "registry": [
+            "Proceedings of the National Academy of Sciences"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "117",
+          "registry": "117",
+          "match": true
+        },
+        "issue": {
+          "reference": "28",
+          "registry": "28",
+          "match": true
+        },
+        "page": {
+          "reference": "16626-16637",
+          "registry": "16626-16637",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T12:47:30.842589+00:00",
+      "record_sha256": "c7a883638842bc8dba4b1375f830358230313d31e4643b040e7a7832af23511a",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "isaacs2024",
+      "doi": "10.1073/pnas.2405965121",
+      "outcome": "advisory",
+      "compared_fields": {
+        "title": {
+          "reference": "K<sub>ATP</sub> channel–dependent electrical signaling links capillary pericytes to arterioles during neurovascular coupling",
+          "registry": [
+            "K\n                    <sub>ATP</sub>\n                    channel–dependent electrical signaling links capillary pericytes to arterioles during neurovascular coupling"
+          ],
+          "registry_subtitle": [],
+          "similarity": 0.9955947136563876,
+          "match": true
+        },
+        "author": {
+          "reference": "isaacs",
+          "registry": "isaacs",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2024
+          ],
+          "registry": [
+            2024,
+            2024,
+            2024,
+            2024
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "Proceedings of the National Academy of Sciences",
+          "registry": [
+            "Proceedings of the National Academy of Sciences"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "121",
+          "registry": "121",
+          "match": true
+        },
+        "issue": {
+          "reference": "50",
+          "registry": "50",
+          "match": true
+        },
+        "page": {
+          "reference": "e2405965121",
+          "registry": null,
+          "match": false
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T12:47:31.382261+00:00",
+      "record_sha256": "b32c6e676bb16e5a746a4105c92a8e1d6b35e434347959f0a390e177403164b5",
+      "suggestions": [],
+      "message": "different fields: page"
+    },
+    {
+      "id": "longden2026",
+      "doi": "10.1152/ajpcell.00065.2026",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Cerebral capillary computation",
+          "registry": [
+            "Cerebral capillary computation"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "longden",
+          "registry": "longden",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2026
+          ],
+          "registry": [
+            2026,
+            2026,
+            2026
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "American Journal of Physiology-Cell Physiology",
+          "registry": [
+            "American Journal of Physiology-Cell Physiology"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "330",
+          "registry": "330",
+          "match": true
+        },
+        "issue": {
+          "reference": "5",
+          "registry": "5",
+          "match": true
+        },
+        "page": {
+          "reference": "C1220-C1236",
+          "registry": "C1220-C1236",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T12:47:32.375235+00:00",
+      "record_sha256": "ec2067fa12eb6eb223ecad47ba268ce212a73f231125f5cce8424d82ee64b902",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "kapela2018",
+      "doi": "10.1111/micc.12429",
+      "outcome": "advisory",
+      "compared_fields": {
+        "title": {
+          "reference": "Biophysical properties of microvascular endothelium: Requirements for initiating and conducting electrical signals",
+          "registry": [
+            "Biophysical properties of microvascular endothelium: Requirements for initiating and conducting electrical signals"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "kapela",
+          "registry": "kapela",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2018
+          ],
+          "registry": [
+            2018,
+            2018,
+            2018,
+            2018
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "Microcirculation",
+          "registry": [
+            "Microcirculation"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "25",
+          "registry": "25",
+          "match": true
+        },
+        "issue": {
+          "reference": "2",
+          "registry": "2",
+          "match": true
+        },
+        "page": {
+          "reference": "e12429",
+          "registry": null,
+          "match": false
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T12:47:32.950077+00:00",
+      "record_sha256": "60c86d0d1bec15d76fc370a3e394b6f1f0b597bd0a755aca39daa33acc3aa528",
+      "suggestions": [],
+      "message": "different fields: page"
+    },
+    {
+      "id": "behringer2012",
+      "doi": "10.1161/circresaha.111.262592",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Tuning Electrical Conduction Along Endothelial Tubes of Resistance Arteries Through Ca<sup>2+</sup>-Activated K<sup>+</sup> Channels",
+          "registry": [
+            "Tuning Electrical Conduction Along Endothelial Tubes of Resistance Arteries Through Ca\n            <sup>2+</sup>\n            -Activated K\n            <sup>+</sup>\n            Channels"
+          ],
+          "registry_subtitle": [],
+          "similarity": 0.9953917050691244,
+          "match": true
+        },
+        "author": {
+          "reference": "behringer",
+          "registry": "behringer",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2012
+          ],
+          "registry": [
+            2012,
+            2012,
+            2012
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "Circulation Research",
+          "registry": [
+            "Circulation Research"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "110",
+          "registry": "110",
+          "match": true
+        },
+        "issue": {
+          "reference": "10",
+          "registry": "10",
+          "match": true
+        },
+        "page": {
+          "reference": "1311-1321",
+          "registry": "1311-1321",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T12:47:34.490956+00:00",
+      "record_sha256": "ede934a7bbed14c63771132804a1f3d58cafa769a33e0b6eb459cbbfc81ca1e2",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "rivers1997",
+      "doi": "10.1152/ajpheart.1997.273.1.h310",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Cumulative conducted vasodilation within a single arteriole and the maximum conducted response",
+          "registry": [
+            "Cumulative conducted vasodilation within a single arteriole and the maximum conducted response"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "rivers",
+          "registry": "rivers",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            1997
+          ],
+          "registry": [
+            1997,
+            1997,
+            1997
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "American Journal of Physiology-Heart and Circulatory Physiology",
+          "registry": [
+            "American Journal of Physiology-Heart and Circulatory Physiology"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "273",
+          "registry": "273",
+          "match": true
+        },
+        "issue": {
+          "reference": "1",
+          "registry": "1",
+          "match": true
+        },
+        "page": {
+          "reference": "H310-H316",
+          "registry": "H310-H316",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T12:47:35.100996+00:00",
+      "record_sha256": "03ab5bf4f2f31d679bcc8672cc2fda650e63ad425640e2b42ca395d054bebb90",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "postnov2015",
+      "doi": "10.1007/s11538-014-0058-0",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Conducted Vasoreactivity: the Dynamical Point of View",
+          "registry": [
+            "Conducted Vasoreactivity: the Dynamical Point of View"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "postnov",
+          "registry": "postnov",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2015
+          ],
+          "registry": [
+            2015,
+            2015,
+            2015,
+            2015
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "Bulletin of Mathematical Biology",
+          "registry": [
+            "Bulletin of Mathematical Biology"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "77",
+          "registry": "77",
+          "match": true
+        },
+        "issue": {
+          "reference": "1",
+          "registry": "1",
+          "match": true
+        },
+        "page": {
+          "reference": "230-249",
+          "registry": "230-249",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T12:47:35.867368+00:00",
+      "record_sha256": "84394ac18852972224f4f495ee9fc36fc4df4f4ec63bb120a1bda410f6eb6029",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "hariharan2022",
+      "doi": "10.1016/j.celrep.2022.111872",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Brain capillary pericytes are metabolic sentinels that control blood flow through a KATP channel-dependent energy switch",
+          "registry": [
+            "Brain capillary pericytes are metabolic sentinels that control blood flow through a KATP channel-dependent energy switch"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "hariharan",
+          "registry": "hariharan",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2022
+          ],
+          "registry": [
+            2022,
+            2022,
+            2022
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "Cell Reports",
+          "registry": [
+            "Cell Reports"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "41",
+          "registry": "41",
+          "match": true
+        },
+        "issue": {
+          "reference": "13",
+          "registry": "13",
+          "match": true
+        },
+        "page": {
+          "reference": "111872",
+          "registry": "111872",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T12:47:36.593655+00:00",
+      "record_sha256": "4378a4cb409f989d72a8c59743275db8d2c1f7241d3fc6336d8eba9a09e73245",
+      "suggestions": [],
+      "message": "identity matches"
+    }
+  ]
+}

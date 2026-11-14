@@ -1,0 +1,2626 @@
+
+
+
+    
+
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+  
+
+
+  
+
+
+
+  
+  
+    
+  
+  
+  @media screen and (min-width: 64em) {
+    div.pmc-wm {
+      background: repeat-y;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='350' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cfilter x='-.02' y='0' width='1.05' height='1' id='c'%3E%3CfeFlood flood-color='%23FFF'/%3E%3CfeComposite in='SourceGraphic'/%3E%3C/filter%3E%3Ctext id='b' font-family='Helvetica' font-size='11pt' style='opacity:1;fill:%23005ea2;stroke:none;text-anchor:middle' x='175' y='14'%3EAuthor Manuscript%3C/text%3E%3Cpath id='a' style='fill:%23005ea2' d='M0 8h350v3H0z'/%3E%3C/defs%3E%3Cuse xlink:href='%23a' transform='rotate(90 10 10)'/%3E%3Cuse xlink:href='%23b' transform='rotate(90 10 10)' filter='url(%23c)'/%3E%3C/svg%3E");
+      padding-left: 3rem;
+    }
+  }
+
+
+  
+
+
+
+        
+            
+            
+            
+            
+            
+            
+            
+            
+        
+
+        
+            Cerebral Capillary Computation - PMC
+        
+
+        
+        
+  
+  
+
+
+
+
+
+
+  
+    
+
+    
+        
+    
+
+    
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+        
+    
+      Skip to main content
+    
+
+
+        
+            
+
+
+    
+        
+            
+                
+                    
+                
+
+                
+                    
+                        An official website of the United States government
+                    
+
+                    Here's how you know
+                
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                    Here's how you know
+                
+
+        
+    
+        
+            
+        
+
+
+            
+        
+
+        
+            
+                
+                    
+                    
+                        
+                            Official websites use .gov
+                            
+                            A
+                            .gov website belongs to an official
+                            government organization in the United States.
+                        
+
+                    
+                
+
+                
+                    
+
+                    
+                        
+                            Secure .gov websites use HTTPS
+                            
+                            A lock (
+                            
+                                
+                                    Lock
+                                    
+                                    Locked padlock icon
+                                    
+                                    
+                                
+) or https:// means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            
+
+                        
+                    
+                
+            
+        
+    
+
+        
+
+        
+    
+    
+    
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                
+                    
+                
+            
+
+        
+    
+        
+            
+        
+
+
+
+            
+                
+                
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                            
+
+
+
+    
+
+
+                            Search
+                        
+
+        
+    
+        
+            
+        
+
+
+                    
+
+                    
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                                
+
+
+
+    
+
+
+
+                                Log in
+
+                                
+                                
+
+
+
+    
+
+
+
+                                
+                                
+
+
+
+    
+
+
+                            
+
+        
+    
+        
+            
+        
+
+
+
+                            
+                            
+                                
+                                    
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Dashboard
+        
+
+        
+    
+
+
+                                    
+                                
+                                    
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Publications
+        
+
+        
+    
+
+
+                                    
+                                
+                                    
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Account settings
+        
+
+        
+    
+
+
+                                    
+                                
+                                
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        Log out
+
+        
+    
+        
+            
+        
+
+
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+    
+    
+        
+            
+                
+                    
+                        Search…
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                        
+                            Search NCBI
+                        
+                    
+
+        
+    
+        
+            
+        
+
+
+                
+
+                
+            
+        
+    
+
+    
+        
+            Primary site navigation
+        
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+            
+        
+
+        
+    
+        
+            
+        
+
+
+
+        
+            
+            
+                
+                    Search
+                
+
+                
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                    
+                    
+                
+
+        
+    
+        
+            
+        
+
+
+            
+
+            
+        
+
+        
+        
+        
+
+        
+            
+                
+                    Logged in as:
+                    
+                
+
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Dashboard
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Publications
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Account settings
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        Log in
+
+        
+    
+        
+            
+        
+
+
+    
+
+
+    
+    
+        
+
+
+    
+        
+           
+               
+           
+            
+                
+                
+            
+        
+        
+            
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+Search in PMC
+
+
+
+            
+                
+                    
+                        
+                            
+                                Journal List
+                            
+                        
+                    
+                    
+                        
+                            
+                                User Guide
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+    
+
+
+        
+        
+
+       
+  
+
+    
+
+   
+
+
+
+
+    
+        
+             
+                
+                    
+                        
+                            
+                        
+                    
+                    
+                    
+                        
+                                
+                        
+                    
+                    
+                    
+                        
+                             
+
+                                 
+                            
+                        
+                    
+                    
+                        
+                            
+                            
+                        
+                    
+                    
+                    
+                        
+                            
+                        
+                    
+                    
+                    
+                         
+                            
+                        
+                        
+
+
+    
+          PERMALINK
+
+          
+              
+              
+                  
+                  Copy
+              
+          
+    
+
+                    
+                
+            
+            
+                
+            
+        
+    
+
+    
+      
+        
+            
+                
+                    
+                        
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    Learn more:
+    PMC Disclaimer
+    |
+    
+        PMC Copyright Notice
+    
+
+                    
+                
+                
+                    
+                    
+
+                      
+                        
+Am J Physiol Cell Physiol. Author manuscript; available in PMC: 2026 May 20.
+
+Published in final edited form as: Am J Physiol Cell Physiol. 2026 Mar 17;330(5):C1220–C1236. doi: 10.1152/ajpcell.00065.2026
+
+
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+
+Cerebral Capillary Computation
+Thomas A Longden
+Thomas A Longden
+
+
+1Department of Pharmacology & Physiology, University of Maryland School of Medicine, Baltimore, MD, USA
+Find articles by Thomas A Longden
+
+
+1,*
+
+
+Author information
+Article notes
+Copyright and License information
+
+
+
+
+1Department of Pharmacology & Physiology, University of Maryland School of Medicine, Baltimore, MD, USA
+
+
+AUTHOR CONTRIBUTIONS
+
+T.A.L wrote and edited the manuscript.
+
+
+
+*Correspondence: Thomas A. Longden, Department of Pharmacology & Physiology, University of Maryland School of Medicine, 655 West Redwood Street, 505 Howard Hall, Baltimore MD 21201 USA, thomas.longden@som.umaryland.edu, Website: www.longdenlab.org
+
+
+
+
+Issue date 2026 May 1.
+
+PMC Copyright notice
+
+PMCID: PMC13186272  NIHMSID: NIHMS2171503  PMID: 41843902
+
+The publisher's version of this article is available at Am J Physiol Cell Physiol
+
+Abstract
+
+This article synthesizes recent evidence to propose a framework for control of energy delivery in the brain in which the capillary bed functions as an active, distributed signal-processing network that senses neuronal activity and metabolic state and converts these inputs into electrical commands that regulate upstream diameter to control blood flow. Capillary endothelial cells (ECs) form an electrically coupled syncytium via gap junctions, while pericytes are vertically integrated into this network at peg–socket junctions, enabling bidirectional electrical communication. It is proposed that thin-strand pericytes and their associated underlying ECs constitute a “capillary computational unit” (CCU): a local transformer-like module in which pericytes act as rich multimodal sensors and signal generators while ECs are optimized for signal amplification and long-range transmission. Emphasis is placed on the ion channel toolkit that implements CCU computations, with discussion of how different conductances shape membrane voltage to encode local energetic demand and propagate signals over long distances. Kir2.1 channels emerge as a keystone conductor and regenerative carrier of hyperpolarizing signals; KATP channels couple energy status and adenosine levels/glucose availability to electrical output; SK and IK channels in the arteriole–capillary transition zone provide amplification; TRP and Piezo1 channels impose depolarizing and mechanosensory feedback constraints; and chloride channels (notably TMEM16A) act as voltage tethers that clamp or reset local membrane potential. Framing these elements computationally suggests that addition and subtraction, gain control, shunting, and veto-like logic may arise naturally from network architecture and channel biophysics.
+
+Keywords: capillaries, pericytes, smooth muscle cells, endothelial cells, arterioles, neurovascular coupling, functional hyperemia, cerebral blood flow
+Graphical Abstract
+
+
+INTRODUCTION
+
+Billions of neurons and trillions of synapses continually process, integrate, and synchronize the hundreds of dimensions of sensory input that comprise our conscious experience, estimated to comprise a data stream on the order of 1 GB/s (1, 2) (e.g., spatiotemporal visual input accented with color, frequency, depth, texture; auditory information comprising frequency, amplitude, timbre, harmonicity; olfactory information from hundreds of odorants, and so on). This feat—along with fine-grained control of motor output and deeper levels of cognitive processing—can all be achieved at the surprisingly low energetic cost of roughly 400 calories of energy expenditure per day (3). This energy is derived by continual extraction of the primary energy substrates, oxygen and glucose, from the blood.
+
+Blood flow and its control are thus foundational to neuronal health and optimal brain function, and considerable effort is being expended on discovering the mechanisms by which this control is achieved at scale throughout the brain, across both space and time, and in health and disease. This article is focused on the emerging paradigm of capillaries as sensors and transducers of neuronal needs into blood flow responses via ion channel-enabled electrical computations across the vascular network, and the bearing that this has on understanding the origins of brain disorders and the development of much needed future disease treatments. This framework is thus focused on electrical control of diameter and blood flow, although non-electrical (e.g. Rho-kinase signaling (4)) and diameter-independent mechanisms (5) may also contribute to blood flow control. Importantly, capillary computation theory is directly compatible with the emerging capillary-mitochondria-ion channel (CMIC) model (6) which defines the energetic capacity constraints that will bound these operations.
+
+The term ‘computation’ here follows its established meaning in computational neuroscience: the analog processing, integration, and transformation of continuous electrical signals by biological systems operating in a noisy environment (7). Note that this framework is distinct from digital logic, and the proposed model does not imply binary signaling such as in the case of action potentials traveling down an axon. Rather, the capillary network is proposed to perform slower, graded operations on continuous membrane potential signals, analogous to the dendritic network of a neuron, overcoming noise via a combination of network geometry, signal timing, regenerative amplification mechanisms, and inhibitory signaling.
+
+The principles explored here may or may not generalize to other systems, depending on parameters such as organ-specific architecture and mural-cell coverage, which should be factored into explorations these concepts outside the brain. It seems most likely that CCU operations will generalize to other excitable organs where supply-demand matching must be fast and local, particularly the heart (6, 8), and this would thus be an excellent take-off point for further investigations. A full review of blood flow control throughout the vasculature and by different cells of the neurovascular unit is beyond the scope of this discussion, but this can be assembled from recent reviews (8–14).
+
+Capillaries
+
+The need to transport nutrients and remove waste in complex biological systems is limited by diffusion, which bounds the distance over which passive exchange can sustain metabolic demand (15). This provided an evolutionary impetus for the development of the cardiovascular network to enable efficient supply of and clearance from complex structures, with the endothelial lining having first emerged between 540 and 510 million years ago (16). The intervening gulf of time has allowed for the optimization of the structure and function of these cells for exceptionally efficient delivery and exchange. The ECs forming capillaries are thus extremely thin, on the order of ~200 nm in non-somatic regions (17, 18). These cells are also polarized, with distinct and specialized luminal and abluminal organization (19–21) and are surrounded by basement membrane (BM) (22). Embedded within the BM are pericytes, which take on distinct forms depending on the location of the capillary bed under consideration (see Box 1). Capillary ECs also extend a brush-like glycocalyx into the lumen which facilitates sensory and signaling functions (23).
+
+Box 1. An Anatomical Guide to Brain Blood Flow Control.
+Actin-myosin contractile machinery is the central blood flow control apparatus of the brain.
+To achieve precise spatiotemporal control of blood flow within the constraints of the skull, rapid alterations to vessel diameter are necessary. This is achieved in SMCs and ensheathing pericytes through the control of the actin-myosin crossbridge cycle (147). The primary inputs that link together to control the state of the contractile machinery are membrane voltage and cytosolic calcium (Ca2+) (148). Membrane depolarization activates voltage-dependent Ca2+ channels (VDCCs), primarily L-type channels, which elevate global Ca2+ (148). Ca2+ binding by calmodulin induces a conformational change, permitting it to bind the CaM-binding domain of myosin light chain kinase (MLCK) which then undergoes its own conformational change to displace an autoinhibitory sequence and activate the kinase domain (149). This in turn hydrolyzes ATP to phosphorylate myosin and drive the crossbridge cycle. Voltage-gated potassium (K+) channels play an important role in opposing membrane depolarization with their increasing open probability at more and more depolarized voltages acting against the activity of VDCCs to prevent excessive constriction (150). There are also important Ca2+ independent pathways that control the contractile apparatus, among which the Rho kinase pathway is perhaps the best characterized (4).
+An array of cell types constitutes the brain vasculature.
+This contractile machinery is found in the smooth muscle cells (SMCs) of pial arteries, penetrating arterioles (PAs), and ensheathing pericytes that encase the initial branches of the capillaries (151).
+
+Arteries and arterioles are thus composed of SMCs and ECs which are electrically connected to form a functional syncytium (107, 110, 152, 153). Each of these vessel types has evolved related but distinct mechanistic setpoints to optimize their contribution to blood flow control. For example, pial arteries on the brain surface have a lower pressure sensitivity and thus develop less myogenic tone than their downstream PA counterparts to the same level of intravascular pressure (12). This facilitates the roles of pial arteries as large conduits for arriving blood, and their high degree of anastomosis provides a layer of redundancy to ensure the even distribution of blood (154, 155). The PAs pipe into the brain to rapidly deliver large amounts of blood deep into the cortex (156). Their higher sensitivity to pressure leads to higher myogenic tone and thus greater vasodilatory reserve for flexible distribution of blood to regions of need (12). Capillaries emanate from PAs and ramify extensively until draining into the venous circulation.
+
+The initial branches of the capillaries are composed of capillary ECs and surrounding ensheathing pericytes (151), the latter of which are also highly sensitive to pressure (92) and have a large vasodilatory reserve which enables them to response robustly to the needs of the tissue. This region has recently been designated the arteriole-capillary transition (or ‘ACT’) zone (84, 85). The deeper regions of the capillaries from about the 5th branch order and above are composed of capillary ECs and thin-strand pericytes (151). Thin-strand pericytes are less contractile than ensheathing pericytes, but can contract and relax to change their diameter and blood flow on slower time scales (157), and also can pass electrical signals via gap junctions into nearby ECs to control blood flow (48).
+Adjacent capillary endothelial cells are connected to one another via gap junctions, predominantly composed of connexin (Cx) 43 and Cx45 (24), and pericytes are vertically integrated into this syncytium via peg-socket junctions (25, 26) which enable direct contact between ECs and pericytes through the basement membrane. In the brain, ECs are specialized in that they are the site of the blood-brain barrier (BBB), which is defined by an amalgamation of tight junctions, transporters, and other proteins that collectively function to exclude most molecules from the brain and maintain a privileged immune environment (27). A critical role of pericytes is to maintain the BBB function of ECs, with pericyte loss resulting in dramatic increases in permeability (28–30).
+
+At a macroscopic level, the overall architecture of the capillary network (31, 32) imposes important limits on energetic availability for work in excitable organs, such as brain and heart (8), and these ‘hardware’ constraints will in turn affect the ‘software’ capabilities of signaling in the tissue, including the capillaries themselves. By extension, hardware failure in disease, such as network rarefaction (33), aberrant connectivity (34), or pericyte loss (35) will also degrade signaling processes, making protection of capillary structure and function of paramount importance for overall organ health and function.
+
+These basic features and principles have helped to define a view of capillaries as gatekeepers of the brain, and as a network of support cells that facilitate efficient exchange of nutrients and waste with the tissue to enable the complex and specialized functions of neurons and astrocytes. An emergent paradigm which views capillaries as active sensors of the environment that monitor signatures of neuronal activity and metabolism and generate electrical and chemical signals to actively modify blood delivery to support neuronal function is now adding an exciting new dimension to our understanding of capillary function and their importance for neuronal health. This depends on the function of a suite of ion channels expressed in both pericytes and ECs and the molecular mechanisms that control them, which offer a wealth of exciting new opportunities for therapeutic innovation in conditions involving blood flow disruption, ranging from aging to Alzheimer’s disease.
+A NEW VIEW OF BRAIN CAPILLARY ACTIVITY
+
+Until around the turn of the 21st century, astrocytes were viewed primarily as passive supporters of neurons, engaging in little interesting activity of their own, but over the past several decades a flurry of landmark studies led to the reappraisal of astrocytes as cells with a rich signaling repertoire and information processing roles in their own right (36). Paralleling this trajectory, capillaries have long been categorized as essentially passive tubes forming the blood-brain barrier and a means for energy substrate delivery and waste clearance with limited, if any, signaling contributions to brain function. However, recent advances from a number of investigators are now reshaping our view of brain capillaries as active integrators of local neural activity, metabolic need, and vascular output.
+
+These recent data support a view in which signaling inputs from parenchymal cells and electrical activity from the local vasculature inform capillary-level computations that influence blood delivery. Integration of this facet of blood flow control into current neurovascular coupling (NVC) frameworks may help to explain how signaling is coordinated and modulated along the length of the vasculature, and how blood can be directed to locations of need in active neuronal circuits that are distant from the SMCs and ensheathing pericytes which are the primary blood flow controllers.
+
+Accordingly, this article attempts to develop the concept of “capillary computation” and offers a capillaries-first perspective for blood flow control and energy delivery to neurons, which in turn underpins all brain function. This is critically important as the brain is among the largest energy sinks in the body while simultaneously lacking meaningful energy reserves (37). Any mismatch between supply and demand must therefore be corrected rapidly to prevent neuronal dysfunction, and this urgency is the fundamental reason why capillary computation in the form of fast, robust, distributed electrical signaling has evolved. Indeed, such operations equip the vasculature to sense and response to local shortfalls in energy on timescales that exceed the limitations of diffusional chemical signaling, thereby permitting fast, responsive control of substrate delivery.
+
+Exploration of brain function from this angle is intended to provoke thought on how capillaries may serve previously unappreciated roles in the brain, and how this view could lead to the development of novel and much needed therapeutics for brain disorders featuring the vasculature.
+
+Electrical Integration in the Brain Vasculature: From Networks to Single Molecules
+
+Top-down Signal Processing at the Network Level
+Neuronal circuits are continually processing parallel streams of information, and the massively interconnected nature of brain circuitry means that the activity of any region of the network is continually being modulated in terms of firing frequency and synaptic weights (38, 39). Such patterns may be reflected in filtered form in the local capillary wall where information about neural network activity and metabolism is converted into shifts in membrane voltage in the ECs (and pericytes) that spread between adjacent cells (Fig. 1). This continual process likely results in dynamic modulation of the local membrane potential at all points across the vascular network. Local voltage changes from individual cells are likely to be small and noisy, but the capillary network as a whole will sum signals from different locations, with this effect being more pronounced in capillaries closer to the arterioles which will naturally integrate inputs from more downstream branches. This process is expected to produce emergent oscillations in arteriolar and arterial diameter that control blood flow through the downstream network. An analogy can be drawn here with the electrical grid of a city where local consumers (in our case neurons) continually draw more or less electricity (energy substrates) depending on their needs. Local transformers (capillary ECs and pericytes) interface with this load and produce voltage changes that are transmitted upstream to electrical substations (arterioles), which see a smoothed and aggregated view of voltage fluctuations in their downstream network and adjust distribution to the downstream network accordingly.
+
+Figure 1.
+
+
+Open in a new tab
+Capillary EC voltage as a filtered representation of neuronal activity and metabolism. Mediators are released that reflect neural network activity and local metabolic state. These are sensed by local capillaries (ECs and pericytes) and converted into a smoothed voltage output in ECs that indicates the local need for energy substrates. Greater levels of activity are encoded as larger EC hyperpolarizations, and these spread between ECs to inform upstream contractile cells (SMCs and ensheathing pericytes) of downstream blood flow needs.
+ECs and Pericytes as Local Transformers and their Ion Channels as Signal Processors
+The changes in voltage throughout the vasculature which influence blood flow act as spreading electrical signals which are initiated by, are passed between, and modify the behavior of, ECs and pericytes. Recent transcriptional data from multiple sources have painted a picture of the gene expression of membrane proteins in these two cell types (40–44), which hint at a possible dichotomy in sensing and transmission roles. Indeed, the expression of G-protein coupled receptor (GPCR) and ion channel encoding genes appears to be more elaborate in pericytes when compared to capillary ECs (40–44). This suggests that the pericytes might be capable of sensing and transducing a richer array of signals, and that the capillary ECs might be specialized for transmission. Such an arrangement could be advantageous from the standpoint of the signal length constant, as fewer ion channels in the EC membrane would increase membrane resistance and therefore limit signal decay due to leak.
+
+Indeed, work from us and others has shown that thin-strand pericytes are well equipped to sense diverse types of input from local cells (e.g. ATP, adenosine, glucose levels, endothelin-1 (45–47)) and can convert some of these into membrane hyperpolarizations which they then pass by way of capillary ECs to upstream ensheathing pericytes and PA and pial SMCs, causing them to relax to increase local blood flow (46, 48). In support of this model, evidence for pericyte-EC and EC-EC gap junctions is growing (24, 26, 43, 46, 48, 49), whereas evidence for direct pericyte-pericyte coupling is yet to clearly emerge. It is important to note also that similar electrical signaling behavior can emerge from ECs alone in response to elevation of local signaling molecules such as K+ (50–54) and adenosine (47).
+
+At the molecular level, the behavior of individual and populations of ion channels controls membrane potential and thus controls electrical signaling throughout the vascular bed. Recent work has identified several ion channel species that make central contributions to electrical signaling in the vasculature. The following highlights key channels implicated in this process, and a more thorough exploration of ion channels expressed at the molecular and functional levels in brain capillaries and other vascular cell types can be found in recent publications (42, 43, 55–58). Here, the focus is on thin-strand pericytes and ECs of the deep capillary bed (i.e., 5th order branches and above) unless otherwise stated.
+Kir2.1: an encoder of extracellular K+ fluctuations and signal carrier in ECs.
+
+
+An increasing body of work indicates that the strong-inward rectifier K+ channel, Kir2.1, is the lynchpin of capillary-to-arteriole electrical communication. Kir2.1 channels are composed of tetramers of subunits encoded by the Kcnj2 gene. Detailed discussion of Kir2.1 biophysical properties can be found in other reviews (53, 59). The salient characteristic germane to this discussion is the ‘n-shaped’ current-voltage relationship of Kir2.1, with large Ohmic inward currents at potentials negative to the K+ equilibrium potential (EK) and strong rectification at positive potentials due to pore block by positively-charged molecules such as polyamines (53, 60). Voltage-dependent rectification is not perfect, and thus a small amount of outward current is observable over several millivolts (mV) positive to EK before the channel is fully blocked (60–63). It is this outward current (which is very small in capillaries, ranging from hundreds of femtoamperes to low single digit picoamperes; pA) that is the physiologically relevant aspect of Kir2.1 conductance, and accounts for the transmission of electrical signals over long distances from the deep capillary bed to upstream arterioles. Here, outward current can be generated in response to external K+ and by membrane hyperpolarization itself (53), and these outward K+ fluxes drive the membrane potential in the direction of EK to produce hyperpolarization. As this signal spreads via gap junctions into adjacent ECs this process can be repeated—importantly in the absence of further local K+ elevations—where transferred hyperpolarization alone is sufficient to relieve voltage-dependent block of the channel to generate further membrane hyperpolarization (64). In this manner, signals can spread from cell to cell and ultimately produce upstream PA dilation. The central role of Kir2.1 in this process has been shown in both ex vivo and in vivo preparations, which have clearly demonstrated that hyperpolarization initiated by multiple sources (K+ ions, KATP activation, TRPA1 channel activity, optogenetic tools) are sensitive to Kir2.1 block with barium (Ba2+) ions (46, 48, 52, 65). Moreover, knockout of the Kcnj2 gene selectively from ECs results in complete loss of capillary-to-arteriole electrical communication (52).
+
+The essential role of Kir2.1 and electrical signaling from capillaries to arterioles is further underscored by findings in a range of disease models (such as small vessel disease, trauma, and familial Alzheimer’s disease models) where blood flow control is disrupted and Kir2.1 function is markedly suppressed (50, 66–68). Studies to determine in detail the consequences of loss of Kir2.1 channel-dependent capillary-to-arteriole communication for neuronal health are critically important, as current evidence suggests that the loss of this communication system is a common feature of brain disorders with a vascular component.
+
+The dual control of Kir2.1 activity enables Kir2.1 to both initiate electrical signals in response to K+ released during neuronal activity, and to boost signal propagation as it is passed from cell to cell. Not all endothelial cells play the same role however, as transcriptomic (40, 41, 69), imaging (70, 71), and functional (Fig. 2) data suggest that these cells are heterogeneous in their expression patterns. Importantly, transcriptomic data suggest that this heterogeneity is not purely random, and that a layer of genetic organization leads to vascular zonation along the arterio-capillary-venous axis (41, 72).
+
+Figure 2.
+
+
+Open in a new tab
+Capillary ECs exhibit a wide range of Kir channel densities. A. Kir current densities from 52 capillary endothelial cells. Most cells have relatively low current density, below 10 pA/pF, but about 25% of cells have much larger current densities. B. Example traces from low Kir- (top) and high Kir-expressing (bottom) cells. The middle panel shows modeled data based on (52) to estimate the single channel current under the experimental conditions from A. C. Proposed model for spatial organization of low and high expressing cells in the vasculature. High expressers may act as ‘node cells’ which are responsible for boosting the signal after it has passed through internodal cells with lower membrane Kir levels. This organization may optimize the transmission of signals upstream without locking membrane potential at EK.
+The range of possible functional expression of Kir2.1 is reflected starkly in electrophysiological data (Fig. 2). Collated data from our experiments show a range of current densities from as low as ~1 pA/pF to as much as 37 pA/pF. If open probability (Po) is assumed to be in the range of 0.8 to 1 (62) at −140 mV (where these data were obtained), and that single channel conductance is ~33 pS with a single channel current of −3.9 pA at −140 mV (driving force −117 mV, [K+]i: 140 mM, [K+]o: 60 mM, modeled on data from (62)) and cell capacitance is on average 9.4 pF (52) (Fig. 2), then this would equate to as few as 2-3 Kir2.1 channels to as many as ~90-110 in individual cells, according to the formula,
+
+
+n=IKir2.1iKir2.1⋅PO
+
+
+
+where n is the number of channels, lIKir2.1 is the macroscopic Kir2.1 current, and iKir2.1 is the single channel current.
+
+This inhomogeneity could point to differing roles for cells with different current densities in vivo and may also be beneficial for electrical function of the network as a whole. Indeed, cells with a high degree of Kir2.1 expression could be strategically positioned as nodes for signal generation and could also act as signal boosters for electrical signals coming from other cells in the network (Fig. 2), analogous to nodes of Ranvier along axons which regenerate the action potential. Experiments with selective antibodies for Kir2.1 or using strategies to discern Kir2.1 levels in vivo (e.g. HA-tagged Kir2.1 channels, or Kir2.1-XFP fusion constructs) are needed to assess the in vivo spatial distribution of EC Kir2.1 channels. Having cells with a low level of Kir2.1 current distributed throughout the network may also be important for overall electrical properties. Indeed, one major outstanding question is how hyperpolarizing electrical signaling through this mechanism is prevented from locking capillary membrane potential at EK, as the feedforward nature of Kir2.1 activation by hyperpolarization could in theory have a runaway effect. In cells with fewer Kir2.1 channels, this is less likely to occur, as it is easier for depolarizing conductances to outcompete Kir2.1 and control membrane potential (54). This organization would allow the network to both effectively conduct electrical signals and efficiently return to the resting level when signaling is not required.
+Degenerate mechanisms converge on electrical transmission by Kir2.1 channels
+
+Degeneracy is the ability of distinct elements of a system to perform the same function. This property is essential in many biological scenarios to safeguard a desired biological outcome in the face of widely varying physiological and pathological conditions. NVC mechanisms are parallelized which provides an inbuilt layer of degeneracy to ensure a hyperemic response during increases in neuronal activity (9, 13, 73). For example, elevations of external K+ (52, 61), adenosine (47, 74), prostaglandin E2 (75, 76), and nitric oxide (77, 78) all contribute as mediators to the NVC process and these share a reliance on ion channels as signal generators for hyperpolarizations. However, the convergence of many such mechanisms on Kir2.1 channel in capillary ECs introduces a notable vulnerability, as multiple studies have now shown that either genetic ablation of this channel in ECs, or their pharmacological blockade, results in loss of capillary-to-arteriole communication and reduces functional hyperemia by around 50% (46, 48, 52, 65). Therefore, the breakdown of Kir2.1 function (or more broadly the inputs that feed into Kir2.1 to control its activity) could be a key driver of brain disorders with a vascular or energetic component. Indeed, disorders that affect PIP2 levels in ECs such as CADASIL, Gould syndrome, and Alzheimer’s disease can dramatically impair Kir2.1 function and thus electrical transmission to arterioles (50, 66, 67, 79). This makes understanding the mechanisms of regulation of Kir2.1 channel in capillary ECs of prime importance from a therapeutic perspective—if this keystone of electrical signaling fails, then it appears that many other mechanistic elements that feed into it lose their function. Thus, reparation of Kir2.1 function must accompany any therapeutic efforts to fix overlying elements that feed into this system. This also makes study of which capillary ion channels fail first in disease (and the mechanisms driving their failure) critical, as intervening at the earliest possible juncture may restore functionality and arrest pathological processes before they degrade other elements of the system.
+KATP channels: energy sensors that respond to metabolic activity in pericytes and ECs.
+
+
+Another capillary K+ channel that has emerged as a central player in NVC and capillary-to-arteriole electrical communication in recent studies is the ATP-sensitive K+ (KATP) channel (46–48). The defining feature of these channels is their activation by changes in intracellular energy status, in particular the ratio of ADP:ATP, and thus their activity reports the balance between ATP production via glycolysis and oxidative phosphorylation and ATP consumption via processes such as ion pumping and enzymatic activity. Thin-strand pericytes and ECs express functional KATP channels composed of Kir6.1 (encoded by Kcnj8) and SUR2 (Abcc9) subunits (43, 46–48). The structure and function of vascular KATP channels has recently been reviewed elsewhere (80).
+
+Recent data indicate that activation of pericyte KATP channels by the synthetic agonist pinacidil can produce upstream arteriole dilation (46), consistent with these channels being able to initiate capillary-to- arteriole electrical communication. As expected, the transmission of these signals was dependent on Kir2.1 channels (46), which is consistent with a model in which signals initiated by different channels in thin-strand pericytes are fed into the endothelium and rely on the activity of the inward rectifier for upstream transmission. At least two modes of KATP channel activation have been identified, both of which are variations of energy sensing. On one hand, KATP channels can be activated indirectly by adenosine (47), which is a metabolic byproduct that is released during neuronal activity (74). Here, adenosine sensed by A2A receptors on pericytes and ECs can trigger pathways to activate protein kinase A which in turn phosphorylates KATP (47). On the other hand, decreases in local glucose have been shown to engage KATP channels and upstream electrical signaling (46), likely via metabolic effects on thin-strand pericytes which increases ADP:ATP and increases channel Po. These two modes of KATP channel activation thus allow channel activity across a wide range of temporal scales and conditions ranging from the immediate during acute neuronal activation, to longer time scales in response to changes in substrate availability.
+SK and IK channels: endothelial signal boosters in the arteriole-capillary transition zone.
+
+
+Initial experiments on isolated brain capillary ECs showed a lack of functional small- and intermediate-conductance Ca2+-activated K+ (SK and IK) channels (52). This was unexpected given the established expression of these channels in arterial ECs (81) and the frequent, high amplitude, long lasting Ca2+ events that capillary ECs engage in (82, 83). However, careful experiments by Earley and co-workers revealed that the endothelial cells of what has been termed the ‘arteriole-capillary transition (ACT) zone’ (84, 85) (comprising the 1st to ~4th order branches of the capillaries extending from the arteriole) do indeed possess functional SK and IK channels, whereas deeper capillary branches do not (65). This observed distinction between ACT zone and deep capillary ECs raises interesting questions as to the nature of EC organization and function throughout the capillary bed. At minimum, it suggests two functional isoforms of ECs: those with an arterial profile (i.e., with functional SK and IK channels), and those with a deep capillary profile (i.e., lacking SK and IK channels). An important issue that requires further attention is whether the ACT zone ECs are functionally indistinguishable from, and therefore an extension of, the arteriolar endothelium, or whether ACT zone ECs are distinct from both the deep capillary and arterial ECs. This is presently challenging to address, as ACT zone ECs are a minority cell population that is hard to isolate to study in detail. Identification of selective markers could enable fluorescent labeling approaches that allow detailed study of these cells, or alternatively, selective labeling of proteins of interest (e.g., SK/IK channels) with fluorescent fusion proteins or FLAG/HA tags may generate deeper insight into the nature of the EC continuum across the vascular network.
+
+SK/IK channels of the ACT zone are thought to operate as signal boosters helping to amplify arriving hyperpolarizations from the deeper parts of the network carried by Kir2.1 channels (65). An important recent insight that supports this model has been the demonstration that capillary membrane hyperpolarization results in an increase in driving force for Ca2+ entry into the ECs and as a result amplifies Ca2+ activity throughout the capillary bed (82, 83). The resultant Ca2+ elevations could thus, among other outcomes, increase the activity of SK and IK channels to amplify electrical signaling from this part of the network to the upstream arteriole. There are a range of Ca2+ sources that could contribute to this process. These include inositol-1,4,5-triphosphate receptors (IP3Rs) (82), transient receptor potential vanilloid 4 (TRPV4) (86) and ankyrin 1 (TRPA1) (65) channels, and other TRP isoforms that have yet to be clearly defined (e.g., TRPC isoforms) (42). The store operated STIM and orai system (87) also likely makes an important contribution to control of Ca2+ and electrical signaling in these cells (88). The presence of this amplification system is thus likely important to reduce signal failure by providing a means to boost hyperpolarization all the way to the arteriole to drive dilation. Moreover, the integrity of this aspect of the system could be critical for overall brain health and function. Indeed, disruption of endothelial SK and IK channel function has been noted as a feature of a range of pathological conditions (89–91), and if similar loss occurs in ACT zone capillaries this could lead to failure of signals to reach upstream contractile elements or diminution of the blood flow responses they can evoke.
+TRP channels as depolarizing influences on capillary membrane potential.
+
+
+TRP channels are a large family of non-selective cation channels that mainly conduct Na+, K+, Ca2+ and Mg2+, with specific selectivity differing between distinct channel types. As noted above, TRPV4, TRPA1, and TRPCx channels play important roles in capillaries (likely isoforms 3 and 6 based on evidence from other vascular cells (57, 92–95) and transcriptomic profiling (40–43)). TRPM4 is another isoform that may be functionally expressed in the membrane of capillary ECs, and pericytes also express a variety of M and V isoforms at the molecular level (40–43). This is a nascent area of investigation and as such specific details on the function of TRP isoforms is sparse and is thus a ripe area for further experimentation. It is likely that this channel family make major contributions to setting the resting membrane potential, as their conductance generally reverses around 0, and they may also play important roles in resetting membrane potential after hyperpolarizing electrical signaling events.
+Piezo1 as a mechanosensor and feedback controller of blood flow.
+
+
+A major recent breakthrough has been the discovery and characterization of mechanosensing piezo1 channels in the brain capillary endothelium (96–98). These channels transduce mechanical forces on the EC membrane, such as shear induced by fluid flow or membrane deformation due to passing RBCs, into cation entry which can lead to Ca2+ elevations and downstream signaling events. Importantly, the activity of these channels elicited by elevations of blood flow has been conceptualized as a built-in brake-system for functional hyperemia, wherein forces imparted by blood flow elevations increase Piezo1 Po and act as a depolarizing influence to counter hyperpolarizing electrical signaling (98). Like TRP channels, Piezo1 thus likely plays a key role in resetting membrane potential and regulating its resting value.
+Anion channels as a membrane potential tether.
+
+
+Chloride (Cl−) is the dominant biological anion and plays important roles in controlling membrane potential. The Cl− concentration in SMCs, pericytes, and ECs is estimated to be high compared to neurons (99–101), and this places ECl close to the resting potential of vascular cells, which is typically measured between - 30 and −40 mV. This leads to Cl− channels playing an important role in limiting the scope of membrane potential deviations in either direction from the resting level and enables them to assist in resetting membrane potential. Indeed, in the event that Cl− channels open when the membrane is hyperpolarized relative to ECl, Cl− will be conducted outwards and this will help to move the membrane in a depolarizing direction back towards rest. Conversely, if these channels open when the membrane is depolarized relative to ECl, the inward movement of Cl− will help to return the membrane to its resting level.
+
+The predominant Cl− channel expressed by ensheathing and thin-strand pericytes is the TMEM16A Ca2+-activated Cl− channel (102, 103). These are tetramers of proteins encoded by the Ano1 gene which have a 10 transmembrane homodimeric structure that forms a dual pore channel (104). In ensheathing pericytes, recruitment of these channels by depolarization-mediated activation of voltage-dependent Ca2+ channels (VDCCs) is an important means to counter constriction and prevent runaway occlusion of the underlying capillary lumen (103). In thin-strand pericytes, we have proposed that activity of these channels in response to engagement of T-type and L-type VDCCs and IP3Rs and ryanodine receptors (RyRs) opposes electrical signaling through the capillary underlying the pericyte under consideration by tethering membrane potential close to ECl and resisting hyperpolarization (102). This is supported by experiments demonstrating that inhibition of these channels promotes upstream dilations and increases in blood flow, likely by creating a permissive environment for hyperpolarizing electrical signals (102). This inspired the concept of CaCCs acting as a ‘Cl− clamp’ for capillary-to-arteriole electrical communication. Under quiescent conditions, thin-strand pericytes engage in regular dynamic Ca2+ signaling events (105), some of which may drive CaCC activity. We propose that the resultant Cl− conductance will clamp the membrane potential close to ECl and thereby resist deviations from this set point. This provides an important ‘noise rejection’ mechanism at baseline, where ongoing Ca2+ signal-driven CaCC activity counters noise generated by the non-zero baseline Po of various capillary K+ channels, thereby functioning to prevent runaway activation of Kir2.1. When Ca2+ in thin strand pericytes decreases, such as during neuronal activation (105, this clamping effect will be relieved to enable the generation of hyperpolarizing electrical signals that rise above the noise floor to initiate control blood flow (Fig. 3).
+
+Figure 3.
+
+
+Open in a new tab
+The Cl− clamp model for thin-strand pericyte control of capillary membrane potential. A. When pericyte CaCCs are inactive (top), hyperpolarizing electrical signaling (i.e., via KATP and Kir channels) through the underlying capillary is favored. However, processes turning on CaCCs (bottom) can generate large Cl− currents which will clamp the pericyte membrane potential close to ECl. This clamp potential in turn could spread via gap junctions into underlying ECs to suppress electrical signaling through this part of the network, effectively acting as a current shunt that will neutralize hyperpolarizing signals arising from or spreading into this region. B. When the Cl− clamp is inactive, hyperpolarizing signals can spread over long distances through the capillary network. In contrast, when the Cl− clamp is turned on, signal length constants will be decreased and long-distance signal spread will be opposed.
+Another Cl− channel which could play important roles in membrane potential control in capillaries is ClC-2, which is a member of the voltage-dependent Cl− channel family (106). We have previously suggested that the hyperpolarization dependent activation of these channels at potentials negative to −40 mV and its slow kinetics could make it suited to repolarizing the membrane potential in response to membrane hyperpolarization in capillary endothelial cells (42). Given that molecular data from thin-strand pericytes indicate that these cells express the Clcn2 gene to a higher degree than capillary endothelium, ClC-2 channels could also play a similar role in these cells also.
+
+Together, this ion channel toolkit shapes how capillaries encode neural input into vascular output. Specific signaling events with differing required outcomes (e.g. rapid step changes in energy substrate delivery vs. slower rises and falls) are expected to recruit different subtypes of ion channels to produce the requisite electrical signaling waveform. We next explore several of these scenarios to determine how combinatorial recruitment of ion channels types can lead to electrical signals suited to particular operations.
+Architecture to Support Signal Propagation in Capillary Networks
+
+Capillary ECs form electrically coupled syncytia that transmit signals across extended microvascular territories. It is well established that gap junction coupling occurs between ECs, with studies spanning several decades producing a wealth of evidence in support of this conclusion (24, 52, 107–113). Accordingly, the capillary endothelium operates as the wiring that underlies electrical communication throughout the brain vasculature. Recent functional and dye transfer experiments also indicate that pericytes are gap junction-coupled to the underlying capillary endothelium, likely at the location of peg-socket junctions that form at fenestrations in the basement membrane (25), enabling direct cell-cell contact between pericytes and ECs. The expression of gap junction genes by pericytes and ECs is supported by molecular data from multiple labs (40, 41, 44, 114), and evidence for functional gap junction between these cells takes the form of not only dye transfer, but also electrophysiological, and optogenetic imaging studies (43, 46, 48, 49). Such coupling clearly occurs between thin-strand pericytes and capillary ECs (46, 48, 49), and indirect evidence also supports the conclusion that ensheathing pericytes and their underlying ECs are directly electrically coupled (48), but more work is needed to fully address this. The recent discovery of pericyte nanotubes which are abundant in the retina, heart, and brain, also raises interesting possibilities for electrical signaling (8, 115, 116). It is unclear exactly how these nanotubes arise. Two possibilities are through a growth cone-like chemotactic process which leads nascent processes through the parenchyma to contact nearby pericytes (117–119), or alternatively that these processes are remnants of network refinement where rarefaction has pruned capillaries leaving only the overlying pericyte processes remaining (120). In the latter case, retaining these processes to increase the dimensionality of vascular connectivity could be a useful means of building tight electrical signaling into a developing network—when the network settles as vessels are pruned, space is saved that can be dedicated to computation, but electrical signaling between regions of the network would remain optimized. Further work is needed to assess these possibilities in vivo.
+
+This body of work collectively supports a view of the capillary bed as an electrically connected syncytium and this raises the question of how electrical signals arising in different cells at distinct points in the network across time are managed, integrated, and manipulated to achieve appropriate blood flow. Viewing a thin strand pericyte and the connected underlying EC(s) that it serves via direct coupling as a functional computational unit may help shed light on electrical signal organization and shape questions to direct further investigations.
+CAPILLARY COMPUTATIONAL UNITS
+
+To generate the necessary voltage output to contribute to blood flow control the membrane of each cell of the vasculature needs to respond appropriately to both internal (e.g., intracellular signaling events, gene expression changes) and external (i.e., other cells of the parenchyma or local vascular cells) inputs. Given the specialization of thin-strand pericytes and ECs in the deep capillary bed proposed here—with the former conceptualized primarily as sensor cells and the latter for signal amplification and transmission—a holistic view of local electrical control emerges from considering the cooperation of these cells as a basic capillary computational unit (CCU), in which a thin-strand pericyte and its associated ECs together process incoming information and output an appropriate voltage response to the next segment of the capillary bed.
+
+The assembly of many CCUs thus forms a distributed, decentralized decision-making network that integrates local energetic demand and optimizes supply. As described above, ion channels will act as the gates, amplifiers, and filters throughout these units to enable signal propagation, gain modulation, and spatial tuning.
+
+Arithmetic operations in CCUs: From simple additions and subtractions to multiplicative gain control.
+
+
+Neuronal ion channel activity and their resultant contributions to membrane potential enable arithmetic operations that influence the output of the cell (e.g., firing frequency, rheobase) (7). We previously discussed an analogy between neuronal dendritic signal processing and the vascular tree which may inform how electrotonic signals arising in individual pericytes and ECs may be integrated and processed to achieve tight control of blood flow (121). Extending this analogy to map the types of operations performed on signals arising at synapses to the vascular network may help to reveal how blood flow control is achieved and is precisely managed.
+
+There are two primary forms of opposing electrical signals arising from synaptic activity—excitatory post-synaptic potentials (EPSPs) at glutamatergic synapses, and inhibitory PSPs at GABAergic synapses. These electrotonic signals spread passively along the dendrites and are summed at the soma to determine whether an action potential is elicited. As an individual signal spreads it may encounter others which are either additive (e.g. EPSP + EPSP) or subtractive (e.g., EPSP + IPSP) and these will combine to yield an amalgamated signal that influences the ultimate computation performed at the hillock. In the vasculature, CCUs have the capability to generate similar patterns of positive and negative signaling: It is increasingly accepted that capillary Kir2.1 channels alone can generate hyperpolarizing electrical signals that spread from their point of origin in the endothelium. The arborescent patterning of the vasculature is very similar to that of dendrites, and thus similar operations are likely to be performed on two hyperpolarizing signals arriving along distinct vascular branches as they combine into a single higher order branch (Fig. 4). In this case, two hyperpolarizing signals could merge in the higher order branch resulting in a larger hyperpolarization. It is also possible that two or more such signals arising at different points along a longer single branch of capillary could combine with one another if the timing is right, again in this case resulting in a larger net hyperpolarization. The convergent geometry of upstream branches of the network thus acts as a spatial low-pass filter, where noise that is not correlated in time across branches will average out and have no effect, while correlated signals, arising during genuine metabolic demand, will summate. It is easy to also imagine subtractive scenarios in which a hyperpolarizing event is swapped for a depolarizing conductance (e.g. TRP channel activation) which would in turn cancel out some or all of an accompanying hyperpolarizing signal depending on its amplitude (Fig. 4).
+
+Figure 4.
+
+
+Open in a new tab
+Arithmetic operations via which signal intensity may be modulated in capillaries. A. Two electrical signals of the same charge arriving in the same location are expected combine to give a net signal that is the sum of the magnitudes of the individual signals. B. In contrast, signals arriving at the same location which are of opposite charge are expected to have a subtractive effect. If these are equal but opposite in magnitude then these will cancel one another out. C. A signal spreading down two branches is predicted to divide evenly. D. One scenario for signal multiplication involves an increase in the ion channels that generate the composite signals in the membrane of ECs or pericytes (e.g., Kir2.1 or KATP channels). This will have the effect of increasing gain and producing larger signals after summation. E. Veto operations may exist in the form of activation of large populations of channels that clamp the membrane at a particular voltage to nullify incoming hyperpolarizing signals (e.g., CaCCs – see Fig. 3, or TRP channels). In this example, the summation of two arriving electrical signals is vetoed by a large current being generated by an upstream pericyte which neutralizes the resulting signal. The scenarios depicted here are not intended to be exhaustive, and other types of operations likely occur. These five predictions can be readily tested using current injection approaches and/or optogenetic techniques. For example, impaling an isolated bifurcating capillary with two current injection electrodes, and placing an upstream voltage reading electrode would enable ready assessment of A-C. More complex scenarios would be required to test multiplication, such as the incubation of preparations with agents that will drive more channels to the membrane. The possibility of veto operations could be tested by installing optogenetic Cl− channels such as StGtACR2 (158) and activating these while injecting currents downstream of the pericyte and reading out voltage responses upstream.
+Accordingly, simple additions and subtractions are likely to be performed throughout the capillary network as signals spread towards the upstream PA. The PA itself continually integrates electrical signals of many amplitudes and differing polarities to continually adjust the SMC membrane potential and articulate the contractile machinery to match diameter to the amalgamated blood flow needs of the tissue supplied by its downstream capillaries.
+
+More complex operations may also emerge. In cases of signals spreading downstream towards the venous side of the network, a passive division of the signal is likely to occur if it is passed evenly into either branch at a bifurcation, or rarer trifurcations (Fig. 4). Current shunting could also be used to apply division to arriving signals. For example, if a large population of Cl− channels open in a thin-strand pericyte they will create a draw on negative charges spreading through the underlying endothelium, effectively wicking away current. If sufficiently large, such currents could have a divisive effect on hyperpolarizing signals. Conversely, amplification mechanisms may be used to multiply currents to promote their transmission. Such a mechanism is theoretically ‘built in’ to the biophysics of the Kir2.1 channel which, as discussed above, can drive the membrane potential close to EK through the process of hyperpolarization relieving voltage-dependent block of the channel, promoting further channel activity, hyperpolarization and relief of block, and so on. Node ECs with higher Kir2.1 channel numbers could be strategically positioned to multiply waning signals traveling long distances to regenerate them and prevent their decay into the noise floor (Fig. 2). Another form of multiplication may come in the form of longer time scale modifications to the membrane biology of pericytes and ECs—here, these cells located in highly active regions requiring frequent elevations of blood or large amounts of energy could be prompted to upregulate hyperpolarizing channels such as Kir2.1 and KATP, thereby amplifying the strength of signals generated in these regions (Fig. 4).
+
+Another intriguing possibility that may arise is veto logic, where one element or input takes priority and overrides all others, effectively vetoing local signaling partners. One plausible scenario here is the activation of thin-strand pericyte CaCCs which can generate extremely large currents in single cells, on the order of nA, compared to say the more modest output of EC Kir2.1 channels. In such a scenario, generation of large CaCC currents should be capable of overriding all local K+ currents, either those arising in the same CCU, or even those spreading into the area from other regions. Such an occurrence could occur when an area has sufficient energy substrate or the intracellular ATP needs of cells are fully satisfied—hence, no further signaling for energy substrates is needed and signaling can thus be vetoed until metabolic demand arises again (Fig. 4). This particular example would likely require an active signaling process to elevate Ca2+ in pericytes while energy needs are sated, and thus imaging pericyte Ca2+ under a range of metabolic conditions could provide initial insight to build upon with further experiments.
+
+The zonation of the capillary network adds another layer of complexity and nuance to these computational processes. Indeed, if variability in the expression of genes for the major players identified here (and their regulators) translates into similar variability in protein expression and function, zonation implies that the properties of CCUs in distinct regions of the vascular bed will vary. For example, the thresholds for Kir2.1-mediated signal amplification and the stringency of the Cl− clamp could change along the arteriovenous axis. Moreover, the presence of SK and IK channels in the ACT zone capillaries implies that the thresholds and behavior of ECs in this zone will be distinct compared to cells in the deeper zones which lack these channels.
+
+It is also interesting to consider the functions of pericyte nano-tubes through a computational lens. These fine processes appear to make synapse-like connections and gap junctions with pericytes on other branches of the capillary network (116). It may be that this allows for communication between these cells to tune electrical signaling between disparate CCUs. If one CCU is receiving messages that indicate that local energy demand is particularly high, then in addition to generating its own hyperemic signals, hyperpolarization could be passed directly into the pericyte in the CCU connected via the nanotube process to amplify signaling in this region also. Given that nanotubes often connect local branches, this may help increase blood flow in both vessels to maximize oxygen and glucose delivery.
+Energetic Operating Costs of Capillary Computation
+
+The computations outlined here depend inherently on ion channel function, which in turn are dependent on the activity of a range of pumps that maintain the gradients across the membrane that make electrical signaling possible. Chief among these is the Na+/K+ ATPase (122), which consumes ATP to pump these ion species against their concentration gradients and thus enable the K+ fluxes that take center-stage here (i.e. Kir2.1 and KATP channel activity). Also of critical importance are the plasma membrane Ca2+ ATPase and sarco-endoplasmic reticulum Ca2+ ATPase, both of which pump Ca2+ ions out of the cytosol to maintain its resting level at around 100 nM and create a platform for effective Ca2+ signaling. These signals in turn engage the SK/IK and CaCCs described here, among other channels and signaling processes. The CCU thus operates as both a reporter and consumer of local energy and as such the operations it performs are vulnerable to local energetic shortfalls. Indeed, compromise of local energy will result in dissipation of local ion gradients and loss of control of membrane potential. This makes it important to integrate the CCU signaling framework with models of local energy balance and utilization such as the recently developed CMIC axis from Santana and Earley (6) which formalizes how microvascular architecture and function constrains the availability of energy to support excitability in energetically-costly tissues such as brain and heart. Future studies incorporating approaches to directly read out energetic state of the capillaries while the CCU performs operations (e.g. ATP or ATP:ADP sensors (123, 124)) may add valuable insight into capillary physiology and how these processes are disrupted in various disease states.
+Degradation of Capillary Computation by Vascular Dysfunction
+
+A number of disease states disrupt capillary function and form and either eventuality will degrade capillary computational abilities. Considering first “hardware” loss in the form of rarefaction: loss of a capillary branch will have a double-hit effect on the tissue, as this represents not only loss of a computational node but also the disruption of a supply line. Accordingly, rarefaction will increase the rate of computational failure by reducing the available CCUs to contribute to signal generation and processing while at the same time reducing delivery options, thus impacting the tissue from both signal and supply failure angles. Secondly, even in intact networks, processes can take place that disrupt signaling processes, such as the loss of one type of ion channel or the inappropriate overexpression of another, affecting the relevant weights of their input to operations (e.g., CaCC overactivity inappropriately vetoing signaling in an area of need, Kir2.1 downregulation shortening the length constant of hyperpolarizing signals leading to failure). These scenarios again would lead to supply loss for the tissue which could contribute to a range of diseases with a vascular component. Accordingly, furthering our understanding of CCU function, how it degrades, and developing means to restore it could provide new approach angles for therapeutic interventions for diseases not only of the brain but also of other organs that feature similar vascular issues.
+Open Questions and Future Directions
+
+To further our understanding of capillary computation, there are several high priority questions that should be addressed, which are outlined below.
+
+What is the full suite of mechanisms for capillary ion channel recruitment under physiological states and how are these disrupted by pathological states?
+The studies detailed here have implicated a range of capillary EC and pericyte ion channels in electrical signaling to control blood flow in response to a range of situations, such as rapid increases in neuronal metabolic activity or changes in external glucose concentrations. Further explorations to build a complete picture of the ion channels that are functionally expressed in cells of the cerebral vasculature are essential, and clues may be gleaned from the wealth of transcriptomic databases that continue to emerge describing the expression profile of vascular cells under a range of conditions, both healthy and pathological (28, 40, 41, 44, 114, 125–130). These may help to narrow the operational space for physiological experiments that are essential to confirm the function of channels and understand how they contribute to electrical signaling and blood flow control. While this picture is being built, it is also important to fully define the mechanisms by which channel activity is evinced and regulated. As channels are often multimodal and respond to a range of inputs in different contexts, this represents a substantial undertaking. Modeling efforts that can make new predictions and capture system dynamics in useful ways are also a key element of this process (131). Together, these efforts are vital as they hold the promise of revealing novel therapeutic targets for brain disorders with a vascular component.
+What is the nature of electrical signal spread through the intact vascular network in vivo?
+Further work is needed to determine exactly how signals originating at a given point in the capillary bed spread throughout the network under physiological conditions. A particularly important unknown aspect of electrical signaling in the cerebral capillary bed is whether signals spread bi-directionally. To date, work has focused on whether signaling originating in the capillary bed can be detected in upstream arterioles, primarily due to the availability of diameter as a straightforward and robust readout of arriving electrical signals. It is important to determine whether signals spread isotropically and can also be detected at the venous side of the vasculature. Given the absence of a readily available readout in venules and veins, further development of preparations and techniques is needed to make this possible. For example, using similar approaches to those described in Fig. 4, it should be possible to inject current into one capillary EC and then measure the voltage readout in upstream and downstream cells. Alternatively, adaptation of genetically-encoded voltage indicators to the vasculature could enable optical readouts to address these questions in vivo (see below).
+Are there flexible nanodomain architectures that increase the dimensions across which capillary ion channels operate?
+It is emerging that the nanodomain organization of ion channels and their signaling partners is critical for enabling their signaling functions, and that disruption of this organization occurs in disease. Several important studies have already mapped such interactions in SMCs (132, 133), but nothing is known of nanodomain organization of capillary ion channels. Using super-resolution approaches in conjunction with function experiments is essential to start to understand this level of organization of the capillaries. Key questions to address include whether different nanodomain architectures occur at key locations in the CCU, such as at peg-socket junctions or around EC-EC gap junctions to optimize computation? And is the nano-organization of these complexes flexible to allow different channels to associate with different partners under distinct conditions? Beyond location as a driver, there may also be important circadian differences in organization, or flexible control of organization driven by moment-to-moment tissue needs.
+Is it possible to reprogram capillary ion channel function to restore flow control?
+As vascular ion channel vulnerabilities are emerging as an early driver in a range of neurodegenerative disorders (50, 66, 67, 97, 134–136), it is critical to determine whether restoring ion channel function early is able to preserve function and halt the cascade of events that creates an energy gap for neurons that contributes to decline. While pharmacological approaches may be beneficial in some contexts (e.g., restoring missing PIP2) (50, 66, 67, 97) in others it may be necessary to drive expression of ion channel genes (or their signaling partners) where they have been downregulated. Several AAV serotypes and tools have recently come online for rodent work that are selective for brain ECs (137–139), which may be useful as vectors for nascent proof-of-principle gene therapies. Unfortunately, these selectivity of these serotypes does not carry over to primates, and thus further efforts are needed to identify AAV tools that might have translational potential. Another area which needs focused effort is the identification of viral tools that selectively transfect pericytes, which despite some preliminary promise (140), has been a long-standing problem that is as yet unsolved.
+What tools are needed to resolve ion channel function in vivo at the relevant spatiotemporal scales?
+Capillary electrical signaling takes place on the ms to s timescale in ex vivo preparations (52). In vivo, the voltage changes that occur in capillaries and are transmitted upstream to cause dilations are likely to be on the order of ~5-20 mV (52). The visualization of these signals in real time in a three-dimensional vascular network in vivo is a long-standing goal. Current genetically encoded voltage indicators are optimized to detect the very large and rapid depolarizations that occur during action potentials (141), but may also be co-opted for studying hyperpolarizing electrical signaling in the vasculature. Examples include the ASAP family of voltage sensors (142), voltrons (143), and JEDI probes (144). These will need to be combined with selective expression approaches as outlined above and ideally combined with state-of-the-art approaches for rapid volumetric acquisition such as Bessel beam imaging (145).
+
+Beyond voltage sensors, developing tools to precisely tag ion channels and the signaling molecules that they interact with is needed. Traditional antibody approaches commonly encounter specificity issues and so the generation of channels with inert tags such as fusion with fluorescent proteins or addition of FLAG or HA tags may enable us to visualize the spatial organization and dynamics of ion channels in the cerebral vasculature with greater accuracy.
+Can the specific forms of operations described here be detected within and between CCUs?
+The operations described here (Fig. 4) should be readily detectable, albeit in challenging preparations. However, the groundwork for this work exists in the form of advanced preparations and isolation procedures (46, 146). It should thus be possible to impale bifurcating isolated capillaries with multiple electrodes and detect division of signals injected into an upstream branch that spreads into downstream branches. Conversely, addition and subtraction could be studied in the same preparation by injecting currents of varying magnitude and polarity into two downstream branches simultaneously and reading out the result upstream. These approaches could also be combined with pharmacology or optogenetics to test the effects of introducing current shunts or additional conductances as currents spread. More complicated slice preparations could be developed to investigate effects of manipulating pericyte nanotube connections between CCUs. Such experiments would allow us to build a clearer picture of how electrical signals are handled throughout the vasculature.
+CONCLUSION
+
+Ongoing efforts are gradually revealing the ion channels that contribute to brain capillary control of blood flow, their signaling partners, and how their dysfunction contributes to disease. This body of work highlights that capillaries are more than passive conduits for energy substrate delivery, but rather they are processors that are active, context-sensitive controllers of brain perfusion. Combining this view with emerging models such as CMIC, which emphasizes the role of energy delivery supporting ion channel functions (6), is likely to yield further insights that inform efforts to understand the basic physiology and pathology of the brain vasculature. In sum, this article has attempted to provide a novel framework for viewing capillary electrical signaling through the lens of capillary computational units—co-operative pairings of ECs and pericytes in the deep capillary bed—and posits that understanding the logic and integration rules that cells apply to these signals will open new conceptual and therapeutic pathways in neurovascular physiology.
+ACKNOWLEDGEMENTS
+
+Support for this work was provided by the NIH National Heart Lung and Blood Institute, National Institute on Aging and National Institute of Neurological Disorders and Stroke (1R01NS138179, 1R01AG066645, and R21NS142439).
+Footnotes
+
+
+DECLARATION OF INTERESTS
+
+The author declares no financial or non-financial conflict of interest.
+
+REFERENCES
+
+
+
+1.Zheng J, Meister M, The unbearable slowness of being: Why do we live at 10 bits/s?
+Neuron
+113, 192–204 (2025).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+2.Sauerbrei BA, Pruszynski JA, The brain works at more than 10 bits per second. Nature Neuroscience
+28, 1365–1366 (2025).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+3.Balasubramanian V, Brain power. Proceedings of the National Academy of Sciences
+118, e2107022118 (2021). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+4.Randar S, Silva-Velasco DL, Priviero F, Webb RC, RhoA/Rho-Kinase Signaling in Vascular Smooth Muscle and Endothelium: Mechanistic Insights and Translational Implications in Hypertension. Biomolecules. 15, 1607 (2025).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+5.Wei HS
+et al. 
+Erythrocytes Are Oxygen-Sensing Regulators of the Cerebral Microcirculation. Neuron
+91, 851–862 (2016).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+6.Santana LF, Earley S, Energetic microdomains and the vascular control of neuronal and muscle excitability: Toward a unified model. The Journal of Physiology, 10.1113/JP289492. Online ahead of print (2026). [DOI] [PubMed] [Google Scholar]
+
+7.Silver RA, Neuronal arithmetic. Nature Reviews Neuroscience
+11, 474–489 (2010).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+8.Longden TA, Zhao G, Hariharan A, Lederer WJ, Pericytes and the Control of Blood Flow in Brain and Heart. Ann Rev Physiol
+85, 137–164 (2023).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+9.Iadecola C, The Neurovascular Unit Coming of Age: A Journey through Neurovascular Coupling in Health and Disease. Neuron
+96, 17–42 (2017).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+10.Schaeffer S, Iadecola C, Revisting the neurovascular unit. Nature Neuroscience
+24, 1198–1209 (2021).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+11.Drew PJ, Neurovascular coupling: motive unknown. Trends in Neurosciences
+45, 809–819 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+12.Longden TA, Hill-Eubanks DC, Nelson MT, Ion channel networks in the control of cerebral blood flow. Journal of Cerebral Blood Flow & Metabolism
+36, 492–512 (2015).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+13.Hosford PS, Gourine AV, What is the key mediator of the neurovascular coupling response?
+Neuroscience & Biobehavioral Reviews
+96, 174–181 (2018).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+14.Grubb S, Lauritzen M, Aalkjær C, Brain capillary pericytes and neurovascular coupling. Comp. Biochem. Physiol. Part A: Mol. Integr. Physiol
+254, 110893 (2021). [DOI] [PubMed] [Google Scholar]
+
+15.Pittman RN, in Regulation of Tissue Oxygenation. (Morgan & Claypool Life Sciences, San Rafael (CA), 2011). [PubMed] [Google Scholar]
+
+16.Monahan-Earley R, Dvorak Am Fau - Aird WC, Aird WC, Evolutionary origins of the blood vascular system and endothelium. J Thromb Haemost
+11
+46–66 (2013).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+17.Keep RF, Jones HC, Cortical microvessels during brain development: A morphometric study in the rat. Microvascular Research
+40, 412–426 (1990).
+ [DOI] [PubMed] [Google Scholar]
+
+18.Simionescu N, Simionescu M, Palade GE, Structural basis of permeability in sequential segments of the microvasculature of the diaphragm II. Pathways followed by microperoxidase across the endothelium. Microvascular Research
+15, 17–36 (1978).
+ [DOI] [PubMed] [Google Scholar]
+
+19.Cornford EM, Hyman S, Localization of brain endothelial luminal and abluminal transporters with immunogold electron microscopy. NeuroRX
+2, 27–43 (2005).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+20.Worzfeld T, Schwaninger M, Apicobasal polarity of brain endothelial cells. Journal of Cerebral Blood Flow & Metabolism
+36, 340–362 (2015).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+21.Kubo Y, Ohtsuki S, Uchida Y, Terasaki T, Quantitative Determination of Luminal and Abluminal Membrane Distributions of Transporters in Porcine Brain Capillaries by Plasma Membrane Fractiontion and Quantitative Targeted Proteomics. Journal of Pharmaceutical Sciences
+104, 3060–3068 (2015).
+ [DOI] [PubMed] [Google Scholar]
+
+22.Carlson EC, Fenestrated subendothelial basement membranes in human retinal capillaries. Investigative Ophthalmology & Visual Science
+30, 1923–1932 (1989).
+ [PubMed] [Google Scholar]
+
+23.Foote CA
+et al. 
+Endothelial Glycocalyx. Comprehensive Physiology
+12, 3781–3811 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+24.Krolak T
+et al. 
+Brain endothelial gap junction coupling enables rapid vasodilation propagation during neurovascular coupling. Cell
+188, 5003–5019 (2025).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+25.Ornelas S
+et al. 
+Three-dimensional ultrastructure of the brain pericyte-endothelial interface. Journal of Cerebral Blood Flow & Metabolism
+41, 2185–2200 (2021).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+26.Díaz-Flores L
+et al. 
+Pericytes. Morphofunction, interactions and pathology in a quiescent and activated mesenchymal cell niche. Histology and Histopathology
+24, 909–969 (2009).
+ [DOI] [PubMed] [Google Scholar]
+
+27.Daneman R, Prat A, The Blood–Brain Barrier. Cold Spring Harbor Perspectives in Biology
+7, a020412 (2015).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+28.Mäe MA
+et al. 
+Single-Cell Analysis of Blood-Brain Barrier Response to Pericyte Loss. Circulation Research
+128, e46–e62 (2020).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+29.Armulik A
+et al. 
+Pericytes regulate the blood-brain barrier. Nature
+468, 557–561 (2010).
+ [DOI] [PubMed] [Google Scholar]
+
+30.Villaseñor R
+et al. 
+Region-specific permeability of the blood–brain barrier upon pericyte loss. Journal of Cerebral Blood Flow & Metabolism
+37, 3683–3694 (2017).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+31.Blinder P
+et al. 
+The cortical angiome: an interconnected vascular network with noncolumnar patterns of blood flow. Nature Neuroscience
+16, 889–897 (2013).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+32.Grainger N, Guarina L, Cudmore RH, Santana LF, The Organization of the Sinoatrial Node Microvasculature Varies Regionally to Match Local Myocyte Excitability. Function
+2, zqab031 (2021).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+33.Dinther M. v.
+et al. 
+Assessment of microvascular rarefaction in human brain disorders using physiological magnetic resonance imaging. Journal of Cerebral Blood Flow & Metabolism
+42, 718–737 (2021). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+34.Lawton MT
+et al. 
+Brain arteriovenous malformations. Nature Reviews Disease Primers
+1, 15008 (2015). [DOI] [PubMed] [Google Scholar]
+
+35.Splunder H. v., Villacampa P, Martínez-Romero A, Graupera M, Pericytes in the disease spotlight. Trends in Cell Biology
+34, 58–71 (2023).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+36.Brazhe AA-O, Verisokin A, Verveyko D, Postnov D, Astrocytes: new evidence, new models, new roles. Biophysical Review
+15, 1303–1333 (2023). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+37.Cunnane SC
+et al. 
+Brain energy rescue: an emerging therapeutic concept for neurodegenerative disorders of ageing. Nature Reviews Drug Discovery
+19, 609–633 (2020).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+38.Perich MG, Rajan K, Rethinking brain-wide interactions through multi-region ‘network of networks’ models. Current Opinion in Neurobiology
+65, 146–151 (2020).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+39.Luo L, Architectures of neuronal circuits. Science
+373, eabg7285 (2021).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+40.He L
+et al. 
+Single-cell RNA sequencing of mouse brain and lung vascular and vessel-associated cell types. Scientific Data
+5, 180160 (2018).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+41.Vanlandewijck M
+et al. 
+A molecular atlas of cell types and zonâon in the brain vasculature. Nature
+554, 475–480 (2018).
+ [DOI] [PubMed] [Google Scholar]
+
+42.Garcia DCG, Longden TA, Ion Channels in Capillary Endothelium. Current Topics in Membranes
+85, 261–300 (2020).
+ [DOI] [PubMed] [Google Scholar]
+
+43.Hariharan A
+et al. 
+The Ion Channel and GPCR Toolkit of Brain Capillary Pericytes. Frontiers in Cellular Neuroscience
+14, 601324 (2020).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+44.Zhang Y
+et al. 
+An RNA-Sequencing Transcriptome and Splicing Database of Glia, Neurons, and Vascular Cells of the Cerebral Cortex. The Journal of Neuroscience
+34, 11929–11947 (2014).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+45.Glück C
+et al. 
+Distinct signatures of calcium activity in brain mural cells. Elife
+10, e70591 (2021).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+46.Hariharan A, Robertson CD, Garcia DCG, Longden TA, Brain capillary pericytes are metabolic sentinels that control blood flow through a KATP channel-dependent energy switch. Cell Reports
+41, 111872 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+47.Sancho M
+et al. 
+Adenosine signaling activates ATP-sensitive K+ channels in endothelial cells and pericytes in CNS capillaries. Science Signaling
+15, eabl5405 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+48.Isaacs D, Xiang L, Hariharan A, Longden TA, KATP channel-Dependent Electrical Signaling Links Capillary Pericytes to Arterioles During Neurovascular Coupling. Proceedings of the National Academy of Sciences
+121, e2405965121 (2024). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+49.Kovacs-Oller T, Ivanova E, Bianchimano P, Sagdullaev BT, The pericyte connectome: spatial precision of neurovascular coupling is driven by selective connectivity maps of pericytes and endothelial cells and is disrupted in diabetes. Cell Discovery
+6, 39 (2020).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+50.Dabertrand F
+et al. 
+PIP2 corrects cerebral blood flow deficits in small vessel disease by rescuing capillary Kir2.1 activity. Proceedings of the National Academy of Sciences
+118, e2025998118 (2021). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+51.Harraz OF, Longden TA, Dabertrand F, Hill-Eubanks D, Nelson MT, Endothelial GqPCR activity controls capillary electrical signaling and brain blood flow through PIP2 depletion. Proceedings of the National Academy of Sciences
+115, E3569–E3577 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+52.Longden TA
+et al. 
+Capillary K+-sensing initiates retrograde hyperpolarization to increase local cerebral blood flow. Nature Neuroscience
+20, 717–726 (2017).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+53.Longden TA, Nelson MT, Vascular Inward Rectifier K+ Channels as External K+ Sensors in the Control of Cerebral Blood Flow. Microcirculation
+22, 183–196 (2015).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+54.Moshkforoush A
+et al. 
+The capillary Kir channel as sensor and amplifier of neuronal signals: Modeling insights on K+-mediated neurovascular communication. Proceedings of the National Academy of Sciences
+117, 16626–16637 (2020). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+55.Jackson WF, Endothelial Ion Channels and Cell-Cell Communication in the Microcirculation. Frontiers in Physiology
+13, 805149 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+56.Tykocki NR, Boerman EM, Jackson WF, Smooth Muscle Ion Channels and Regulation of Vascular Tone in Resistance Arteries and Arterioles. Comprehensive Physiology
+7, 485–581 (2017).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+57.Earley S, Brayden JE, Transient Receptor Potential Channels in the Vasculature. Physiological Reviews
+95, 645–690 (2015).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+58.Garrud TAC, Collier DM, Jaggar JH, Potassium channels in vascular smooth muscle cells. Physiological Reviews, 10.1152/physrev.00017.2025. Online ahead of print (2025). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+59.Hibino H
+et al. 
+Inwardly Rectifying Potassium Channels: Their Structure, Function, and Physiological Roles. Physiological Reviews
+90, 291–366 (2010).
+ [DOI] [PubMed] [Google Scholar]
+
+60.Ishihara K, Yan DH, Low - affinity spermine block mediating outward currents through Kir2.1 and Kir2.2 inward rectifier potassium channels. The Journal of Physiology
+583, 891–908 (2007).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+61.Filosa JA
+et al. 
+Local potassium signaling couples neuronal activity to vasodilation in the brain. Nature Neuroscience
+9, 1397–1403 (2006).
+ [DOI] [PubMed] [Google Scholar]
+
+62.Liu T-A, Chang H-K, Shieh R-C, Extracellular K+ elevates outward currents through Kir2.1 channels by increasing single-channel conductance. Biochimica et Biophysica Acta
+1808, 1772–1778 (2011).
+ [DOI] [PubMed] [Google Scholar]
+
+63.Liu T-A, Chang H-K, Shieh R-C, Revisiting inward rectification: K ions permeate through Kir2.1 channels during high-affinity block by spermidine. Journal of General Physiology
+139, 245–259 (2012).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+64.Longden TA, Lederer WJ, Electro-metabolic signaling. Journal of General Physiology
+156, e202313451 (2024).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+65.Thakore P
+et al. 
+Brain endothelial cell TRPA1 channels initiate neurovascular coupling. Elife
+10, e63040 (2021).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+66.Thakore P
+et al. 
+PI3K block restores age-dependent neurovascular coupling defects associated with cerebral small vessel disease. Proceedings of the National Academy of Sciences
+120, e2306479120 (2023). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+67.Mughal A, Harraz OF, Gonzales AL, Hill-Eubanks D, Nelson MT, PIP2 Improves Cerebral Blood Flow in a Mouse Model of Alzheimer’s Disease. Function
+2, zqab010 (2021).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+68.Mughal A
+et al. 
+Impaired capillary-to-arteriolar electrical signaling after traumatic brain injury. Journal of Cerebral Blood Flow & Metabolism
+41, 1313–1327 (2020).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+69.Winkler EA
+et al. 
+A single-cell atlas of the normal and malformed human brain vasculature. Science
+375, eabi7377 (2022). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+70.Lee MD
+et al. 
+Spatially structured cell populations process multiple sensory signals in parallel in intact vascular endothelium. Science Signaling
+11, eaar4411 (2018).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+71.Wilson C, Saunter CD, Girkin JM, McCarron JG, Clusters of specialized detector cells provide sensitive and high fidelity receptor signaling in the intact endothelium. The FASEB Journal
+30, 2000–2013 (2016).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+72.Garcia FJ
+et al. 
+Single-cell dissection of the human brain vasculature. Nature
+603, 893–899 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+73.Zhu WM, Neuhaus A, Beard DJ, Sutherland BA, DeLuca GC, Neurovascular coupling mechanisms in health and neurovascular uncoupling in Alzheimer’s disease. Brain
+145, 2276–2292 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+74.Ko KR, Ngai AC, Winn HR, Role of adenosine in regulation of regional cerebral blood flow in sensory cortex. American Journal of Physiology - Heart & Circulatory Physiology
+259, H1703–H1708 (1990). [DOI] [PubMed] [Google Scholar]
+
+75.Lacroix A
+et al. 
+COX-2-Derived Prostaglandin E2 Produced by Pyramidal Neurons Contributes to Neurovascular Coupling in the Rodent Cerebral Cortex. Journal of Neuroscience
+35, 11791–11810 (2015).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+76.Rosehart AC
+et al. 
+Prostaglandin E2 Dilates Intracerebral Arterioles When Applied to Capillaries: Implications for Small Vessel Diseases. Frontiers in Aging Neuroscience
+13, 695965 (2021).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+77.Iadecola C, Li J, Ebner TJ, Xu X, Nitric oxide contributes to functional hyperemia in cerebellar cortex. American Journal of Physiology - Regulatory, Integrative and Comparative Physiology
+268, R1153–R1162 (1995). [DOI] [PubMed] [Google Scholar]
+
+78.Echagarruga CT, Gheres KW, Norwood JN, Drew PJ, nNOS-expressing interneurons control basal and behaviorally evoked arterial dilation in somatosensory cortex of mice. Elife
+9, e60533 (2020).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+79.Harraz OF, Hill-Eubanks D, Nelson MT, PIP2: A critical regulator of vascular ion channels hiding in plain sight. Proceedings of the National Academy of Sciences
+117, 20378–20389 (2020). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+80.Foster MN, Coetzee WA, KATP Channels in the Cardiovascular System. Physiological Reviews
+96, 177–252 (2016).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+81.Hannah RM, Dunn KM, Bonev AD, Nelson MT, Endothelial SKCa and IKCa channels regulate brain parenchymal arteriolar diameter and cortical cerebral blood flow. Journal of Cerebral Blood Flow & Metabolism
+31, 1175–1186 (2010).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+82.Longden TA
+et al. 
+Local IP3 receptor–mediated Ca2+ signals compound to direct blood flow in brain capillaries. Science Advances
+7, eabh0101 (2021).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+83.Mughal A
+et al. 
+Electrocalcium coupling in brain capillaries: Rapidly traveling electrical signals ignite local calcium signals. Proceedings of the National Academy of Sciences
+121, e2415047121 (2024). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+84.Bonney SK, Nielson CD, Sosa MJ, Bonnar O, Shih AY, Capillary regression leads to sustained local hypoperfusion by inducing constriction of upstream transitional vessels. Proceedings of the National Academy of Sciences
+121, e2321021121 (2024). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+85.Hartmann DA, Coelho-Santos V, Shih AY, Pericyte Control of Blood Flow Across Microvascular Zones in the Central Nervous System. Annual Review of Physiology
+84, 1–24 (2021). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+86.Harraz OF, Longden TA, Hill-Eubanks D, Nelson MT, PIP2 depletion promotes TRPV4 channel activity in mouse brain capillary endothelial cells. Elife
+7, e38689 (2018).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+87.Prakriya M, Lewis RS, Store-Operated Calcium Channels. Physiological Reviews
+95, 1383–1436 (2015).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+88.Lavanderos B, Sanchez A, Trebak M, Earley S, Store-operated calcium entry is necessary for sustained K+-induced capillary-to-arteriole dilation in the brain. Physiology
+39, 259 (2024). [Google Scholar]
+
+89.Weston AH, Porter EL, Harno E, Edwards G, Impairment of endothelial SKCa channels and of downstream hyperpolarizing pathways in mesenteric arteries from spontaneously hypertensive rats. British Journal of Pharmacology
+160, 836–843 (2010).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+90.Burnham MP, Johnson IT, Weston AH, Impaired small-conductance Ca2+-activated K+ channel-dependent EDHF responses in Type II diabetic ZDF rats. British Journal of Pharmacology
+148, 434–441 (2009). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+91.Brøndum E, Kold-Petersen H, Simonsen U, Aalkjaer C, NS309 restores EDHF-type relaxation in mesenteric small arteries from type 2 diabetic ZDF rats. British Journal of Pharmacology
+159, 154–165 (2010).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+92.Ferris HR
+et al. 
+Increased luminal pressure in brain capillaries drives TRPC3-dependent depolarization and constriction of transitional pericytes. Science Signaling
+18, eads1903 (2025).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+93.Adebiyi A
+et al. 
+Isoform-Selective Physical Coupling of TRPC3 Channels to IP3 Receptors in Smooth Muscle Cells Regulates Arterial Contractility. Circulation Research
+106, 1603–1612 (2010).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+94.Xi Q
+et al. 
+IP3 constricts cerebral arteries via IP3 receptor-mediated TRPC3 channel activation and independently of sarcoplasmic reticulum Ca2+ release. Circulation Research
+102, 1118–1126 (2008).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+95.Dietrich A
+et al. 
+Increased Vascular Smooth Muscle Contractility in TRPC6−/− Mice. Molecular and Cellular Biology
+25, 6980–6989 (2005).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+96.Harraz OF, Klug NR, Senatore AJ, Hill-Eubanks DC, Nelson MT, Piezo1 Is a Mechanosensor Channel in Central Nervous System Capillaries. Circulation Research
+130, 1531–1546 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+97.Hashad AM, Abd-Alhaseeb MM, Lim XR, Mathieu NM, Harraz OF, PIP2 corrects an endothelial Piezo1 channelopathy. Proceedings of the National Academy of Sciences
+122, e2522750122 (2025). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+98.Lim XR
+et al. 
+Endothelial Piezo1 channel mediates mechano-feedback control of brain blood flow. Nature Communications
+15, 8686 (2024). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+99.Owen NE, Regulation of Na/K/Cl cotransport in vascular smooth muscle cells. Biochemical and Biophysical Research Communications
+125, 500–508 (1984).
+ [DOI] [PubMed] [Google Scholar]
+
+100.Chipperfield AR, Harper AA, Chloride in smooth muscle. Progress in Biophysics and Molecular Biology
+74, 175–221 (2000).
+ [DOI] [PubMed] [Google Scholar]
+
+101.Kitamura K, Yamazaki J, Chloride Channels and Their Functional Roles in Smooth Muscle Tone in the Vasculature. Japanese Journal of Pharmacology
+85, 351–357 (2001).
+ [DOI] [PubMed] [Google Scholar]
+
+102.Xiang L, Longden T, Ca2+ Channel Control of Calcium-activated Chloride Channel Function in Brain Thin-strand Pericytes. Physiology
+40, 1524 (2025). [Google Scholar]
+
+103.Korte N
+et al. 
+The Ca2+-gated channel TMEM16A amplifies capillary pericyte contraction and reduces cerebral blood flow after ischemia . Journal of Clinical Investigation
+132, (2022). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+104.Arreola J, López-Romero AE, Huerta M, Guzmán-Hernández ML, Pérez-Cornejo P, Insights into the function and regulation of the calcium-activated chloride channel TMEM16A. Cell Calcium
+121, 102891 (2024).
+ [DOI] [PubMed] [Google Scholar]
+
+105.Rungta RL, Chaigneau E, Osmanski B-F, Charpak S, Vascular Compartmentalization of Functional Hyperemia from the Synapse to the Pia. Neuron
+99, 362–375 (2018).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+106.Nilius B, Droogmans G, Amazing chloride channels: an overview. Acta Physiologica Scandinavica
+177, 119–147 (2003).
+ [DOI] [PubMed] [Google Scholar]
+
+107.Emerson GG, Segal SS, Endothelial Cell Pathway for Conduction of Hyperpolarization and Vasodilation Along Hamster Feed Artery. Circulation Research
+86, 94–100 (2000).
+ [DOI] [PubMed] [Google Scholar]
+
+108.Chen BR, Kozberg MG, Bouchard MB, Shaik MA, Hillman EMC, A Critical Role for the Vascular Endothelium in Functional Neurovascular Coupling in the Brain. Journal of the American Heart Association
+3, e000787–e000787 (2014).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+109.Dora KA, Xia J, Duling BR, Endothelial cell signaling during conducted vasomotor responses. American Journal of Physiology - Heart & Circulatory Physiology
+285, H119–H126 (2003).
+ [DOI] [PubMed] [Google Scholar]
+
+110.Haas TL, Duling BR, Morphology favors an endothelial cell pathway for longitudinal conduction within arterioles. Microvascular Research
+53, 113–120 (1997).
+ [DOI] [PubMed] [Google Scholar]
+
+111.Figueroa XF, Duling BR, Gap Junctions in the Control of Vascular Function. Antioxidants & Redox Signaling
+11, 251–266 (2009).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+112.Beach JM, McGahren ED, Duling BR, Capillaries and arterioles are electrically coupled in hamster cheek pouch. American Journal of Physiology
+275, H1489–1496 (1998).
+ [DOI] [PubMed] [Google Scholar]
+
+113.McGahren ED, Beach JM, Duling BR, Capillaries demonstrate changes in membrane potential in response to pharmacological stimuli. American Journal of Physiology
+274, H60–65 (1998).
+ [DOI] [PubMed] [Google Scholar]
+
+114.Yang AC
+et al. 
+A human brain vascular atlas reveals diverse mediators of Alzheimer’s risk. Nature
+603, 885–892 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+115.Alarcon-Martinez L
+et al. 
+Pericyte dysfunction and loss of interpericyte tunneling nanotubes promote neurovascular deficits in glaucoma. Proceedings of the National Academy of Sciences
+119, e2110329119 (2022). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+116.Alarcon-Martinez L
+et al. 
+Interpericyte tunnelling nanotubes regulate neurovascular coupling. Nature
+585, 91–95 (2020).
+ [DOI] [PubMed] [Google Scholar]
+
+117.Zhao Y
+et al. 
+Characteristics of tunneling nanotube-like structures formed by human dermal microvascular pericytes in vitro. Tissue and Cell
+89, 102431 (2024).
+ [DOI] [PubMed] [Google Scholar]
+
+118.Errede M
+et al. 
+Tunneling nanotubes evoke pericyte/endothelial communication during normal and tumoral angiogenesis. Fluids and Barriers of the CNS
+15, 28 (2018).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+119.Kempf S
+et al. 
+Pericyte-to-Endothelial Cell Communication via Tunneling Nanotubes Is Disrupted by a Diol of Docosahexaenoic Acid. Cells
+13, 1429 (2024).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+120.Gao X
+et al. 
+Reduction of neuronal activity mediated by blood-vessel regression in the adult brain. Nature Communications
+16, 5840 (2025). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+121.Longden TA, Isaacs D, Pericyte Electrical Signalling and Brain Haemodynamics. Basic & Clinical Pharmacology & Toxicology
+136, e70030 (2025).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+122.Clausen MV, Hilbers F, Poulsen H, The Structure and Function of the Na,K-ATPase Isoforms in Health and Disease. Frontiers in Physiology
+8, 371 (2017).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+123.Marvin JS
+et al. 
+iATPSnFR2: A high-dynamic-range fluorescent sensor for monitoring intracellular ATP. Proceedings of the National Academy of Sciences
+121, e2314604121 (2024). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+124.Tantama M, Martínez-François JR, Mongeon R, Yellen G, Imaging energy status in live cells with a fluorescent biosensor of the intracellular ATP-to-ADP ratio. Nature Communications
+4, 2550 (2013). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+125.Chasseigneaux S
+et al. 
+Isolation and differential transcriptome of vascular smooth muscle cells and mid-capillary pericytes from the rat brain. Scientific Reports
+8, 12272 (2018).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+126.Song HW
+et al. 
+Transcriptomic comparison of human and mouse brain microvessels. Scientific Reports
+10, 12358 (2020).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+127.Jeong H-W
+et al. 
+Single-cell transcriptomics reveals functionally specialized vascular endothelium in brain. Elife
+11, e57520 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+128.Sewell M, Fialova N, Montagne A, Unraveling the transcriptomic landscape of brain vascular cells in dementia: A systematic review. Alzheimer’s & Dementia
+21, e14512 (2025). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+129.Reid MM
+et al. 
+Human brain vascular multi-omics elucidates disease-risk associations. Neuron
+113, 3143–3161.e3145 (2025).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+130.Wälchli T
+et al. 
+Single-cell atlas of the human brain vasculature across development, adulthood and disease. Nature
+632, 603–613 (2024).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+131.Marchianó S
+et al. 
+Translating cardiovascular ion channel and Ca2+ signaling mechanisms into therapeutic insights. The Journal of Physiology, 10.1113/JP290180. Online ahead of print (2026). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+132.Chen YL
+et al. 
+Novel Smooth Muscle Ca2+-Signaling Nanodomains in Blood Pressure Regulation. Circulation
+146, 548–564 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+133.Tajada S
+et al. 
+Distance constraints on activation of TRPV4 channels by AKAP150-bound PKCα in arterial myocytes. Journal of General Physiology
+149, 639–659 (2017).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+134.Hu Q
+et al. 
+New mechanisms of aging: From vascular to neurological system. Brain, Behavior, and Immunity - Integrative
+12, 100143 (2025). [Google Scholar]
+
+135.Liu R
+et al. 
+Dysregulation of Ion Channels and Transporters and Blood-Brain Barrier Dysfunction in Alzheimer’s Disease and Vascular Dementia. Aging and Disease
+15, 1748–1770 (2024).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+136.Taylor JL, Baudel MMA, Nieves-Cintron M, Navedo MF, Vascular Function and Ion Channels in Alzheimer’s Disease. Microcirculation
+31, e12881 (2024).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+137.Li J-L
+et al. 
+A targeted vector for brain endothelial cell gene delivery and cerebrovascular malformation modelling. Nature Biomedical Engineering, 10.1038/s41551-025-01538-x. Online ahead of print (2025). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+138.Körbelin J
+et al. 
+A brain microvasculature endothelial cell-specific viral vector with the potential to treat neurovascular and neurological diseases. Embo Molecular Medicine
+8, 609–625 (2016).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+139.Krolak T
+et al. 
+A high-efficiency AAV for endothelial cell transduction throughout the central nervous system. Nature Cardiovascular Research
+1, 389–400 (2022). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+140.Ramirez SH
+et al. 
+An Engineered Adeno-Associated Virus Capsid Mediates Efficient Transduction of Pericytes and Smooth Muscle Cells of the Brain Vasculature. Human Gene Therapy
+34, 682–696 (2023).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+141.Bando Y, Sakamoto M, Kim S, Ayzenshtat I, Yuste R, Comparative Evaluation of Genetically Encoded Voltage Indicators. Cell Reports
+26, 802–813.e804 (2019).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+142.Hao YA
+et al. 
+A fast and responsive voltage indicator with enhanced sensitivity for unitary synaptic events. Neuron
+112, 3680–3696 (2024).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+143.Abdelfattah AS
+et al. 
+Sensitivity optimization of a rhodopsin-based fluorescent voltage indicator. Neuron
+111, 1547–1563.e1549 (2023).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+144.Liu Z
+et al. 
+Sustained deep-tissue voltage recording using a fast indicator evolved for two-photon microscopy. Cell
+185, 3408–3425.e3429 (2022).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+145.Fan JL
+et al. 
+High-speed volumetric two-photon fluorescence imaging of neurovascular dynamics. Nature Communications
+11, 6020 (2020). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+146.Rosehart AC, Johnson AC, Dabertrand F, Ex Vivo Pressurized Hippocampal Capillary-Parenchymal Arteriole Preparation for Functional Study. Journal of Visualized Experiments, 10.3791/60676 (2019). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+147.Webb RC, SMOOTH MUSCLE CONTRACTION AND RELAXATION. Advances in Physiology Education
+27, 201–206 (2003).
+ [DOI] [PubMed] [Google Scholar]
+
+148.Knot HJ, Nelson MT, Regulation of arterial diameter and wall [Ca2+] in cerebral arteries of rat by membrane potential and intravascular pressure. The Journal of Physiol
+508, 199–209 (1998).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+149.MacEwen MJS
+et al. 
+Mathematical modeling and biochemical analysis support partially ordered calmodulin-myosin light chain kinase binding. iScience
+26, 106146 (2023).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+150.Jackson WF, KV channels and the regulation of vascular smooth muscle tone. Microcirculation (New York N Y 1994)
+25, e12421 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+151.Grant RI
+et al. 
+Organizational hierarchy and structural diversity of microvascular pericytes in adult mouse cortex. Journal of Cerebral Blood Flow & Metabolism
+39, 411–425 (2017).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+152.Aydin F, Rosenblum WI, Povlishock JT, Myoendothelial junctions in human brain arterioles. Stroke
+22, 1592–1597 (1991).
+ [DOI] [PubMed] [Google Scholar]
+
+153.Emerson GG, Segal SS, Electrical coupling between endothelial cells and smooth muscle cells in hamster feed arteries: role in vasomotor control. Circulation Research
+87, 474–479 (2000).
+ [DOI] [PubMed] [Google Scholar]
+
+154.Kumar S
+et al. 
+Development of pial collaterals by extension of pre-existing artery tips. Cell Reports
+43, 114771 (2024).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+155.Blinder P, et al. 
+Topological basis for the robust distribution of blood to rodent neocortex. Proceedings of the National Academy of Sciences
+107, 12670–12675 (2010). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+156.Nishimura N, Schaffer CB, Friedman B, Lyden PD, Kleinfeld D, Penetrating arterioles are a bottleneck in the perfusion of neocortex. Proceedings of the National Academy of Sciences
+104, 365–370 (2007). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+157.Hartmann DA
+et al. 
+Brain capillary pericytes exert a substantial but slow influence on blood flow. Nature Neuroscience
+24, 633–645 (2021).
+ [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+158.Mahn M
+et al. 
+High-efficiency optogenetic silencing with soma-targeted anion-conducting channelrhodopsins. Nature Communications
+9, 4125 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+
+                      
+
+                    
+                
+            
+        
+
+        
+
+
+
+
+
+    
+        
+            
+        
+    
+       
+              ACTIONS
+
+           
+               
+               
+                     
+                         
+                         View on publisher site
+                     
+               
+               
+               
+               
+                    
+                         
+                        PDF (1.3 MB)
+                    
+               
+               
+                
+               
+                   
+                       
+                       Cite
+                    
+               
+                
+               
+
+                        
+                            
+                            
+                            Collections
+                       
+               
+               
+                    
+                        
+                        Permalink
+                    
+                   
+
+
+    
+          PERMALINK
+
+          
+              
+              
+                  
+                  Copy
+              
+          
+    
+
+               
+           
+       
+     
+
+        
+            RESOURCES
+
+            
+                
+                    
+                        
+                            Similar articles
+                        
+                    
+
+                    
+                        
+                    
+                    
+                        
+                             Cited by other articles
+                        
+                    
+
+                    
+                          
+                    
+                    
+                        
+                            
+                                 Links to NCBI Databases
+                            
+                        
+
+                        
+                        
+                    
+                    
+                
+            
+        
+
+
+        
+    
+
+
+        
+
+
+    
+        
+            Cite
+
+             
+                 
+             
+        
+
+        
+
+
+  
+  
+      
+        
+            
+            Copy
+        
+      
+      
+          
+                
+                Download .nbib
+                .nbib
+            
+      
+      
+          
+
+
+  Format:
+  
+    
+      
+        AMA
+      
+    
+      
+        APA
+      
+    
+      
+        MLA
+      
+    
+      
+        NLM
+      
+    
+  
+
+      
+  
+
+    
+
+
+        
+  
+   
+        Add to Collections
+
+    
+    
+      
+
+
+
+
+    
+
+    
+        
+            
+            Create a new collection
+        
+        
+            
+            Add to an existing collection
+        
+    
+
+    
+        
+           
+                Name your collection
+               *
+          
+          
+        
+        
+             
+                Choose a collection
+              
+              
+              
+              
+                Unable to load your collection due to an error
+                Please try again
+              
+        
+    
+
+    
+        
+          Add
+        
+        
+          Cancel
+        
+    
+
+    
+  
+
+
+        
+
+      
+    
+  
+
+
+
+        
+    
+    
+
+
+    
+        
+            
+                Follow NCBI
+            
+
+            
+                
+                    
+                        
+                            
+                            
+                        
+                        NCBI on X (formerly known as Twitter)
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                        
+                        NCBI on Facebook
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                        NCBI on LinkedIn
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                        
+                        NCBI on GitHub
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                        NCBI RSS feed
+                    
+                
+            
+        
+    
+
+    
+        
+            
+                
+                    
+                        
+                            Connect with NLM
+                        
+
+                    
+
+                    
+                        
+                            
+                                
+                                    
+                                    
+                                
+                                NLM on X (formerly known as Twitter)
+                            
+                        
+
+                        
+                            
+                                
+                                    
+                                    
+                                
+                                NLM on Facebook
+                            
+                        
+
+                        
+                            
+                                
+                                    
+                                
+                                NLM on YouTube
+                            
+                        
+                    
+                
+            
+
+            
+                
+                    
+        
+            National Library of Medicine
+             8600 Rockville Pike Bethesda, MD 20894
+        
+
+    
+                
+            
+
+            
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Web Policies
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            FOIA
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            HHS Vulnerability Disclosure
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+
+            
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Help
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Accessibility
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Careers
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+        
+
+        
+            
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            NLM
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            NIH
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            HHS
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            USA.gov
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+        
+    
+
+
+    
+
+
+        
+        
+    
+   
+
+
+    
+        
+
+
+    Back to Top
+    
+
+    
+
+
+        
+    
+    
+    
+    
+        
+    
+    window.ncbi = window.ncbi || {};
+    window.ncbi.pmc = window.ncbi.pmc || {};
+    window.ncbi.pmc.options = {
+        logLevel: 'INFO',
+        
+        staticEndpoint: 'https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/',
+        
+        citeCookieName: 'pmc-cf',
+    };
+
+    
+
+    
+    &#xA0;
+    
+        jQuery.getScript("https://cdn.ncbi.nlm.nih.gov/core/alerts/alerts.js", function () {
+            galert(['div.nav_and_browser', 'div.header', '#universal_header', '.usa-banner', 'body > *:nth-child(1)'])
+        });
+    
+
+
+    var exports = {};
+     
+
+    
+
+
+
+    
+        
+
+    
+    
+
+    
+

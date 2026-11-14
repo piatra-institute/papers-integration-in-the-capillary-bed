@@ -1,0 +1,209 @@
+references:
+- id: longden2017
+  type: article-journal
+  author:
+  - family: Longden
+    given: Thomas A
+  - family: Dabertrand
+    given: Fabrice
+  - family: Koide
+    given: Masayo
+  - family: Gonzales
+    given: Albert L
+  - family: Tykocki
+    given: Nathan R
+  - family: Brayden
+    given: Joseph E
+  - family: Hill-Eubanks
+    given: David
+  - family: Nelson
+    given: Mark T
+  issued:
+    date-parts:
+    - - 2017
+      - 3
+      - 20
+  title: Capillary K+-sensing initiates retrograde hyperpolarization to increase local cerebral blood flow
+  container-title: Nature Neuroscience
+  DOI: 10.1038/nn.4533
+  URL: https://doi.org/10.1038/nn.4533
+  volume: '20'
+  issue: '5'
+  page: 717-726
+- id: moshkforoush2020
+  type: article-journal
+  author:
+  - family: Moshkforoush
+    given: Arash
+  - family: Ashenagar
+    given: Baarbod
+  - family: Harraz
+    given: Osama F.
+  - family: Dabertrand
+    given: Fabrice
+  - family: Longden
+    given: Thomas A.
+  - family: Nelson
+    given: Mark T.
+  - family: Tsoukias
+    given: Nikolaos M.
+  issued:
+    date-parts:
+    - - 2020
+      - 6
+      - 29
+  title: 'The capillary Kir channel as sensor and amplifier of neuronal signals: Modeling insights on K<sup>+</sup>-mediated
+    neurovascular communication'
+  container-title: Proceedings of the National Academy of Sciences
+  DOI: 10.1073/pnas.2000151117
+  URL: https://doi.org/10.1073/pnas.2000151117
+  volume: '117'
+  issue: '28'
+  page: 16626-16637
+- id: isaacs2024
+  type: article-journal
+  author:
+  - family: Isaacs
+    given: Dominic
+  - family: Xiang
+    given: Liuruimin
+  - family: Hariharan
+    given: Ashwini
+  - family: Longden
+    given: Thomas A.
+  issued:
+    date-parts:
+    - - 2024
+      - 12
+      - 4
+  title: K<sub>ATP</sub> channel–dependent electrical signaling links capillary pericytes to arterioles during neurovascular
+    coupling
+  container-title: Proceedings of the National Academy of Sciences
+  DOI: 10.1073/pnas.2405965121
+  URL: https://doi.org/10.1073/pnas.2405965121
+  volume: '121'
+  issue: '50'
+  page: e2405965121
+- id: longden2026
+  type: article-journal
+  author:
+  - family: Longden
+    given: Thomas A.
+  issued:
+    date-parts:
+    - - 2026
+      - 5
+      - 1
+  title: Cerebral capillary computation
+  container-title: American Journal of Physiology-Cell Physiology
+  DOI: 10.1152/ajpcell.00065.2026
+  URL: https://doi.org/10.1152/ajpcell.00065.2026
+  volume: '330'
+  issue: '5'
+  page: C1220-C1236
+- id: kapela2018
+  type: article-journal
+  author:
+  - family: Kapela
+    given: Adam
+  - family: Behringer
+    given: Erik J.
+  - family: Segal
+    given: Steven S.
+  - family: Tsoukias
+    given: Nikolaos M.
+  issued:
+    date-parts:
+    - - 2018
+      - 2
+  title: 'Biophysical properties of microvascular endothelium: Requirements for initiating and conducting electrical signals'
+  container-title: Microcirculation
+  DOI: 10.1111/micc.12429
+  URL: https://doi.org/10.1111/micc.12429
+  volume: '25'
+  issue: '2'
+  page: e12429
+- id: behringer2012
+  type: article-journal
+  author:
+  - family: Behringer
+    given: Erik J.
+  - family: Segal
+    given: Steven S.
+  issued:
+    date-parts:
+    - - 2012
+      - 5
+      - 11
+  title: Tuning Electrical Conduction Along Endothelial Tubes of Resistance Arteries Through Ca<sup>2+</sup>-Activated K<sup>+</sup>
+    Channels
+  container-title: Circulation Research
+  DOI: 10.1161/circresaha.111.262592
+  URL: https://doi.org/10.1161/circresaha.111.262592
+  volume: '110'
+  issue: '10'
+  page: 1311-1321
+- id: rivers1997
+  type: article-journal
+  author:
+  - family: Rivers
+    given: R. J.
+  issued:
+    date-parts:
+    - - 1997
+      - 7
+      - 1
+  title: Cumulative conducted vasodilation within a single arteriole and the maximum conducted response
+  container-title: American Journal of Physiology-Heart and Circulatory Physiology
+  DOI: 10.1152/ajpheart.1997.273.1.h310
+  URL: https://doi.org/10.1152/ajpheart.1997.273.1.h310
+  volume: '273'
+  issue: '1'
+  page: H310-H316
+- id: postnov2015
+  type: article-journal
+  author:
+  - family: Postnov
+    given: D. E.
+  - family: Neganova
+    given: A. Y.
+  - family: Sosnovtseva
+    given: O. V.
+  - family: Holstein-Rathlou
+    given: N.-H.
+  - family: Jacobsen
+    given: J. C. Brings
+  issued:
+    date-parts:
+    - - 2015
+      - 1
+  title: 'Conducted Vasoreactivity: the Dynamical Point of View'
+  container-title: Bulletin of Mathematical Biology
+  DOI: 10.1007/s11538-014-0058-0
+  URL: https://doi.org/10.1007/s11538-014-0058-0
+  volume: '77'
+  issue: '1'
+  page: 230-249
+- id: hariharan2022
+  type: article-journal
+  author:
+  - family: Hariharan
+    given: Ashwini
+  - family: Robertson
+    given: Colin D.
+  - family: Garcia
+    given: Daniela C.G.
+  - family: Longden
+    given: Thomas A.
+  issued:
+    date-parts:
+    - - 2022
+      - 12
+  title: Brain capillary pericytes are metabolic sentinels that control blood flow through a KATP channel-dependent energy
+    switch
+  container-title: Cell Reports
+  DOI: 10.1016/j.celrep.2022.111872
+  URL: https://doi.org/10.1016/j.celrep.2022.111872
+  volume: '41'
+  issue: '13'
+  page: '111872'

@@ -1,0 +1,2329 @@
+schema: 1
+coverage: pending
+reviewed_manuscript_sha256: null
+claims:
+- id: number-001
+  kind: computation
+  passage: '| Capillary capacitance | 8 pF | Measured mean |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/capacitance_cap_pf
+    reported: '8'
+    scale: 1
+    decimals: 0
+    units: pF
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-002
+  kind: computation
+  passage: '| Arteriolar unit capacitance | 16 pF | Published model |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/capacitance_pa_unit_pf
+    reported: '16'
+    scale: 1
+    decimals: 0
+    units: pF
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-003
+  kind: computation
+  passage: '| Arteriolar junction resistance | 10 M$\Omega$ | Published model |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/pa_gap_resistance_mohm
+    reported: '10'
+    scale: 1
+    decimals: 0
+    units: M$\Omega$
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-004
+  kind: computation
+  passage: '| Arteriolar Kir conductance | 0.65 nS | Published model |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /fixed_parameters/g_kir_pa_ns
+    reported: '0.65'
+    scale: 1
+    decimals: 2
+    units: nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-005
+  kind: computation
+  passage: '| Arteriolar background conductance | 0.20 nS | Published model |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /fixed_parameters/g_bg_pa_ns
+    reported: '0.20'
+    scale: 1
+    decimals: 2
+    units: nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-006
+  kind: computation
+  passage: '| Background reversal, both compartments | -30 mV | Published model |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /fixed_parameters/e_bg_mv
+    reported: '-30'
+    scale: 1
+    decimals: 0
+    units: mV
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-007
+  kind: computation
+  passage: '| Kir half-inactivation offset | 25 mV | Published model |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /fixed_parameters/dv_kir_mv
+    reported: '25'
+    scale: 1
+    decimals: 0
+    units: mV
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-008
+  kind: computation
+  passage: '| Kir rectification slope | 7 mV | Published model |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/kir_slope_mv
+    reported: '7'
+    scale: 1
+    decimals: 0
+    units: mV
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-009
+  kind: computation
+  passage: '| Temperature | 293 K | Published model |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/temperature_k
+    reported: '293'
+    scale: 1
+    decimals: 0
+    units: K
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-010
+  kind: computation
+  passage: '| Intracellular potassium | 150 mM | Published model |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/potassium_in_mm
+    reported: '150'
+    scale: 1
+    decimals: 0
+    units: mM
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-011
+  kind: computation
+  passage: '| Resting extracellular potassium | 3 mM | Published bath/model |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/potassium_rest_mm
+    reported: '3'
+    scale: 1
+    decimals: 0
+    units: mM
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-012
+  kind: computation
+  passage: The gas and Faraday constants are 8314 mJ mol$^{-1}$ K$^{-1}$ and 96485 C mol$^{-1}$, using the published unit convention.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/gas_constant
+    reported: '8314'
+    scale: 1
+    decimals: 0
+    units: mJ/mol/K
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-013
+  kind: computation
+  passage: The gas and Faraday constants are 8314 mJ mol$^{-1}$ K$^{-1}$ and 96485 C mol$^{-1}$, using the published unit convention.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/faraday
+    reported: '96485'
+    scale: 1
+    decimals: 0
+    units: C/mol
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-014
+  kind: computation
+  passage: 'The reported capillary Kir coefficient is 0.18 $\pm$ 0.10 nS/mM$^{1/2}$ and background conductance is 0.06 $\pm$ 0.04 nS [@moshkforoush2020]. The coefficient $\overline G_{\mathrm{Kir}}$ differs from the conductance parameter $G_{\mathrm{Kir}}$ used below: $G_{\mathrm{Kir}}=\overline G_{\mathrm{Kir}}\sqrt{K_{o,\mathrm{rest}}}$. The reported spreads motivate plausible magnitudes; the sampled intervals are design choices rather than population confidence limits.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/measured_gbar_kir_mean
+    reported: '0.18'
+    scale: 1
+    decimals: 2
+    units: nS/mM^0.5
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-015
+  kind: computation
+  passage: 'The reported capillary Kir coefficient is 0.18 $\pm$ 0.10 nS/mM$^{1/2}$ and background conductance is 0.06 $\pm$ 0.04 nS [@moshkforoush2020]. The coefficient $\overline G_{\mathrm{Kir}}$ differs from the conductance parameter $G_{\mathrm{Kir}}$ used below: $G_{\mathrm{Kir}}=\overline G_{\mathrm{Kir}}\sqrt{K_{o,\mathrm{rest}}}$. The reported spreads motivate plausible magnitudes; the sampled intervals are design choices rather than population confidence limits.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/measured_gbar_kir_sd
+    reported: '0.10'
+    scale: 1
+    decimals: 2
+    units: reported spread nS/mM^0.5
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-016
+  kind: computation
+  passage: 'The reported capillary Kir coefficient is 0.18 $\pm$ 0.10 nS/mM$^{1/2}$ and background conductance is 0.06 $\pm$ 0.04 nS [@moshkforoush2020]. The coefficient $\overline G_{\mathrm{Kir}}$ differs from the conductance parameter $G_{\mathrm{Kir}}$ used below: $G_{\mathrm{Kir}}=\overline G_{\mathrm{Kir}}\sqrt{K_{o,\mathrm{rest}}}$. The reported spreads motivate plausible magnitudes; the sampled intervals are design choices rather than population confidence limits.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/measured_gbg_mean_ns
+    reported: '0.06'
+    scale: 1
+    decimals: 2
+    units: nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-017
+  kind: computation
+  passage: 'The reported capillary Kir coefficient is 0.18 $\pm$ 0.10 nS/mM$^{1/2}$ and background conductance is 0.06 $\pm$ 0.04 nS [@moshkforoush2020]. The coefficient $\overline G_{\mathrm{Kir}}$ differs from the conductance parameter $G_{\mathrm{Kir}}$ used below: $G_{\mathrm{Kir}}=\overline G_{\mathrm{Kir}}\sqrt{K_{o,\mathrm{rest}}}$. The reported spreads motivate plausible magnitudes; the sampled intervals are design choices rather than population confidence limits.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/measured_gbg_sd_ns
+    reported: '0.04'
+    scale: 1
+    decimals: 2
+    units: reported spread nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-018
+  kind: computation
+  passage: '| Capillary Kir (nS) | 0.2000 | 0.8000 | 0.6879 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /parameter_bounds/g_kir_ns/0
+    reported: '0.2000'
+    scale: 1
+    decimals: 4
+    units: nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-019
+  kind: computation
+  passage: '| Capillary Kir (nS) | 0.2000 | 0.8000 | 0.6879 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /parameter_bounds/g_kir_ns/1
+    reported: '0.8000'
+    scale: 1
+    decimals: 4
+    units: nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-020
+  kind: computation
+  passage: '| Capillary Kir (nS) | 0.2000 | 0.8000 | 0.6879 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /nominal_parameters/g_kir_ns
+    reported: '0.6879'
+    scale: 1
+    decimals: 4
+    units: nS
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-021
+  kind: computation
+  passage: '| Capillary background (nS) | 0.0200 | 0.1000 | 0.0493 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /parameter_bounds/g_bg_ns/0
+    reported: '0.0200'
+    scale: 1
+    decimals: 4
+    units: nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-022
+  kind: computation
+  passage: '| Capillary background (nS) | 0.0200 | 0.1000 | 0.0493 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /parameter_bounds/g_bg_ns/1
+    reported: '0.1000'
+    scale: 1
+    decimals: 4
+    units: nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-023
+  kind: computation
+  passage: '| Capillary background (nS) | 0.0200 | 0.1000 | 0.0493 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /nominal_parameters/g_bg_ns
+    reported: '0.0493'
+    scale: 1
+    decimals: 4
+    units: nS
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-024
+  kind: computation
+  passage: '| Capillary junction resistance (M$\Omega$) | 10.00 | 200.00 | 10.61 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /parameter_bounds/r_gj_mohm/0
+    reported: '10.00'
+    scale: 1
+    decimals: 2
+    units: MOhm
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-025
+  kind: computation
+  passage: '| Capillary junction resistance (M$\Omega$) | 10.00 | 200.00 | 10.61 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /parameter_bounds/r_gj_mohm/1
+    reported: '200.00'
+    scale: 1
+    decimals: 2
+    units: MOhm
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-026
+  kind: computation
+  passage: '| Capillary junction resistance (M$\Omega$) | 10.00 | 200.00 | 10.61 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /nominal_parameters/r_gj_mohm
+    reported: '10.61'
+    scale: 1
+    decimals: 2
+    units: MOhm
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-027
+  kind: computation
+  passage: At the resting potassium concentration, the published Kir coefficient corresponds to a conductance of 0.312 $\pm$ 0.173 nS. The selected homogeneous Kir density is above this central value, while its coupling resistance lies near the lower sampling bound. The model therefore represents a restricted active regime rather than a typical capillary population.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/measured_gkir_3mm_mean
+    reported: '0.312'
+    scale: 1
+    decimals: 3
+    units: nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-028
+  kind: computation
+  passage: At the resting potassium concentration, the published Kir coefficient corresponds to a conductance of 0.312 $\pm$ 0.173 nS. The selected homogeneous Kir density is above this central value, while its coupling resistance lies near the lower sampling bound. The model therefore represents a restricted active regime rather than a typical capillary population.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/measured_gkir_3mm_sd
+    reported: '0.173'
+    scale: 1
+    decimals: 3
+    units: reported spread nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-029
+  kind: computation
+  passage: The base tree contains 45 capillary cells and 15 axial arteriolar nodes. A cell step is 20 $\mu$m; the arteriolar segment is 300 $\mu$m long, with 3 circumferential units at each axial position. Each terminal input covers 2 adjacent cells. The withheld geometries add a second tree, giving 90 capillary cells, or an anastomosis, giving 48 capillary cells. All are idealized finite networks with the same membrane law.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/t1_capillary_cells
+    reported: '45'
+    scale: 1
+    decimals: 0
+    units: cells
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-030
+  kind: computation
+  passage: The base tree contains 45 capillary cells and 15 axial arteriolar nodes. A cell step is 20 $\mu$m; the arteriolar segment is 300 $\mu$m long, with 3 circumferential units at each axial position. Each terminal input covers 2 adjacent cells. The withheld geometries add a second tree, giving 90 capillary cells, or an anastomosis, giving 48 capillary cells. All are idealized finite networks with the same membrane law.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/pa_nodes
+    reported: '15'
+    scale: 1
+    decimals: 0
+    units: nodes
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-031
+  kind: computation
+  passage: The base tree contains 45 capillary cells and 15 axial arteriolar nodes. A cell step is 20 $\mu$m; the arteriolar segment is 300 $\mu$m long, with 3 circumferential units at each axial position. Each terminal input covers 2 adjacent cells. The withheld geometries add a second tree, giving 90 capillary cells, or an anastomosis, giving 48 capillary cells. All are idealized finite networks with the same membrane law.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/cell_length_um
+    reported: '20'
+    scale: 1
+    decimals: 0
+    units: micrometres
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-032
+  kind: computation
+  passage: The base tree contains 45 capillary cells and 15 axial arteriolar nodes. A cell step is 20 $\mu$m; the arteriolar segment is 300 $\mu$m long, with 3 circumferential units at each axial position. Each terminal input covers 2 adjacent cells. The withheld geometries add a second tree, giving 90 capillary cells, or an anastomosis, giving 48 capillary cells. All are idealized finite networks with the same membrane law.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/pa_length_um
+    reported: '300'
+    scale: 1
+    decimals: 0
+    units: micrometres
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-033
+  kind: computation
+  passage: The base tree contains 45 capillary cells and 15 axial arteriolar nodes. A cell step is 20 $\mu$m; the arteriolar segment is 300 $\mu$m long, with 3 circumferential units at each axial position. Each terminal input covers 2 adjacent cells. The withheld geometries add a second tree, giving 90 capillary cells, or an anastomosis, giving 48 capillary cells. All are idealized finite networks with the same membrane law.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/pa_units_per_node
+    reported: '3'
+    scale: 1
+    decimals: 0
+    units: units per node
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-034
+  kind: computation
+  passage: The base tree contains 45 capillary cells and 15 axial arteriolar nodes. A cell step is 20 $\mu$m; the arteriolar segment is 300 $\mu$m long, with 3 circumferential units at each axial position. Each terminal input covers 2 adjacent cells. The withheld geometries add a second tree, giving 90 capillary cells, or an anastomosis, giving 48 capillary cells. All are idealized finite networks with the same membrane law.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/tip_site_cells
+    reported: '2'
+    scale: 1
+    decimals: 0
+    units: cells per input
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-035
+  kind: computation
+  passage: The base tree contains 45 capillary cells and 15 axial arteriolar nodes. A cell step is 20 $\mu$m; the arteriolar segment is 300 $\mu$m long, with 3 circumferential units at each axial position. Each terminal input covers 2 adjacent cells. The withheld geometries add a second tree, giving 90 capillary cells, or an anastomosis, giving 48 capillary cells. All are idealized finite networks with the same membrane law.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/t2_capillary_cells
+    reported: '90'
+    scale: 1
+    decimals: 0
+    units: cells
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-036
+  kind: computation
+  passage: The base tree contains 45 capillary cells and 15 axial arteriolar nodes. A cell step is 20 $\mu$m; the arteriolar segment is 300 $\mu$m long, with 3 circumferential units at each axial position. Each terminal input covers 2 adjacent cells. The withheld geometries add a second tree, giving 90 capillary cells, or an anastomosis, giving 48 capillary cells. All are idealized finite networks with the same membrane law.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/t3_capillary_cells
+    reported: '48'
+    scale: 1
+    decimals: 0
+    units: cells
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-037
+  kind: computation
+  passage: The binary tree has 4 segment levels, with 3 cells per segment. The arteriolar readout lies 240 $\mu$m from the capillary junction; the terminal input centers are 220 $\mu$m into the capillary path. In the two-tree variant the junctions are separated by 120 $\mu$m along the arteriole. The sibling comparison uses terminals sharing their last fork; the distant comparison uses terminals in opposite halves of the same tree.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/branch_levels
+    reported: '4'
+    scale: 1
+    decimals: 0
+    units: segment levels
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-038
+  kind: computation
+  passage: The binary tree has 4 segment levels, with 3 cells per segment. The arteriolar readout lies 240 $\mu$m from the capillary junction; the terminal input centers are 220 $\mu$m into the capillary path. In the two-tree variant the junctions are separated by 120 $\mu$m along the arteriole. The sibling comparison uses terminals sharing their last fork; the distant comparison uses terminals in opposite halves of the same tree.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/cells_per_segment
+    reported: '3'
+    scale: 1
+    decimals: 0
+    units: cells per segment
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-039
+  kind: computation
+  passage: The binary tree has 4 segment levels, with 3 cells per segment. The arteriolar readout lies 240 $\mu$m from the capillary junction; the terminal input centers are 220 $\mu$m into the capillary path. In the two-tree variant the junctions are separated by 120 $\mu$m along the arteriole. The sibling comparison uses terminals sharing their last fork; the distant comparison uses terminals in opposite halves of the same tree.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/pa_readout_distance_um
+    reported: '240'
+    scale: 1
+    decimals: 0
+    units: micrometres
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-040
+  kind: computation
+  passage: The binary tree has 4 segment levels, with 3 cells per segment. The arteriolar readout lies 240 $\mu$m from the capillary junction; the terminal input centers are 220 $\mu$m into the capillary path. In the two-tree variant the junctions are separated by 120 $\mu$m along the arteriole. The sibling comparison uses terminals sharing their last fork; the distant comparison uses terminals in opposite halves of the same tree.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/tip_site_mean_distance_um
+    reported: '220'
+    scale: 1
+    decimals: 0
+    units: micrometres
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-041
+  kind: computation
+  passage: The binary tree has 4 segment levels, with 3 cells per segment. The arteriolar readout lies 240 $\mu$m from the capillary junction; the terminal input centers are 220 $\mu$m into the capillary path. In the two-tree variant the junctions are separated by 120 $\mu$m along the arteriole. The sibling comparison uses terminals sharing their last fork; the distant comparison uses terminals in opposite halves of the same tree.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/t2_attachment_spacing_um
+    reported: '120'
+    scale: 1
+    decimals: 0
+    units: micrometres
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-042
+  kind: computation
+  passage: 'The common output law is
+
+
+    $$D/D_0=1 + 0.30 \,\tanh[\max(H,0)/10],\qquad Q/Q_0=(D/D_0)^4.$$
+
+
+    Here $H$ is hyperpolarization in mV. The chosen fractional diameter ceiling and voltage scale are assumptions, reality-checked against the dilation scale and near-maximal dilation during hyperpolarization reported by Longden and colleagues [@longden2017]. They are fixed across mechanisms and never fitted to paired responses. The flow relation assumes fixed pressure drop, vessel length and viscosity; it is a feeding-segment flow proxy. It does not calculate flow redistribution in the capillary network.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/flow_max_diameter_fraction
+    reported: '0.30'
+    scale: 1
+    decimals: 2
+    units: fractional diameter
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-043
+  kind: computation
+  passage: 'The common output law is
+
+
+    $$D/D_0=1 + 0.30 \,\tanh[\max(H,0)/10],\qquad Q/Q_0=(D/D_0)^4.$$
+
+
+    Here $H$ is hyperpolarization in mV. The chosen fractional diameter ceiling and voltage scale are assumptions, reality-checked against the dilation scale and near-maximal dilation during hyperpolarization reported by Longden and colleagues [@longden2017]. They are fixed across mechanisms and never fitted to paired responses. The flow relation assumes fixed pressure drop, vessel length and viscosity; it is a feeding-segment flow proxy. It does not calculate flow redistribution in the capillary network.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/flow_hyperpolarization_scale_mv
+    reported: '10'
+    scale: 1
+    decimals: 0
+    units: mV
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-044
+  kind: computation
+  passage: 'The common output law is
+
+
+    $$D/D_0=1 + 0.30 \,\tanh[\max(H,0)/10],\qquad Q/Q_0=(D/D_0)^4.$$
+
+
+    Here $H$ is hyperpolarization in mV. The chosen fractional diameter ceiling and voltage scale are assumptions, reality-checked against the dilation scale and near-maximal dilation during hyperpolarization reported by Longden and colleagues [@longden2017]. They are fixed across mechanisms and never fitted to paired responses. The flow relation assumes fixed pressure drop, vessel length and viscosity; it is a feeding-segment flow proxy. It does not calculate flow redistribution in the capillary network.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/poiseuille_power
+    reported: '4'
+    scale: 1
+    decimals: 0
+    units: flow exponent
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-045
+  kind: computation
+  passage: Longden and colleagues reported 23.2 $\pm$ 1.8 mV hyperpolarization during a capillary potassium challenge [@longden2017]. We screen against an author-defined interval from 19.6 to 26.8 mV, with baseline between -45 and -25 mV. The challenge lasts 18 s. Recovery must leave less than 1 mV residual hyperpolarization 5 s after removal. The voltage interval uses twice the reported SEM; the recovery tolerance is a design criterion. This is a published-magnitude and reversibility screen, not a fit to digitized experimental traces.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/longden2017_hyperpolarization_mv
+    reported: '23.2'
+    scale: 1
+    decimals: 1
+    units: mV
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-046
+  kind: computation
+  passage: Longden and colleagues reported 23.2 $\pm$ 1.8 mV hyperpolarization during a capillary potassium challenge [@longden2017]. We screen against an author-defined interval from 19.6 to 26.8 mV, with baseline between -45 and -25 mV. The challenge lasts 18 s. Recovery must leave less than 1 mV residual hyperpolarization 5 s after removal. The voltage interval uses twice the reported SEM; the recovery tolerance is a design criterion. This is a published-magnitude and reversibility screen, not a fit to digitized experimental traces.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/longden2017_sem_mv
+    reported: '1.8'
+    scale: 1
+    decimals: 1
+    units: mV SEM
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-047
+  kind: computation
+  passage: Longden and colleagues reported 23.2 $\pm$ 1.8 mV hyperpolarization during a capillary potassium challenge [@longden2017]. We screen against an author-defined interval from 19.6 to 26.8 mV, with baseline between -45 and -25 mV. The challenge lasts 18 s. Recovery must leave less than 1 mV residual hyperpolarization 5 s after removal. The voltage interval uses twice the reported SEM; the recovery tolerance is a design criterion. This is a published-magnitude and reversibility screen, not a fit to digitized experimental traces.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/calibration_lower_mv
+    reported: '19.6'
+    scale: 1
+    decimals: 1
+    units: mV
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-048
+  kind: computation
+  passage: Longden and colleagues reported 23.2 $\pm$ 1.8 mV hyperpolarization during a capillary potassium challenge [@longden2017]. We screen against an author-defined interval from 19.6 to 26.8 mV, with baseline between -45 and -25 mV. The challenge lasts 18 s. Recovery must leave less than 1 mV residual hyperpolarization 5 s after removal. The voltage interval uses twice the reported SEM; the recovery tolerance is a design criterion. This is a published-magnitude and reversibility screen, not a fit to digitized experimental traces.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/calibration_upper_mv
+    reported: '26.8'
+    scale: 1
+    decimals: 1
+    units: mV
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-049
+  kind: computation
+  passage: Longden and colleagues reported 23.2 $\pm$ 1.8 mV hyperpolarization during a capillary potassium challenge [@longden2017]. We screen against an author-defined interval from 19.6 to 26.8 mV, with baseline between -45 and -25 mV. The challenge lasts 18 s. Recovery must leave less than 1 mV residual hyperpolarization 5 s after removal. The voltage interval uses twice the reported SEM; the recovery tolerance is a design criterion. This is a published-magnitude and reversibility screen, not a fit to digitized experimental traces.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/baseline_lower_mv
+    reported: '-45'
+    scale: 1
+    decimals: 0
+    units: mV
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-050
+  kind: computation
+  passage: Longden and colleagues reported 23.2 $\pm$ 1.8 mV hyperpolarization during a capillary potassium challenge [@longden2017]. We screen against an author-defined interval from 19.6 to 26.8 mV, with baseline between -45 and -25 mV. The challenge lasts 18 s. Recovery must leave less than 1 mV residual hyperpolarization 5 s after removal. The voltage interval uses twice the reported SEM; the recovery tolerance is a design criterion. This is a published-magnitude and reversibility screen, not a fit to digitized experimental traces.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/baseline_upper_mv
+    reported: '-25'
+    scale: 1
+    decimals: 0
+    units: mV
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-051
+  kind: computation
+  passage: Longden and colleagues reported 23.2 $\pm$ 1.8 mV hyperpolarization during a capillary potassium challenge [@longden2017]. We screen against an author-defined interval from 19.6 to 26.8 mV, with baseline between -45 and -25 mV. The challenge lasts 18 s. Recovery must leave less than 1 mV residual hyperpolarization 5 s after removal. The voltage interval uses twice the reported SEM; the recovery tolerance is a design criterion. This is a published-magnitude and reversibility screen, not a fit to digitized experimental traces.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/long_duration_ms
+    reported: '18'
+    scale: 0.001
+    decimals: 0
+    units: seconds
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-052
+  kind: computation
+  passage: Longden and colleagues reported 23.2 $\pm$ 1.8 mV hyperpolarization during a capillary potassium challenge [@longden2017]. We screen against an author-defined interval from 19.6 to 26.8 mV, with baseline between -45 and -25 mV. The challenge lasts 18 s. Recovery must leave less than 1 mV residual hyperpolarization 5 s after removal. The voltage interval uses twice the reported SEM; the recovery tolerance is a design criterion. This is a published-magnitude and reversibility screen, not a fit to digitized experimental traces.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/recovery_threshold_mv
+    reported: '1'
+    scale: 1
+    decimals: 0
+    units: mV
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-053
+  kind: computation
+  passage: Longden and colleagues reported 23.2 $\pm$ 1.8 mV hyperpolarization during a capillary potassium challenge [@longden2017]. We screen against an author-defined interval from 19.6 to 26.8 mV, with baseline between -45 and -25 mV. The challenge lasts 18 s. Recovery must leave less than 1 mV residual hyperpolarization 5 s after removal. The voltage interval uses twice the reported SEM; the recovery tolerance is a design criterion. This is a published-magnitude and reversibility screen, not a fit to digitized experimental traces.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/long_post_offset_check_ms
+    reported: '5'
+    scale: 0.001
+    decimals: 0
+    units: seconds
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-054
+  kind: computation
+  passage: The selected nominal response is 22.133 mV, from a baseline of -30.740 mV. Its first 1 mV deflection occurs after 30 ms, compared with the published onset latency of 240 $\pm$ 30 ms [@longden2017]. The model responds earlier under this detection rule. Onset definitions and exposure geometry differ, leaving this discrepancy unresolved. The proposed timing offsets are conditional design values; the complete experimental single-input waveform has not been calibrated.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/nominal_strong_response_mv
+    reported: '22.133'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-055
+  kind: computation
+  passage: The selected nominal response is 22.133 mV, from a baseline of -30.740 mV. Its first 1 mV deflection occurs after 30 ms, compared with the published onset latency of 240 $\pm$ 30 ms [@longden2017]. The model responds earlier under this detection rule. Onset definitions and exposure geometry differ, leaving this discrepancy unresolved. The proposed timing offsets are conditional design values; the complete experimental single-input waveform has not been calibrated.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/baseline_pa_mv
+    reported: '-30.740'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-056
+  kind: computation
+  passage: The selected nominal response is 22.133 mV, from a baseline of -30.740 mV. Its first 1 mV deflection occurs after 30 ms, compared with the published onset latency of 240 $\pm$ 30 ms [@longden2017]. The model responds earlier under this detection rule. Onset definitions and exposure geometry differ, leaving this discrepancy unresolved. The proposed timing offsets are conditional design values; the complete experimental single-input waveform has not been calibrated.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/recovery_threshold_mv
+    reported: '1'
+    scale: 1
+    decimals: 0
+    units: mV detection threshold
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-057
+  kind: computation
+  passage: The selected nominal response is 22.133 mV, from a baseline of -30.740 mV. Its first 1 mV deflection occurs after 30 ms, compared with the published onset latency of 240 $\pm$ 30 ms [@longden2017]. The model responds earlier under this detection rule. Onset definitions and exposure geometry differ, leaving this discrepancy unresolved. The proposed timing offsets are conditional design values; the complete experimental single-input waveform has not been calibrated.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/nominal_one_mv_onset_ms
+    reported: '30'
+    scale: 1
+    decimals: 0
+    units: ms
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-058
+  kind: computation
+  passage: The selected nominal response is 22.133 mV, from a baseline of -30.740 mV. Its first 1 mV deflection occurs after 30 ms, compared with the published onset latency of 240 $\pm$ 30 ms [@longden2017]. The model responds earlier under this detection rule. Onset definitions and exposure geometry differ, leaving this discrepancy unresolved. The proposed timing offsets are conditional design values; the complete experimental single-input waveform has not been calibrated.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/longden2017_latency_ms
+    reported: '240'
+    scale: 1
+    decimals: 0
+    units: ms
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-059
+  kind: computation
+  passage: The selected nominal response is 22.133 mV, from a baseline of -30.740 mV. Its first 1 mV deflection occurs after 30 ms, compared with the published onset latency of 240 $\pm$ 30 ms [@longden2017]. The model responds earlier under this detection rule. Onset definitions and exposure geometry differ, leaving this discrepancy unresolved. The proposed timing offsets are conditional design values; the complete experimental single-input waveform has not been calibrated.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /literature/longden2017_latency_sem_ms
+    reported: '30'
+    scale: 1
+    decimals: 0
+    units: ms SEM
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-060
+  kind: computation
+  passage: 'The model-comparison targets are explicitly synthetic: 12 isolated-site voltage traces from the selected model on the base tree, plus its broad-exposure endpoint and recovery. Each mechanistic rival refits 3 parameters within the same conductance and coupling bounds. Endpoint and recovery residuals receive weight 10 in the least-squares objective. Mechanistic fits use a common multistart schedule, and paired responses never enter any fitting objective. Successful optimization does not guarantee an equally good fit; the results below expose each rival''s remaining single-site error.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/weak_fit_protocol_count
+    reported: '12'
+    scale: 1
+    decimals: 0
+    units: isolated-site protocols
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-061
+  kind: computation
+  passage: 'The model-comparison targets are explicitly synthetic: 12 isolated-site voltage traces from the selected model on the base tree, plus its broad-exposure endpoint and recovery. Each mechanistic rival refits 3 parameters within the same conductance and coupling bounds. Endpoint and recovery residuals receive weight 10 in the least-squares objective. Mechanistic fits use a common multistart schedule, and paired responses never enter any fitting objective. Successful optimization does not guarantee an equally good fit; the results below expose each rival''s remaining single-site error.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/free_parameter_count
+    reported: '3'
+    scale: 1
+    decimals: 0
+    units: free parameters
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-062
+  kind: computation
+  passage: 'The model-comparison targets are explicitly synthetic: 12 isolated-site voltage traces from the selected model on the base tree, plus its broad-exposure endpoint and recovery. Each mechanistic rival refits 3 parameters within the same conductance and coupling bounds. Endpoint and recovery residuals receive weight 10 in the least-squares objective. Mechanistic fits use a common multistart schedule, and paired responses never enter any fitting objective. Successful optimization does not guarantee an equally good fit; the results below expose each rival''s remaining single-site error.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/anchor_objective_weight
+    reported: '10'
+    scale: 1
+    decimals: 0
+    units: residual weight
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-063
+  kind: computation
+  passage: 'The linearization ablates voltage-dependent feedback while preserving baseline current; it is distinct from channel deletion. Linearized membranes use a positive slope floor of 0.001 nS to ensure passive transit. The compact filter follows $\tau\dot y=-y+a x+b x^2$, where $x$ is the output of a fixed passive network at predeclared published-model parameters. It fits 3 coefficients: $a$, $b$ and $\tau$. It can generate an electrical interaction through its pooled nonlinear state; its capacity is not restricted to adding responses.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/passive_slope_floor_ns
+    reported: '0.001'
+    scale: 1
+    decimals: 3
+    units: nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-064
+  kind: computation
+  passage: 'The linearization ablates voltage-dependent feedback while preserving baseline current; it is distinct from channel deletion. Linearized membranes use a positive slope floor of 0.001 nS to ensure passive transit. The compact filter follows $\tau\dot y=-y+a x+b x^2$, where $x$ is the output of a fixed passive network at predeclared published-model parameters. It fits 3 coefficients: $a$, $b$ and $\tau$. It can generate an electrical interaction through its pooled nonlinear state; its capacity is not restricted to adding responses.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/free_parameter_count
+    reported: '3'
+    scale: 1
+    decimals: 0
+    units: fitted coefficients
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-065
+  kind: computation
+  passage: For the declared fitting weights, the single-site log-parameter sensitivity matrix has condition number 1627.4; the local conductance correlation is 0.993111. A local sensitivity sample retains 73 of 513 parameter vectors under the single-trace tolerance of 0.25 mV and the broad-exposure criteria. The perturbations are bounded and clipped to the prior limits. These are sensitivity sets conditional on the model, footprint, fixed constants and sampled domain, not posterior credible intervals.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /identifiability/condition_number
+    reported: '1627.4'
+    scale: 1
+    decimals: 1
+    units: condition number
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-066
+  kind: computation
+  passage: For the declared fitting weights, the single-site log-parameter sensitivity matrix has condition number 1627.4; the local conductance correlation is 0.993111. A local sensitivity sample retains 73 of 513 parameter vectors under the single-trace tolerance of 0.25 mV and the broad-exposure criteria. The perturbations are bounded and clipped to the prior limits. These are sensitivity sets conditional on the model, footprint, fixed constants and sampled domain, not posterior credible intervals.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /identifiability/local_linear_correlation/0/1
+    reported: '0.993111'
+    scale: 1
+    decimals: 6
+    units: linearized parameter correlation
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-067
+  kind: computation
+  passage: For the declared fitting weights, the single-site log-parameter sensitivity matrix has condition number 1627.4; the local conductance correlation is 0.993111. A local sensitivity sample retains 73 of 513 parameter vectors under the single-trace tolerance of 0.25 mV and the broad-exposure criteria. The perturbations are bounded and clipped to the prior limits. These are sensitivity sets conditional on the model, footprint, fixed constants and sampled domain, not posterior credible intervals.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /identifiability/matched_count
+    reported: '73'
+    scale: 1
+    decimals: 0
+    units: parameter vectors
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-068
+  kind: computation
+  passage: For the declared fitting weights, the single-site log-parameter sensitivity matrix has condition number 1627.4; the local conductance correlation is 0.993111. A local sensitivity sample retains 73 of 513 parameter vectors under the single-trace tolerance of 0.25 mV and the broad-exposure criteria. The perturbations are bounded and clipped to the prior limits. These are sensitivity sets conditional on the model, footprint, fixed constants and sampled domain, not posterior credible intervals.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /identifiability/local_candidate_count
+    reported: '513'
+    scale: 1
+    decimals: 0
+    units: parameter vectors
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-069
+  kind: computation
+  passage: For the declared fitting weights, the single-site log-parameter sensitivity matrix has condition number 1627.4; the local conductance correlation is 0.993111. A local sensitivity sample retains 73 of 513 parameter vectors under the single-trace tolerance of 0.25 mV and the broad-exposure criteria. The perturbations are bounded and clipped to the prior limits. These are sensitivity sets conditional on the model, footprint, fixed constants and sampled domain, not posterior credible intervals.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/local_match_threshold_mv
+    reported: '0.25'
+    scale: 1
+    decimals: 2
+    units: mV RMSE
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-070
+  kind: computation
+  passage: The reported local sensitivity uses log-parameter step 0.00001, for which the checked perturbations retain recovery. Larger perturbations cross a switching boundary. This limits the interpretation of a local derivative and reinforces the use of explicitly sampled response sets instead of a Gaussian parameter-confidence claim.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /identifiability/reported_log_step
+    reported: '0.00001'
+    scale: 1
+    decimals: 5
+    units: dimensionless log-parameter increment
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-071
+  kind: computation
+  passage: After fitting, the test set comprises 128 paired protocols across 3 topologies. Both inputs use 500 ms pulses. The combinations vary potassium concentration, relative delay and whether the sites are siblings, belong to distant subtrees, lie on different trees or border an anastomosis. Model parameters remain fixed on the withheld topologies; post-fit singles supply residual controls and the privileged independent-sensor oracle, not new fitting targets.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/pair_conditions
+    reported: '128'
+    scale: 1
+    decimals: 0
+    units: paired protocols
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-072
+  kind: computation
+  passage: After fitting, the test set comprises 128 paired protocols across 3 topologies. Both inputs use 500 ms pulses. The combinations vary potassium concentration, relative delay and whether the sites are siblings, belong to distant subtrees, lie on different trees or border an anastomosis. Model parameters remain fixed on the withheld topologies; post-fit singles supply residual controls and the privileged independent-sensor oracle, not new fitting targets.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/topology_count
+    reported: '3'
+    scale: 1
+    decimals: 0
+    units: topologies
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-073
+  kind: computation
+  passage: After fitting, the test set comprises 128 paired protocols across 3 topologies. Both inputs use 500 ms pulses. The combinations vary potassium concentration, relative delay and whether the sites are siblings, belong to distant subtrees, lie on different trees or border an anastomosis. Model parameters remain fixed on the withheld topologies; post-fit singles supply residual controls and the privileged independent-sensor oracle, not new fitting targets.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/pulse_ms
+    reported: '500'
+    scale: 1
+    decimals: 0
+    units: ms
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-074
+  kind: computation
+  passage: 'We draw 8192 parameter vectors, uniformly in the conductances and uniformly in log coupling resistance, and compare connected exposure regions of 8 and 16 cells. Each receives one imposed potassium waveform. The region is a connected portion of a distal subtree, not separately controlled stimulation at multiple sites. Its correspondence to the experimental solution plume is unknown; exposure size is a structural assumption. The smaller and larger regions give the following finite-sample screen:'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/candidate_count
+    reported: '8192'
+    scale: 1
+    decimals: 0
+    units: sampled parameter vectors
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-075
+  kind: computation
+  passage: 'We draw 8192 parameter vectors, uniformly in the conductances and uniformly in log coupling resistance, and compare connected exposure regions of 8 and 16 cells. Each receives one imposed potassium waveform. The region is a connected portion of a distal subtree, not separately controlled stimulation at multiple sites. Its correspondence to the experimental solution plume is unknown; exposure size is a structural assumption. The smaller and larger regions give the following finite-sample screen:'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/footprint_screen/8/cell_count
+    reported: '8'
+    scale: 1
+    decimals: 0
+    units: cells
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-076
+  kind: computation
+  passage: 'We draw 8192 parameter vectors, uniformly in the conductances and uniformly in log coupling resistance, and compare connected exposure regions of 8 and 16 cells. Each receives one imposed potassium waveform. The region is a connected portion of a distal subtree, not separately controlled stimulation at multiple sites. Its correspondence to the experimental solution plume is unknown; exposure size is a structural assumption. The smaller and larger regions give the following finite-sample screen:'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/footprint_screen/16/cell_count
+    reported: '16'
+    scale: 1
+    decimals: 0
+    units: cells
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-077
+  kind: computation
+  passage: '| 8 | 149 | 0 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/footprint_screen/8/cell_count
+    reported: '8'
+    scale: 1
+    decimals: 0
+    units: cells
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-078
+  kind: computation
+  passage: '| 8 | 149 | 0 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/footprint_screen/8/endpoint_count
+    reported: '149'
+    scale: 1
+    decimals: 0
+    units: parameter vectors
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-079
+  kind: computation
+  passage: '| 8 | 149 | 0 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/footprint_screen/8/reversible_count
+    reported: '0'
+    scale: 1
+    decimals: 0
+    units: parameter vectors
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-080
+  kind: computation
+  passage: '| 16 | 223 | 29 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/footprint_screen/16/cell_count
+    reported: '16'
+    scale: 1
+    decimals: 0
+    units: cells
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-081
+  kind: computation
+  passage: '| 16 | 223 | 29 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/footprint_screen/16/endpoint_count
+    reported: '223'
+    scale: 1
+    decimals: 0
+    units: parameter vectors
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-082
+  kind: computation
+  passage: '| 16 | 223 | 29 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/footprint_screen/16/reversible_count
+    reported: '29'
+    scale: 1
+    decimals: 0
+    units: parameter vectors
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-083
+  kind: computation
+  passage: The primary benchmark uses the larger connected exposure and its 29 confirmed admissible vectors. We select the nominal vector closest to the published voltage mean, before computing paired responses. Many candidates match a voltage endpoint but remain hyperpolarized after stimulus removal. Exposure size cannot be inferred from this endpoint, and this experiment does not identify a unique physiological parameter set.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/accepted_count
+    reported: '29'
+    scale: 1
+    decimals: 0
+    units: parameter vectors
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-084
+  kind: computation
+  passage: '| Distributed Kir | 0.000 | Exact | 0.000 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/distributed/rmse_mv
+    reported: '0.000'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-085
+  kind: computation
+  passage: '| Distributed Kir | 0.000 | Exact | 0.000 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/errors/distributed/paired_rmse_mv
+    reported: '0.000'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-086
+  kind: computation
+  passage: '| Passive cable | 0.491 | -2.822 | 1.014 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/passive/rmse_mv
+    reported: '0.491'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-087
+  kind: computation
+  passage: '| Passive cable | 0.491 | -2.822 | 1.014 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/errors/passive/paired_rmse_mv
+    reported: '1.014'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-088
+  kind: computation
+  passage: '| Passive cable | 0.491 | -2.822 | 1.014 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/passive/broad_endpoint_error_mv
+    reported: '-2.822'
+    scale: 1
+    decimals: 3
+    units: mV endpoint error
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-089
+  kind: computation
+  passage: '| Distal-active | 0.262 | -1.841 | 0.652 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/sensor_only/rmse_mv
+    reported: '0.262'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-090
+  kind: computation
+  passage: '| Distal-active | 0.262 | -1.841 | 0.652 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/errors/sensor_only/paired_rmse_mv
+    reported: '0.652'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-091
+  kind: computation
+  passage: '| Distal-active | 0.262 | -1.841 | 0.652 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/sensor_only/broad_endpoint_error_mv
+    reported: '-1.841'
+    scale: 1
+    decimals: 3
+    units: mV endpoint error
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-092
+  kind: computation
+  passage: '| Capillary-linear | 0.265 | -0.006 | 0.541 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/capillary_linear/rmse_mv
+    reported: '0.265'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-093
+  kind: computation
+  passage: '| Capillary-linear | 0.265 | -0.006 | 0.541 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/errors/capillary_linear/paired_rmse_mv
+    reported: '0.541'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-094
+  kind: computation
+  passage: '| Capillary-linear | 0.265 | -0.006 | 0.541 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/capillary_linear/broad_endpoint_error_mv
+    reported: '-0.006'
+    scale: 1
+    decimals: 3
+    units: mV endpoint error
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-095
+  kind: computation
+  passage: '| Arteriole-linear | 0.208 | -1.879 | 0.543 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/arteriole_linear/rmse_mv
+    reported: '0.208'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-096
+  kind: computation
+  passage: '| Arteriole-linear | 0.208 | -1.879 | 0.543 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/errors/arteriole_linear/paired_rmse_mv
+    reported: '0.543'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-097
+  kind: computation
+  passage: '| Arteriole-linear | 0.208 | -1.879 | 0.543 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/arteriole_linear/broad_endpoint_error_mv
+    reported: '-1.879'
+    scale: 1
+    decimals: 3
+    units: mV endpoint error
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-098
+  kind: computation
+  passage: '| Dynamic filter | 0.078 | 0.000 | 0.299 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/dynamic_filter/rmse_mv
+    reported: '0.078'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-099
+  kind: computation
+  passage: '| Dynamic filter | 0.078 | 0.000 | 0.299 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/errors/dynamic_filter/paired_rmse_mv
+    reported: '0.299'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-100
+  kind: computation
+  passage: '| Dynamic filter | 0.078 | 0.000 | 0.299 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/dynamic_filter/broad_endpoint_error_mv
+    reported: '0.000'
+    scale: 1
+    decimals: 3
+    units: mV endpoint error
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-101
+  kind: computation
+  passage: '| Independent oracle | 0.000 | Exact | 0.303 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/independent_sensors/rmse_mv
+    reported: '0.000'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-102
+  kind: computation
+  passage: '| Independent oracle | 0.000 | Exact | 0.303 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/errors/independent_sensors/paired_rmse_mv
+    reported: '0.303'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-103
+  kind: computation
+  passage: For the selected base-tree sibling pair, concentration is 10 mM and delay is 250 ms. The fixed averaging window is 750 to 850 ms after trial onset. Table C reports the electrical residual $R_V$, the sibling-minus-distant residual contrast $G_V$, and normalized flow residual $R_Q$ for every model.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/k_mm
+    reported: '10'
+    scale: 1
+    decimals: 0
+    units: mM
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-104
+  kind: computation
+  passage: For the selected base-tree sibling pair, concentration is 10 mM and delay is 250 ms. The fixed averaging window is 750 to 850 ms after trial onset. Table C reports the electrical residual $R_V$, the sibling-minus-distant residual contrast $G_V$, and normalized flow residual $R_Q$ for every model.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/delay_ms
+    reported: '250'
+    scale: 1
+    decimals: 0
+    units: ms
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-105
+  kind: computation
+  passage: For the selected base-tree sibling pair, concentration is 10 mM and delay is 250 ms. The fixed averaging window is 750 to 850 ms after trial onset. Table C reports the electrical residual $R_V$, the sibling-minus-distant residual contrast $G_V$, and normalized flow residual $R_Q$ for every model.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/window_start_ms
+    reported: '750'
+    scale: 1
+    decimals: 0
+    units: ms
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-106
+  kind: computation
+  passage: For the selected base-tree sibling pair, concentration is 10 mM and delay is 250 ms. The fixed averaging window is 750 to 850 ms after trial onset. Table C reports the electrical residual $R_V$, the sibling-minus-distant residual contrast $G_V$, and normalized flow residual $R_Q$ for every model.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/window_end_ms
+    reported: '850'
+    scale: 1
+    decimals: 0
+    units: ms
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-107
+  kind: computation
+  passage: '| Distributed Kir | 0.6328 | 0.2119 | 0.0917 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/70/residual_mv
+    reported: '0.6328'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: distributed; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-108
+  kind: computation
+  passage: '| Distributed Kir | 0.6328 | 0.2119 | 0.0917 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/models/distributed
+    reported: '0.2119'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-109
+  kind: computation
+  passage: '| Distributed Kir | 0.6328 | 0.2119 | 0.0917 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/70/flow_residual
+    reported: '0.0917'
+    scale: 1
+    decimals: 4
+    units: normalized flow
+    conditions: distributed; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-110
+  kind: computation
+  passage: '| Passive cable | 0.0000 | 0.0000 | 0.0148 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/71/residual_mv
+    reported: '0.0000'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: passive; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-111
+  kind: computation
+  passage: '| Passive cable | 0.0000 | 0.0000 | 0.0148 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/models/passive
+    reported: '0.0000'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-112
+  kind: computation
+  passage: '| Passive cable | 0.0000 | 0.0000 | 0.0148 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/71/flow_residual
+    reported: '0.0148'
+    scale: 1
+    decimals: 4
+    units: normalized flow
+    conditions: passive; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-113
+  kind: computation
+  passage: '| Distal-active | 1.2784 | 0.3241 | 0.1897 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/72/residual_mv
+    reported: '1.2784'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: sensor_only; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-114
+  kind: computation
+  passage: '| Distal-active | 1.2784 | 0.3241 | 0.1897 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/models/sensor_only
+    reported: '0.3241'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-115
+  kind: computation
+  passage: '| Distal-active | 1.2784 | 0.3241 | 0.1897 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/72/flow_residual
+    reported: '0.1897'
+    scale: 1
+    decimals: 4
+    units: normalized flow
+    conditions: sensor_only; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-116
+  kind: computation
+  passage: '| Capillary-linear | 0.0191 | 0.0000 | 0.0144 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/73/residual_mv
+    reported: '0.0191'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: capillary_linear; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-117
+  kind: computation
+  passage: '| Capillary-linear | 0.0191 | 0.0000 | 0.0144 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/models/capillary_linear
+    reported: '0.0000'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-118
+  kind: computation
+  passage: '| Capillary-linear | 0.0191 | 0.0000 | 0.0144 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/73/flow_residual
+    reported: '0.0144'
+    scale: 1
+    decimals: 4
+    units: normalized flow
+    conditions: capillary_linear; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-119
+  kind: computation
+  passage: '| Arteriole-linear | 1.1654 | 0.3193 | 0.1727 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/74/residual_mv
+    reported: '1.1654'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: arteriole_linear; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-120
+  kind: computation
+  passage: '| Arteriole-linear | 1.1654 | 0.3193 | 0.1727 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/models/arteriole_linear
+    reported: '0.3193'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-121
+  kind: computation
+  passage: '| Arteriole-linear | 1.1654 | 0.3193 | 0.1727 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/74/flow_residual
+    reported: '0.1727'
+    scale: 1
+    decimals: 4
+    units: normalized flow
+    conditions: arteriole_linear; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-122
+  kind: computation
+  passage: '| Dynamic filter | 0.0807 | 0.0000 | 0.0149 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/75/residual_mv
+    reported: '0.0807'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: dynamic_filter; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-123
+  kind: computation
+  passage: '| Dynamic filter | 0.0807 | 0.0000 | 0.0149 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/models/dynamic_filter
+    reported: '0.0000'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-124
+  kind: computation
+  passage: '| Dynamic filter | 0.0807 | 0.0000 | 0.0149 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/75/flow_residual
+    reported: '0.0149'
+    scale: 1
+    decimals: 4
+    units: normalized flow
+    conditions: dynamic_filter; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-125
+  kind: computation
+  passage: '| Independent oracle | 0.0000 | 0.0000 | 0.0042 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/76/residual_mv
+    reported: '0.0000'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: independent_sensors; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-126
+  kind: computation
+  passage: '| Independent oracle | 0.0000 | 0.0000 | 0.0042 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/models/independent_sensors
+    reported: '0.0000'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-127
+  kind: computation
+  passage: '| Independent oracle | 0.0000 | 0.0000 | 0.0042 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/76/flow_residual
+    reported: '0.0042'
+    scale: 1
+    decimals: 4
+    units: normalized flow
+    conditions: independent_sensors; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-128
+  kind: computation
+  passage: For this distributed response, the shared output-transform contribution is 0.0042 and the remaining contribution is 0.0874, in normalized flow units. Before rounding, these sum to the total flow residual. The flow law therefore changes the observed interaction, but it does not generate the electrical geometry contrast.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/70/saturation_only
+    reported: '0.0042'
+    scale: 1
+    decimals: 4
+    units: normalized flow
+    conditions: distributed; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-129
+  kind: computation
+  passage: For this distributed response, the shared output-transform contribution is 0.0042 and the remaining contribution is 0.0874, in normalized flow units. Before rounding, these sum to the total flow residual. The flow law therefore changes the observed interaction, but it does not generate the electrical geometry contrast.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/70/beyond_saturation
+    reported: '0.0874'
+    scale: 1
+    decimals: 4
+    units: normalized flow
+    conditions: distributed; T1; siblings; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-130
+  kind: computation
+  passage: '| Base tree, distant branches | 0.4209 | 0.0807 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/182/residual_mv
+    reported: '0.4209'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: distributed; T1; distant; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-131
+  kind: computation
+  passage: '| Base tree, distant branches | 0.4209 | 0.0807 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/187/residual_mv
+    reported: '0.0807'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: dynamic_filter; T1; distant; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-132
+  kind: computation
+  passage: '| Two trees, separate origins | 0.2237 | 0.0660 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/518/residual_mv
+    reported: '0.2237'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: distributed; T2; separate_trees; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-133
+  kind: computation
+  passage: '| Two trees, separate origins | 0.2237 | 0.0660 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/523/residual_mv
+    reported: '0.0660'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: dynamic_filter; T2; separate_trees; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-134
+  kind: computation
+  passage: '| Loop, bridge-adjacent tips | 0.4262 | 0.0770 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/854/residual_mv
+    reported: '0.4262'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: distributed; T3; bridge_tips; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-135
+  kind: computation
+  passage: '| Loop, bridge-adjacent tips | 0.4262 | 0.0770 |'
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/rows/859/residual_mv
+    reported: '0.0770'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: dynamic_filter; T3; bridge_tips; K=10.0mM; delay=250.0ms; mean window=750.0–850.0ms. Fixed single-input fits; no paired fitting.
+- id: number-136
+  kind: computation
+  passage: A predeclared weak-Kir, high-leak corner produces a peak single-site response of 0.0554 mV and a peak absolute paired electrical residual of 0.0136 mV. Its end-of-trial hyperpolarization is 0.000002 mV. At this response scale, an additive approximation can suffice for measurements coarser than the interaction; electrical nonlinearity alone is not a reason to require the full network model.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /simpler_suffices/single_peak_mv
+    reported: '0.0554'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-137
+  kind: computation
+  passage: A predeclared weak-Kir, high-leak corner produces a peak single-site response of 0.0554 mV and a peak absolute paired electrical residual of 0.0136 mV. Its end-of-trial hyperpolarization is 0.000002 mV. At this response scale, an additive approximation can suffice for measurements coarser than the interaction; electrical nonlinearity alone is not a reason to require the full network model.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /simpler_suffices/pair_residual_peak_abs_mv
+    reported: '0.0136'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-138
+  kind: computation
+  passage: A predeclared weak-Kir, high-leak corner produces a peak single-site response of 0.0554 mV and a peak absolute paired electrical residual of 0.0136 mV. Its end-of-trial hyperpolarization is 0.000002 mV. At this response scale, an additive approximation can suffice for measurements coarser than the interaction; electrical nonlinearity alone is not a reason to require the full network model.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /simpler_suffices/end_recovery_mv
+    reported: '0.000002'
+    scale: 1
+    decimals: 6
+    units: mV
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-139
+  kind: computation
+  passage: With the assumed effective KATP conductance of 0.10 nS per stimulated cell, the separate KATP scenario gives a single-site response of 1.105 mV, a paired response of 2.171 mV and residual -0.040 mV. This is a current-scale sensitivity test motivated by pericyte signaling [@isaacs2024; @hariharan2022]. It does not estimate a pericyte channel conductance from those experiments or identify a metabolic input pathway.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/katp_effective_conductance_ns
+    reported: '0.10'
+    scale: 1
+    decimals: 2
+    units: nS
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-140
+  kind: computation
+  passage: With the assumed effective KATP conductance of 0.10 nS per stimulated cell, the separate KATP scenario gives a single-site response of 1.105 mV, a paired response of 2.171 mV and residual -0.040 mV. This is a current-scale sensitivity test motivated by pericyte signaling [@isaacs2024; @hariharan2022]. It does not estimate a pericyte channel conductance from those experiments or identify a metabolic input pathway.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /katp_scenario/single_mv
+    reported: '1.105'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-141
+  kind: computation
+  passage: With the assumed effective KATP conductance of 0.10 nS per stimulated cell, the separate KATP scenario gives a single-site response of 1.105 mV, a paired response of 2.171 mV and residual -0.040 mV. This is a current-scale sensitivity test motivated by pericyte signaling [@isaacs2024; @hariharan2022]. It does not estimate a pericyte channel conductance from those experiments or identify a metabolic input pathway.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /katp_scenario/paired_mv
+    reported: '2.171'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-142
+  kind: computation
+  passage: With the assumed effective KATP conductance of 0.10 nS per stimulated cell, the separate KATP scenario gives a single-site response of 1.105 mV, a paired response of 2.171 mV and residual -0.040 mV. This is a current-scale sensitivity test motivated by pericyte signaling [@isaacs2024; @hariharan2022]. It does not estimate a pericyte channel conductance from those experiments or identify a metabolic input pathway.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /katp_scenario/residual_mv
+    reported: '-0.040'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-143
+  kind: computation
+  passage: The most separating candidate in the examined base-tree grid uses 10 mM potassium, 500 ms pulses and a second-input delay of 250 ms. Compare a sibling pair with an equally distant pair in opposite halves of the tree, using the same first input in both trials. The predicted arteriolar geometry contrast is 0.212 mV. The closest tested localization ablation differs by 0.107 mV; the nondistributed rivals differ by 0.212 mV. This is a finite-grid selection for the nominal fit, not a global optimum over anatomical networks or drugs.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/k_mm
+    reported: '10'
+    scale: 1
+    decimals: 0
+    units: mM
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-144
+  kind: computation
+  passage: The most separating candidate in the examined base-tree grid uses 10 mM potassium, 500 ms pulses and a second-input delay of 250 ms. Compare a sibling pair with an equally distant pair in opposite halves of the tree, using the same first input in both trials. The predicted arteriolar geometry contrast is 0.212 mV. The closest tested localization ablation differs by 0.107 mV; the nondistributed rivals differ by 0.212 mV. This is a finite-grid selection for the nominal fit, not a global optimum over anatomical networks or drugs.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/pulse_ms
+    reported: '500'
+    scale: 1
+    decimals: 0
+    units: ms
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-145
+  kind: computation
+  passage: The most separating candidate in the examined base-tree grid uses 10 mM potassium, 500 ms pulses and a second-input delay of 250 ms. Compare a sibling pair with an equally distant pair in opposite halves of the tree, using the same first input in both trials. The predicted arteriolar geometry contrast is 0.212 mV. The closest tested localization ablation differs by 0.107 mV; the nondistributed rivals differ by 0.212 mV. This is a finite-grid selection for the nominal fit, not a global optimum over anatomical networks or drugs.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/delay_ms
+    reported: '250'
+    scale: 1
+    decimals: 0
+    units: ms
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-146
+  kind: computation
+  passage: The most separating candidate in the examined base-tree grid uses 10 mM potassium, 500 ms pulses and a second-input delay of 250 ms. Compare a sibling pair with an equally distant pair in opposite halves of the tree, using the same first input in both trials. The predicted arteriolar geometry contrast is 0.212 mV. The closest tested localization ablation differs by 0.107 mV; the nondistributed rivals differ by 0.212 mV. This is a finite-grid selection for the nominal fit, not a global optimum over anatomical networks or drugs.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/models/distributed
+    reported: '0.212'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-147
+  kind: computation
+  passage: The most separating candidate in the examined base-tree grid uses 10 mM potassium, 500 ms pulses and a second-input delay of 250 ms. Compare a sibling pair with an equally distant pair in opposite halves of the tree, using the same first input in both trials. The predicted arteriolar geometry contrast is 0.212 mV. The closest tested localization ablation differs by 0.107 mV; the nondistributed rivals differ by 0.212 mV. This is a finite-grid selection for the nominal fit, not a global optimum over anatomical networks or drugs.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/minimum_rival_gap_mv
+    reported: '0.107'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-148
+  kind: computation
+  passage: The most separating candidate in the examined base-tree grid uses 10 mM potassium, 500 ms pulses and a second-input delay of 250 ms. Compare a sibling pair with an equally distant pair in opposite halves of the tree, using the same first input in both trials. The predicted arteriolar geometry contrast is 0.212 mV. The closest tested localization ablation differs by 0.107 mV; the nondistributed rivals differ by 0.212 mV. This is a finite-grid selection for the nominal fit, not a global optimum over anatomical networks or drugs.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/nondistributed_rival_gap_mv
+    reported: '0.212'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-149
+  kind: computation
+  passage: At this same protocol and time window, the source-screen ensemble spans 0.128 to 0.271 mV, and the single-trace sensitivity set spans 0.134 to 0.280 mV. These intervals compare varying distributed parameters with fixed nominal rival fits. They neither integrate uncertainty in each rival nor establish separation over the entire physiological parameter space. The pooled-controller invariance remains exact only when its summed single-input drives are matched.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/ensemble/published_screen/geometry_contrast_mv/min
+    reported: '0.128'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-150
+  kind: computation
+  passage: At this same protocol and time window, the source-screen ensemble spans 0.128 to 0.271 mV, and the single-trace sensitivity set spans 0.134 to 0.280 mV. These intervals compare varying distributed parameters with fixed nominal rival fits. They neither integrate uncertainty in each rival nor establish separation over the entire physiological parameter space. The pooled-controller invariance remains exact only when its summed single-input drives are matched.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/ensemble/published_screen/geometry_contrast_mv/max
+    reported: '0.271'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-151
+  kind: computation
+  passage: At this same protocol and time window, the source-screen ensemble spans 0.128 to 0.271 mV, and the single-trace sensitivity set spans 0.134 to 0.280 mV. These intervals compare varying distributed parameters with fixed nominal rival fits. They neither integrate uncertainty in each rival nor establish separation over the entire physiological parameter space. The pooled-controller invariance remains exact only when its summed single-input drives are matched.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/ensemble/synthetic_single_match/geometry_contrast_mv/min
+    reported: '0.134'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-152
+  kind: computation
+  passage: At this same protocol and time window, the source-screen ensemble spans 0.128 to 0.271 mV, and the single-trace sensitivity set spans 0.134 to 0.280 mV. These intervals compare varying distributed parameters with fixed nominal rival fits. They neither integrate uncertainty in each rival nor establish separation over the entire physiological parameter space. The pooled-controller invariance remains exact only when its summed single-input drives are matched.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/ensemble/synthetic_single_match/geometry_contrast_mv/max
+    reported: '0.280'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-153
+  kind: computation
+  passage: An idealized 90% reduction of Kir conductance in the unstimulated common trunk changes the arteriolar geometry contrast from 0.2119 to 0.2072 mV, a change of -0.0047 mV. The corresponding capillary-trunk contrasts are 0.2535 and 0.2475 mV. Each condition is re-equilibrated and has its own single-input controls. This small drug effect makes focal blockade an auxiliary localization measurement; the simulation does not establish that a real drug can selectively reproduce the imposed conductance change.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/pharmacology_block_fraction
+    reported: 90%
+    scale: 100
+    decimals: 0
+    units: percent conductance block
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-154
+  kind: computation
+  passage: An idealized 90% reduction of Kir conductance in the unstimulated common trunk changes the arteriolar geometry contrast from 0.2119 to 0.2072 mV, a change of -0.0047 mV. The corresponding capillary-trunk contrasts are 0.2535 and 0.2475 mV. Each condition is re-equilibrated and has its own single-input controls. This small drug effect makes focal blockade an auxiliary localization measurement; the simulation does not establish that a real drug can selectively reproduce the imposed conductance change.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/pharmacology/distributed/control/geometry_contrast_mv
+    reported: '0.2119'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-155
+  kind: computation
+  passage: An idealized 90% reduction of Kir conductance in the unstimulated common trunk changes the arteriolar geometry contrast from 0.2119 to 0.2072 mV, a change of -0.0047 mV. The corresponding capillary-trunk contrasts are 0.2535 and 0.2475 mV. Each condition is re-equilibrated and has its own single-input controls. This small drug effect makes focal blockade an auxiliary localization measurement; the simulation does not establish that a real drug can selectively reproduce the imposed conductance change.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/pharmacology/distributed/trunk_kir_90pct_block/geometry_contrast_mv
+    reported: '0.2072'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-156
+  kind: computation
+  passage: An idealized 90% reduction of Kir conductance in the unstimulated common trunk changes the arteriolar geometry contrast from 0.2119 to 0.2072 mV, a change of -0.0047 mV. The corresponding capillary-trunk contrasts are 0.2535 and 0.2475 mV. Each condition is re-equilibrated and has its own single-input controls. This small drug effect makes focal blockade an auxiliary localization measurement; the simulation does not establish that a real drug can selectively reproduce the imposed conductance change.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/pharmacology/distributed/drug_geometry_change_mv
+    reported: '-0.0047'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-157
+  kind: computation
+  passage: An idealized 90% reduction of Kir conductance in the unstimulated common trunk changes the arteriolar geometry contrast from 0.2119 to 0.2072 mV, a change of -0.0047 mV. The corresponding capillary-trunk contrasts are 0.2535 and 0.2475 mV. Each condition is re-equilibrated and has its own single-input controls. This small drug effect makes focal blockade an auxiliary localization measurement; the simulation does not establish that a real drug can selectively reproduce the imposed conductance change.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/pharmacology/distributed/control/capillary_geometry_contrast_mv
+    reported: '0.2535'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-158
+  kind: computation
+  passage: An idealized 90% reduction of Kir conductance in the unstimulated common trunk changes the arteriolar geometry contrast from 0.2119 to 0.2072 mV, a change of -0.0047 mV. The corresponding capillary-trunk contrasts are 0.2535 and 0.2475 mV. Each condition is re-equilibrated and has its own single-input controls. This small drug effect makes focal blockade an auxiliary localization measurement; the simulation does not establish that a real drug can selectively reproduce the imposed conductance change.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/pharmacology/distributed/trunk_kir_90pct_block/capillary_geometry_contrast_mv
+    reported: '0.2475'
+    scale: 1
+    decimals: 4
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-159
+  kind: computation
+  passage: For the residual geometry contrast, cancellation leaves four condition means. If each mean has independent standard error $s$, then $\operatorname{SE}(G_V)=2s$. At two-sided significance 5% and power 80%, the nominal nearest-rival gap requires $s\leq$ 0.0192 mV, equivalent to a contrast standard error of 0.0383 mV. With an assumed per-preparation standard deviation of 1 mV and independent observations, the planning calculation gives 2724 observations per condition. This noise level is an assumption, not a measured property of the proposed assay; covariance between repeated conditions must be estimated, and repeated imaging frames are not independent preparations.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/precision/two_sided_alpha
+    reported: 5%
+    scale: 100
+    decimals: 0
+    units: percent significance
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-160
+  kind: computation
+  passage: For the residual geometry contrast, cancellation leaves four condition means. If each mean has independent standard error $s$, then $\operatorname{SE}(G_V)=2s$. At two-sided significance 5% and power 80%, the nominal nearest-rival gap requires $s\leq$ 0.0192 mV, equivalent to a contrast standard error of 0.0383 mV. With an assumed per-preparation standard deviation of 1 mV and independent observations, the planning calculation gives 2724 observations per condition. This noise level is an assumption, not a measured property of the proposed assay; covariance between repeated conditions must be estimated, and repeated imaging frames are not independent preparations.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/precision/power
+    reported: 80%
+    scale: 100
+    decimals: 0
+    units: percent power
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-161
+  kind: computation
+  passage: For the residual geometry contrast, cancellation leaves four condition means. If each mean has independent standard error $s$, then $\operatorname{SE}(G_V)=2s$. At two-sided significance 5% and power 80%, the nominal nearest-rival gap requires $s\leq$ 0.0192 mV, equivalent to a contrast standard error of 0.0383 mV. With an assumed per-preparation standard deviation of 1 mV and independent observations, the planning calculation gives 2724 observations per condition. This noise level is an assumption, not a measured property of the proposed assay; covariance between repeated conditions must be estimated, and repeated imaging frames are not independent preparations.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/precision/condition_mean_se_required_mv
+    reported: '0.0192'
+    scale: 1
+    decimals: 4
+    units: mV mean standard error
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-162
+  kind: computation
+  passage: For the residual geometry contrast, cancellation leaves four condition means. If each mean has independent standard error $s$, then $\operatorname{SE}(G_V)=2s$. At two-sided significance 5% and power 80%, the nominal nearest-rival gap requires $s\leq$ 0.0192 mV, equivalent to a contrast standard error of 0.0383 mV. With an assumed per-preparation standard deviation of 1 mV and independent observations, the planning calculation gives 2724 observations per condition. This noise level is an assumption, not a measured property of the proposed assay; covariance between repeated conditions must be estimated, and repeated imaging frames are not independent preparations.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/precision/contrast_se_required_mv
+    reported: '0.0383'
+    scale: 1
+    decimals: 4
+    units: mV contrast standard error
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-163
+  kind: computation
+  passage: For the residual geometry contrast, cancellation leaves four condition means. If each mean has independent standard error $s$, then $\operatorname{SE}(G_V)=2s$. At two-sided significance 5% and power 80%, the nominal nearest-rival gap requires $s\leq$ 0.0192 mV, equivalent to a contrast standard error of 0.0383 mV. With an assumed per-preparation standard deviation of 1 mV and independent observations, the planning calculation gives 2724 observations per condition. This noise level is an assumption, not a measured property of the proposed assay; covariance between repeated conditions must be estimated, and repeated imaging frames are not independent preparations.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/precision/independent_condition_sd_mv
+    reported: '1'
+    scale: 1
+    decimals: 0
+    units: mV assumed SD
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-164
+  kind: computation
+  passage: For the residual geometry contrast, cancellation leaves four condition means. If each mean has independent standard error $s$, then $\operatorname{SE}(G_V)=2s$. At two-sided significance 5% and power 80%, the nominal nearest-rival gap requires $s\leq$ 0.0192 mV, equivalent to a contrast standard error of 0.0383 mV. With an assumed per-preparation standard deviation of 1 mV and independent observations, the planning calculation gives 2724 observations per condition. This noise level is an assumption, not a measured property of the proposed assay; covariance between repeated conditions must be estimated, and repeated imaging frames are not independent preparations.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/precision/replicates_per_condition_at_sd_1mv
+    reported: '2724'
+    scale: 1
+    decimals: 0
+    units: independent observations per condition
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-165
+  kind: computation
+  passage: Detecting the nominal drug-induced change requires per-condition mean standard error no larger than 0.000598 mV under an independent eight-mean comparison. Its nearest-rival drug gap is only 0.000027 mV, while time-step refinement changes that gap by 0.000056 mV. This pharmacological separation is below the demonstrated discretization uncertainty, so a precision requirement for choosing between those drug-response mechanisms is not defensible from this run.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/pharmacology_precision/condition_mean_se_to_detect_drug_effect_mv
+    reported: '0.000598'
+    scale: 1
+    decimals: 6
+    units: mV mean standard error
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-166
+  kind: computation
+  passage: Detecting the nominal drug-induced change requires per-condition mean standard error no larger than 0.000598 mV under an independent eight-mean comparison. Its nearest-rival drug gap is only 0.000027 mV, while time-step refinement changes that gap by 0.000056 mV. This pharmacological separation is below the demonstrated discretization uncertainty, so a precision requirement for choosing between those drug-response mechanisms is not defensible from this run.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/pharmacology_precision/nearest_gap_mv
+    reported: '0.000027'
+    scale: 1
+    decimals: 6
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-167
+  kind: computation
+  passage: Detecting the nominal drug-induced change requires per-condition mean standard error no larger than 0.000598 mV under an independent eight-mean comparison. Its nearest-rival drug gap is only 0.000027 mV, while time-step refinement changes that gap by 0.000056 mV. This pharmacological separation is below the demonstrated discretization uncertainty, so a precision requirement for choosing between those drug-response mechanisms is not defensible from this run.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /convergence/drug_gap_error_2_vs_half_mv
+    reported: '0.000056'
+    scale: 1
+    decimals: 6
+    units: mV
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-168
+  kind: computation
+  passage: Reducing the integration step from 2.0 to 0.5 ms changes the selected geometry contrast by 0.000602 mV and the nearest-rival gap by 0.000498 mV. The corresponding change in the drug geometry effect is 0.000000301 mV. The unperturbed geometry distinction is numerically resolved at the reported scale, while the physiological transfer remains conditional on the assumed membrane law and geometry.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /convergence/dt_ms/0
+    reported: '2.0'
+    scale: 1
+    decimals: 1
+    units: ms
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-169
+  kind: computation
+  passage: Reducing the integration step from 2.0 to 0.5 ms changes the selected geometry contrast by 0.000602 mV and the nearest-rival gap by 0.000498 mV. The corresponding change in the drug geometry effect is 0.000000301 mV. The unperturbed geometry distinction is numerically resolved at the reported scale, while the physiological transfer remains conditional on the assumed membrane law and geometry.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /convergence/dt_ms/2
+    reported: '0.5'
+    scale: 1
+    decimals: 1
+    units: ms
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-170
+  kind: computation
+  passage: Reducing the integration step from 2.0 to 0.5 ms changes the selected geometry contrast by 0.000602 mV and the nearest-rival gap by 0.000498 mV. The corresponding change in the drug geometry effect is 0.000000301 mV. The unperturbed geometry distinction is numerically resolved at the reported scale, while the physiological transfer remains conditional on the assumed membrane law and geometry.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /convergence/geometry_error_2_vs_half_mv
+    reported: '0.000602'
+    scale: 1
+    decimals: 6
+    units: mV
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-171
+  kind: computation
+  passage: Reducing the integration step from 2.0 to 0.5 ms changes the selected geometry contrast by 0.000602 mV and the nearest-rival gap by 0.000498 mV. The corresponding change in the drug geometry effect is 0.000000301 mV. The unperturbed geometry distinction is numerically resolved at the reported scale, while the physiological transfer remains conditional on the assumed membrane law and geometry.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /convergence/gap_error_2_vs_half_mv
+    reported: '0.000498'
+    scale: 1
+    decimals: 6
+    units: mV
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-172
+  kind: computation
+  passage: Reducing the integration step from 2.0 to 0.5 ms changes the selected geometry contrast by 0.000602 mV and the nearest-rival gap by 0.000498 mV. The corresponding change in the drug geometry effect is 0.000000301 mV. The unperturbed geometry distinction is numerically resolved at the reported scale, while the physiological transfer remains conditional on the assumed membrane law and geometry.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /convergence/drug_change_error_2_vs_half_mv
+    reported: '0.000000301'
+    scale: 1
+    decimals: 9
+    units: mV
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-173
+  kind: computation
+  passage: Can paired capillary inputs distinguish distributed electrical interaction from independent sensing and a shared vascular nonlinearity? We implement a literature-constrained membrane network, screen single-exposure magnitude and reversibility, and fit rivals only to isolated-input responses. Of 8192 sampled parameter vectors, 29 meet the criteria for the chosen connected exposure footprint; a smaller footprint admits none. Across 128 withheld paired protocols, a nonlinear dynamic filter fits isolated responses with 0.078 mV error but has 0.299 mV prediction error against the distributed model. The central measurement compares sibling and distant input pairs with matched single-site waveforms. The nominal geometry contrast is 0.212 mV, while any controller driven only by their identical pooled inputs predicts zero. Refitted localization ablations retain geometry effects; the nearest nominal gap is 0.107 mV. Distinguishing that gap requires per-condition mean standard error of 0.0192 mV under the stated planning assumptions. Parameter sensitivity and focal-block predictions specify the limits of this comparison. The contribution is a quantified discrimination test, not the already proposed idea of capillary summation. Unknown exposure geometry and coupling, fixed membrane assumptions, and synthetic calibration prevent these predictions from identifying the mechanism used in an intact brain.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/candidate_count
+    reported: '8192'
+    scale: 1
+    decimals: 0
+    units: sampled parameter vectors
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-174
+  kind: computation
+  passage: Can paired capillary inputs distinguish distributed electrical interaction from independent sensing and a shared vascular nonlinearity? We implement a literature-constrained membrane network, screen single-exposure magnitude and reversibility, and fit rivals only to isolated-input responses. Of 8192 sampled parameter vectors, 29 meet the criteria for the chosen connected exposure footprint; a smaller footprint admits none. Across 128 withheld paired protocols, a nonlinear dynamic filter fits isolated responses with 0.078 mV error but has 0.299 mV prediction error against the distributed model. The central measurement compares sibling and distant input pairs with matched single-site waveforms. The nominal geometry contrast is 0.212 mV, while any controller driven only by their identical pooled inputs predicts zero. Refitted localization ablations retain geometry effects; the nearest nominal gap is 0.107 mV. Distinguishing that gap requires per-condition mean standard error of 0.0192 mV under the stated planning assumptions. Parameter sensitivity and focal-block predictions specify the limits of this comparison. The contribution is a quantified discrimination test, not the already proposed idea of capillary summation. Unknown exposure geometry and coupling, fixed membrane assumptions, and synthetic calibration prevent these predictions from identifying the mechanism used in an intact brain.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/accepted_count
+    reported: '29'
+    scale: 1
+    decimals: 0
+    units: admissible parameter vectors
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-175
+  kind: computation
+  passage: Can paired capillary inputs distinguish distributed electrical interaction from independent sensing and a shared vascular nonlinearity? We implement a literature-constrained membrane network, screen single-exposure magnitude and reversibility, and fit rivals only to isolated-input responses. Of 8192 sampled parameter vectors, 29 meet the criteria for the chosen connected exposure footprint; a smaller footprint admits none. Across 128 withheld paired protocols, a nonlinear dynamic filter fits isolated responses with 0.078 mV error but has 0.299 mV prediction error against the distributed model. The central measurement compares sibling and distant input pairs with matched single-site waveforms. The nominal geometry contrast is 0.212 mV, while any controller driven only by their identical pooled inputs predicts zero. Refitted localization ablations retain geometry effects; the nearest nominal gap is 0.107 mV. Distinguishing that gap requires per-condition mean standard error of 0.0192 mV under the stated planning assumptions. Parameter sensitivity and focal-block predictions specify the limits of this comparison. The contribution is a quantified discrimination test, not the already proposed idea of capillary summation. Unknown exposure geometry and coupling, fixed membrane assumptions, and synthetic calibration prevent these predictions from identifying the mechanism used in an intact brain.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /constants/pair_conditions
+    reported: '128'
+    scale: 1
+    decimals: 0
+    units: held-out paired protocols
+    conditions: Model constant, design choice, or imported literature summary echoed by the recorded run; epistemic status and source locator are in the frozen parameter inventory. These are not additional observed experimental measurements.
+- id: number-176
+  kind: computation
+  passage: Can paired capillary inputs distinguish distributed electrical interaction from independent sensing and a shared vascular nonlinearity? We implement a literature-constrained membrane network, screen single-exposure magnitude and reversibility, and fit rivals only to isolated-input responses. Of 8192 sampled parameter vectors, 29 meet the criteria for the chosen connected exposure footprint; a smaller footprint admits none. Across 128 withheld paired protocols, a nonlinear dynamic filter fits isolated responses with 0.078 mV error but has 0.299 mV prediction error against the distributed model. The central measurement compares sibling and distant input pairs with matched single-site waveforms. The nominal geometry contrast is 0.212 mV, while any controller driven only by their identical pooled inputs predicts zero. Refitted localization ablations retain geometry effects; the nearest nominal gap is 0.107 mV. Distinguishing that gap requires per-condition mean standard error of 0.0192 mV under the stated planning assumptions. Parameter sensitivity and focal-block predictions specify the limits of this comparison. The contribution is a quantified discrimination test, not the already proposed idea of capillary summation. Unknown exposure geometry and coupling, fixed membrane assumptions, and synthetic calibration prevent these predictions from identifying the mechanism used in an intact brain.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /calibration/fits/dynamic_filter/rmse_mv
+    reported: '0.078'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: 'Single-input-only base-tree screen/fitting: connected exposure at10mM for18s and5s recovery; isolated-site traces span6,8,10,12mM. Parameter sampling and weights are stated in the recorded configuration; no empirical likelihood or paired fitting.'
+- id: number-177
+  kind: computation
+  passage: Can paired capillary inputs distinguish distributed electrical interaction from independent sensing and a shared vascular nonlinearity? We implement a literature-constrained membrane network, screen single-exposure magnitude and reversibility, and fit rivals only to isolated-input responses. Of 8192 sampled parameter vectors, 29 meet the criteria for the chosen connected exposure footprint; a smaller footprint admits none. Across 128 withheld paired protocols, a nonlinear dynamic filter fits isolated responses with 0.078 mV error but has 0.299 mV prediction error against the distributed model. The central measurement compares sibling and distant input pairs with matched single-site waveforms. The nominal geometry contrast is 0.212 mV, while any controller driven only by their identical pooled inputs predicts zero. Refitted localization ablations retain geometry effects; the nearest nominal gap is 0.107 mV. Distinguishing that gap requires per-condition mean standard error of 0.0192 mV under the stated planning assumptions. Parameter sensitivity and focal-block predictions specify the limits of this comparison. The contribution is a quantified discrimination test, not the already proposed idea of capillary summation. Unknown exposure geometry and coupling, fixed membrane assumptions, and synthetic calibration prevent these predictions from identifying the mechanism used in an intact brain.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /heldout/errors/dynamic_filter/paired_rmse_mv
+    reported: '0.299'
+    scale: 1
+    decimals: 3
+    units: mV RMSE
+    conditions: Recorded offline model study; the manuscript states the corresponding model and protocol.
+- id: number-178
+  kind: computation
+  passage: Can paired capillary inputs distinguish distributed electrical interaction from independent sensing and a shared vascular nonlinearity? We implement a literature-constrained membrane network, screen single-exposure magnitude and reversibility, and fit rivals only to isolated-input responses. Of 8192 sampled parameter vectors, 29 meet the criteria for the chosen connected exposure footprint; a smaller footprint admits none. Across 128 withheld paired protocols, a nonlinear dynamic filter fits isolated responses with 0.078 mV error but has 0.299 mV prediction error against the distributed model. The central measurement compares sibling and distant input pairs with matched single-site waveforms. The nominal geometry contrast is 0.212 mV, while any controller driven only by their identical pooled inputs predicts zero. Refitted localization ablations retain geometry effects; the nearest nominal gap is 0.107 mV. Distinguishing that gap requires per-condition mean standard error of 0.0192 mV under the stated planning assumptions. Parameter sensitivity and focal-block predictions specify the limits of this comparison. The contribution is a quantified discrimination test, not the already proposed idea of capillary summation. Unknown exposure geometry and coupling, fixed membrane assumptions, and synthetic calibration prevent these predictions from identifying the mechanism used in an intact brain.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/models/distributed
+    reported: '0.212'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-179
+  kind: computation
+  passage: Can paired capillary inputs distinguish distributed electrical interaction from independent sensing and a shared vascular nonlinearity? We implement a literature-constrained membrane network, screen single-exposure magnitude and reversibility, and fit rivals only to isolated-input responses. Of 8192 sampled parameter vectors, 29 meet the criteria for the chosen connected exposure footprint; a smaller footprint admits none. Across 128 withheld paired protocols, a nonlinear dynamic filter fits isolated responses with 0.078 mV error but has 0.299 mV prediction error against the distributed model. The central measurement compares sibling and distant input pairs with matched single-site waveforms. The nominal geometry contrast is 0.212 mV, while any controller driven only by their identical pooled inputs predicts zero. Refitted localization ablations retain geometry effects; the nearest nominal gap is 0.107 mV. Distinguishing that gap requires per-condition mean standard error of 0.0192 mV under the stated planning assumptions. Parameter sensitivity and focal-block predictions specify the limits of this comparison. The contribution is a quantified discrimination test, not the already proposed idea of capillary summation. Unknown exposure geometry and coupling, fixed membrane assumptions, and synthetic calibration prevent these predictions from identifying the mechanism used in an intact brain.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/selected/minimum_rival_gap_mv
+    reported: '0.107'
+    scale: 1
+    decimals: 3
+    units: mV
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: number-180
+  kind: computation
+  passage: Can paired capillary inputs distinguish distributed electrical interaction from independent sensing and a shared vascular nonlinearity? We implement a literature-constrained membrane network, screen single-exposure magnitude and reversibility, and fit rivals only to isolated-input responses. Of 8192 sampled parameter vectors, 29 meet the criteria for the chosen connected exposure footprint; a smaller footprint admits none. Across 128 withheld paired protocols, a nonlinear dynamic filter fits isolated responses with 0.078 mV error but has 0.299 mV prediction error against the distributed model. The central measurement compares sibling and distant input pairs with matched single-site waveforms. The nominal geometry contrast is 0.212 mV, while any controller driven only by their identical pooled inputs predicts zero. Refitted localization ablations retain geometry effects; the nearest nominal gap is 0.107 mV. Distinguishing that gap requires per-condition mean standard error of 0.0192 mV under the stated planning assumptions. Parameter sensitivity and focal-block predictions specify the limits of this comparison. The contribution is a quantified discrimination test, not the already proposed idea of capillary summation. Unknown exposure geometry and coupling, fixed membrane assumptions, and synthetic calibration prevent these predictions from identifying the mechanism used in an intact brain.
+  evidence:
+    file: simulation/output/results.json
+    run_id: paired-study
+    pointer: /design/precision/condition_mean_se_required_mv
+    reported: '0.0192'
+    scale: 1
+    decimals: 4
+    units: mV mean standard error
+    conditions: Base-tree sibling-minus-distant geometry contrast; K=10.0mM; delay=250.0ms; window=750.0–850.0ms. Fixed nominal rivals unless the pointer explicitly selects the distributed-parameter sensitivity set. Pharmacology and precision retain their explicit assumptions.
+- id: source-longden2017-181
+  kind: source
+  passage: Longden and colleagues established a potassium-sensitive capillary-to-arteriole electrical pathway and implicated endothelial Kir2.1 channels through electrophysiology, pharmacology and endothelial deletion [@longden2017].
+  evidence:
+    citation_id: longden2017
+    locator: Results, capillary potassium sensing and retrograde electrical signaling; Fig. 2
+    depth: fulltext
+    verified: false
+    verification_note: Read the Europe PMC full text, Results, Fig. 2 and online methods; registry identity matched Crossref. Supporting material was inspected by the authoring team; independent source-claim certification is reserved for the reviewer under the binding standards.
+    quote: we measured the SM cell membrane potential at Zone 2
+- id: source-moshkforoush2020-182
+  kind: source
+  passage: Their network simulations already produced graded responses, threshold excitation and summation of activated regions [@moshkforoush2020].
+  evidence:
+    citation_id: moshkforoush2020
+    locator: Results, Binary or graded electrical responses; Fig. 5 and main-text discussion of SI Fig. S7
+    depth: fulltext
+    verified: false
+    verification_note: Read the main text and Fig. 5; the statement about multiple-region summation is in the main text. The supplement itself was inaccessible and is not certified as inspected. Supporting material was inspected by the authoring team; independent source-claim certification is reserved for the reviewer under the binding standards.
+    quote: Binary responses in capillary regions can be integrated
+- id: source-postnov2015-183
+  kind: source
+  passage: Postnov and colleagues had already analyzed negative differential conductance and bistability as mechanisms of regenerative conducted responses [@postnov2015].
+  evidence:
+    citation_id: postnov2015
+    locator: Regenerative Pulse Transmission and Whole-Cell Electric Properties; Bistability Hypothesis
+    depth: fulltext
+    verified: false
+    verification_note: Read the primary full-text XML, including the two named sections. Supporting material was inspected by the authoring team; independent source-claim certification is reserved for the reviewer under the binding standards.
+    quote: the presence of negative whole-cell resistance (or conductance)
+- id: source-rivers1997-184
+  kind: source
+  passage: Rivers found that conducted dilation could saturate with additional stimulation sites on one arteriole while responses accumulated across adjacent arterioles [@rivers1997].
+  evidence:
+    citation_id: rivers1997
+    locator: Registered abstract
+    depth: abstract
+    verified: false
+    verification_note: Read the Crossref-registered abstract and identity record. Full text was not inspected; no figure or page-specific claim is made. Supporting material was inspected by the authoring team; independent source-claim certification is reserved for the reviewer under the binding standards.
+- id: source-longden2026-185
+  kind: source
+  passage: Longden's recent framework explicitly proposes paired capillary inputs, temporal combination, current shunts and upstream voltage recordings [@longden2026].
+  evidence:
+    citation_id: longden2026
+    locator: Arithmetic operations in CCUs; Fig. 4; Open Questions and Future Directions
+    depth: fulltext
+    verified: false
+    verification_note: Read the PMC full text, including the arithmetic proposal and multiple-electrode experiment. These are prior proposals, not measured paired responses. Supporting material was inspected by the authoring team; independent source-claim certification is reserved for the reviewer under the binding standards.
+    quote: injecting currents of varying magnitude and polarity into two downstream branches simultaneously
+- id: source-isaacs2024-186
+  kind: source
+  passage: Isaacs and colleagues found that hyperpolarizing individual thin-strand pericytes could dilate an upstream arteriole and implicated pericyte ATP-sensitive potassium channels in neurovascular coupling [@isaacs2024].
+  evidence:
+    citation_id: isaacs2024
+    locator: Results, Thin-Strand Pericyte Hyperpolarization Dilates Upstream Arterioles; Figs. 2 and 4–6
+    depth: fulltext
+    verified: false
+    verification_note: Read the full-text Results and Discussion, including optogenetic input, channel perturbations, and the stated ambiguity of global barium. Supporting material was inspected by the authoring team; independent source-claim certification is reserved for the reviewer under the binding standards.
+    quote: direct action of Ba2+ on pericyte Kir channels
+- id: source-hariharan2022-187
+  kind: source
+  passage: Hariharan and colleagues connected pericyte KATP activation to glucose availability and upstream blood-flow control [@hariharan2022].
+  evidence:
+    citation_id: hariharan2022
+    locator: Results, glucose reduction and pericyte hyperpolarization; Figs. 2 and 4
+    depth: fulltext
+    verified: false
+    verification_note: Read the full-text Results and corresponding figure captions, including glucose reduction and blockade by glibenclamide; no pericyte resting value is fitted as an endothelial parameter. Supporting material was inspected by the authoring team; independent source-claim certification is reserved for the reviewer under the binding standards.
+    quote: pericytes are acutely sensitive to fluctuations of glucose within the physiological range
+- id: source-moshkforoush2020-188
+  kind: source
+  passage: The sampled coupling interval is a selected part of the published exploration range, because capillary junctional resistance has not been directly measured in the cited model study [@moshkforoush2020].
+  evidence:
+    citation_id: moshkforoush2020
+    locator: Methods, Multicellular Models
+    depth: fulltext
+    verified: false
+    verification_note: Read the explicit coupling-uncertainty statement in Methods and inspected the official pinned model scripts for constants. Supporting material was inspected by the authoring team; independent source-claim certification is reserved for the reviewer under the binding standards.
+    quote: Rgj has not been measured in capillaries
+- id: source-behringer2012-189
+  kind: source
+  passage: Endothelial-tube experiments demonstrate that opening potassium channels can reduce electrical transmission by increasing membrane current loss, and detailed endothelial models describe how membrane and junctional resistance jointly control conduction [@behringer2012; @kapela2018].
+  evidence:
+    citation_id: behringer2012
+    locator: Results, Effects of SKCa/IKCa activation on electrical conduction over distance
+    depth: fulltext
+    verified: false
+    verification_note: Read the full-text experimental conduction and matched-local-response discussion; these are arterial endothelial tubes, not cerebral capillaries. Supporting material was inspected by the authoring team; independent source-claim certification is reserved for the reviewer under the binding standards.
+    quote: reduced CA yet the I–V relationship remained linear
+- id: source-kapela2018-190
+  kind: source
+  passage: Endothelial-tube experiments demonstrate that opening potassium channels can reduce electrical transmission by increasing membrane current loss, and detailed endothelial models describe how membrane and junctional resistance jointly control conduction [@behringer2012; @kapela2018].
+  evidence:
+    citation_id: kapela2018
+    locator: Table 1; Discussion, Endothelial Rgj
+    depth: fulltext
+    verified: false
+    verification_note: Read the full-text parameter table and geometry-dependent coupling discussion; no fitted arterial value is represented as a capillary measurement. Supporting material was inspected by the authoring team; independent source-claim certification is reserved for the reviewer under the binding standards.
+    quote: our estimation of EC-to-EC coupling resistance depends on the assumed geometry of ECs
+- id: electrical-residual
+  kind: definition
+  passage: This compares responses at the same time. Subtracting separately timed peak amplitudes would answer a different question and could create an apparent interaction from a linear system. For independent sensors with passive propagation, the electrical residual vanishes for separate sites, regardless of nonlinear dependence of each sensor on its own input. A nonlinear shared state, including an arteriolar membrane, can produce a nonzero residual.
+  rationale: The time-aligned paired-minus-single difference defines the electrical interaction. It avoids the invalid subtraction of separately timed peaks.
+- id: output-decomposition
+  kind: definition
+  passage: Their difference is exactly
+  rationale: The two displayed flow definitions subtract algebraically to F(H_AB)-F(H_A+H_B); this is an identity for the common map, including its normalized baseline.
+- id: pooled-invariance
+  kind: interpretation
+  passage: 'identical summed input functions and initial states imply identical outputs whenever the state equation has a unique solution. This remains true when $f$ and $g$ are nonlinear and when the common diameter-to-flow transformation follows the controller. Its paired geometry contrast therefore vanishes:'
+  rationale: Uniqueness of a deterministic state equation with the same drive and initial state implies the same trajectory; the claim is restricted to the stated pooled-input class.
+- id: fixed-model
+  kind: assumption
+  passage: The primary model has homogeneous capillary conductances within a network; parameter uncertainty varies them across model instances. It does not represent cell-to-cell channel heterogeneity. The sampled coupling interval is a selected part of the published exploration range, because capillary junctional resistance has not been directly measured in the cited model study [@moshkforoush2020]. The geometry is generated, not reconstructed from an animal. These distinctions matter when translating a voltage prediction to a preparation.
+  rationale: Homogeneous membrane parameters and sealed finite topology define the model class. The parameter ensemble does not represent within-network heterogeneity.
+- id: source-footprint
+  kind: assumption
+  passage: 'We draw 8192 parameter vectors, uniformly in the conductances and uniformly in log coupling resistance, and compare connected exposure regions of 8 and 16 cells. Each receives one imposed potassium waveform. The region is a connected portion of a distal subtree, not separately controlled stimulation at multiple sites. Its correspondence to the experimental solution plume is unknown; exposure size is a structural assumption. The smaller and larger regions give the following finite-sample screen:'
+  rationale: One connected imposed exposure region is treated as a single external stimulus. Its relation to an experimental plume is unmeasured and is varied explicitly.
+- id: output-law
+  kind: assumption
+  passage: Here $H$ is hyperpolarization in mV. The chosen fractional diameter ceiling and voltage scale are assumptions, reality-checked against the dilation scale and near-maximal dilation during hyperpolarization reported by Longden and colleagues [@longden2017]. They are fixed across mechanisms and never fitted to paired responses. The flow relation assumes fixed pressure drop, vessel length and viscosity; it is a feeding-segment flow proxy. It does not calculate flow redistribution in the capillary network.
+  rationale: The common output map is stipulated and shared; the fourth-power flow relation is conditional on fixed pressure, viscosity and segment length.
+- id: calibration-scope
+  kind: interpretation
+  passage: 'The model-comparison targets are explicitly synthetic: 12 isolated-site voltage traces from the selected model on the base tree, plus its broad-exposure endpoint and recovery. Each mechanistic rival refits 3 parameters within the same conductance and coupling bounds. Endpoint and recovery residuals receive weight 10 in the least-squares objective. Mechanistic fits use a common multistart schedule, and paired responses never enter any fitting objective. Successful optimization does not guarantee an equally good fit; the results below expose each rival''s remaining single-site error.'
+  rationale: Synthetic isolated-input fitting establishes conditional distinguishability, not empirical validation. Published aggregate endpoints only restrict plausibility.
+- id: rival-fairness
+  kind: interpretation
+  passage: Table B compares isolated-site calibration error with prediction error against the distributed generator on the complete withheld paired set. Values are in mV. Broad error is signed endpoint error. Exact entries are supplied by construction. A rival with a poor broad-exposure fit is already distinguished by calibration and provides a weaker held-out comparison.
+  rationale: Unequal isolated-input calibration is exposed. The oracle and fitted dynamic filter provide stronger checks than a passive rival already rejected by the broad response.
+- id: uncertainty-scope
+  kind: interpretation
+  passage: At this same protocol and time window, the source-screen ensemble spans 0.128 to 0.271 mV, and the single-trace sensitivity set spans 0.134 to 0.280 mV. These intervals compare varying distributed parameters with fixed nominal rival fits. They neither integrate uncertainty in each rival nor establish separation over the entire physiological parameter space. The pooled-controller invariance remains exact only when its summed single-input drives are matched.
+  rationale: Ranges describe sampled distributed-model sensitivity with fixed rival fits; they are not joint confidence intervals over competing mechanisms.
+- id: precision
+  kind: assumption
+  passage: For the residual geometry contrast, cancellation leaves four condition means. If each mean has independent standard error $s$, then $\operatorname{SE}(G_V)=2s$. At two-sided significance 5% and power 80%, the nominal nearest-rival gap requires $s\leq$ 0.0192 mV, equivalent to a contrast standard error of 0.0383 mV. With an assumed per-preparation standard deviation of 1 mV and independent observations, the planning calculation gives 2724 observations per condition. This noise level is an assumption, not a measured property of the proposed assay; covariance between repeated conditions must be estimated, and repeated imaging frames are not independent preparations.
+  rationale: Variance adds over four independent condition means. Gaussian quantiles give the stated planning calculation; noise and independence are explicit assumptions.
+- id: physiological-scope
+  kind: interpretation
+  passage: A model-generated paired response is a prediction of an assumed mechanism. Its discrepancy from a fitted rival measures distinguishability within the specified comparison, not predictive error against an observed paired response. Single-site agreement narrows a model family but does not independently validate its spatial mechanism. Unmeasured coupling, channel heterogeneity, membrane resetting and boundary loads remain potential sources of disagreement with tissue.
+  rationale: The benchmark compares simulations to simulations. No paired physiological dataset was acquired or used to validate these predictions.
+runs:
+- id: paired-study
+  required: true
+  record: verification/paired-study.json

@@ -1,0 +1,2219 @@
+
+
+
+    
+
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+  
+
+
+  
+
+
+
+  
+  
+    
+  
+  
+  @media screen and (min-width: 64em) {
+    div.pmc-wm {
+      background: repeat-y;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='350' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cfilter x='-.02' y='0' width='1.05' height='1' id='c'%3E%3CfeFlood flood-color='%23FFF'/%3E%3CfeComposite in='SourceGraphic'/%3E%3C/filter%3E%3Ctext id='b' font-family='Helvetica' font-size='11pt' style='opacity:1;fill:%23005ea2;stroke:none;text-anchor:middle' x='175' y='14'%3E%3C/text%3E%3Cpath id='a' style='fill:%23005ea2' d='M0 8h350v3H0z'/%3E%3C/defs%3E%3Cuse xlink:href='%23a' transform='rotate(90 10 10)'/%3E%3Cuse xlink:href='%23b' transform='rotate(90 10 10)' filter='url(%23c)'/%3E%3C/svg%3E");
+      padding-left: 3rem;
+    }
+  }
+
+
+  
+
+
+
+        
+            
+            
+            
+            
+            
+            
+            
+            
+        
+
+        
+            The capillary Kir channel as sensor and amplifier of neuronal signals: Modeling insights on K+-mediated neurovascular communication - PMC
+        
+
+        
+        
+  
+  
+
+
+
+
+
+
+  
+    
+
+    
+        
+    
+
+    
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+        
+    
+      Skip to main content
+    
+
+
+        
+            
+
+
+    
+        
+            
+                
+                    
+                
+
+                
+                    
+                        An official website of the United States government
+                    
+
+                    Here's how you know
+                
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                    Here's how you know
+                
+
+        
+    
+        
+            
+        
+
+
+            
+        
+
+        
+            
+                
+                    
+                    
+                        
+                            Official websites use .gov
+                            
+                            A
+                            .gov website belongs to an official
+                            government organization in the United States.
+                        
+
+                    
+                
+
+                
+                    
+
+                    
+                        
+                            Secure .gov websites use HTTPS
+                            
+                            A lock (
+                            
+                                
+                                    Lock
+                                    
+                                    Locked padlock icon
+                                    
+                                    
+                                
+) or https:// means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            
+
+                        
+                    
+                
+            
+        
+    
+
+        
+
+        
+    
+    
+    
+
+
+
+
+
+
+
+    
+        
+            
+                
+            
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                
+                    
+                
+            
+
+        
+    
+        
+            
+        
+
+
+
+            
+                
+                
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                            
+
+
+
+    
+
+
+                            Search
+                        
+
+        
+    
+        
+            
+        
+
+
+                    
+
+                    
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                                
+
+
+
+    
+
+
+
+                                Log in
+
+                                
+                                
+
+
+
+    
+
+
+
+                                
+                                
+
+
+
+    
+
+
+                            
+
+        
+    
+        
+            
+        
+
+
+
+                            
+                            
+                                
+                                    
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Dashboard
+        
+
+        
+    
+
+
+                                    
+                                
+                                    
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Publications
+        
+
+        
+    
+
+
+                                    
+                                
+                                    
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Account settings
+        
+
+        
+    
+
+
+                                    
+                                
+                                
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        Log out
+
+        
+    
+        
+            
+        
+
+
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+    
+    
+        
+            
+                
+                    
+                        Search…
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                        
+                            Search NCBI
+                        
+                    
+
+        
+    
+        
+            
+        
+
+
+                
+
+                
+            
+        
+    
+
+    
+        
+            Primary site navigation
+        
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+            
+        
+
+        
+    
+        
+            
+        
+
+
+
+        
+            
+            
+                
+                    Search
+                
+
+                
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                    
+                    
+                
+
+        
+    
+        
+            
+        
+
+
+            
+
+            
+        
+
+        
+        
+        
+
+        
+            
+                
+                    Logged in as:
+                    
+                
+
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Dashboard
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Publications
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Account settings
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        Log in
+
+        
+    
+        
+            
+        
+
+
+    
+
+
+    
+    
+        
+
+
+    
+        
+           
+               
+           
+            
+                
+                
+            
+        
+        
+            
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+Search in PMC
+
+
+
+            
+                
+                    
+                        
+                            
+                                Journal List
+                            
+                        
+                    
+                    
+                        
+                            
+                                User Guide
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+    
+
+
+        
+        
+
+       
+  
+
+    
+
+   
+
+
+
+
+    
+        
+             
+                
+                    
+                        
+                            
+                        
+                    
+                    
+                    
+                        
+                                
+                        
+                    
+                    
+                    
+                        
+                             
+
+                                 
+                            
+                        
+                    
+                    
+                        
+                            
+                            
+                        
+                    
+                    
+                    
+                        
+                            
+                        
+                    
+                    
+                    
+                         
+                            
+                        
+                        
+
+
+    
+          PERMALINK
+
+          
+              
+              
+                  
+                  Copy
+              
+          
+    
+
+                    
+                
+            
+            
+                
+            
+        
+    
+
+    
+      
+        
+            
+                
+                    
+                        
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    Learn more:
+    PMC Disclaimer
+    |
+    
+        PMC Copyright Notice
+    
+
+                    
+                
+                
+                    
+                    
+
+                      
+                        
+Proc Natl Acad Sci U S A. 2020 Jun 29;117(28):16626–16637. doi: 10.1073/pnas.2000151117
+
+
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+
+The capillary Kir channel as sensor and amplifier of neuronal signals: Modeling insights on K+-mediated neurovascular communication
+Arash Moshkforoush
+Arash Moshkforoush
+
+
+aDepartment of Biomedical Engineering, Florida International University, Miami, FL 33199;
+Find articles by Arash Moshkforoush
+
+
+a, Baarbod Ashenagar
+Baarbod Ashenagar
+
+
+aDepartment of Biomedical Engineering, Florida International University, Miami, FL 33199;
+Find articles by Baarbod Ashenagar
+
+
+a, Osama F Harraz
+Osama F Harraz
+
+
+bDepartment of Pharmacology, College of Medicine, University of Vermont, Burlington, VT 05405;
+Find articles by Osama F Harraz
+
+
+b, Fabrice Dabertrand
+Fabrice Dabertrand
+
+
+bDepartment of Pharmacology, College of Medicine, University of Vermont, Burlington, VT 05405;
+
+cDepartment of Anesthesiology, University of Colorado Anschutz Medical Campus, Aurora, CO 80045;
+
+dDepartment of Pharmacology, University of Colorado Anschutz Medical Campus, Aurora, CO 80045;
+Find articles by Fabrice Dabertrand
+
+
+b,c,d, Thomas A Longden
+Thomas A Longden
+
+
+bDepartment of Pharmacology, College of Medicine, University of Vermont, Burlington, VT 05405;
+
+eDepartment of Physiology, University of Maryland School of Medicine, Baltimore, MD 21201;
+Find articles by Thomas A Longden
+
+
+b,e, Mark T Nelson
+Mark T Nelson
+
+
+bDepartment of Pharmacology, College of Medicine, University of Vermont, Burlington, VT 05405;
+
+fDivision of Cardiovascular Sciences, University of Manchester, Manchester M13 9PL, United Kingdom;
+Find articles by Mark T Nelson
+
+
+b,f, Nikolaos M Tsoukias
+Nikolaos M Tsoukias
+
+
+aDepartment of Biomedical Engineering, Florida International University, Miami, FL 33199;
+
+gSchool of Chemical Engineering, National Technical University of Athens, Zografou 157 72, Greece
+Find articles by Nikolaos M Tsoukias
+
+
+a,g,1
+
+
+Author information
+Article notes
+Copyright and License information
+
+
+
+
+aDepartment of Biomedical Engineering, Florida International University, Miami, FL 33199;
+
+bDepartment of Pharmacology, College of Medicine, University of Vermont, Burlington, VT 05405;
+
+cDepartment of Anesthesiology, University of Colorado Anschutz Medical Campus, Aurora, CO 80045;
+
+dDepartment of Pharmacology, University of Colorado Anschutz Medical Campus, Aurora, CO 80045;
+
+eDepartment of Physiology, University of Maryland School of Medicine, Baltimore, MD 21201;
+
+fDivision of Cardiovascular Sciences, University of Manchester, Manchester M13 9PL, United Kingdom;
+
+gSchool of Chemical Engineering, National Technical University of Athens, Zografou 157 72, Greece
+
+
+1To whom correspondence may be addressed. Email: tsoukias@fiu.edu.
+
+
+Edited by Arthur Karlin, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, and approved May 20, 2020 (received for review January 9, 2020)
+
+Author contributions: A.M., M.T.N., and N.M.T. designed research; A.M., B.A., O.F.H., F.D., and T.A.L. performed research; A.M., B.A., O.F.H., F.D., T.A.L., and N.M.T. analyzed data; and A.M., M.T.N., and N.M.T. wrote the paper.
+
+
+
+Issue date 2020 Jul 14.
+
+
+Published under the PNAS license.
+
+PMC Copyright notice
+
+
+PMCID: PMC7368319  PMID: 32601236
+
+Significance
+
+Local brain activity is rapidly accompanied by a vascular response to increase blood perfusion. How neuronal activity is sensed by the vasculature is not fully understood. This process, known as neurovascular coupling, constitutes the physiological basis of functional neuroimaging scans and its disruption is associated with cognitive disorders and stroke. We have recently demonstrated the active involvement of capillary endothelial cells in neurovascular communication through the activity of Kir channels. Here, using a computational modeling approach, we investigate the biophysical determinants of capillary-mediated neurovascular coupling. Simulations show how capillary Kir channels sense neuronal activity and initiate and amplify electrical signals—through a process that resembles electrical activity in excitable cells—to produce a robust vasodilatory response.
+
+Keywords: cerebral blood flow, electrical conduction, neurovascular unit, inward-rectifying potassium, computational modeling
+Abstract
+
+Neuronal activity leads to an increase in local cerebral blood flow (CBF) to allow adequate supply of oxygen and nutrients to active neurons, a process termed neurovascular coupling (NVC). We have previously shown that capillary endothelial cell (cEC) inwardly rectifying K+ (Kir) channels can sense neuronally evoked increases in interstitial K+ and induce rapid and robust dilations of upstream parenchymal arterioles, suggesting a key role of cECs in NVC. The requirements of this signal conduction remain elusive. Here, we utilize mathematical modeling to investigate how small outward currents in stimulated cECs can elicit physiologically relevant spread of vasodilatory signals within the highly interconnected brain microvascular network to increase local CBF. Our model shows that the Kir channel can act as an “on–off” switch in cECs to hyperpolarize the cell membrane as extracellular K+ increases. A local hyperpolarization can be amplified by the voltage-dependent activation of Kir in neighboring cECs. Sufficient Kir density enables robust amplification of the hyperpolarizing stimulus and produces responses that resemble action potentials in excitable cells. This Kir-mediated excitability can remain localized in the stimulated region or regeneratively propagate over significant distances in the microvascular network, thus dramatically increasing the efficacy of K+ for eliciting local hyperemia. Modeling results show how changes in cEC transmembrane current densities and gap junctional resistances can affect K+-mediated NVC and suggest a key role for Kir as a sensor of neuronal activity and an amplifier of retrograde electrical signaling in the cerebral vasculature.
+
+Neuronal activity leads to a rapid increase in local cerebral blood flow (CBF) by dilating penetrating (parenchymal) arterioles (PAs) and surface (pial) arteries. The process which underlies this functional hyperemia is referred to as neurovascular coupling (NVC) and allows blood supply to respond to the metabolic demands in the brain (1). NVC is essential for normal brain function and is disrupted in several cognitive disorders and stroke (2). Functional hyperemia also constitutes the physiological basis for functional neuroimaging techniques that are widely used to probe brain function (3).
+
+Despite significant research efforts, how neuronal activity is sensed by the vasculature is far from being fully understood and the communicating cells and chemical messengers involved are still under debate. It is now recognized that NVC mechanisms involve a variety of mediators including nitric oxide, arachidonic acid metabolites, and K+ ions that are released from neurons or glial cells (4–9). An emerging paradigm is that astrocytes are the bridges between neurons and the vasculature to mediate much of the hyperemic response (4, 8, 10–12). However, this view has been challenged by data questioning whether astrocytes mediate an arteriolar response in functional hyperemia (13–16). Studies also suggest that vasoactivity may originate from deeper layers of the cortex (17, 18) and that vasodilatory signals may ascend along the cerebral microcirculation to dilate surface arteries (17). Whether retrograde vasodilatory signaling can account for disparate findings regarding the involvement of astrocytes in NVC needs to be further examined (17).
+
+K+ is a byproduct of every neuronal action potential (AP) (19, 20), and following neuronal stimulation, Ca2+ mobilization in astrocytic endfeet may open large conductance calcium-activated potassium (BKCa) channels (4, 5) to increase the K+ efflux. Thus, neuronal activity can lead to an increase in perivascular/interstitial K+. Regardless of its neuronal or astrocytic origin, an increase in extracellular potassium concentration ([K+]o) can activate vascular inward rectifying potassium (Kir) channels, resulting in vessel hyperpolarization, dilation, and a subsequent increase in local CBF (4, 21).
+
+The arteriolar smooth muscle has been considered as the primary target of NVC mediators. Recent studies, however, put the endothelial layer at center stage in NVC. Data suggest that retrograde vasodilatory signals propagate through the endothelial layer to dilate feeding arteries (17, 22), and evidence of coupling between neuronal activity and the vasculature at the capillary level has been presented (22, 23). We have recently proposed that brain capillaries act as a neuronal activity-sensing network which initiate electrical (hyperpolarizing) signals that ascend to dilate upstream arterioles and increase local CBF (22). In support of this proposition, we have shown that local K+ release at distal capillary sites evokes significant and Kir2.1-dependent hyperpolarization and dilation of the feeding PA, and that hyperemic responses to whisker stimulation are significantly attenuated in endothelial cell (EC)-specific Kir2.1 knockout mice (EC Kir2.1−/−) in vivo. Our data suggest extracellular K+ as a critical mediator for capillary-level NVC and the Kir2.1 channel as the key molecular player for sensing neuronal activity-dependent elevations in [K+]o and translating them into retrograde hyperpolarizing signals.
+
+Although our previous work provided strong experimental evidence for capillary-to-arteriole communication during NVC, the requirements and determinants of this signal conduction remain elusive, and are only accessible, at this time, in silico. The effectiveness of this capillary-initiated vasodilatory signaling will depend on whether the number of capillary EC (cEC) Kir channels activated is sufficient to produce a robust local hyperpolarization, and also on the vessels’ conduction properties that will determine the rate of signal dissipation as it spreads in a highly intertwined brain microvascular network. In this study, we utilized a mathematical framework to investigate the underlying mechanisms that enable capillaries to sense neuronally induced changes in [K+]o and transmit vasodilatory signals effectively to upstream contractile vascular segments (i.e., transitional capillaries with contractile pericytes or PAs). Through integration of model with experimental data, we examine the mechanistic basis for retrograde electrical signaling in the cerebral microcirculation. Model simulations suggest that K+ can evoke AP-like responses in the endothelial layer through the activation of Kir channels, enabling capillary-initiated signals to ascend upstream the vascular network and orchestrate rapid and refined regional blood flow control. Results highlight the role of Kir channel as a critical regulator of the hyperemic response.
+
+Results
+
+Modeling cEC Electrophysiology.
+
+We investigate electrical signaling in the brain microcirculation by first developing a mathematical model for a single cEC. Patch data in freshly isolated mouse cerebral cECs revealed the presence of functional Kir2.1 and TRPV4 channels in these cells (22, 25). In contrast to ECs from all other vascular beds examined up to this date, they do not express small (SK) and intermediate (IK) conductance calcium-activated K+ channels. To examine the role of these newly characterized channels (i.e., Kir2.1 and TRPV4) in capillary electrophysiology, we form minimal mathematical representations (namely models I and II) by reducing a detailed mathematical model of a cEC (adapted from ref. 24 and Fig. 1 A, Left). This minimalistic approach incorporates explicit descriptions for the current through Kir and TRPV4 channels, while all other transmembrane currents are linearized and lumped into a nonspecific background current (Ibg) with a conductance, Gbg (Fig. 1 A, Right). The proposed simplification allows us to focus on the key role of Kir/TRPV4 on K+-mediated dynamics in capillaries and overcome limitations arising from the absence of functional data for other membrane channels in cECs.
+
+Fig. 1.
+
+
+Open in a new tab
+(A) Single-cell models of cEC electrophysiology. A detailed model of cEC incorporates currents through Kir (IKir), TRPV4 (ITRPV4), nonselective cation (NSC) and chloride (Cl) channels, sodium–potassium (NaK) and plasma membrane-calcium ATPase (PMCA) pumps, sodium–calcium (NCX) exchanger, and the NaKCl cotransport. Other channels such as hyperpolarization-activated cyclic nucleotide-gated (HCN) channels (If), or piezo channels (Ipiezo) may be present as suggested by expression data (55). A minimal representation of the cEC includes explicit descriptions for IKir and ITRPV4, while the rest of the transmembrane currents are lumped into a nonspecific background current (Ibg). Kir and TRPV4 activity can be modulated by the levels of PIP2. (B) Simulations of electrical signal propagation are performed in realistic angioarchitectures reconstructed from the vibrissa primary sensory cortex of a mouse (26). cECs are coupled in series through gap junctions to create multicellular capillary segments and networks. Conduction in arterioles accounts for the number of ECs and coupled SMCs at each longitudinal position. Each EC–SMC unit is modeled by including a background current, Ibg,PA = Gbg,PA(Vm – Ebg,PA), based on an effective membrane conductance of the two-cell system and a net Kir current [IKir,PA = GKir,PA (Vm – EK)]. Gap junctional currents between neighboring cells in capillaries (Igj) and in arterioles (Igj,PA) are based on Vm gradients. PAs and pial arteries are shown in red, veins in blue, and capillaries in gray.
+A first minimal model of a cEC (model I) contains an explicit mathematical description for the Kir current (IKir) and the Ibg:
+
+
+IKir=G¯KirK+oVm−EK1+expVm−V0.5k
+[1]
+
+
+
+
+Ibg=Gbg(Vm−Ebg),
+[2]
+
+
+
+where Ebg is the reversal potential for Ibg; EK = RT/F ln([K+]o/[K+]i) is the Nernst potential for K+ where R, T, and F are the universal gas constant, temperature, and the Faraday’s constant, respectively; and V0.5 and k are parameters that describe a sigmoidal inhibition of Kir with membrane depolarization (i.e., Vm for half-maximal inactivation and the steepness factor, respectively). The Boltzmann-type formula (Eq. 1) captures the IKir’s inward rectification and the negative slope conductance as Vm approaches more depolarized potentials (i.e., the inhibition of IKir as Vm depolarizes yields the characteristic N-shaped relationship depicted in Fig. 2B). The channel’s conductance increases with [K+]o
+(GKir=G¯Kir[K+]o), capturing the activation of the channel by extracellular K+. Using a standard Hodgkin–Huxley-type formalism, the time-dependent changes in Vm are predicted from Eq. 3:
+
+
+CmdVmdt+Itot=0,
+[3]
+
+
+
+where Cm is the membrane capacitance and Itot=IKir+Ibg.
+
+Fig. 2.
+
+
+Open in a new tab
+Single-cEC Vm response to [K+]o. (A) Simulated Vm responses (model I) to step increases (blue lines) and decreases (red lines) in [K+]o show jumps between hyperpolarized and depolarized Vm and hysteresis. Solid and dotted traces correspond to Gbg/G¯Kir ratios of 0.7 and 0.3 (mM1/2), respectively. (B–E) Stability analysis. Representative IKir and (−Ibg) traces are depicted as a function of Vm at increasing (3, 5, and 8 mM) [K+]o. Intersection points denote steady states (stable: solid circles, unstable: open circle) where the total current is zero. (B) At low [K+]o the outward Kir current is small and the cell rests at a depolarized Vm. (C) Increasing [K+]o leads to a rightward and upward shift of the IKir curve as a result of the increase in GKir and EK. As the [K+]o increases past a critical concentration, the system undergoes a saddle-node bifurcation and three steady states emerge. The depolarized and hyperpolarized stable steady states (solid red circles) are separated by an unstable steady state in between (threshold Vm, open circle). (D) Further increase in [K+]o drives the system past a second saddle-node bifurcation. The presence now of only one hyperpolarized steady state will force the cell to jump to a hyperpolarized Vm close to EK. (E) Stability diagram shows the parameter space where bistability (depicted in C) exists. Blue/red color map shows the ΔVm threshold at points within the bistable region, for transition to a hyperpolarized/depolarized state. (F) Patch-clamp recordings of isolated cECs (Inset) with 6 mM and 60 mM [K+]o bath concentrations (n = 24) were used to estimate Kir and background conductances (G¯Kir=0.18±0.1 nS/mM0.5 and Gbg = 0.06 ± 0.04 nS). (G) Minimal model (model II) examines Kir-TRPV4 dynamics. Stochastic openings of a single TRPV4 channel yield transient depolarizations. At intermediate [K+]o, transient fluctuations between two polarization levels are predicted as the system crosses a bifurcation point during TRPV4 opening. Vm fluctuations are dampened at higher levels of stimulation as the TRPV4 current is not sufficient to transition the system to the depolarized state.
+To examine the contribution of TRPV4 to cEC dynamics, we separate the TRPV4 current (ITRPV4) from the lumped background current in model I (model II). We account for the stochastic opening of TRPV4 and the resulting transient depolarizing current as described in ref. 25. The simplifying assumptions in the minimal modeling approach (models I and II) are validated against the detailed EC model (SI Appendix, Fig. S1).
+Multicellular Model of Microvascular Networks.
+
+cECs were coupled through gap junctions to construct multicellular capillary networks. Current flow between adjacent cECs is estimated based on the electrical gradient and the cEC-to-cEC coupling resistance (Rgj). Capillary networks were constructed with a geometry that approximates isolated ex vivo preparations (22) (see Fig. 4 A, Inset) or were adapted from larger reconstructed microvascular networks in the brain cortex (26) (Fig. 1B). Conduction of electrical signals in PAs is accounted by considering three ECs coupled to three SMCs at each longitudinal position (Fig. 1 B, Inset). Each PA EC–SMC unit has an effective leak conductance reflecting the net transmembrane resistance (Gbg,PA = 1/Rm,PA, where Rm,PA is the effective membrane resistance of the PA EC–SMC unit) and a total Kir conductance (GKir,PA). Each EC–SMC unit is coupled to an adjacent unit through gap junctions (coupling resistance, Rgj,PA).
+
+Fig. 4.
+
+
+Open in a new tab
+K+-induced electrical signaling in an ex vivo capillary-PA preparation. (A) Smooth muscle Vm recordings in an isolated and pressurized PA with the attached capillary network (Inset) when 10 mM K+ is picospritzed onto the capillary ends. (Left) Representative traces from three mice. (Right) The average (± SD) of six recordings from five mice. (B–E) Model simulations in a corresponding, microvascular network (Inset) that contains 45 cECs (represented by model II) and a 200-µm segment of a PA consisting of 30 coupled EC–SMC units. A localized region at one end of the capillary network is stimulated by injecting 4 pA of current in B (to simulate a response in the absence of EC Kir [EC Kir−/− mice]), or via application of 10 mM K+ to 7 cECs in C–E. In C–E GKir in each cEC is assigned from a normal distribution with SD of 0.2 nS and the mean GKir progressively increases from 0.4 to 0.6 and 0.8 nS. In E, the activity of cEC Kir and TRPV4 is dynamically regulated (i.e., gradual decrease in Kir and increase in TRPV4 conductance with time constants of 3 and 6 min, respectively). (F) Summary data for the predicted level of PA hyperpolarization (at ∼120 µm away from the capillary–PA junction), shown as mean ± SD of 30 simulations with random Kir distributions. cECs are represented with model I. Control conditions (n = 7 cECs [∼15%] stimulated; Gbg,PA = 0.2 nS); leftmost trace (n = 15 cECs [∼30%] stimulated; Gbg,PA = 0.2 nS); rightmost trace (n = 7 cECs [∼15%] stimulated; Gbg,PA = 0.3 nS). Pie charts indicate the resting distribution of cECs based on the classification in Fig. 2E.
+Kir Mediates Sustained cEC Hyperpolarization in Response to a K+ Challenge.
+
+We used mathematical modeling to investigate the ability of cECs to sense an increase in [K+]o by responding through Kir activation. Model I captures the salient features of Kir dynamics in an isolated cEC during a K+ challenge (Fig. 2A). A moderate increase in [K+]o (i.e., from 3 to 8 mM) opens Kir channels and produces a sustained hyperpolarization. Simulations show jumps of Vm from a depolarized to a hyperpolarized potential when [K+]o increases past a critical concentration level ([K+]o ≥ 5 mM in this figure), in agreement with an “all or none” Vm response in cultured ECs (27) and diameter responses in PAs, as well as in coronary and cerebral arteries, when increasing [K+]o (10, 22, 28–30). The critical concentration for the hyperpolarizing Vm jump depends on the Gbg/G¯Kir ratio, as can be observed in solid vs. dashed blue traces (corresponding to solid vs. dashed green arrows in the heat map of Fig. 2E, respectively). Decreasing [K+]o back to resting levels can either return the cEC Vm to the depolarized resting potential (solid red line) or leave the cell at a hyperpolarized potential (dashed red line). This behavior is attributed to the presence of two bifurcation points (i.e., saddle-node bifurcations), yielding a system that can exhibit hysteresis during a K+ challenge/washout cycle and bistability within a K+ concentration window (Fig. 2 B–E). As a consequence of this bistability, small biological variability in channel densities can yield a binomial distribution of hyperpolarized and depolarized resting membrane potentials, as observed in cultured ECs (31, 32).
+cECs Can Have a Bistable Vm.
+
+The stability diagram in Fig. 2E summarizes the system’s dynamic behavior as we move around in the parameter space. The diagram depicts the K+ concentration window for bistability as the ratio of Gbg/G¯Kir changes. As [K+]o increases or Gbg/G¯Kir decreases, the threshold Vm (unstable steady state; open circle in Fig. 2C) gets closer to the depolarized steady state (the solid red circle at depolarized Vm in Fig. 2C). This lowers the ΔVm threshold, ΔVHyp (and the corresponding current threshold, ΔIHyp) for jumping from the depolarized to the hyperpolarized steady state while increasing the ΔVm threshold, ΔVDep, for transition in the opposite direction (SI Appendix, Fig. S2). We separate the bistability region in hyperpolarization-favoring (blue) and depolarization-favoring (red) areas based on the magnitude of ΔVm thresholds required for transition toward one or the other direction (Fig. 2E). cECs can thus be classified into four groups according to their Kir conductance relative to the total transmembrane conductance: cells that have a single depolarized (yellow region) or hyperpolarized (gray region) steady state, depolarization-favoring (red region), and hyperpolarization-favoring (blue region) bistable cells (Fig. 2E).
+
+Studies have previously provided evidence for Kir-mediated bistable membrane potentials in ECs and SMCs (32, 33). We examined whether the Kir current density in cECs is sufficient to create a bistable system at physiological [K+]o. cECs were enzymatically isolated from mouse brain slices (SI Appendix, SI Materials and Methods) and whole-cell patch data were used to estimate the Ba2+-sensitive (GKir) and -insensitive (Gbg) transmembrane conductances (Fig. 2F) (22, 34). Channel conductances [G¯Kir=0.18±0.1 nS/mM0.5; Gbg = 0.06 ± 0.04 nS (n = 24); mean Cm of 8 pF] place cECs within/near the predicted bistability region at physiological [K+]o (refer to SI Appendix, Supplementary Information Text and Fig. S2 for the effect of model parameters on predicted Vm bistability window). Dynamic regulation of the number of active channels per cell can change the percentage of bistable cells in a population of cECs. Overall, theoretical analysis and experimental data suggest that the presence of a dominant Kir current in cECs can create a “bistable switch” in Vm, a characteristic of electrical excitability and a necessary condition for regenerative, AP-like propagation of electrical signals (35).
+TRPV4 Mediates Transient Vm Responses during a K+ Challenge.
+
+Stochastic openings of TRPV4 can produce transient depolarizations in Vm (36). At moderate levels of K+ stimulation (i.e., from 3 to 5 mM), the TRPV4 bursting activity can drive the system past the bifurcation points (i.e., transitioning a cEC from gray to yellow in Fig. 2E), producing large transient Vm jumps (Fig. 2G and SI Appendix, Fig. S3C). These results are in line with experimental data where isolated ECs and arterioles exhibit fluctuations between two polarization levels upon stimulation with intermediate K+ concentrations (∼5 to 8 mM) (27, 32, 37). This experimentally observed instability suggests a bistable system, which can be reproduced in silico when accounting for the stochastic opening of TRPV4. The stochastic Vm fluctuations are dampened with further increasing [K+]o (i.e., ≥8 mM), as the TRPV4 current is not sufficient to drive the cell past the threshold to transition to the stable depolarized Vm (Fig. 2G and SI Appendix, Fig. S3D).
+Bistable Cells Amplify Electrical Signals and Promote Hyperpolarizing Jumps in Capillary Segments.
+
+AP firing, as described by Hodgkin–Huxley-type dynamics, is due to the voltage dependency of the Na+ channel’s (Nav) activation gate that initially creates [i.e., prior to the Nav inactivation or the delayed voltage gated potassium channel [Kv] activation) a bistable Vm (SI Appendix, Fig. S4)]. Thus, from a dynamics point of view, Vm bistability allows for the “all-or-none” response and the regenerative propagation of a depolarizing front along neurons during an AP. By the same token, Kir-induced bistability can facilitate excitability and regenerative propagation of electrical signals along the endothelium (35). In Fig. 3A, we formulated a model of a capillary segment by placing cECs (model I) in series and coupled them via gap junctions with a cell-to-cell electrical resistance, Rgj. Model simulations show that at low Kir current densities (GKir = 0.2 nS), a local K+ stimulus produces a small local hyperpolarization that spreads passively and attenuates along the capillary segment with a length constant λ=rmri (ri=Rgj/LEC and rm=RmLEC are the axial and membrane resistivities per unit length, respectively, and LEC and Rm are the cEC length and membrane resistance). At higher Kir conductances relative to the background current (GKir = 0.4 nS, still within the range of values obtained from single cEC patch clamp recordings), that is, when cECs are bistable, the model predicts significant local hyperpolarization (stimulated cells jump close to EK) that spreads without attenuation (i.e., an “excitable” system; Fig. 3 A and B).
+
+Fig. 3.
+
+
+Open in a new tab
+Electrical conduction in a capillary segment in response to local elevations of [K+]o. cECs (model I) were coupled in series to form a model of a capillary segment. (A) An array of 20 axially connected and identical cECs are stimulated at the left end (n = 2 cells) with 10 mM K+. Vm responses are depicted at rest (dashed line) and following stimulation, for GKir = 0.2 nS and 0.4 nS with Rgj = 10 MΩ. Bistable cECs (GKir = 0.4 nS; blue region in Fig. 2E) can produce substantially higher local hyperpolarization, compared to passive cECs (GKir = 0.2 nS; yellow region in Fig. 2E), which propagates without attenuation. (B) Time course of the Vm responses presented in A. The system resets to the resting depolarized Vm after stimulus termination when low levels of GKir are assumed (GKir = 0.2 nS; yellow cECs), but it does not when higher GKir (GKir = 0.4 nS; blue cECs) promotes a hyperpolarizing Vm jump upon stimulation. Traces for the stimulated cells are shown in green and for the last cell in red. (C) TRPV4 activity (model II) can facilitate resetting in the excitable system. (D–F) Level of distal (400 μm/20 cells from stimulus site) hyperpolarization (ΔVm) color-coded for a long (n = 200 cells) (D) and a short (n = 20 cells) (F) capillary segment. Depending on GKir and Rgj, passive conduction, facilitated hyperpolarization, or excitability with or without regenerative propagation of a hyperpolarizing front is predicted. In a long capillary segment, increasing Rgj (arrow in D) can increase distal hyperpolarization by promoting regenerative conduction (E). (G) Time course of a hyperpolarizing jump in a short, well-coupled (Rgj = 10 MΩ) segment upon stimulation of two or four cells at one end. (H and I) Regenerative propagation of the hyperpolarizing front in a long segment (n = 200 cells) with Rgj of 100 MΩ (H) and 1 GΩ (I).
+The “passive” system resets following stimulus termination in our capillary model (Fig. 3B; GKir = 0.2 nS), that is, Vm returns to its basal value upon removal of the stimulus. However, removing the stimulus could not reset Vm in the excitable system (Fig. 3B; GKir = 0.4 nS), as the local bistable cells did not depolarize by the return of [K+]o to resting levels due to hysteresis (Fig. 2A, dotted line). Furthermore, as theoretical analysis in ref. 35 indicates, an infinitely long capillary (i.e., capillary length [L] >> λ) with identical and bistable ECs can promote regenerative conduction of either a hyperpolarizing (blue ECs) or a depolarizing (red ECs) front, but not both. Thus, the model capillary cannot return to the resting Vm values upon stimulus termination under the excitable conditions in Fig. 3B. Similar to an AP, delayed inactivation/activation of channels may be required to depolarize the capillary back to resting Vm (discussed in later sections).
+TRPV4 Activity Can Facilitate the System’s Return Following Stimulus Termination.
+
+Model simulations in Fig. 3C suggest that the presence of TRPV4 channels can provide a resetting mechanism for the excitable capillary segment in Fig. 3 A and B. Basal TRPV4 channel activity (SI Appendix, Fig. S5), at levels that have been observed experimentally (25), was capable of turning back the “bistable switch” in an excited capillary segment. The depolarizing effect of stochastic TRPV4 transients along the capillary segment enables capillary depolarization to resting Vm levels after stimulus termination (i.e., the current threshold for transitioning to the depolarized Vm is reduced after the stimulus is removed). Basal TRPV4 activity can, thus, conditionally facilitate (i.e., depending on the required threshold current) the return of the capillary to the depolarized resting potential upon stimulus termination. More robust resetting can be achieved by the presence of delayed activated currents (SI Appendix, Fig. S6), or by a progressive down-regulation of Kir activity and/or up-regulation of TRPV4 upon stimulation as observed, for example, during plasma membrane phosphatidylinositol 4,5-bisphosphate (PIP2) hydrolysis or reduction of adenosine 5′-triphosphate (ATP) (25, 34). This would slowly transition cECs from hyperpolarization-favoring (blue) during stimulus initiation to depolarization-favoring (red or yellow), enabling capillary Vm to return to resting potential and protect the system against a prolonged excitability.
+Weak Intercellular Coupling Promotes Regenerative Electrical Conduction.
+
+Whether a K+ challenge can produce a hyperpolarizing jump (i.e., whether a capillary is “excitable”) depends on the ratio of GKir/Gbg, the stimulus strength (i.e., number of cells stimulated), and the coupling between neighboring cECs (Fig. 3 D and F). Interestingly, the minimum required GKir for excitability decreases as the resistance (Rgj) between adjacent ECs increases under the conditions of Fig. 3D (i.e., long capillary segment; L >> λ). Thus, for the given level of stimulation and Kir activity, significant local and distal hyperpolarization can be achieved only if Rgj is increased within an optimal range (green arrow in Fig. 3D and traces in Fig. 3E) (35). Our model predicts that electrical signals can propagate along the endothelium even if Rgj is in the GΩ range [compared to the Rgj in the MΩ range that enables robust but passive propagating responses in arteries (38, 39)]. This behavior is attributed to the enhanced efficacy of K+, as a stimulus onto cECs, in eliciting a voltage response from a cEC when Rgj is higher (i.e., current loss to neighboring cells is reduced and opening of Kir channels induces a larger local change in Vm), which allows for local hyperpolarization above the ΔVm threshold (ΔVHyp) for “turning the bistable switch.” Once Vm passes the threshold value, the cEC jumps to a hyperpolarized potential and drives hyperpolarization of its neighboring cell, causing a domino-like effect along the capillary (regenerative conduction), analogous to the propagation of APs in neurons.
+Capillary Length, Coupling Resistance, and Amplification of Hyperpolarization.
+
+Simulations in short (relative to λ) capillary segments revealed different Vm dynamics (Fig. 3F) compared to long segments (Fig. 3D). Significant hyperpolarization can be achieved with lower GKir, and Rgj in the megaohm range. Stimulation of a few cECs, and the resulting small initial hyperpolarization, is enhanced by the opening of Kir channels along the length of the capillary segment. This Kir-mediated facilitation results in higher levels of local and distal hyperpolarization (facilitated hyperpolarization), and the fidelity of this response increases with an elevation in Kir density/activity. This mode of positive feedback by Kir channels has been theoretically analyzed and experimentally observed in neurons (40) and in arteries (41–43). Further increase in GKir above a threshold value, but below what is required for regenerative conduction in Fig. 3D, promotes a hyperpolarizing jump in Vm upon K+ stimulation (excitable region in Fig. 3F). This Kir-mediated segment excitability differs from the regenerative conduction described in long segments by the absence of a propagating hyperpolarizing front, that is, the last cEC jumps to the hyperpolarized Vm before the stimulated cECs (notice the crossover of the red [last cell] vs. green [stimulated cells] traces in Fig. 3G compared to Fig. 3 H and I), and by its dependence on the size of the capillary. Stimulation of a sufficient number of cECs may allow such a spatially confined excitability in a capillary network. Thus, depending on the length, stimulus strength, gap junctional resistance, and channel densities, focal stimulation of a capillary segment may result in 1) a relatively small local Vm change that spreads passively and dissipates with distance (passive system), 2) a more pronounced local and distal hyperpolarization as the conducted signal is facilitated by the partial opening of Kir channels in neighboring cells (facilitated conduction), 3) a segment excitability without the regenerative propagation of a hyperpolarizing front (excitable system), and 4) a full-blown regenerative propagating hyperpolarizing front (regenerative conduction).
+Conduction Velocity.
+
+In a capillary with passive characteristics (i.e., constant Rm), the ratio of λ to the characteristic time constant τ = CmRm (∼130 ms) (i.e., v=λ/τ=LEC/Cmrirm; ∼0.6 to 6 mm/s) governs the time to record a detectable Vm change at a distal cell upon local stimulation. Distal Vm will continue to rise and approach a new steady-state value within milliseconds as dictated by τ. In Fig. 3 G–I we examine the conduction velocity in capillary segments under conditions that promote the opening of distal Kir channels (i.e., nonpassive conductions). In a short capillary segment (L = 200 μm; Rgj = 10 MΩ), distal cells respond fast upon K+ stimulation (λ/τ at rest is ∼6 mm/s) and detectable Vm changes are predicted at the distal end within tens of milliseconds (Fig. 3G). Thus, cECs in a short and well-coupled capillary segment responds nearly simultaneously to the K+ stimulus. However, the time for the capillary segment to rise to the new steady-state Vm depends on the stimulus strength (number of cells stimulated) and can become significantly slower than τ. This behavior suggests that the response dynamics of distal cECs are not limited by the time to charge the cells’ membrane capacitance, but rather by the rate of progressive Kir channel recruitment as Vm hyperpolarizes. Experimental data in small isolated capillary networks (Fig. 4A) demonstrate such characteristics, providing evidence for a Kir-mediated amplification of the propagating electrical signal.
+
+In long capillary segments (L = 4,000 μm; Rgj = 100 MΩ to 1 GΩ; λ/τ=2 to 0.6 mm/s), distal cells respond with a delay (reflecting the delayed arrival of the hyperpolarizing front) followed by a fast transition to a hyperpolarized Vm (Fig. 3 H and I). The conduction velocity of the hyperpolarizing front is v≈40 cECs/s or ≈ 0.8 mm/s for Rgj of 1 GΩ (Fig. 3I), and increases to 120 cECs/s ≈ 2.4 mm/s, if Rgj = 100 MΩ (Fig. 3H). The latter is still three orders of magnitude less than typical conduction velocities in unmyelinated neuronal axons, owing to approximately three orders of magnitude larger membrane (rm) and axial (ri) resistivities of a capillary to those of axons (SI Appendix, Table S1).
+Evidence for Regenerative Hyperpolarization in the Brain Microcirculation—an Inverted Sustained AP.
+
+We have recently provided ample evidence that elevation of K+ around capillaries transmits electrical signals to upstream arterioles (22). Picospritzing 10 mM K+ onto a few capillary ends in an ex vivo preparation of a PA with attached capillaries (Cap-PA) (Fig. 4 A, Right, Inset) (SI Appendix, SI Materials and Methods) caused significant hyperpolarization (up to 30 mV) and maximal dilation of the PA, hundreds of microns away from the stimulus site (Fig. 4A). However, the magnitude of outward Kir current in cECs (often below the limit of detection in patch-clamp experiments) suggests that K+ stimulation of a few cECs can only generate up to a few picoamperes of hyperpolarizing current. By comparison, equivalent conducted responses in small arterioles typically require several nanoamperes of stimulating current (38, 44, 45). This disparity in stimulatory current requirement cannot be explained by differences in size or in the number of cells between arteries and capillaries. How does the stimulation of a few cECs produce robust dilations in upstream feeding arteries?
+
+We formulated a model capillary-PA network that resembles the Cap-PA preparation and examined the effect of increasing [K+]o on cECs located on one end of the capillary branch (∼15% of total cECs in the network). Simulations assume a heterogeneous population of cECs with variable number of active Kir channels to account for biological variability, similar to values observed experimentally (Fig. 2F). As the mean GKir increases, the majority of the cell population shifts from passive (yellow) to depolarization-favoring (red) to hyperpolarization-favoring (blue), as shown in the respective pie charts in Fig. 2F. A heterogeneous capillary network behaves passively when most cells are passive or depolarization-favoring and remains insensitive to K+ stimulation (Fig. 4C). This response is comparable to that of a capillary network without Kir channels (EC Kir−/−) which is locally stimulated with an equivalent current injection (Fig. 4B). Thus, the model predicts a limited hyperpolarization of the feeding PA (black trace) under passive conditions, significantly below the observed 20- to 30-mV arteriolar response observed experimentally (Fig. 4A). The effect from an equivalent local stimulation in vivo is expected to be even lower since the current would disperse in both upstream and downstream directions and to every connected side branch. Thus, comparison of ex vivo and in silico data suggests that amplification of the capillary-initiated electrical signaling, by a mechanism intrinsic to the microvascular network, is essential to explain our experimental observations.
+
+When a higher Kir density is assumed (mean GKir = 0.6 nS), the majority of cECs become bistable, and the K+ challenge produces a local hyperpolarization that is enhanced by the Vm-induced opening of cECs along the capillary network (Fig. 4D). A network containing mostly bistable and hyperpolarization-favoring (i.e., blue) cECs (Fig. 4E) produces significant local response upon stimulation (Vm jumps close to EK), and the predicted level of PA hyperpolarization is comparable to the experimentally observed SMC responses in Fig. 4A. Furthermore, the Vm traces in Fig. 4E can account for the slow increase in Vm hyperpolarization observed in Fig. 4A as Kir channels are progressively recruited. Additionally, consistent with the observations in Fig. 4A, the return of the system to its resting Vm in Fig. 4E is delayed, since the bistable system can stay at a hyperpolarized potential following stimulus termination until the relative Kir activity drops below the threshold for turning the “bistable switch.” At Kir activity levels below the requirement for excitability, amplification of hyperpolarization (facilitated conduction) and a passive return (i.e., without the need of TRPV4 or dynamic changes in channel conductances) to resting levels following stimulus termination is observed (Fig. 4D).
+
+Fig. 4F presents summary data from simulations using the Cap-PA model as the mean GKir varies from 0 to 1.2 nS, with cECs modeled using model I. In a relatively well-coupled network (Rgj = 10 MΩ), sufficient Kir activity (GKir = 0.8 nS) promotes a Vm jump to values close to EK upon K+ stimulation (10 mM) even with only 15% of total cECs stimulated. As the leakiness of the PA increases, or the number of stimulated cells decreases, higher Kir activity is required to promote significant PA hyperpolarization through network excitability. Collectively, simulation results suggest that even with conservative estimates for critical parameter values (Rgj = 10 MΩ, n = 15 cells [30% of total cEC stimulated], rm,PA = 5 GΩcm), the observed PA SMC hyperpolarization in the experiments (up to 30 mV) cannot be explained unless the capillary-initiated signal is significantly amplified by bistable ECs as it is conducted toward the PA, that is, an excitable system.
+Binary vs. Graded Responses of Capillary Modules to K+ Stimulus.
+
+Simulations using realistic angioarchitectures allow us to relate the ex vivo data to in vivo function. We used a small segment of an in vivo capillary network reconstruction from the vibrissa primary sensory cortex of a mouse (adapted from ref. 26) with its feeding PA and a draining parenchymal venule (PV) to examine how neuronal signals are integrated in capillaries to produce hyperpolarization (dilation) of the feeding arteriole (Fig. 5C). Simulations assume a heterogeneous population of cECs with variable number of active Kir channels to account for biological variability. We examine the effect of changing the mean GKir in the capillary network—probing the system’s ability to dynamically regulate Kir activity, as occurs through PIP2/ATP depletion (25, 34). Simulations in Fig. 5A show that stimulating a small number of randomly distributed cECs (∼10 to 14% of total cECs, highlighted in white) with 10 mM K+ can hyperpolarize the feeding PA. When the mean cEC GKir is small (i.e., 0.1 nS; yellow cECs), a passive capillary network is insensitive to K+ stimulation. As the mean GKir (and the percentage of bistable cECs) increases, so does the sensitivity of the microvasculature to local K+ stimulation. In a relatively well-coupled network (Rgj = 50 MΩ), graded increases in PA hyperpolarization are predicted as the number of stimulated cECs increases (Fig. 5A; mean GKir = 0.4 and 0.5 nS). Above a mean GKir threshold (>0.5 nS, where majority of cECs are hyperpolarization-favoring bistable), a highly sensitive capillary module allows maximum hyperpolarization when a sufficient number of cells (≥12% of cECs) are stimulated, and the module operates in a binary (on/off) mode. Summary results for the model network are presented in Fig. 5B. Depending on the level of Kir activity, the microvascular network can exhibit graded or “all-or-none” responses as the number of stimulated cells increase, and for a given stimulatory scenario, modulation of GKir can regulate the fidelity of the response. In larger microvascular network simulations, graded responses can be achieved by summation of binary inputs from multiple activated capillary network regions (SI Appendix, Fig. S7).
+
+Fig. 5.
+
+
+Open in a new tab
+Binary or graded electrical responses in microvascular networks. (A) Predicted Vm hyperpolarization (color-coded) in a capillary network reconstruction from the vibrissa primary sensory cortex of a mouse with its feeding PA and draining venule, stimulated with 10 mM of [K+]o (stimulated sites are highlighted with white circles). Vascular geometry from ref. 26. A heterogeneous population of cECs with different Kir densities is assumed (normal distribution of cEC GKir with SD of 0.2 nS). Simulations for different mean cEC GKir and various number of randomly selected cECs stimulated (as a percentage of total in the network) are presented. At low levels of mean GKir (0.1 nS, first column), the system is insensitive to K+ stimulus for the number of stimulated cells examined. Increasing the mean GKir level (0.4 and 0.5 nS, second and third columns) places more cECs in the bistable region, and the level of evoked PA hyperpolarization is enhanced as the number of stimulated cECs increase. Further increase in the mean GKir makes the capillary network highly sensitive to K+ stimulus (fourth column, mean GKir = 0.6 nS, majority of cells are hyperpolarization-favoring). Surpassing a threshold number of stimulated cells results in a hyperpolarizing jump for the entire capillary network, which in turn increases the level of PA hyperpolarization. (B) Summary data for the mean PA hyperpolarization in A. Pie charts show the distribution of cECs at mean GKir levels of 0.1, 0.4, 0.5, and 0.6 nS, respectively. Data are shown as mean ± SD averaging results from 30 trials with randomly distributed Kir densities and stimulated cECs. (C) Schematic of the network used for the simulations in A and B where capillaries are depicted in gray, the feeding PA in red, and the draining PV in blue. Simulations use model I for cECs and Rgj = 50 MΩ.
+Retrograde Electrical Signaling through Capillaries and PAs.
+
+We used simulations in larger realistic microvascular network reconstructions to test whether a focal stimulation deep in the cortex can be conducted to the surface microcirculation to cause a robust dilation and a pronounced increase in local CBF. We first examined the propagation of electrical activity upon direct focal stimulation of a PA. In simulations of Fig. 6A we stimulate a PA segment (100 μm in length), approximately located in cortical layer IV or layer VI, with 10 mM K+. Under control conditions, we assume a relatively modest Kir activity in both capillaries and PAs (i.e., GKir = 0.3 nS, GKir,PA = 0.65 nS). The model predicts only a few millivolts of arteriolar hyperpolarization in this scenario. The fidelity of local K+ stimulation and the efficiency of electrical conduction along the PA were significantly affected by the level of cEC coupling in the surrounding capillaries; this is attributed to the increased dissipation of the electrical signal at capillary branching points as Rgj decreases. Results also demonstrate dependence on the location of focal stimulation. A higher number of branching points in the deeper layers of the cortex leads to attenuated hyperpolarization and less-efficient electrical conduction when the PA is stimulated in approximately layer VI vs. in layer IV (Fig. 6B). Despite the inhibitory effect of the capillary network on the retrograde signaling through the PA, conditions could be identified (GKir,PA = 2.4 nS; Rgj = 100 MΩ) that would promote PA excitability and significant hyperpolarization of the feeding surface arteries. Overall, simulation results suggest that significant upstream hyperpolarization upon focal PA stimulation with K+ requires sufficient Kir channel density to amplify the stimulatory current and a high coupling resistance at branching capillaries to limit the dissipation of the conducting current toward the capillary network.
+
+Fig. 6.
+
+
+Open in a new tab
+Ascending [K+]o-mediated hyperpolarization along penetrating arterioles in a reconstructed microvascular network. A 1,000- × 500- × 500-µm3 reconstructed network containing ∼8,000 cECs, feeding PAs, and draining PVs is utilized to investigate the effect of focal K+ stimulation on microvascular network hyperpolarization. Vascular geometry from ref. 26. Each cEC is modeled using model I. (A) Vm response is presented color-coded following stimulation of a PA segment (100 μm) located approximately in cortical layers IV or VI with 10 mM K+ (highlighted white box). Simulations show level of PA hyperpolarization as GKir,PA and Rgj increase, and when the surrounding cECs (within a 4-nL volume; 50 cECs) are also exposed to 10 mM [K+]o. (B and C) Summary data comparing the average level of PA hyperpolarization upon focal stimulation of the PA at two different depths (layer IV vs. layer VI) (B), or a focal PA simulation with or without stimulation of surrounding capillaries (C).
+Stimulating cECs in addition to PA ECs can facilitate vasodilatory signals to ascend toward the surface circulation. Simulations show that K+-induced stimulation of surrounding cECs, in addition to a direct stimulation of the PA segment, increases the local stimulatory current, and as a result increases ascending hyperpolarization through the PA (Fig. 6A). Furthermore, under conditions that promote regenerative conduction in the capillary network, such as increased Kir density and low gap junctional coupling, stimulation of a few cECs can elicit robust retrograde electrical signaling in the brain. In Fig. 7 we tested whether stimulation of cECs deep in the cortex can be transmitted to the upstream PAs and surface pial arteries. Approximately 200 cECs within a 10-nL tissue volume were stimulated with 10 mM K+. In Fig. 7 A, Middle, a significant Kir channel density (Gkir = 0.6 nS) resulted in local excitability (∼30 mV of hyperpolarization) and the hyperpolarizing signal remained confined in the stimulated area. The hyperpolarizing influence on the PA was rather modest (a few millivolts) and local. Increasing the number of stimulated capillary regions could produce robust PAs hyperpolarization (SI Appendix, Fig. S7). In Fig. 7A, Right, as well as in Fig. 7B, we examined the effect of preferentially distributing capillary Kir channels closer to PAs while maintaining a similar average Kir density in the capillary network. Simulations assume a gradient in capillary Kir conductance (GKir reduces from 1.2 nS in capillaries close to PA to 0.3 nS in capillaries close to the venular end of the network) and an increased Rgj (400 MΩ) to promote regenerative conduction. Simulation results show that the same stimulatory scenario as before yields a significant local hyperpolarization that regeneratively ascends through the capillary network toward the surface microvasculature (Fig. 7). Thus, the electrical signal can efficiently propagate through the capillary network as a result of conditions that promote regenerative conduction, allowing stimulations deep in the cortex to be transmitted over long distances and affect tone of upstream PAs and surface pial arteries. The regenerative electrical signaling was spatially confined (Fig. 7, top view) and preferentially directed toward PAs and surface arteries by the gradient in Kir density.
+
+Fig. 7.
+
+
+Open in a new tab
+Kir-mediated control of electrical conduction in microvascular networks. (A) Simulations of electrical signal propagation in a reconstructed network containing ∼25,000 cells within a 500-nL volume. K+ stimulation of cECs deep within the cortex (white dots, Left) results in local excitability (Middle) or in regenerative electrical conduction toward the surface vessels (Right). Vascular geometry from ref. 26. Two hundred cECs within approximately a 10-nL volume are stimulated with 10 mM of K+. Higher Rgj and preferential distribution of Kir channels in the vicinity of PAs (Right) promote regenerative (AP-like) conduction of electrical signals (Middle: Rgj = 50 MΩ, Gkir = 0.6 nS; Right: Rgj = 400 MΩ, Gkir = 1.2 to 0.4 nS [decreasing 0.1 nS per generation from the arteriolar to the venular end of the network]). (B) Time course of ascending electrical signaling under conditions promoting regenerative conduction. Similar to A, preferential distribution of Kir in cECs near PAs promotes regenerative propagation of electrical signals (Rgj = 100 MΩ, Gkir is 1.2 nS in the vicinity of PA and 0.3 nS away from the PA). Network Vm distribution is depicted at different time points from stimulus initiation (t = 0; 10 mM of K+). A hyperpolarizing front ascends toward the surface vasculature without attenuation, while it remains spatially confined near the feeding PA (top view, Bottom Right). Each cEC in the network is represented by model I.
+Discussion
+
+Capillary ECs in the brain have been extensively studied in the context of the blood–brain barrier, yet very little is known about their electrophysiological properties. The high capillary density in the brain allows for a close proximity of cECs to every neuron, thus uniquely positioning them to monitor neuronal activity. However, whether the capillary endothelium is capable of sensing neuronal activity and transmitting signals to cause upstream vasodilation—a question with profound implications for global NVC mechanisms—has received little research attention. Recent experimental evidence indicates that capillaries may act as a sensory web to detect neuronal activity through Kir channel-mediated sensing of local elevations in [K+]o (22). These changes can be communicated by a hyperpolarizing electrical signal from capillaries to PAs through the endothelial layer. Together with direct activation of arteriolar (SMC and EC) Kir channels by K+ from astrocytes and/or neurons, the capillary-initiated electrical signals can produce stable vasodilation and hyperemia. Model analysis in this study elucidates the biophysical determinants of K+ sensing by cECs and the parameters/mechanisms that regulate retrograde electrical signal transmission from capillaries to upstream feeding arteries in the brain.
+
+The Capillary Kir Channel as a Sensor of K+.
+
+Activation of Kir family members by Vm and [K+]o has been well characterized and likely reflects unblocking of the channels by internal polyamines (46). As [K+]o increases, the current–voltage relationship shifts in an upward and rightward direction (Fig. 2 B–D) due to an increase in GKir, EK, and V0.5 (Eq. 2). Consequently, the Kir activity at resting Vm increases. For example, at resting conditions (Vm ≈ −30 mV), increasing [K+]o from 3 mM to 10 mM causes an ∼100-fold increase in Kir chord conductance (from ∼0.0006 nS to ∼0.07 nS). However, this 100-fold increase in conductance yields only a small (subpicoampere) increase in the outward, hyperpolarizing current at resting potentials. The K+-induced Kir opening, however, can be self-amplifying since the cell hyperpolarizes in response to the increased IKir, which can further increase activity through channel opening by Vm hyperpolarization. Mathematical analysis (Fig. 2) quantifies this effect and shows how small increases in [K+]o can exert a profound hyperpolarizing effect as a result of a bifurcation that promotes a hyperpolarizing jump when a threshold [K+]o is crossed. Thus, the Kir channel acts essentially as an “on–off” switch to rapidly and profoundly hyperpolarize the cell membrane in capillaries and arterioles when extracellular K+ increases.
+Kir-Mediated Control of Microvascular Vm.
+
+ECs are classified as electrically nonexcitable cells; however, studies have often revealed nontypical Vm dynamics: Two resting potentials have been observed in cultured EC monolayers (31, 32), and isolated ECs may exhibit spontaneous transitions between a hyperpolarized and a depolarized potential when bath K+ increases (24, 27). Similarly, all-or-none responses to increasing [K+]o (10, 22, 28–30, 47) and spontaneous transitions between two polarization levels (37) have been documented in isolated cerebral arteries, and evidence for Vm bistability in cerebral SMCs has also been presented (33). Although the presence of Kir current is a prerequisite for these responses, the underlying mechanisms and physiological relevance have not been elucidated. Model simulations performed in this study show how bistable cells can amplify incoming electrical signals and under certain conditions promote excitability and regenerative conduction (Figs. 3F and 5–7).
+Are ECs Capable of Carrying APs?
+
+The inward rectification of the Kir by channel pore blockers provides the characteristic N-shaped current–voltage relationship that resembles, albeit inverted, the Vm dependence of the Nav activation gate that underlies neuronal APs (SI Appendix, Fig. S4). This nonlinear dependence on voltage allows for the creation of bistable systems in capillaries and neurons that can promote hyperpolarizing and depolarizing jumps upon threshold excitation (Fig. 2 and SI Appendix, Fig. S4). Model simulations demonstrate that AP-like electrical responses are possible in capillaries when there is sufficient Kir density (Fig. 3).
+
+Experiments have provided evidence of bistability in ECs (27) and mechanisms exist to modulate Kir activity (i.e., regulation by [K+]o and PIP2/ATP) (25, 34) and thus adjust/regulate the percentage of bistable ECs in a microvascular network. Most importantly, experiments in capillary networks have shown threshold excitation and robust all-or-none responses (supplementary figure 5 in ref. 22)—the salient features of an AP. Unlike neuronal APs, the inverted (i.e., hyperpolarizing) burst of electrical activity in cECs is mediated by K+ efflux rather than Na+ influx and does not spontaneously reset, allowing for a prolonged and stimulus-dependent duration of activity. Compared to neurons, capillaries form a low-intensity system with transmembrane current densities on the order of 0.5 pA/pF, almost 1,000-fold lower that typical current densities in mammalian axons (20). Higher membrane (rm = 30 MΩcm) and axial (ri = 5 to 500 GΩ/cm for Rgj = 10 MΩ to 1 GΩ) resistances yield much lower conduction velocities in capillaries (millimeters per second) compared to neurons (meters per second) (Fig. 3 H and I). Thus, the predicted vascular AP resembles a low-intensity, inverted, neuronal AP which can be sustained during stimulation and has a much slower conduction velocity.
+Evidence for Kir-Mediated Amplification of Electrical Signaling.
+
+K+ stimulation of a few cECs can yield robust Kir-mediated hyperpolarization and dilation of the feeding PA several hundred microns away in an ex vivo preparation and in vivo (22). The levels of evoked hyperpolarization are remarkable when one considers the small outward Kir currents recorded in isolated cECs and the small number of cECs stimulated in the experiments (22). Model analysis here consolidates experimental data in isolated cECs with integrated responses in capillary networks and shows that the evoked arteriolar hyperpolarization cannot be explained by a passive electrical spread from the stimulated capillary segment to the PA (Fig. 4 B and C). We thus propose that the significant arteriolar hyperpolarization in the ex vivo Cap-PA preparation, as well as in the in vivo data (22), suggests amplification of electrical signals in the cerebral microcirculation. Simulations reveal a significant potential of Kir channels for amplifying conducted electrical signals, providing the means to induce significant upstream dilations in response to small local stimulatory currents (Figs. 4–7).
+Analog vs. Digital Mode of Microvascular Network Hyperpolarization.
+
+Simulations show that a progressive increase in Kir activity can transition a capillary segment (Fig. 3) or a microcirculatory region (Fig. 5) from insensitive to K+ stimuli (passive system) to one of intermediate sensitivity with responses graded to the level of stimulation (facilitated conduction) to a sensitive and binary (on/off) sensory web (excitable with/without propagating front). Thus, dynamic modulation of Kir by [K+]o, PIP2, or membrane potential can regulate the system’s fidelity/sensitivity and the ability to work in a digital or analog fashion. Binary responses in capillary regions can be integrated to hyperpolarize feeding arteries at levels that increase as more regions are stimulated. Under this scenario, the blood flow response can be graded by the number of activated regions (SI Appendix, Fig. S7).
+Space-Clamped Excitability or AP-Like Propagation.
+
+Parametric analysis in models depicting capillary segments or networks revealed conditions that can promote hyperpolarizing jumps upon K+ stimulation. Conditions that promote excitability were identified in short, well-coupled capillary segments after local stimulation (Fig. 3F), in isolated networks (Fig. 5A), and in larger vascular architectures (SI Appendix, Fig. S7) when a small percentage of locally distributed cECs were stimulated. Experimental data provide evidence for capillary excitability in isolated ex vivo microvascular networks stimulated locally by 10 mM K+ (Fig. 4A). Model simulations show how these hyperpolarizing jumps can be achieved with lower Kir densities than what is required for regenerative (AP-like) conduction, and how they could reset following stimulus termination by basal levels of TRPV4 activity (Fig. 3C). This process could be supported by delayed changes in transmembrane currents (including, e.g., If, ICl, IPiezo, or INaK) which would slowly shift the balance of depolarizing and hyperpolarizing forces during stimulation (SI Appendix, Text and Fig. S6). For instance, the upstream conduction of a vasodilatory response can increase flow and pressure to downstream vascular regions—relative to their pressure at rest, prior to stimulation. Pressure increases can activate mechanosensitive channels, such as EC Piezo1 channels, shifting the balance of hyperpolarizing/depolarizing currents and resetting Vm. Down-regulation of Kir and/or up-regulation of TRPV4 activity following the hyperpolarizing stimulus could also enable resetting (Fig. 4E).
+
+Higher Kir density can promote regenerative conduction of electrical signals and translate picoamperes of stimulatory signal into robust dilatory responses several hundred microns away. This condition would provide maximum sensitivity to the capillary network and the ability to modulate blood flow based on neuronal activity almost at the single neuron level, as local stimulation of few cECs can drive Vm responses in feeding PA and even in surface pial arteries (Fig. 7). Capillary network operation under this mode requires high GKir and an active mechanism for network resetting following stimulus termination. As in the excitable conditions, the mechanism that would allow such a response is not known. Delayed activation/inactivation of channels (If, ICl, IPiezo, or INaK), changes in ionic concentrations ([K+]o, [Na]i), mechanical (pressure and shear), or chemical stimuli may contribute to the resetting of an AP-like conducted response (SI Appendix, Fig. S6). Additionally, ECs exhibit local calcium transients which reflect local release of neurotransmitters, EC Gq-protein-coupled receptor (GqPCR) activation, and PIP2 depletion (25, 48). These events likely reflect “stop signs” for hyperpolarizing signals via attenuating Kir activity (while enhancing depolarizing TRPV4 activity) and thus could shape the spatiotemporal characteristics of the vasodilatory signaling.
+
+Since a regenerative electrical signal can travel without attenuation in the highly interconnected brain capillary network, a mechanism should exist for spatial confinement. Furthermore, for efficient CBF control the electrical signal needs to be directed preferentially toward the upstream feeding arterioles. Evidence for heteromeric connexin channels that allow unidirectional conduction of electrical signals has been presented and may provide a mechanism for guiding such signaling in the vasculature (49, 50). In representative simulations, we show how a regenerative electrical signal can ascend toward the upstream feeding vessels when a Kir density/activity gradient from the venular to the arteriolar side of the capillary network exists (Fig. 7). Thus, excitability with (Fig. 7) or without (SI Appendix, Fig. S7) an AP-like propagation can be spatially confined and allow vasodilatory signals to travel significant distances and preferentially ascend toward upstream feeding arterioles and surface arteries.
+PA vs. Capillary-Mediated NVC.
+
+Simulations using realistic representation of the microvascular geometry provide a way to test the physiological relevance of stimulating PAs and/or capillaries under different scenarios. Model simulations suggest that conduction along PAs can be significantly inhibited by current losses to branching capillaries, particularly in the deeper layers of the cortex where there is a higher density of capillaries branching off the PAs (Fig. 6). The model predicts that a level of electrical coupling between ECs in the capillaries similar to that in the PAs (i.e., Rgj = Rgj,PA = 10 MΩ) can have a strong inhibitory effect on electrical signal propagation along the PAs (Fig. 6A). For weakly coupled capillaries, however, focal stimulation of a PA segment and the resulting local hyperpolarization can ascend along the arteriole and potentially reach the surface microcirculation. This would require a strong local hyperpolarizing current (i.e., activation of calcium activated potassium [KCa] channels) or a significant PA Kir density to amplify weaker stimulatory currents.
+
+Our model simulations corroborate previous experimental findings for the presence of an alternative/parallel mechanism, aside from already-known mechanisms of NVC through arteriolar SMCs, to communicate neuronal activity to the vasculature by stimulating cECs (22). The resulting hyperpolarizing signal could propagate through the capillary network and feed into and dilate upstream PAs. Simulations identify conditions where stimulation of a small population of cECs can promote hyperpolarization of their feeding PA (Fig. 5). Furthermore, regenerative conduction of electrical signals can provide physiologically relevant spread of hyperpolarization through the microcirculation (Fig. 7), allowing signals initiated deep in the cortex to ascend and reach the surface microcirculation to evoke robust local CBF increase.
+Model Limitations.
+
+We use minimal models to simulate electrical communication in the cerebral microcirculation. More detailed representations of ECs, pericytes, and SMCs should be developed as electrophysiological data become more readily available. The modeled capillary does not account for the presence of pericytes. The PA model assumes that a coupled EC/SMC pair is isopotential and neglects nonlinearities arising from the activity of Ca2+- and voltage-activated channels. Values for several of the model’s parameters need to be more accurately quantified, as estimated values vary significantly in the literature (SI Appendix, Supplementary Information Text). A parametric analysis shows that retrograde electrical signaling is sensitive to several parameters (i.e., GKir, Gbg, Rgj, ΔVKir, and [K+]o), which can represent critical points of regulatory control (SI Appendix, Fig. S2). The parameter space that enables 1) robust hyperpolarization in isolated cells/capillaries, 2) local hyperpolarizing jumps in capillary networks, and 3) long-range regenerative conduction in microvascular networks becomes progressively more restricted. Experimental studies should test whether mean parameter values fall within the required parameter space and whether biological variability allows for robustness in predicted responses. Whether electrical signals can regeneratively propagate over long distances in microvascular networks needs to be confirmed experimentally. Efficient blood flow control would require tight spatiotemporal control of such signaling, including mechanisms that would promote directional propagation and robust resetting to resting potentials upon stimulus termination. The mechanisms that would allow such control have not been determined. Experiments should test whether changes in ionic concentrations, delayed activation of channels, or mechanical/chemical stimuli contribute to resetting. TRPV4/Kir activity modulation by mechanical forces or by NVC mediators (e.g., prostaglandin E2 [PGE2] and epoxyeicosatrienoic acids [EETs]) needs to be examined for its contribution in shaping the spatiotemporal characteristics of the vasodilatory response.
+Summary
+
+In this study, we utilized mathematical modeling to determine the biophysical determinants of capillary-mediated signaling during NVC. The Kir channel can act as an “on–off” switch in cECs to hyperpolarize the cell membrane as the interstitial K+ increases. This enables capillaries to sense K+ released by neuronal activity and initiate retrograde hyperpolarizing signaling toward upstream feeding arteries. Model analysis consolidates experimental data in isolated cECs with integrated responses in capillary networks and shows that the evoked arteriolar hyperpolarization cannot be explained by a passive electrical spread from the stimulated capillary segment to the PA, suggesting an intrinsic amplification mechanism. We propose that robust amplification is possible under conditions that enable an AP-like response in the microvascular network. Simulations in reconstructed microvascular networks show how such a mechanism can provide a physiologically relevant spread of electrical signaling. Stimulation of cECs within a region can promote a robust hyperpolarization of the local capillary network, in a binary on/off fashion, and the activity in different regions can be integrated to produce graded vasodilatory responses in the upstream feeding arterioles. Higher Kir densities will increase the sensitivity of the system and could allow small stimulatory signals to regeneratively propagate over significant distances along the microcirculatory network. A Kir density gradient could restrict this conduction and preferentially direct the signal toward upstream feeding vessels, thus better matching increases in blood supply to regions of activity. Previous experimental observations suggest a role for the Kir channel as a sensor of neuronal activity and controller of retrograde signaling in the cerebral vasculature. In this study, we outline plausible mechanisms underlying Kir-mediated responses and paradigms for electrical conduction in the cerebral microcirculation. Further experimentation is needed to investigate the contribution and biophysical limits of the proposed mechanisms in endothelium-mediated NVC. New quantitative data will enhance model development, which in turn will provide an integrated view and a comprehensive understanding of CBF control at the microscale.
+Methods
+
+Minimal Model of Single cEC.
+
+A minimal model of cEC electrophysiology (model I) comprises an explicit description for the whole-cell Kir current (IKir), while all other transmembrane currents are lumped into a nonspecific linear background current (Ibg) (Eqs. 1–3). Model parameters (Cm, G¯Kir, Gbg, and Ebg) were determined from patch data in freshly isolated mouse cerebral cECs (Fig. 2F). G¯Kir was estimated by fitting current–voltage data at Vm values negative to the EK and Gbg by fitting current data at positive Vm values. Conductances were corrected for leak currents and Ebg was determined from the cEC resting Vm (−30 mV). The slope factor, k, and half-maximal inactivation voltage, V0.5, account for the level of inward rectification and determine the magnitude and shape of the outward Kir current. Experimental data show that V0.5 drifts with EK, as [K+]o changes (i.e., V0.5 = EK + ΔVKir) (51, 52). Reported values for the voltage offset, ΔVKir, vary significantly in the literature and estimates include both negative and positive values (SI Appendix, Supplementary Information Text). The value assumed as control in this study provides sufficient outward current for reproducing experimentally observed K+-mediated responses.
+Stochastic TRPV4 Model.
+
+In model II, we separate the TRPV4 current (ITRPV4) from the lumped background current in model I to examine the contribution of stochastic TRPV4 currents in the dynamics of cEC Vm. Model II accounts for the activity of TRPV4 channels and the resultant transient depolarizing current with bursting kinetics as characterized in mouse cECs (25). cECs show infrequent single-channel openings with a whole-cell open probability of NPo ≈ 0.04 at rest (25). We simulate the TRPV4 using a three-state discrete-time Markov chain model (36, 53). More specifically, we assume that the TRPV4 channel can reside in any of the following three states: 1) blocked (B, intraburst short-closed state), 2) open (O), and 3) shut (S, interburst long-closed state), using the following mechanism:
+
+Bk2⇄k1Ok3⇄k4S,
+
+
+where k1 through k4 indicate the transition rates from one state to the other and quantities 1/(k3 + k1), 1/k2, 1/k4, and (1 + k1/k2)/k3 determine the mean open time, mean blocked time, mean shut time, and burst length, respectively (36). Experimental recordings of single cEC TRPV4 openings in ref. 25 show bursts of stochastic TRPV4 openings with a mean open time (∼90 ms), a mean blocked time (∼33 ms), a mean shut time (∼4 min), and a mean burst duration (∼20 s), from which the transition rates can be estimated. The above mechanism results in the following transition rate matrix (Q) (36):
+
+Q=−k3+ k1k1k3k2−k20k40−k4.
+
+
+The state transition probability matrix (T) is the matrix exponential of the Q matrix (53). Here, we used the built-in MATLAB discrete-time Markov chain (dtmc) function to generate temporal traces of TRPV4 openings in each cEC, with a time increment of 0.1 ms. The Na+, K+, and Ca2+ currents through an open TRPV4 channel are modeled via a Goldman–Hodgkin–Katz equation with the general form
+
+
+ITRPV4,St,Vm,Si=PTRPV4,Szs2F2RTVmSi−S0e−zsVmFRT1−e−zsVmFRT,
+[4]
+
+
+
+where ITRPV4,S is the current carried by each cation S (i.e., Ca2+, K+, and Na+), Si is the intracellular and S0 the extracellular concentration of S, zs is the valence of the ion, F is the Faraday constant, R is the universal gas constant, T is the temperature in Kelvin, and PTRPV4,S is the ionic permeability [PTRPV4,Ca = 10−7 cm/s and PTRPV4,Ca:PTRPV4,K:PTRPV4,Na = 7.1:1.4:1 (36), which provides a single channel conductance of 92 pS, in line with our prior estimate (25)]. The time-dependent net current [ITRPV4(t)] is the sum of the currents carried by each ion through an open TRPV4 channel, multiplied by the number of open channels, N(t), that is, ITRPV4t=Nt∑SITRPV4,S.
+Modulation of Kir and TRPV4 Currents by PIP2.
+
+Stretch and putative NVC mediators, including PGE2, activate GqPCR-dependent pathways that result in the hydrolysis of plasma membrane PIP2 into diacylglycerol and inositol 1,4,5-trisphosphate. We have demonstrated that depletion of PIP2 gradually inhibits the Kir channels and conversely increases the activity of TRPV4 channels with time constants on the order of minutes (25, 34). In simulations performed in Fig. 4E, we have incorporated the effect of the dynamic regulation of Kir and TRPV4 through an exponential decrease in IKir, and an exponential increase in ITRPV4, with their respective time constants upon K+ stimulation.
+Multicellular Models of Microvascular Networks.
+
+cECs are coupled through incorporation of gap junctions to construct multicellular capillary networks. In simulations of Fig. 3, a capillary segment of serially connected cECs is examined. In simulations performed in Figs. 3–7, cECs are connected such that the resultant geometry approximates the isolated ex vivo preparations in Fig. 4 and in ref. 22 or matches larger reconstructed microvascular networks adapted from ref. 26. The procedure used for large network simulations was as follows. 1) Vectorized data for vessel strands between bifurcation points, discretized in smaller segments, were obtained from ref. 26. Data provided length, radius, and connectivity information for each segment. 2) Each strand was resegmented to approximately match the average EC length in capillaries (20 µm) and parenchymal and pial vessels (33 µm). A weighting factor (representing number of cells per segment) was further estimated to scale conductances and gap junctional resistances in each segment and account for length variability in our segmentation. 3) An in-house algorithm was developed to extract the adjacency matrix from the data, indicating segment to segment connectivity. 4) Self-loops and stranded components were removed from the graph network. Current flow between adjacent cECs was estimated based on the electrical gradient and the cEC-to-cEC coupling resistance (Rgj):
+
+
+Igj,i=∑n1Rgj,i,nVm,i−Vm,n,
+[5]
+
+
+
+where n is the index of cells connected to cell(i), Igj,i is the gap junctional current flowing from cell(i) to cell(n) with a gap junctional resistance Rgj,I,n. Rgj has not been measured in capillaries; we thus examine Rgj values ranging from 10 MΩ to 1 GΩ based on estimates for coupling resistances between ECs in arteries and the axial cytoplasmic resistance, as estimated based on length and cross-sectional area (38, 39). PAs are modeled using PA EC and SMC membrane resistivities (Rm,EC, Rm,SMC), Kir conductances (GKir,EC GKir,SMC), and the myoendothelial gap junctional resistance (RME), as previously described (38, 54). Three ECs are coupled to three SMCs at each longitudinal position and are assumed isopotential. For each EC–SMC pair, we account for a total Kir conductance (GKir,PA = GKir,EC + GKir,SMC) and a background conductance Gbg,PA as the inverse of the resting transmembrane resistance, Rm,PA. The latter is estimated from the parallel connection of Rm,EC with RME and Rm,SMC combined in series:
+
+
+Rm,PA=Rm,SMC+RMERm,ECRm,SMC+RME+Rm,EC.
+[6]
+
+
+
+Each unit is coupled to adjacent EC–SMC units with a resistance, Rgj,PA. PVs are modeled similarly to PAs with negligible Kir conductance. Pial arteries and pial veins are treated the same as PAs and PVs, respectively, but with assuming five ECs in the circumferential direction to account for the larger diameter of these vessels compared to PAs. Boundary conditions were imposed at each vessel crossing the simulation domain. We assumed an effective resistance, equal to the input resistance of a semiinfinite cable (i.e., Rin=RgjRm, where Rgj and Rm are vessel-specific), connecting each boundary segment to resting Vm. Thus, effectively we assume that each boundary vessel extends to infinity. All simulations were performed in MATLAB 2018b using ode15s, suitable for solving stiff initial value ordinary differential equations.
+Data Availability.
+
+All codes and scripts associated with this study can be accessed on GitHub at https://github.com/ntsoukias/ (Capillary-Kir-Model).
+Supplementary Material
+
+Supplementary File
+
+pnas.2000151117.sapp.pdf (3.2MB, pdf) 
+Acknowledgments
+
+We thank Mr. Asad Mirza and Dr. Jorge Riera for valuable feedback. This study was supported by Fondation Leducq (Transatlantic Network of Excellence on the Pathogenesis of Small Vessel Disease of the Brain) (to M.T.N.), the European Union’s Horizon 2020 Research and Innovation Programme (Grant Agreement 666881, SVDs@target) (to M.T.N.), an American Heart Association Postdoctoral Fellowship (17POST33650030) (to O.F.H.) and Scientist Development Grant (17SDG33670237) (to T.A.L.), and NIH Grants R01NS110656 and R35HL140027 (to M.T.N.) and R01HL136636 (to F.D.) and R15HL121778 (to N.M.T.).
+Footnotes
+
+
+The authors declare no competing interest.
+
+This article is a PNAS Direct Submission.
+
+Data deposition: All data and codes associated with this study can be accessed on GitHub at https://github.com/ntsoukias/ (Capillary-Kir-Model).
+
+This article contains supporting information online at https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2000151117/-/DCSupplemental.
+
+References
+
+
+
+1.Roy C. S., Sherrington C. S., On the regulation of the blood-supply of the brain. J. Physiol.
+11, 85–158 (1890). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+2.Girouard H., Iadecola C., Neurovascular coupling in the normal brain and in hypertension, stroke, and Alzheimer disease. J. Appl. Physiol.
+100, 328–335 (2006). [DOI] [PubMed] [Google Scholar]
+
+3.Raichle M. E., Mintun M. A., Brain work and brain imaging. Annu. Rev. Neurosci.
+29, 449–476 (2006). [DOI] [PubMed] [Google Scholar]
+
+4.Attwell D. et al., Glial and neuronal control of brain blood flow. Nature
+468, 232–243 (2010). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+5.Filosa J. A. et al., Local potassium signaling couples neuronal activity to vasodilation in the brain. Nat. Neurosci.
+9, 1397–1403 (2006). [DOI] [PubMed] [Google Scholar]
+
+6.Iadecola C., Nedergaard M., Glial regulation of the cerebral microvasculature. Nat. Neurosci.
+10, 1369–1376 (2007). [DOI] [PubMed] [Google Scholar]
+
+7.Cauli B. et al., Cortical GABA interneurons in neurovascular coupling: Relays for subcortical vasoactive pathways. J. Neurosci.
+24, 8940–8949 (2004). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+8.Zonta M. et al., Neuron-to-astrocyte signaling is central to the dynamic control of brain microcirculation. Nat. Neurosci.
+6, 43–50 (2003). [DOI] [PubMed] [Google Scholar]
+
+9.Iadecola C., The neurovascular unit coming of age: A journey through neurovascular coupling in health and disease. Neuron
+96, 17–42 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+10.Girouard H. et al., Astrocytic endfoot Ca2+ and BK channels determine both arteriolar dilation and constriction. Proc. Natl. Acad. Sci. U.S.A.
+107, 3811–3816 (2010). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+11.Lind B. L., Brazhe A. R., Jessen S. B., Tan F. C., Lauritzen M. J., Rapid stimulus-evoked astrocyte Ca2+ elevations and hemodynamic responses in mouse somatosensory cortex in vivo. Proc. Natl. Acad. Sci. U.S.A.
+110, E4678–E4687 (2013). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+12.Takano T. et al., Astrocyte-mediated control of cerebral blood flow. Nat. Neurosci.
+9, 260–267 (2006). [DOI] [PubMed] [Google Scholar]
+
+13.Bonder D. E., McCarthy K. D., Astrocytic Gq-GPCR-linked IP3R-dependent Ca2+ signaling does not mediate neurovascular coupling in mouse visual cortex in vivo. J. Neurosci.
+34, 13139–13150 (2014). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+14.Nizar K. et al., In vivo stimulus-induced vasodilation occurs without IP3 receptor activation and may precede astrocytic calcium increase. J. Neurosci.
+33, 8411–8422 (2013). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+15.Sun W. et al., Glutamate-dependent neuroglial calcium signaling differs between young and adult brain. Science
+339, 197–200 (2013). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+16.Mishra A. et al., Astrocytes mediate neurovascular signaling to capillary pericytes but not to arterioles. Nat. Neurosci.
+19, 1619–1627 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+17.Chen B. R., Kozberg M. G., Bouchard M. B., Shaik M. A., Hillman E. M., A critical role for the vascular endothelium in functional neurovascular coupling in the brain. J. Am. Heart Assoc.
+3, e000787 (2014). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+18.Uhlirova H. et al., Cell type specificity of neurovascular coupling in cerebral cortex. eLife
+5, e14315 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+19.Ballanyi K., Doutheil J., Brockhaus J., Membrane potentials and microenvironment of rat dorsal vagal cells in vitro during energy depletion. J. Physiol.
+495, 769–784 (1996). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+20.Hodgkin A. L., Huxley A. F., A quantitative description of membrane current and its application to conduction and excitation in nerve. J. Physiol.
+117, 500–544 (1952). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+21.Dunn K. M., Nelson M. T., Potassium channels and neurovascular coupling. Circ. J.
+74, 608–616 (2010). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+22.Longden T. A. et al., Capillary K+-sensing initiates retrograde hyperpolarization to increase local cerebral blood flow. Nat. Neurosci.
+20, 717–726 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+23.Hall C. N. et al., Capillary pericytes regulate cerebral blood flow in health and disease. Nature
+508, 55–60 (2014). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+24.Silva H. S., Kapela A., Tsoukias N. M., A mathematical model of plasma membrane electrophysiology and calcium dynamics in vascular endothelial cells. Am. J. Physiol. Cell Physiol.
+293, C277–C293 (2007). [DOI] [PubMed] [Google Scholar]
+
+25.Harraz O. F., Longden T. A., Hill-Eubanks D., Nelson M. T., PIP2 depletion promotes TRPV4 channel activity in mouse brain capillary endothelial cells. eLife
+7, e38689 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+26.Blinder P. et al., The cortical angiome: An interconnected vascular network with noncolumnar patterns of blood flow. Nat. Neurosci.
+16, 889–897 (2013). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+27.Nilius B., Droogmans G., Ion channels and their functional role in vascular endothelium. Physiol. Rev.
+81, 1415–1459 (2001). [DOI] [PubMed] [Google Scholar]
+
+28.Dabertrand F. et al., Potassium channelopathy-like defect underlies early-stage cerebrovascular dysfunction in a genetic model of small vessel disease. Proc. Natl. Acad. Sci. U.S.A.
+112, E796–E805 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+29.Horiuchi T., Dietrich H. H., Hongo K., Dacey R. G. Jr., Mechanism of extracellular K+-induced local and conducted responses in cerebral penetrating arterioles. Stroke
+33, 2692–2699 (2002). [DOI] [PubMed] [Google Scholar]
+
+30.Knot H. J., Zimmermann P. A., Nelson M. T., Extracellular K(+)-induced hyperpolarizations and dilatations of rat coronary and cerebral arteries involve inward rectifier K(+) channels. J. Physiol.
+492, 419–430 (1996). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+31.Mehrke G., Pohl U., Daut J., Effects of vasoactive agonists on the membrane potential of cultured bovine aortic and Guinea-pig coronary endothelium. J. Physiol.
+439, 277–299 (1991). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+32.Voets T., Droogmans G., Nilius B., Membrane currents and the resting membrane potential in cultured bovine pulmonary artery endothelial cells. J. Physiol.
+497, 95–107 (1996). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+33.Yang Y. et al., Diverse Kir expression contributes to distinct bimodal distribution of resting potentials and vasotone responses of arterioles. PLoS One
+10, e0125266 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+34.Harraz O. F., Longden T. A., Dabertrand F., Hill-Eubanks D., Nelson M. T., Endothelial GqPCR activity controls capillary electrical signaling and brain blood flow through PIP2 depletion. Proc. Natl. Acad. Sci. U.S.A.
+115, E3569–E3577 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+35.Postnov D. E., Neganova A. Y., Sosnovtseva O. V., Holstein-Rathlou N. H., Jacobsen J. C., Conducted vasoreactivity: The dynamical point of view. Bull. Math. Biol.
+77, 230–249 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+36.Parikh J., Kapela A., Tsoukias N. M., Stochastic model of endothelial TRPV4 calcium sparklets: Effect of bursting and cooperativity on EDH. Biophys. J.
+108, 1566–1576 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+37.McCarron J. G., Halpern W., Impaired potassium-induced dilation in hypertensive rat cerebral arteries does not reflect altered Na+,K(+)-ATPase dilation. Circ. Res.
+67, 1035–1039 (1990). [DOI] [PubMed] [Google Scholar]
+
+38.Kapela A., Behringer E. J., Segal S. S., Tsoukias N. M., Biophysical properties of microvascular endothelium: Requirements for initiating and conducting electrical signals. Microcirculation
+25, e12429 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+39.Yamamoto Y., Imaeda K., Suzuki H., Endothelium-dependent hyperpolarization and intercellular electrical coupling in Guinea-pig mesenteric arterioles. J. Physiol.
+514, 505–513 (1999). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+40.Wessel R., Kristan W. B. Jr., Kleinfeld D., Supralinear summation of synaptic inputs by an invertebrate neuron: Dendritic gain is mediated by an “inward rectifier” K(+) current. J. Neurosci.
+19, 5875–5888 (1999). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+41.Jantzi M. C. et al., Inward rectifying potassium channels facilitate cell-to-cell communication in hamster retractor muscle feed arteries. Am. J. Physiol. Heart Circ. Physiol.
+291, H1319–H1328 (2006). [DOI] [PubMed] [Google Scholar]
+
+42.Jackson W. F., Boosting the signal: Endothelial inward rectifier K+ channels. Microcirculation
+24, e12319 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+43.Sonkusare S. K., Dalsgaard T., Bonev A. D., Nelson M. T., Inward rectifier potassium (Kir2.1) channels as end-stage boosters of endothelium-dependent vasodilators. J. Physiol.
+594, 3271–3285 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+44.Behringer E. J., Segal S. S., Tuning electrical conduction along endothelial tubes of resistance arteries through Ca(2+)-activated K(+) channels. Circ. Res.
+110, 1311–1321 (2012). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+45.Segal S. S., Duling B. R., Conduction of vasomotor responses in arterioles: A role for cell-to-cell coupling?
+Am. J. Physiol.
+256, H838–H845 (1989). [DOI] [PubMed] [Google Scholar]
+
+46.Lopatin A. N., Makhina E. N., Nichols C. G., Potassium channel block by cytoplasmic polyamines as the mechanism of intrinsic rectification. Nature
+372, 366–369 (1994). [DOI] [PubMed] [Google Scholar]
+
+47.McCarron J. G., Halpern W., Potassium dilates rat cerebral arteries by two independent mechanisms. Am. J. Physiol.
+259, H902–H908 (1990). [DOI] [PubMed] [Google Scholar]
+
+48.Longden T. et al., Neural activity drives dynamic Ca2+ signals in capillary endothelial cells that shape local brain blood flow. FASEB J.
+33, 688 (2019). [Google Scholar]
+
+49.Robinson S. R., Hampson E. C., Munro M. N., Vaney D. I., Unidirectional coupling of gap junctions between neuroglia. Science
+262, 1072–1074 (1993). [DOI] [PubMed] [Google Scholar]
+
+50.Rackauskas M. et al., Gating properties of heterotypic gap junction channels formed of connexins 40, 43, and 45. Biophys. J.
+92, 1952–1965 (2007). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+51.Kubo Y., Baldwin T. J., Jan Y. N., Jan L. Y., Primary structure and functional expression of a mouse inward rectifier potassium channel. Nature
+362, 127–133 (1993). [DOI] [PubMed] [Google Scholar]
+
+52.Lopatin A. N., Nichols C. G., [K+] dependence of polyamine-induced rectification in inward rectifier potassium channels (IRK1, Kir2.1). J. Gen. Physiol.
+108, 105–113 (1996). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+53.Colquhoun D., Hawkes A. G., On the stochastic properties of single ion channels. Proc. R. Soc. Lond. B Biol. Sci.
+211, 205–235 (1981). [DOI] [PubMed] [Google Scholar]
+
+54.Kapela A., Nagaraja S., Tsoukias N. M., A mathematical model of vasoreactivity in rat mesenteric arterioles. II. Conducted vasoreactivity. Am. J. Physiol. Heart Circ. Physiol.
+298, H52–H65 (2010). [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+55.He L. et al., Single-cell RNA sequencing of mouse brain and lung vascular and vessel-associated cell types. Sci. Data
+5, 180160 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
+Associated Data
+
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+
+Supplementary Materials
+
+Supplementary File
+
+pnas.2000151117.sapp.pdf (3.2MB, pdf) 
+Data Availability Statement
+
+All codes and scripts associated with this study can be accessed on GitHub at https://github.com/ntsoukias/ (Capillary-Kir-Model).
+
+Articles from Proceedings of the National Academy of Sciences of the United States of America are provided here courtesy of National Academy of Sciences
+
+
+                      
+
+                    
+                
+            
+        
+
+        
+
+
+
+
+
+    
+        
+            
+        
+    
+       
+              ACTIONS
+
+           
+               
+               
+                     
+                         
+                         View on publisher site
+                     
+               
+               
+               
+               
+                    
+                         
+                        PDF (7.0 MB)
+                    
+               
+               
+                
+               
+                   
+                       
+                       Cite
+                    
+               
+                
+               
+
+                        
+                            
+                            
+                            Collections
+                       
+               
+               
+                    
+                        
+                        Permalink
+                    
+                   
+
+
+    
+          PERMALINK
+
+          
+              
+              
+                  
+                  Copy
+              
+          
+    
+
+               
+           
+       
+     
+
+        
+            RESOURCES
+
+            
+                
+                    
+                        
+                            Similar articles
+                        
+                    
+
+                    
+                        
+                    
+                    
+                        
+                             Cited by other articles
+                        
+                    
+
+                    
+                          
+                    
+                    
+                        
+                            
+                                 Links to NCBI Databases
+                            
+                        
+
+                        
+                        
+                    
+                    
+                
+            
+        
+
+
+        
+    
+
+
+        
+
+
+    
+        
+            Cite
+
+             
+                 
+             
+        
+
+        
+
+
+  
+  
+      
+        
+            
+            Copy
+        
+      
+      
+          
+                
+                Download .nbib
+                .nbib
+            
+      
+      
+          
+
+
+  Format:
+  
+    
+      
+        AMA
+      
+    
+      
+        APA
+      
+    
+      
+        MLA
+      
+    
+      
+        NLM
+      
+    
+  
+
+      
+  
+
+    
+
+
+        
+  
+   
+        Add to Collections
+
+    
+    
+      
+
+
+
+
+    
+
+    
+        
+            
+            Create a new collection
+        
+        
+            
+            Add to an existing collection
+        
+    
+
+    
+        
+           
+                Name your collection
+               *
+          
+          
+        
+        
+             
+                Choose a collection
+              
+              
+              
+              
+                Unable to load your collection due to an error
+                Please try again
+              
+        
+    
+
+    
+        
+          Add
+        
+        
+          Cancel
+        
+    
+
+    
+  
+
+
+        
+
+      
+    
+  
+
+
+
+        
+    
+    
+
+
+    
+        
+            
+                Follow NCBI
+            
+
+            
+                
+                    
+                        
+                            
+                            
+                        
+                        NCBI on X (formerly known as Twitter)
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                        
+                        NCBI on Facebook
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                        NCBI on LinkedIn
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                        
+                        NCBI on GitHub
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                        NCBI RSS feed
+                    
+                
+            
+        
+    
+
+    
+        
+            
+                
+                    
+                        
+                            Connect with NLM
+                        
+
+                    
+
+                    
+                        
+                            
+                                
+                                    
+                                    
+                                
+                                NLM on X (formerly known as Twitter)
+                            
+                        
+
+                        
+                            
+                                
+                                    
+                                    
+                                
+                                NLM on Facebook
+                            
+                        
+
+                        
+                            
+                                
+                                    
+                                
+                                NLM on YouTube
+                            
+                        
+                    
+                
+            
+
+            
+                
+                    
+        
+            National Library of Medicine
+             8600 Rockville Pike Bethesda, MD 20894
+        
+
+    
+                
+            
+
+            
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Web Policies
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            FOIA
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            HHS Vulnerability Disclosure
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+
+            
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Help
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Accessibility
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Careers
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+        
+
+        
+            
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            NLM
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            NIH
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            HHS
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            USA.gov
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+        
+    
+
+
+    
+
+
+        
+        
+    
+   
+
+
+    
+        
+
+
+    Back to Top
+    
+
+    
+
+
+        
+    
+    
+    
+    
+        
+    
+    window.ncbi = window.ncbi || {};
+    window.ncbi.pmc = window.ncbi.pmc || {};
+    window.ncbi.pmc.options = {
+        logLevel: 'INFO',
+        
+        staticEndpoint: 'https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/',
+        
+        citeCookieName: 'pmc-cf',
+    };
+
+    
+
+    
+    &#xA0;
+    
+        jQuery.getScript("https://cdn.ncbi.nlm.nih.gov/core/alerts/alerts.js", function () {
+            galert(['div.nav_and_browser', 'div.header', '#universal_header', '.usa-banner', 'body > *:nth-child(1)'])
+        });
+    
+
+
+    var exports = {};
+     
+
+    
+
+
+
+    
+        
+
+    
+    
+
+    
+

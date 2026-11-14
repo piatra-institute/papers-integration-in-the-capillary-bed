@@ -1,0 +1,361 @@
+{
+  "schema": 1,
+  "audit_date": "2026-11-14",
+  "purpose": "Frozen parameter provenance for a literature-constrained synthetic paired-input discrimination study; not an empirical fitted dataset.",
+  "parameters": {
+    "c_cap_pf": {
+      "value": 8.0,
+      "units": "pF",
+      "status": "measured-mean",
+      "citation_id": "moshkforoush2020",
+      "locator": "Results, Modeling cEC Electrophysiology; paragraph following Fig. 2F",
+      "note": "Mean isolated capillary endothelial cell capacitance; held constant here, not a known value for every cell."
+    },
+    "c_pa_unit_pf": {
+      "value": 16.0,
+      "units": "pF per EC-SMC unit",
+      "status": "published-model",
+      "citation_id": "moshkforoush2020",
+      "locator": "Official source scripts/Fig4/Fig4C.m, membrane capacitance",
+      "note": "Published effective pair capacitance; three equal pairs are lumped at each axial node."
+    },
+    "g_kir_coefficient_measured": {
+      "value": 0.18,
+      "reported_spread": 0.1,
+      "units": "nS/mM^0.5",
+      "status": "measured-summary",
+      "citation_id": "moshkforoush2020",
+      "locator": "Fig. 2F and corresponding Results",
+      "note": "Coefficient Gbar, not conductance G at resting K. Published plus/minus is biological sample spread; not a fitted uncertainty interval for this network."
+    },
+    "g_bg_measured": {
+      "value": 0.06,
+      "reported_spread": 0.04,
+      "units": "nS",
+      "status": "measured-summary",
+      "citation_id": "moshkforoush2020",
+      "locator": "Fig. 2F and corresponding Results",
+      "note": "Sample of isolated capillary endothelial cells."
+    },
+    "g_kir_bounds": {
+      "value": [
+        0.2,
+        0.8
+      ],
+      "units": "nS at extracellular K=3 mM",
+      "status": "literature-constrained-design-range",
+      "citation_id": "moshkforoush2020",
+      "locator": "Figs. 3 and 4",
+      "note": "Subset of published model explorations. G=Gbar*sqrt(3); upper end is not a measured population confidence bound."
+    },
+    "g_bg_bounds": {
+      "value": [
+        0.02,
+        0.1
+      ],
+      "units": "nS",
+      "status": "literature-constrained-design-range",
+      "citation_id": "moshkforoush2020",
+      "locator": "Fig. 2F",
+      "note": "Chosen interval around measured mean 0.06 and spread 0.04; not a probability distribution or confidence interval."
+    },
+    "r_gj_bounds_mohm": {
+      "value": [
+        10.0,
+        200.0
+      ],
+      "units": "MOhm",
+      "status": "literature-constrained-design-range",
+      "citation_id": "moshkforoush2020",
+      "locator": "Methods, Multicellular Models; Figs. 3, 5 and 7",
+      "note": "Capillary junctional resistance was explicitly unmeasured. Published model explored 10 to 1000 MOhm. This study uses a bounded subset, not an experimentally identified interval."
+    },
+    "r_gj_pa_mohm": {
+      "value": 10.0,
+      "units": "MOhm",
+      "status": "published-model",
+      "citation_id": "moshkforoush2020",
+      "locator": "Official source scripts/Fig4/Fig4C.m, Gap junctional resistance; Discussion",
+      "note": "Effective endothelial coupling in arteriole. Lumping three parallel units multiplies axial conductance by three."
+    },
+    "g_kir_pa_ns": {
+      "value": 0.65,
+      "units": "nS at extracellular K=3 mM per EC-SMC unit",
+      "status": "published-model",
+      "citation_id": "moshkforoush2020",
+      "locator": "Official source scripts/Fig4/Fig4C.m, KIR CHANNEL CHARACTERISTICS; main-text Fig. 6 control",
+      "note": "Effective pair Kir conductance, not isolated capillary conductance."
+    },
+    "g_bg_pa_ns": {
+      "value": 0.2,
+      "units": "nS per EC-SMC unit",
+      "status": "published-model",
+      "citation_id": "moshkforoush2020",
+      "locator": "Fig. 4F; official source Fig4C.m, BACKGROUND CURRENT",
+      "note": "Fixed arteriole load shared across mechanisms."
+    },
+    "e_bg_mv": {
+      "value": -30.0,
+      "units": "mV",
+      "status": "published-model-with-measured-rest-anchor",
+      "citation_id": "moshkforoush2020",
+      "locator": "Methods, Single cEC Electrophysiology; official Fig4C.m",
+      "note": "Same background reversal for capillary and arteriole in reduced model. Actual resting voltage is solved with Kir and network loads present."
+    },
+    "dv_kir_mv": {
+      "value": 25.0,
+      "units": "mV",
+      "status": "published-model",
+      "citation_id": "moshkforoush2020",
+      "locator": "Official source Fig4C.m, delta_V_kir",
+      "note": "Half-inactivation offset relative to EK; main text explicitly notes wide uncertainty in offset estimates. Fixed value is a structural assumption limiting the ensemble."
+    },
+    "k_kir_mv": {
+      "value": 7.0,
+      "units": "mV",
+      "status": "published-model",
+      "citation_id": "moshkforoush2020",
+      "locator": "Official source Fig4C.m, k_kir",
+      "note": "Rectification slope factor; instantaneous activation approximation."
+    },
+    "temperature_k": {
+      "value": 293.0,
+      "units": "K",
+      "status": "published-model",
+      "citation_id": "moshkforoush2020",
+      "locator": "Official source Fig4C.m, constant parameters",
+      "note": "Room-temperature model constant. Predictions do not incorporate body-temperature channel kinetics; not a calibrated in-vivo timing model."
+    },
+    "r_gas": {
+      "value": 8314.0,
+      "units": "mJ/mol/K",
+      "status": "physical-constant-rounded-as-published",
+      "citation_id": "moshkforoush2020",
+      "locator": "Official source Fig4C.m, constant parameters",
+      "note": "Unit convention yields RT/F in millivolts."
+    },
+    "faraday": {
+      "value": 96485.0,
+      "units": "C/mol",
+      "status": "physical-constant-rounded-as-published",
+      "citation_id": "moshkforoush2020",
+      "locator": "Official source Fig4C.m, constant parameters",
+      "note": "Rounded physical constant."
+    },
+    "k_intracellular_mm": {
+      "value": 150.0,
+      "units": "mM",
+      "status": "published-model",
+      "citation_id": "moshkforoush2020",
+      "locator": "Official source Fig4C.m, Ki",
+      "note": "Fixed ionic reservoir; concentration depletion and pumps are omitted."
+    },
+    "k_rest_mm": {
+      "value": 3.0,
+      "units": "mM",
+      "status": "published-model-and-experimental-bath",
+      "citation_id": "moshkforoush2020",
+      "locator": "Official source Fig4C.m, K_bath_rest; Fig. 2",
+      "note": "Uniform resting extracellular K; spatial diffusion of injected K is not modeled."
+    },
+    "cell_length_um": {
+      "value": 20.0,
+      "units": "um",
+      "status": "published-model-discretization",
+      "citation_id": "moshkforoush2020",
+      "locator": "Methods, Multicellular Models; Fig. 4 geometry",
+      "note": "Published capillary cell length. Fig. 4 uses a 200-um arteriole represented by ten axial positions; reconstructed larger networks instead use approximately 33-um arteriolar ECs."
+    },
+    "pa_units_per_node": {
+      "value": 3,
+      "units": "EC-SMC units",
+      "status": "published-model",
+      "citation_id": "moshkforoush2020",
+      "locator": "Methods, Multicellular Models; Fig4C.m axial/circumferential arrangement",
+      "note": "Three circumferential units are assumed isopotential and summed."
+    },
+    "geometry": {
+      "value": {
+        "pa_nodes": 15,
+        "pa_length_um": 300,
+        "branch_levels": 4,
+        "cells_per_segment": 3,
+        "capillary_cells_base_tree": 45
+      },
+      "units": "mixed, keys explicit",
+      "status": "design-assumption",
+      "citation_id": "moshkforoush2020",
+      "locator": "Fig. 4 motivates finite branched preparation; Longden2017 Fig. 2A for magnitude check",
+      "note": "Idealized binary tree, two-tree and loop variants are generated, not reconstructions of observed vascular topology. Closed terminal boundaries omit surrounding vascular load."
+    },
+    "single_site_reference_voltage": {
+      "value": 23.2,
+      "reported_sem": 1.8,
+      "units": "mV hyperpolarization",
+      "status": "measured-summary-used-for-screen",
+      "citation_id": "longden2017",
+      "locator": "Results, Elevation of K+ around capillaries evokes retrograde electrical signaling; Fig. 2G-H",
+      "note": "Longden measured response to 10mM capillary K roughly500um distant with18s stimulation. The model matches duration and screens response magnitude and recovery; its plume footprint and idealized topology remain assumptions, so this is not a likelihood for raw experimental data."
+    },
+    "single_site_reference_latency": {
+      "value": 0.24,
+      "reported_sem": 0.03,
+      "units": "s",
+      "status": "measured-summary-reality-check",
+      "citation_id": "longden2017",
+      "locator": "Same Results paragraph and Fig. 2",
+      "note": "Observed onset latency not used to claim calibrated timing in this reduced model."
+    },
+    "physiological_screen": {
+      "value": {
+        "target_halfwidth_mv": 3.6,
+        "baseline_range_mv": [
+          -45,
+          -25
+        ],
+        "exposed_cells": 16,
+        "alternative_exposed_cells": 8,
+        "potassium_mm": 10,
+        "duration_ms": 18000,
+        "post_offset_observation_ms": 5000,
+        "recovery_threshold_mv": 1,
+        "candidate_count": 8192
+      },
+      "units": "mixed, keys explicit",
+      "status": "design-assumption-anchored-to-published-response",
+      "citation_id": "longden2017",
+      "locator": "Fig. 2 and Results; model design",
+      "note": "Halfwidth is twice reported SEM, an adopted tolerance rather than a population confidence interval. The primary16cell exposure is one connected capillary patch grown breadth first within a distal subtree, excluding the proximal common trunk. An8cell connected footprint tests structural sensitivity. Experimental plume coverage was not measured. Both amplitudes and recovery are checked before any paired trials are considered."
+    },
+    "paired_protocol": {
+      "value": {
+        "pulse_ms": 500,
+        "cells_per_tip": 2,
+        "potassium_mm": [
+          6,
+          8,
+          10,
+          12
+        ],
+        "offsets_ms": [
+          0,
+          100,
+          250,
+          500
+        ]
+      },
+      "units": "mixed, keys explicit",
+      "status": "design-assumption",
+      "citation_id": "longden2017",
+      "locator": "Methods in-vivo200\u2013300ms ejection and ex-vivo18s exposure provide scale context only",
+      "note": "These exact combinations are newly proposed simulation protocols; no claim that a physiological distribution has been measured."
+    },
+    "diameter_transform": {
+      "value": {
+        "max_fraction": 0.3,
+        "hyperpolarization_scale_mv": 10.0,
+        "flow_power": 4
+      },
+      "units": "dimensionless and mV",
+      "status": "design-assumption",
+      "citation_id": "longden2017",
+      "locator": "Fig. 2 near-maximal dilation around -56mV; in-vivo Fig. 4 mean dilation32.9 percent as scale check only",
+      "note": "D/D0=1+0.3*tanh(max(H,0)/10); Q/Q0=(D/D0)^4. Fixed across all models. Fourth-power law assumes fixed pressure, length, viscosity and a single resistance vessel; it is not a prediction of whole-network RBC flow. No readout parameters fitted to pairs."
+    },
+    "katp_effective_input_ns": {
+      "value": 0.1,
+      "units": "nS per stimulated model cell",
+      "status": "design-assumption",
+      "citation_id": "isaacs2024",
+      "locator": "Results, A Mouse Model to Study Pericyte Electrical Signaling",
+      "note": "Effective ohmic hyperpolarizing conductance applied to2cells for a single tip or4cells across a pair, zero elsewhere; near resting voltage gives order7pA/cell. Isaacs measured ArchT7.6\u00b11.3pA, not this KATP conductance. No explicit pericyte-EC junction or ATP/glucose kinetics are inferred."
+    },
+    "archt_reference_current_pa": {
+      "value": 7.6,
+      "reported_sem": 1.3,
+      "units": "pA",
+      "status": "measured-summary-scale-check",
+      "citation_id": "isaacs2024",
+      "locator": "Results, A Mouse Model to Study Pericyte Electrical Signaling",
+      "note": "Pericyte ArchT is a proton pump; comparison gives input-current order of magnitude only."
+    },
+    "passive_slope_floor_ns": {
+      "value": 0.001,
+      "units": "nS",
+      "status": "counterfactual-control-assumption",
+      "locator": "capnet/experiment.py, positive tangent control",
+      "note": "Linearized membranes retain basal current and the resting tangent, clipped to a small positive conductance so the passive counterfactual cannot retain negative-resistance regeneration. This is not a measured capillary conductance."
+    },
+    "rest_current_balance_tolerance": {
+      "value": 1e-10,
+      "units": "mV/ms maximum implied drift",
+      "status": "numerical-setting",
+      "locator": "capnet/model.py, Solver.rest",
+      "note": "Depolarized-start integration continues until all nodes satisfy current balance. This prevents incomplete burn-in from creating a spurious passive interaction residual."
+    },
+    "primary_step_ms": {
+      "value": 2.0,
+      "units": "ms",
+      "status": "numerical-setting",
+      "locator": "run_all.py",
+      "note": "Uniform for all calibration screening and primary predictions. Selected traces, geometry contrasts and pharmacological differences are checked with smaller steps."
+    },
+    "pharmacology_block": {
+      "value": {
+        "fraction": 0.9,
+        "nodes": [
+          15,
+          16,
+          17
+        ]
+      },
+      "units": "fraction of Kir conductance and model node IDs",
+      "status": "design-assumption",
+      "citation_id": "longden2017",
+      "locator": "Kir pharmacology in Fig.2 supports intervention class, not selectivity of this idealized block",
+      "note": "Ideal90percent Kir reduction only in the unstimulated common trunk. Rebaseline and remeasure singles under block. Actual drug spread and off-target actions are not modeled."
+    },
+    "dynamic_filter": {
+      "value": {
+        "fixed_cable_gkir_ns": 0.4,
+        "fixed_cable_gbg_ns": 0.06,
+        "fixed_cable_rgj_mohm": 50,
+        "gain_bounds": [
+          0,
+          100
+        ],
+        "quadratic_gain_bounds": [
+          -50,
+          50
+        ],
+        "tau_bounds_ms": [
+          0.1,
+          1000
+        ]
+      },
+      "units": "mixed, keys explicit",
+      "status": "countermodel-design",
+      "citation_id": "moshkforoush2020",
+      "locator": "Published-model scales supply fixed cable; filter architecture and fitted bounds are design assumptions",
+      "note": "The fixed passive driver is not fitted to the nominal distributed model. Three fitted coefficients (linear gain, quadratic gain and time constant) match the distributed model fitted dimension."
+    },
+    "precision_assumptions": {
+      "value": {
+        "two_sided_alpha": 0.05,
+        "power": 0.8,
+        "independent_condition_sd_mv": 1.0
+      },
+      "units": "probabilities and mV",
+      "status": "experiment-planning-assumption",
+      "locator": "run_all.py, precision calculation",
+      "note": "Independent condition means and a prespecified scalar contrast, normal approximation. The1mV trial standard deviation is an assumed planning scenario, not a measured noise level. Repeated imaging frames are not independent replicates."
+    }
+  },
+  "general_limits": [
+    "Fixed membrane constants and homogeneous cells do not represent full biological parameter uncertainty.",
+    "Capillary coupling remains unmeasured; selected bounds and synthetic calibration cannot establish the intact-brain regime.",
+    "Voltage-dependent physiological input currents can interact through source loading even with passive remote propagation.",
+    "Global Kir blockade can change local sensing, propagation and arteriolar readout; simulated ideal selective ablations do not assert pharmacological selectivity.",
+    "Measurement-noise assumptions, pulse timing, topology, selection thresholds and rival fit bounds are design choices stated in executable analysis, not published measured values."
+  ]
+}

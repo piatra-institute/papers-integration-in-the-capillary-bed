@@ -1,0 +1,101 @@
+{
+  "sha": "759d6a9f2002ab7367791c65118500091749d75e",
+  "node_id": "MDY6Q29tbWl0MjYwMDQ4NjMzOjc1OWQ2YTlmMjAwMmFiNzM2Nzc5MWM2NTExODUwMDA5MTc0OWQ3NWU=",
+  "commit": {
+    "author": {
+      "name": "ntsoukias",
+      "email": "56974556+ntsoukias@users.noreply.github.com",
+      "date": "2020-05-19T02:46:35Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2020-05-19T02:46:35Z"
+    },
+    "message": "Update README.md",
+    "tree": {
+      "sha": "1225de02edce810f7bc74974ff340fc60f42371f",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/1225de02edce810f7bc74974ff340fc60f42371f"
+    },
+    "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/commits/759d6a9f2002ab7367791c65118500091749d75e",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJew0iLCRBK7hj4Ov3rIwAAdHIIABE2sFs1EEl7yiaOmRlAYurS\nyd/MygIuTwY9AMKyRvofwC1MD6NgDRf757ye3GcrbTN5SdPkdOc1bsWjTFXz1AQJ\nuI9YNxw1wPL14eyBnYbiI/9ZV4XDOK8FE9oA6KjgmRe0O5McLy8CF9mL5j+NM34N\nCMQu81u558aGyiRRxOFs5CBGSqF2s4G9Vh74bmH4SJIt2A23LjCItyglFyTSRnc6\n3JXh7ho8mmVQDbof22esMQBS6GL8+mikmymWj/3xsEQUJlttegoVhGzDFJvlY3CF\naayV3//9xQY6Op8Wg8ckH6SpfsJgn3RMVMoccmDmS8FAOLRBMynAocp9rdd7suQ=\n=bawO\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 1225de02edce810f7bc74974ff340fc60f42371f\nparent 2518ccda4ade6f9a0ebbcb919d95a6954cbc7ffc\nauthor ntsoukias <56974556+ntsoukias@users.noreply.github.com> 1589856395 -0400\ncommitter GitHub <noreply@github.com> 1589856395 -0400\n\nUpdate README.md",
+      "verified_at": "2024-01-16T19:59:59Z"
+    }
+  },
+  "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/commits/759d6a9f2002ab7367791c65118500091749d75e",
+  "html_url": "https://github.com/ntsoukias/Capillary-Kir-Model/commit/759d6a9f2002ab7367791c65118500091749d75e",
+  "comments_url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/commits/759d6a9f2002ab7367791c65118500091749d75e/comments",
+  "author": {
+    "login": "ntsoukias",
+    "id": 56974556,
+    "node_id": "MDQ6VXNlcjU2OTc0NTU2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/56974556?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ntsoukias",
+    "html_url": "https://github.com/ntsoukias",
+    "followers_url": "https://api.github.com/users/ntsoukias/followers",
+    "following_url": "https://api.github.com/users/ntsoukias/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ntsoukias/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ntsoukias/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ntsoukias/subscriptions",
+    "organizations_url": "https://api.github.com/users/ntsoukias/orgs",
+    "repos_url": "https://api.github.com/users/ntsoukias/repos",
+    "events_url": "https://api.github.com/users/ntsoukias/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ntsoukias/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "2518ccda4ade6f9a0ebbcb919d95a6954cbc7ffc",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/commits/2518ccda4ade6f9a0ebbcb919d95a6954cbc7ffc",
+      "html_url": "https://github.com/ntsoukias/Capillary-Kir-Model/commit/2518ccda4ade6f9a0ebbcb919d95a6954cbc7ffc"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "additions": 4,
+    "deletions": 4
+  },
+  "files": [
+    {
+      "sha": "7df1737b054358f9e4e99b27259c21bf5f9fb19f",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 4,
+      "deletions": 4,
+      "changes": 8,
+      "blob_url": "https://github.com/ntsoukias/Capillary-Kir-Model/blob/759d6a9f2002ab7367791c65118500091749d75e/README.md",
+      "raw_url": "https://github.com/ntsoukias/Capillary-Kir-Model/raw/759d6a9f2002ab7367791c65118500091749d75e/README.md",
+      "contents_url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/contents/README.md?ref=759d6a9f2002ab7367791c65118500091749d75e",
+      "patch": "@@ -2,8 +2,6 @@\n \n Code to accompany the paper titled \"Capillary Kir channel as sensor and amplifier of neuronal signals: modeling insights on  K+ -mediated neurovascular communication\". Currently under review in PNAS. \n \n-*Code is currently being prepared for upload and will be uploaded shortly.*\n-\n Notes:\n \n 1. Run script files within the \"scripts\" folder to reproduce each figure. The various microvascular networks used in the code are .mat files in the \"networks\" folder within each script subfolder. Networks are represented as graph objects using MATLAB's \"Graph and Network Algorithms\" functionality. Some simulation results are saved in the \"saved_data\" folder within each script subfolder in order to save time when reproducing manuscript figures. Functions used are in the \"functions\" folder. Some simulations have inherent stochasticity and/or randomness so they may not exactly match data reported in the manuscript, however they should follow the same trend. \n@@ -17,7 +15,9 @@ Notes:\n \n 4. We have tested this code using MATLAB R2019a on a Windows 10 personal computer. For error reporting and suggestions please contact Arash Moshkforoush (amosh005@fiu.edu) . We welcome your comments and suggestions.\n \n-5. Arash Moshkforoush, Baarbod Ashenagar, and Nikolaos Tsoukias contributed to the development of this method.\n+5. Modifying the file structure of the repository while using it may break some of the code.\n+\n+6. Arash Moshkforoush, Baarbod Ashenagar, and Nikolaos Tsoukias contributed to the development of this method.\n \n-6. If this work is used in any way, please cite the paper and provide appropriate acknowledgement.\n+7. If this work is used in any way, please cite the paper and provide appropriate acknowledgement.\n "
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+# Sources and inspection limits
+
+All nine bibliography entries were constructed from Crossref records obtained with curl on 14 November 2026. Frozen records are in `simulation/data/source_evidence/*.crossref.json`; their title, complete author list, publication date, venue, volume, issue, and page/article identifiers were inspected before insertion. Publisher whitespace around chemical superscripts and subscripts was normalized without changing words. Kapela2018 has no registry page field but has article-number `e12429`; the CSL page field carries that article locator for rendering, which may produce a harmless page-detail advisory. Isaacs2024 likewise uses its registered electronic article locator in the CSL page field; the automated page-detail advisory does not indicate an identity mismatch. The paper uses the journal versions, including the PNAS Isaacs article rather than the similarly titled meeting abstract. Registry identity is distinct from substantive support. Independent claim certification remains pending.
+
+| Citation ID | Material actually inspected | Use and limit |
+|--------------------------------|------------------------------------------------------------|---------------------------------------------------------------------|
+| longden2017 | Europe PMC full-text XML for PMC5404963, Results and Fig. 2; online methods | Ex vivo capillary-to-arteriole voltage signaling, Kir dependence, stimulus scale and distance. No raw trace extraction and no precise count of exposed cells inferred. |
+| moshkforoush2020 | PMC7368319 full text, Eqs. 1–3, Figs. 2–7, Methods, limitations; official Fig4C.m and Fig3AB.m | Model law, measured current magnitudes and uncertain coupling; prior network integration. SI PDF requests returned access/interstitial HTML, so SI figures and tables are not certified as inspected. |
+| isaacs2024 | Europe PMC XML for PMC11648664, Results, Figs. 2 and 4–6, Discussion | Pericyte optogenetic input, KATP involvement, and limitations of global Ba2+. Does not provide a measured KATP nS value for our lumped node. |
+| longden2026 | PMC13186272 full text, “Arithmetic operations in CCUs,” Fig. 4, Future Directions | Closest conceptual and experimental-design precedent. Its proposed arithmetic and spatial organization are hypotheses, not completed paired-input measurements. |
+| kapela2018 | PMC5809195 full text, Table 1, Discussion “Endothelial Rgj” | Passive cable parameters depend on geometry; data are arterial endothelial tubes, not cerebral capillaries. |
+| behringer2012 | PMC3467972 full text, Results on SKCa/IKCa activation and electrical conduction, Discussion | Passive membrane shunting can attenuate a conducted response after matching its local amplitude. Channel expression cannot be transferred indiscriminately between vascular beds. |
+| rivers1997 | Crossref bibliographic record and registered abstract | Multiple stimulation sites, cumulative dilation and saturation in hamster cheek-pouch arterioles. Abstract depth only; no page or figure-specific claims. |
+| postnov2015 | Europe PMC XML for PMC4303742, “Regenerative Pulse Transmission” and “Bistability Hypothesis” | Prior negative-conductance and bistability explanation of regenerative conducted responses. |
+| hariharan2022 | Europe PMC XML for PMC10187957, Results and Figs. 2 and 4 | Pericyte KATP activation and upstream response; grounds inclusion of an effective input, not a fitted pericyte biochemical model. |
+
+## Short source-claim evidence candidates
+
+These quotations identify inspected supporting passages; they are not independent review sign-offs. Each quotation is shorter than the source-claim limit.
+
+- **longden2017**, Results, “Elevation of K+ around capillaries”: “we measured the SM cell membrane potential at Zone 2”. Depth: fulltext. Supports direct electrical measurement at the arteriole.
+- **moshkforoush2020**, Methods, “Multicellular Models”: “Rgj has not been measured in capillaries”. Depth: fulltext. Supports explicit coupling uncertainty.
+- **isaacs2024**, Discussion: “direct action of Ba2+ on pericyte Kir channels”. Depth: fulltext. Supports nonlocal pharmacological ambiguity; the surrounding paragraph also mentions other cells.
+- **longden2026**, Future Directions: “injecting currents of varying magnitude and polarity into two downstream branches simultaneously”. Depth: fulltext. Supports the prior paired-electrode design.
+- **kapela2018**, Discussion, “Endothelial Rgj”: “our estimation of EC-to-EC coupling resistance depends on the assumed geometry of ECs and the spatial arrangement”. Depth: fulltext; read by the scientific audit agent.
+- **behringer2012**, Results, “Effects of SKCa/IKCa activation on electrical conduction over distance”: “At each distance, opening SKCa/IKCa with 1 μmol/L NS309 reduced CA yet the I–V relationship remained linear.” Depth: fulltext; chemical subscripts flattened for the evidence ledger, read by the scientific audit agent.
+- **rivers1997**, Crossref abstract. Depth: abstract; paraphrase only, as full text was not inspected.
+- **postnov2015**, “Regenerative Pulse Transmission and Whole-Cell Electric Properties”: “the presence of negative whole-cell resistance (or conductance)”. Depth: fulltext. Supports the prior dynamical mechanism.
+- **hariharan2022**, Results, paragraph beginning “The glucose concentration in bulk cerebrospinal fluid,” and Fig. 4; quote: “pericyte resting Vm averaged −36 mV”. Depth: fulltext.
+
+## Frozen versions and rights
+
+The Crossref responses preserve registry metadata retrieved on the audit date. Full-text copies are research inspection materials; their respective publisher/PMC rights apply and no license to republish all article text is asserted. Longden2017 is a Nature author manuscript under the academic-use terms recorded in its XML. Isaacs2024 and Hariharan2022 specify CC BY-NC-ND 4.0; Postnov2015 specifies CC BY. Moshkforoush2020 specifies the PNAS license. Longden2026, Kapela2018, and Behringer2012 were inspected through PMC author-manuscript HTML, without inferring additional redistribution rights. No raw external experimental dataset was analyzed.
+
+The official Moshkforoush code was inspected at https://github.com/ntsoukias/Capillary-Kir-Model, commit SHA `759d6a9f2002ab7367791c65118500091749d75e`; frozen `moshk_Fig4C.m` and `moshk_Fig3AB.m` implement the reported model. Its MIT license is preserved as `moshk_LICENSE.txt`. Our implementation is an independently written reduced network model, with discrepancies and assumptions recorded in the parameter inventory. Retrieved materials and hashes are enumerated in `simulation/data/source_evidence/manifest.json`.
+
+`simulation/fetch_sources.py` lists exact primary URLs, including commit-pinned model-code links. It accesses the network only with `--refresh`; analysis does not download data. Failed SI response bodies have explicit failed-response names and are excluded from substantive evidence.

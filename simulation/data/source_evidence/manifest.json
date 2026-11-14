@@ -1,0 +1,320 @@
+{
+  "schema": 1,
+  "created_utc": "2026-11-14T12:48:53.431268+00:00",
+  "code_commit": "759d6a9f2002ab7367791c65118500091749d75e",
+  "note": "Raw sources are inspection material, not analyzed empirical data. Text extraction aids retain the source license. No fulltext inspection is asserted for Rivers1997 or failed requests.",
+  "files": [
+    {
+      "file": "behringer2012.crossref.json",
+      "sha256": "c382936c0d22f9d29d11ea34812ff5ca0fbce5c9f4f7702ed7c24948f7b3dd1a",
+      "bytes": 11392,
+      "url": "https://api.crossref.org/works/10.1161%2FCIRCRESAHA.111.262592",
+      "role": "registry-identity",
+      "inspected": true
+    },
+    {
+      "file": "behringer2012.fulltext.html",
+      "sha256": "4ca67d4281ca5c41cc03343662a485b8daab20bf092f7c924b093119f4cab43f",
+      "bytes": 206446,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3467972/?report=xml",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "behringer2012.fulltext.txt",
+      "sha256": "cd2aa34e5d741a76378dd6fe7d87bde2ea0c51bd52c1afb83ecff102b8b9da81",
+      "bytes": 77496,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "hariharan2022.crossref.json",
+      "sha256": "d8d26dbb1ae8065dd92bf8a1e69c33982e7aef1f557bc01852e29e0d35e52883",
+      "bytes": 38107,
+      "url": "https://api.crossref.org/works/10.1016%2Fj.celrep.2022.111872",
+      "role": "registry-identity",
+      "inspected": true
+    },
+    {
+      "file": "hariharan2022.txt",
+      "sha256": "152314b90299ae4f8e4c8f0a05d8992fef5ca68bd600dda386474b6728290047",
+      "bytes": 68054,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "hariharan2022.xml",
+      "sha256": "4ad4b3560fb52aeb928935881fe79bb498edee32c2790c403877d4bdc6cfeb83",
+      "bytes": 208669,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10187957/fullTextXML",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "isaacs2024.crossref.json",
+      "sha256": "a8ad4f0bb99f87df243faa33fa9f1f3df322d31f806c86c1a999172f1947c180",
+      "bytes": 12186,
+      "url": "https://api.crossref.org/works/10.1073%2Fpnas.2405965121",
+      "role": "registry-identity",
+      "inspected": true
+    },
+    {
+      "file": "isaacs2024.txt",
+      "sha256": "5e44a28e2e7a609196c78584b1999050b6b8c0d41dfa9b9cc1dad94e8371e494",
+      "bytes": 65062,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "isaacs2024.xml",
+      "sha256": "9cc25d99b3a2c1a3db043522d5859878008bf3b0e8d3dbc8000c4805a8ce82c1",
+      "bytes": 134371,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11648664/fullTextXML",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "isaacs_epmc.json",
+      "sha256": "e949b5e2af5fb4e44844d8de7e96165afd85652f1feea90632595baac464e3b4",
+      "bytes": 1091,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "isaacs_search.json",
+      "sha256": "e316a66653c720ccec35e01426317477d53fa0c108608c3f02b088cba5aedd84",
+      "bytes": 58550,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "kapela2018.crossref.json",
+      "sha256": "1307645b6328fe4e6626d04d8a7fdea580e48c178483148cc16ee057dd619eb4",
+      "bytes": 12065,
+      "url": "https://api.crossref.org/works/10.1111%2Fmicc.12429",
+      "role": "registry-identity",
+      "inspected": true
+    },
+    {
+      "file": "kapela2018.fulltext.html",
+      "sha256": "d50424f56d36397e71c1d6c665c18dd60b7e102fbe54cf4ea40b13a6d03bf4f5",
+      "bytes": 267420,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5809195/",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "kapela2018.fulltext.txt",
+      "sha256": "307ccd1aef86f71855334770654fc6b3e55fad03601c3289a343c9531effb743",
+      "bytes": 101820,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "longden2017.crossref.json",
+      "sha256": "d16a2b033c6c979837965540b45d39abdaf8762a57353fff387c35d574c2dd67",
+      "bytes": 23374,
+      "url": "https://api.crossref.org/works/10.1038%2Fnn.4533",
+      "role": "registry-identity",
+      "inspected": true
+    },
+    {
+      "file": "longden2017.txt",
+      "sha256": "85a6a9ac8fc5d95db07d3428f0c63c983caebbcb8c33995a1f155312d83133e0",
+      "bytes": 58494,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "longden2017.xml",
+      "sha256": "3b203915f99659affdc0eeb12b09ac6214f717d6772da1b1f44635ee490c804c",
+      "bytes": 127180,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5404963/fullTextXML",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "longden2026.crossref.json",
+      "sha256": "441a7863e9318a2d2dc398349ec31ec2bed56d42be8d8ac836dbd0f00e358c0f",
+      "bytes": 17658,
+      "url": "https://api.crossref.org/works/10.1152%2Fajpcell.00065.2026",
+      "role": "registry-identity",
+      "inspected": true
+    },
+    {
+      "file": "longden2026.html",
+      "sha256": "a772e7ed8e948f97d8b32dc5dde3d6b0b3b37d579347e64be87691fc8cc0da65",
+      "bytes": 344917,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13186272/",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "longden2026.txt",
+      "sha256": "af9afe33e6d24dbdf44a5a8708a8051da151a4b0b11b7ca321132d9fca4eb14b",
+      "bytes": 122669,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "longden2026_epmc.json",
+      "sha256": "043a121a2194ed5adf2bfd6e9c9f50e2bd4236818cd857cb064f58a4f082564c",
+      "bytes": 966,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "longden_epmc.json",
+      "sha256": "492280d452ac382f0bbfae3a41f14415bc89a7c2da20a6f760c83959ff3c4dc6",
+      "bytes": 1098,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "moshk_Fig3AB.m",
+      "sha256": "64f1544a557adb99beec946918b79f55bfd0c0f7fd704a14773335a52492fa93",
+      "bytes": 7155,
+      "url": "https://raw.githubusercontent.com/ntsoukias/Capillary-Kir-Model/759d6a9f2002ab7367791c65118500091749d75e/scripts/Fig3/Fig3AB.m",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "moshk_Fig4C.m",
+      "sha256": "c0212c9a8240c10dee5a0fccea603738eed959eda6b93a25ac958ded88357cce",
+      "bytes": 11287,
+      "url": "https://raw.githubusercontent.com/ntsoukias/Capillary-Kir-Model/759d6a9f2002ab7367791c65118500091749d75e/scripts/Fig4/Fig4C.m",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "moshk_LICENSE.txt",
+      "sha256": "a87ebe281e3424afa26eb32131e34bd6c1bf3af870f727b01babe1f31ce15f95",
+      "bytes": 1117,
+      "url": "https://raw.githubusercontent.com/ntsoukias/Capillary-Kir-Model/759d6a9f2002ab7367791c65118500091749d75e/LICENSE.txt",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "moshk_SI_response.html",
+      "sha256": "dabf40056f297ddcb28c2de397510d4d9ed60f45a23eec64382f231f0c392a74",
+      "bytes": 5663,
+      "url": null,
+      "role": "failed-fetch-not-evidence",
+      "inspected": false
+    },
+    {
+      "file": "moshk_code_commit.json",
+      "sha256": "38d934395087c827a13a29ee979496ef8f991508eaac5c11d38674df9df8322e",
+      "bytes": 7035,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/commits/759d6a9f2002ab7367791c65118500091749d75e",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "moshk_code_tree.json",
+      "sha256": "5e982238a72c738c099e411a0280be2d00f8e6f63fc04d9c65317df8fbb77165",
+      "bytes": 20757,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/759d6a9f2002ab7367791c65118500091749d75e?recursive=1",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "moshk_epmc.json",
+      "sha256": "0eac7e3f60d992b1e2c76ef011a0c0745e9eb9406d021d5c81d8b7dc68cce01b",
+      "bytes": 1177,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "moshk_search.json",
+      "sha256": "cdcb0ea0e8509afef2b319554596ac1a47d1214ed7fb9d1a89139e6d2a534d9d",
+      "bytes": 26072,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "moshkforoush2020.crossref.json",
+      "sha256": "91b00f924d5ea0096f76c6579d26a099ad89c1302577a163f0334cfc4e0b7a5e",
+      "bytes": 14081,
+      "url": "https://api.crossref.org/works/10.1073%2Fpnas.2000151117",
+      "role": "registry-identity",
+      "inspected": true
+    },
+    {
+      "file": "moshkforoush2020.html",
+      "sha256": "adeb56791f33ad64aef39124137c68535e305e310ca68dace9c4f6cf244a17c1",
+      "bytes": 276779,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7368319/",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "moshkforoush2020.sapp.failed-response.html",
+      "sha256": "0b76bb4423a08b4a736d0b8932fcc20ac827d03b79b129527321a4aaa387b431",
+      "bytes": 21459,
+      "url": null,
+      "role": "failed-fetch-not-evidence",
+      "inspected": false
+    },
+    {
+      "file": "moshkforoush2020.txt",
+      "sha256": "20184426185190275680067b27a8dc298f9edc621af436db673cb651a76bf7c6",
+      "bytes": 112024,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "moshkforoush2020.xml.failed-response.txt",
+      "sha256": "7f1d05d487eaf617cf67a2b592431b800f912568bcb7ade7f6d40420e76e8cf4",
+      "bytes": 150,
+      "url": null,
+      "role": "failed-fetch-not-evidence",
+      "inspected": false
+    },
+    {
+      "file": "postnov2015.crossref.json",
+      "sha256": "08c08257fb899c3a9a8c7c2a9f21e3c84a0eb63b2519333c62390606daf652f0",
+      "bytes": 21342,
+      "url": "https://api.crossref.org/works/10.1007%2Fs11538-014-0058-0",
+      "role": "registry-identity",
+      "inspected": true
+    },
+    {
+      "file": "postnov2015.txt",
+      "sha256": "f08d3459c21df02c691eb16e5dba0a44c819112a2731366fbee43858e6b72b0e",
+      "bytes": 41416,
+      "url": null,
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": false
+    },
+    {
+      "file": "postnov2015.xml",
+      "sha256": "1add953313c540299b6bfcced2ebfac9952fe85de44aa4578f39da013b4487fc",
+      "bytes": 195417,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4303742/fullTextXML",
+      "role": "source-inspection-or-retrieval-aid",
+      "inspected": true
+    },
+    {
+      "file": "rivers1997.crossref.json",
+      "sha256": "247de7e9746f6437bf28367628f0328b5fb185e6c32786822f7a15de37d66c10",
+      "bytes": 3413,
+      "url": "https://api.crossref.org/works/10.1152%2Fajpheart.1997.273.1.H310",
+      "role": "registry-identity",
+      "inspected": true
+    }
+  ]
+}

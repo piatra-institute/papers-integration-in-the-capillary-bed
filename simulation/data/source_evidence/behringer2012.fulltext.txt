@@ -1,0 +1,4730 @@
+
+
+
+
+
+    
+
+
+        
+
+        
+
+        
+
+        
+
+        
+
+
+        
+        
+
+        
+        
+  
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+
+  
+  
+  @media screen and (min-width: 64em) {
+    div.pmc-wm {
+      background: repeat-y;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='350' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cfilter x='-.02' y='0' width='1.05' height='1' id='c'%3E%3CfeFlood flood-color='%23FFF'/%3E%3CfeComposite in='SourceGraphic'/%3E%3C/filter%3E%3Ctext id='b' font-family='Helvetica' font-size='11pt' style='opacity:1;fill:%23005ea2;stroke:none;text-anchor:middle' x='175' y='14'%3EAuthor Manuscript%3C/text%3E%3Cpath id='a' style='fill:%23005ea2' d='M0 8h350v3H0z'/%3E%3C/defs%3E%3Cuse xlink:href='%23a' transform='rotate(90 10 10)'/%3E%3Cuse xlink:href='%23b' transform='rotate(90 10 10)' filter='url(%23c)'/%3E%3C/svg%3E");
+      padding-left: 3rem;
+    }
+  }
+
+
+
+  
+
+
+
+        
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        
+
+            Tuning electrical conduction along endothelial tubes of resistance arteries through Ca2+-activated K+ channels - PMC
+        
+
+
+        
+        
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+    
+        
+
+    
+
+    
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+    
+
+        
+    
+
+      Skip to main content
+    
+
+
+
+        
+            
+
+
+
+    
+
+        
+
+            
+
+                
+
+                    
+
+                
+
+
+                
+
+                    
+
+                        An official website of the United States government
+                    
+
+                    
+Here's how you know
+
+                
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                    
+Here's how you know
+
+                
+
+        
+    
+        
+            
+
+        
+
+
+            
+
+        
+
+
+        
+
+            
+
+                
+
+                    
+
+                    
+
+                        
+
+                            
+Official websites use .gov
+
+                            
+
+                            A
+                            
+.gov
+ website belongs to an official
+                            government organization in the United States.
+                        
+
+                    
+
+                
+
+
+                
+
+                    
+
+
+                    
+
+                        
+
+                            
+Secure .gov websites use HTTPS
+
+                            
+
+                            A 
+lock
+ (
+                            
+
+                                
+
+                                    
+Lock
+
+                                    
+
+                                    Locked padlock icon
+                                    
+
+                                    
+
+                                
+
+
+) or 
+https://
+ means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            
+
+                        
+
+                    
+
+                
+
+            
+
+        
+
+    
+
+
+        
+
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+            
+
+                
+
+            
+
+
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                
+
+                    
+
+                
+
+            
+
+        
+    
+        
+            
+
+        
+
+
+
+            
+                
+
+                
+
+                    
+                        
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                            
+
+
+
+    
+
+
+
+                            Search
+                        
+
+        
+    
+        
+            
+
+        
+
+
+                    
+
+                    
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                                
+
+
+
+    
+
+
+
+
+                                
+Log in
+
+
+                                
+
+                                
+
+
+
+    
+
+
+
+
+                                
+
+                                
+
+
+
+    
+
+
+
+                            
+
+        
+    
+        
+            
+
+        
+
+
+
+                            
+
+                            
+
+                                
+                                    
+
+                                        
+
+                                        
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Dashboard
+        
+
+        
+    
+
+
+
+                                    
+
+                                
+                                    
+
+                                        
+
+                                        
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Publications
+        
+
+        
+    
+
+
+
+                                    
+
+                                
+                                    
+
+                                        
+
+                                        
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Account settings
+        
+
+        
+    
+
+
+
+                                    
+
+                                
+                                
+
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        Log out
+
+        
+    
+        
+            
+
+        
+
+
+                                
+
+                            
+
+                        
+
+                    
+                
+
+            
+        
+
+    
+
+
+    
+
+    
+        
+
+            
+
+                
+
+                    
+
+                        Search…
+                    
+
+                    
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                        
+
+                            Search NCBI
+                        
+
+                    
+
+        
+    
+        
+            
+
+        
+
+
+                
+
+
+                
+            
+
+        
+
+    
+
+    
+
+        
+
+            Primary site navigation
+        
+
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+            
+
+        
+
+        
+    
+        
+            
+
+        
+
+
+
+        
+            
+
+            
+
+                
+
+                    Search
+                
+
+
+                
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                    
+
+                    
+
+                
+
+        
+    
+        
+            
+
+        
+
+
+            
+
+
+            
+        
+
+        
+
+        
+
+        
+
+        
+            
+
+                
+
+                    Logged in as:
+                    
+
+                
+
+                
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Dashboard
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Publications
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Account settings
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                
+
+            
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        Log in
+
+        
+    
+        
+            
+
+        
+
+
+    
+
+
+
+
+    
+    
+        
+
+
+
+    
+
+        
+
+           
+
+               
+
+           
+
+            
+
+                
+
+                
+
+            
+
+        
+
+        
+
+            
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+            
+
+                
+
+                    
+
+                        
+                            
+
+                                Journal List
+                            
+
+                        
+                    
+
+                    
+
+                        
+                            
+
+                                User Guide
+                            
+
+                        
+                    
+
+                
+
+            
+
+        
+
+    
+
+
+
+
+    
+
+
+        
+        
+
+       
+  
+
+
+    
+
+   
+
+
+
+
+
+    
+
+        
+
+             
+
+                
+
+                    
+
+                        
+
+                            
+
+                        
+
+                    
+
+                    
+                    
+
+                        
+
+                                
+
+                        
+
+                    
+
+                    
+                    
+                        
+
+                             
+
+
+                                 
+
+                            
+
+                        
+
+                    
+                    
+
+                        
+
+                            
+
+                            
+
+                        
+
+                    
+
+                    
+                    
+
+                        
+
+                            
+
+                        
+
+                    
+
+                    
+                    
+
+                         
+
+                            
+
+                        
+
+                        
+
+
+
+    
+
+          
+PERMALINK
+
+          
+
+              
+
+              
+
+                  
+
+                  
+Copy
+
+              
+
+          
+
+    
+
+
+
+                    
+
+                
+
+            
+
+            
+
+                
+
+            
+
+        
+
+    
+
+
+
+    
+
+      
+
+        
+
+            
+
+                
+
+                    
+
+                        
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+
+    Learn more:
+    
+PMC Disclaimer
+
+    |
+    
+
+        PMC Copyright Notice
+    
+
+
+
+                    
+
+                
+
+                
+
+                    
+
+                    
+
+
+                      
+                        
+
+
+Circ Res
+. Author manuscript; available in PMC: 2013 May 11.
+
+
+
+
+Published in final edited form as: 
+Circ Res. 2012 Apr 5;110(10):1311–1321. doi: 
+10.1161/CIRCRESAHA.111.262592
+
+
+
+
+
+
+Search in PMC
+
+
+Search in PubMed
+
+
+View in NLM Catalog
+
+
+Add to search
+
+
+
+
+Tuning electrical conduction along endothelial tubes of resistance arteries through Ca
+2+
+-activated K
++
+ channels
+
+
+Erik J Behringer
+
+
+Erik J Behringer
+
+
+
+
+1
+Medical Pharmacology and Physiology, University of Missouri, Columbia, MO 65212 USA
+
+
+Find articles by 
+Erik J Behringer
+
+
+
+
+
+
+1
+, 
+Steven S Segal
+
+
+Steven S Segal
+
+
+
+
+1
+Medical Pharmacology and Physiology, University of Missouri, Columbia, MO 65212 USA
+
+
+
+
+2
+Dalton Cardiovascular Research Center, Columbia, MO 65211 USA
+
+
+Find articles by 
+Steven S Segal
+
+
+
+
+
+
+1,
+2
+
+
+
+
+
+
+Author information
+
+
+Article notes
+
+
+Copyright and License information
+
+
+
+
+
+
+
+
+
+
+1
+Medical Pharmacology and Physiology, University of Missouri, Columbia, MO 65212 USA
+
+
+
+
+2
+Dalton Cardiovascular Research Center, Columbia, MO 65211 USA
+
+
+
+
+✉
+Corresponding author:
+ Steven S. Segal, Ph.D. Medical Pharmacology and Physiology MA415 Medical Science Building The University of Missouri Columbia, MO 65212 USA 
+segalss@health.missouri.edu
+ Tel: (573) 882-2553 Fax: (573) 884-4276
+
+
+
+
+
+
+Issue date 2012 May 11.
+
+
+PMC Copyright notice
+
+
+
+
+PMCID: PMC3467972  NIHMSID: NIHMS374158  PMID: 
+22492531
+
+
+
+
+The publisher's version of this article is available at 
+Circ Res
+
+
+
+
+Abstract
+
+
+Rationale
+
+
+Electrical conduction through gap junction channels between endothelial cells of resistance vessels is integral to blood flow control. Small and intermediate-conductance Ca
+2+
+-activated K
++
+ channels (SK
+Ca
+/IK
+Ca
+) initiate electrical signals in endothelial cells but it is unknown whether SK
+Ca
+/IK
+Ca
+ activation alters signal transmission along the endothelium.
+Objective
+
+
+We tested the hypothesis that SK
+Ca
+/IK
+Ca
+ activity regulates electrical conduction along the endothelium of resistance vessels.
+Methods and Results
+
+
+Freshly isolated endothelial cell tubes (60 μm wide; 1–3mm long; cell length, ~35 μm) from mouse skeletal muscle feed (superior epigastric) arteries were studied using dual intracellular microelectrodes. Current was injected (±0.1–3 nA) at Site 1 while recording membrane potential (V
+m
+) at Site 2 (separation distance = 50–2000 μm). SK
+Ca
+/IK
+Ca
+ activation (NS309, 1 μmol/L) reduced the change in V
+m
+ along endothelial cell tubes by ≥50% and shortened the electrical length constant (λ) from 1380 to 850 μm (P<0.05) while intercellular dye transfer (propidium iodide) was maintained. Activating SK
+Ca
+/IK
+Ca
+ with acetylcholine or SKA-31 also reduced electrical conduction. These effects of SK
+Ca
+/IK
+Ca
+ activation persisted when hyperpolarization (>30 mV) was prevented with 60 mM [K
++
+]
+o
+. Conversely, blocking SK
+Ca
+/IK
+Ca
+ (apamin + charybdotoxin) depolarized cells by ~10 mV and enhanced electrical conduction (i.e., changes in V
+m
+) by ~30% (P<0.05).
+Conclusions
+
+
+These findings illustrate a novel role for SK
+Ca
+/IK
+Ca
+ activity in tuning electrical conduction along the endothelium of resistance vessels by governing signal dissipation through changes in membrane resistance. Voltage-insensitive ion channels can thereby tune intercellular electrical signaling independent from gap junction channels.
+Keywords:
+ conducted vasodilation, hyperpolarization, gap junctions, potassium channels
+Introduction
+
+
+Electrical conduction through gap junction channels (GJCs) coordinates vasomotor responses in vascular resistance networks.
+1
+–
+3
+ Through axial orientation and robust expression of GJCs, endothelial cells (ECs) serve as the primary pathway for cell-to-cell conduction along the vessel wall
+4
+–
+6
+ with electrical signals transmitted to smooth muscle cells (SMCs) via myoendothelial GJCs.
+3
+, 
+7
+–
+9
+ Once initiated, hyperpolarization (and vasodilation) can travel along the resistance vasculature for millimeters.
+10
+–
+13
+ As shown in exercising skeletal muscle, vasodilation originating downstream within the microcirculation can ascend the resistance network via conduction along the endothelium to encompass feed arteries upstream and thereby increase total blood flowing into the active muscle.
+14
+
+
+In accord with the cable properties of electrical conduction, the distance that signals travel along the endothelium is determined by the length constant (λ = r
+m
+/r
+a
+)
+1/2
+, where r
+m
+ = membrane resistance and r
+a
+ = axial resistance to current flow.
+15
+, 
+16
+ With negligible resistance of cytoplasm, intercellular r
+a
+ is determined primarily by GJCs.
+8
+, 
+16
+ Previous studies have focused on alterations of conducted vasodilation through manipulating the functional integrity of GJCs
+5
+, 
+14
+, 
+17
+ or the expression profile of their connexin subunits.
+18
+–
+21
+ Alternatively, changes in r
+m
+ may also provide a mechanism for governing electrical conduction independent of manipulating GJCs. In turn, changes in r
+m
+ should reflect the activation of ion channels in the plasma membrane,
+15
+, 
+16
+ which otherwise insulates the cell interior from the extracellular milieu. Remarkably, the effect of governing r
+m
+ through ion channel activation has not been studied in light of electrical conduction along the endothelium of resistance vessels.
+
+
+The small (K
+Ca
+ 2.3; KCNN3)-and intermediate (K
+Ca
+ 3.1; KCNN4)-conductance Ca
+2+
+-activated K
++
+ channels (SK
+Ca
+/IK
+Ca
+) are abundantly expressed in EC membranes.
+22
+–
+24
+ Upon activation of SK
+Ca
+/IK
+Ca
+ the efflux of K
++
+ promotes hyperpolarization.
+22
+, 
+25
+ While this response may promote vasodilation and tissue perfusion,
+24
+ a reduction in r
+m
+ along the endothelium could dissipate electrical signals and thereby compromise electrical conduction and impair ascending vasodilation. Given the prominent role of SK
+Ca
+/IK
+Ca
+ in the initiation of EC hyperpolarization,
+9
+, 
+24
+ we questioned whether activation of these ion channels impacts electrical conduction along the endothelium.
+
+
+Understanding how the activation of SK
+Ca
+ /IK
+Ca
+ may govern electrical conduction along the endothelium of intact vessels is limited by myoendothelial coupling to SMCs, perivascular nerve activity, and circulating vasoactive agents along with the shear stress exerted by blood flow. Further, the initiation of an electrical signal to trigger conduction has typically consisted of an agonist (e.g., ACh
+4
+, 
+10
+, 
+26
+) or electrical field stimulation
+27
+, 
+28
+ via micropipettes. However, such “local” stimuli can activate multiple cells simultaneously, with uncertainty in the precise origin and intensity of the actual stimulus. To avoid such confounding influences, we have freshly isolated EC tubes from feed arteries of mouse abdominal skeletal muscle.
+29
+, 
+30
+ Intact EC tubes from these resistance vessels can exceed 3 mm in length, enabling the efficacy of electrical conduction along the endothelium to be evaluated. Using sharp intracellular microelectrodes, current microinjection into a single EC alters membrane potential (V
+m
+) independent of agonists or ion channel activation. By simultaneously recording V
+m
+ at defined distances from the site of current injection, we tested the hypothesis that SK
+Ca
+/IK
+Ca
+ activity can `tune' electrical conduction along the endothelium.
+
+
+Findings reported here are the first to show that activating SK
+Ca
+/IK
+Ca
+ with either pharmacological agents (NS309, SKA-31) or a physiological agonist (ACh) impairs electrical conduction along the endothelium of a resistance artery. Concomitantly, intercellular coupling through GJCs remains intact as confirmed by robust dye transfer between ECs. We further demonstrate that blocking constitutively open SK
+Ca
+/IK
+Ca
+ enhances electrical conduction. Thus altering r
+m
+ via opening and closing plasma membrane ion channels effectively tunes the conduction of electrical signals along the endothelium.
+Methods
+
+
+Tissue preparation and intracellular recording
+
+
+Procedures were approved by the Institutional Animal Care and Use Committee and performed in accord with the National Research Council's Guide for the Care and Use of Laboratory Animals (8
+th
+ Ed. 2011). Male C57BL/6 mice (bred at the University of Missouri; age: 3–6 months; n=45) were anesthetized (pentobarbital; 60 mg/kg intraperitoneal injection. Abdominal muscles were removed bilaterally; feed arteries (superior epigastric) were dissected free from surrounding tissue. Using gentle trituration following mild enzymatic digestion, SMCs were dissociated to produce intact EC tubes (width: 60 μm, length: 1–3 mm).
+29
+, 
+30
+ Experiments were performed at 32 °C and completed within 3 h.
+29
+, 
+30
+
+
+A freshly-isolated EC tube was secured at each end in a tissue bath on the stage of an inverted microscope and superfused continuously with physiological salt solution [PSS; composition in mM: 140 NaCl, 5 KCl, 2 CaCl
+2
+, 1 MgCl
+2
+, 10 N-2-Hydroxyethylpiperazine-m′-2-ethanesulfonic acid (HEPES), 10 Glucose]. A pair of intracellular microelectrodes (borosilicate glass; tip resistance, 150–200 MΩ) coupled to independent amplifiers were inserted into ECs along the midline of the tube with a separation distance of 50–2000 μm. With individual ECs ~35 μm long,
+29
+ 50 μm separation enabled `local' responses to be recorded from Site 2 as close to the signal origin (Site 1) as possible while ensuring that microelectrodes were in separate (adjacent) cells.
+30
+ Successful dual impalements were indicated by correspondence of electrical events between microelectrodes.
+
+
+Figure 1
+ illustrates the experimental approach and summarizes the analyses employed. To study electrical conduction over distance (
+Figs. 2
+ and 
+3
+), impalement at Site 1 was maintained while the microelectrode for recording V
+m
+ at Site 2 was repositioned at the next distance (order randomized across experiments). As standard procedure for evaluating interventions, separation distance was maintained at 500 μm (
+Figs. 4
+–
+8
+)
+7
+, 
+30
+ corresponding to ~15 ECs placed end-to-end. Current was microinjected (±0.1–3 nA; 2s pulse) at Site 1 while recording V
+m
+ at Site 2 under control conditions, during activation of SK
+Ca
+/IK
+Ca
+ with NS309, SKA-31, or ACh and during inhibition of SK
+Ca
+/IK
+Ca
+ with apamin + charybdotoxin (Ap + ChTX). Entire EC tubes were exposed by adding agents to the superfusion solution and V
+m
+ was confirmed to be the same between microelectrodes to ensure that the entire EC tube was isopotential before current injections.
+
+
+Figure 1. Experimental design.
+
+
+
+
+Open in a new tab
+
+
+Inset at top: dual intracellular electrodes positioned in an EC tube (Differential Interference Contrast image). Site 1 and Site 2 shown within ovals correspond to cartoon below. Current (±0.1 – 3.0 nA, 2s pulses) was injected at Site 1 while V
+m
+ was recorded with separation distances between microelectrodes of 50–2000 μm. To determine the role of SK
+Ca
+/IK
+Ca
+ in tuning electrical conduction, SK
+Ca
+/IK
+Ca
+ on all cells were activated (NS309, SKA-31, ACh) or inhibited (apamin + charybdotoxin) by addition of respective agents to the superfusion solution. With no change in axial resistance (
+r
+a
+) to current flow through gap junction channels (GJC), changes in conduction amplitude (CA; ΔV
+m
+ at Site 2/current injected at Site 1; mV/nA), reflect changes in membrane resistance (
+r
+m
+) associated with activation or inhibition of SK
+Ca
+/IK
+Ca
+. Data in 
+Figs. 3
+, 
+4
+, 
+6
+–
+8
+ reflect CA responses to −1 nA current injection (note that −ΔV
+m
+/−1 nA = positive CA value). The Fraction of Control CA (
+Figs. 4C, F
+ and 
+8C
+) was defined as CA during treatment/CA under control conditions at the same 500 μm site. Conduction Efficiency (
+Fig. 3B
+) was defined as (CA at X μm) / (CA at 50 μm), where X= 50–2000 μm.
+Figure 2. Effect of distance and SK
+Ca
+/IK
+Ca
+ activation on electrical conduction.
+
+
+
+
+Open in a new tab
+
+
+At defined separation distances between intracellular microelectrodes, continuous (paired) recordings at Site 2 during current microinjection at Site 1 were obtained under Control conditions and during NS309 treatment to activate SK
+Ca
+/IK
+Ca
+. After each set of paired recordings, washout of NS309 (10–15 min) restored Control V
+m
+ before recording at the next distance. 
+A,
+ Representative V
+m
+ recording at Site 2 during ±0.1–3 nA microinjected at Site 1 (distance = 500 μm) before and during NS309. From Control V
+m
+ of ~−25 mV, NS309 hyperpolarized ECs to ~−60 mV and decreased V
+m
+2 responses. 
+B,
+ As in A with separation distance = 1500 μm. Note reduction in Control V
+m
+2 responses compared to 
+A
+ followed by loss of V
+m
+2 responses during NS309. 
+C,
+ Summary data illustrating the effect of microelectrode separation distance on the change in V
+m
+ at Site 2 (ΔV
+m
+2) under Control conditions with 500 μm (black line) or 1500 μm (grey line) separation. With reduced slope at greater distance, ΔV
+m
+2 responses remained linear through the full range of current injected (R
+2
+ = 1). With −1 nA current, absolute ΔV
+m
+2 decreased from 7.7 ± 0.6 mV at 500 μm to 3.8 ± 0.3 mV at 1500 μm. 
+D,
+ With separation maintained at 500 μm for the same EC tubes in 
+C
+, activation of SK
+Ca
+/IK
+Ca
+ with NS309 (1 μmol/L) reduced CA to 3.1 ± 0.3 mV. Summary data in C and D are means ± S.E.; n = 11.
+
+
+Note: Panels C and D include (with permission: British Journal of Pharmacology © 2011) control data from 8 experiments presented in 
+Figure 2B,C
+ of Behringer et al.
+30
+Figure 3. Effect of SK
+Ca
+/IK
+Ca
+ activation on spatial decay of electrical conduction.
+
+
+
+
+Open in a new tab
+
+
+Summary data (means ± S.E.) illustrating electrical conduction versus distance between intracellular microelectrodes before and during treatment with NS309 (1 μmol/L). At each distance, continuous (paired) recordings were obtained under Control conditions and during NS309. 
+A,
+ For Conduction Amplitude (−1 nA microinjected at Site 1), NS309 reduced the local response by half and λ by ~40% (Control: 1380±80 μm; NS309: 850±60 μm). 
+B,
+ Conduction Efficiency = data from 
+A
+ normalized to respective values at 50 μm before and during NS309; note greater decay with NS309. 
+C,
+ With current microinjection adjusted to produce the same local ΔV
+m
+ (Control: −1 nA; NS309: −2 nA), the ΔV
+m
+2 (= resting V
+m
+ - peak response V
+m
+) with distance indicates greater decay of hyperpolarization with NS309. For these experiments, n = 11 at 50 – 1,500 μm; n=7 at 2,000 μm). *Control significantly different from NS309, P < 0.05
+
+
+Note: Panel A includes (with permission: British Journal of Pharmacology © 2011) control data from 8 experiments presented in 
+Figure 2B,C
+ of Behringer et al.
+30
+Figure 4. Effect of progressive activation of SK
+Ca
+/IK
+Ca
+ on electrical conduction.
+
+
+
+
+Open in a new tab
+
+
+Summary data (means ± S.E.) for continuous recordings at Site 2 located 500 μm from current microinjection (−1 nA) at Site 1. 
+A,
+ resting V
+m
+ with increasing [NS309]; C indicates Control. 
+B,
+ Conduction Amplitude as a function of [NS309]; C indicates Control. 
+C,
+ As in 
+B
+ indicating effect of SK
+Ca
+/IK
+Ca
+ activation with NS309 relative to Control (Fraction of Control CA = CA during respective [NS309] / Control CA). 
+D,
+ as in A for SKA-31. 
+E,
+ as in 
+B
+ for SKA-31. 
+F,
+ as in 
+C
+ for SKA-31. *Significantly different from Control, P < 0.05, n = 6–8 in each panel. Note reduced potency and efficacy for SKA-31 versus NS309.
+Figure 8. Enhanced electrical conduction during SK
+Ca
+/IK
+Ca
+ blockade.
+
+
+
+
+Open in a new tab
+
+
+All data are from continuous (paired) recordings 500 μm from the site of current microinjection. 
+A,
+ Representative recording indicating V
+m
+2 responses to ±0.1–3 nA microinjections before and during SK
+Ca
+/IK
+Ca
+ block with Ap (300 nmol/L) + ChTX (100 nmol/L). Note depolarization (~10 mV) and increases in V
+m
+2 responses during Ap + ChTX. 
+a
+ and 
+b
+ correspond to arrows in 
+A
+ and illustrate V
+m
+2 responses to −1 nA injected at Site 1 during Control and subsequent exposure to Ap + ChTX: ΔV
+m
+2 was −8 mV in 
+a
+ and −10 mV in 
+b
+. Records are from EC tube with resting V
+m
+ = −34 mV to illustrate depolarization and increased CA associated with blocking SK
+Ca
+/IK
+Ca
+. 
+B,
+ Summary data (means ± S.E.) for Control and with Ap + ChTX. 
+C,
+ Data from 
+B
+ expressed as Fraction of Control Conduction Amplitude (= CA during Ap + ChTX /Control CA) to illustrate relative effect of SK
+Ca
+/IK
+Ca
+ inhibition. *Significantly different from Control, P < 0.05 (n = 6).
+Figure 7. Acetylcholine impairs electrical conduction.
+
+
+
+
+Open in a new tab
+
+
+Data are from continuous (paired) recordings of V
+m
+ at Site 2 located 500 μm from current microinjection (−1 nA). 
+A,
+ Representative recording illustrating responses to ±0.1–3 nA before and to ±1, 2, and 3 nA during ACh (3 μmol/L). The V
+m
+ during ACh was −67 ± 5 mV (n=6). 
+B,
+ Summary data (means ± S.E.; n=6) for Conduction Amplitude (CA). Note decrease in CA during ACh. Hyperpolarization to −2 nA during ACh (−3.9 ± 0.8 mV, n=6) was significantly less (P < 0.05) than hyperpolarization to −1 nA under Control conditions (−7.1 ± 0.5 mV, n=6). *Significantly different from Control, P < 0.05. Following washout of ACh, CA returned to 7.2 ± 0.5 mV/nA (n=6).
+Data analyses
+
+
+One EC tube was studied per mouse. Analyses included: Resting V
+m
+ (mV) under Control conditions; Change in V
+m
+ (Δ mV) = peak response V
+m
+ – preceding baseline V
+m
+; Conduction Amplitude (CA, mV/nA) = V
+m
+ at Site 2 / current injected at Site 1; Fraction of Control CA = CA during treatment/preceding control CA; Conduction Efficiency = CA at each distance/CA at 50 μm separation; Length constant (λ) = distance over which the electrical signal decayed to 37% (1/e) of the `local' value. Data were analyzed using Analysis of Variance with Bonferroni post-hoc comparisons, regression analyses, and paired t-tests. Differences were accepted as statistically significant with P < 0.05. Summary data are presented as means ± S.E. Values for n refer to the number of EC tubes studied under respective conditions.
+Results
+
+
+Effects of SK
+Ca
+/IK
+Ca
+ activation on electrical conduction over distance
+
+
+Resting V
+m
+ was −26±2 mV at Sites 1 and 2 independent of separation distance (n=11). As shown in 
+Figure 2
+, ΔV
+m
+ at Site 2 increased in direct proportion to current injected irrespective of polarity. The amplitude of ΔV
+m
+2 for each current decreased when separation distance between microelectrodes was increased from 500 to 1500 μm (
+Figs. 2A–2C
+) yet the I–V relationship remained linear (
+Fig. 2C
+). At 500 μm separation, the slope of the I–V relationship through ± 0.1–3 nA was 7.5±0.5 mV/nA. When calculated for −1 nA, CA (500 μm) was not different (7.7±0.5 mV/nA; n=11), substantiating −1 nA as a standard reference.
+
+
+The ΔV
+m
+ (−37 mV) in response to 1 μmol/L NS309 corresponds to the peak hyperpolarization obtained with ACh (3 μmol/L).
+30
+ At each distance, opening SK
+Ca
+/IK
+Ca
+ with 1 μmol/L NS309 reduced CA (
+Figs. 2A,2B
+) yet the I–V relationship remained linear (
+Fig. 2D
+). Thus NS309 decreased CA at 500 μm to nearly the same extent as did increasing distance to 1500 μm under Control conditions (
+Fig. 2C
+). Following continuous paired recordings (Control, NS309) at each distance, washout of NS309 (10–15 min) restored Control V
+m
+ and CA (e.g., CA at 500 μm: Control, 7.7 ± 0.4 mV/nA; NS309 washout, 7.9 ± 0.4 mV/nA, n=16), confirming the reversibility of SK
+Ca
+/IK
+Ca
+ activation. The next separation distance was evaluated in the same manner.
+
+
+During current injections, NS309 (1 μmol/L) reduced ΔV
+m
+2 at the `local' site by half and decreased λ by ~40% (Control: 1380±80 μm; NS309: 850±60 μm; 
+Fig. 3A
+, P<0.05). By normalizing CA at each separation distance to respective `local' values, Conduction Efficiency was also reduced at each distance (P < 0.05; 
+Fig. 3B
+). The injection current required for the same local change in V
+m
+ obtained with −1 nA under Control conditions increased to −2 nA with 1 μmol/L NS309, consistent with a corresponding decrease in r
+m
+. When local hyperpolarization was thereby matched between conditions, the decay in ΔV
+m
+2 over distance was again greater (P<0.05) with NS309 (
+Fig. 3C
+; 
+Supplemental Table I
+). Thus, activating SK
+Ca
+/IK
+Ca
+ impaired electrical conduction irrespective of ΔV
+m
+ at the site of current injection.
+
+
+For the following experiments, current was injected at Site 1 while V
+m
+ was recorded at Site 2 with 500 μm separation maintained between microelectrodes.
+7
+, 
+30
+ The stability of impalements enabled multiple treatments to be evaluated during continuous (paired) recordings. Responses were evaluated through the full range of current microinjection with data presented for −1 nA.
+Progressive inhibition of electrical conduction during graded activation of SK
+Ca
+/IK
+Ca
+
+
+
+
+A question central to these experiments was: Can electrical conduction be `tuned' according to the level of SK
+Ca
+/IK
+Ca
+ activation? Current was injected at Site 1 and V
+m
+ recorded at Site 2 (500 μm) before and during increments in SK
+Ca
+/IK
+Ca
+ activation with recovery between each treatment. Hyperpolarization began at 100 nmol/L NS309 and increased with [NS309] (
+Fig. 4A
+; P < 0.05); maximal response at 10 μmol/L corresponded to V
+m
+ = −81 ± 1 mV. Impairment of CA; P<0.05) began at 300 nmol/L NS309 and CA decreased as [NS309] increased with conduction abolished at 10 μmol/L (
+Figs. 4B, 4C
+). At 1 μmol/L, NS309 reduced CA by half (
+Figs. 4B, 4C
+). In separate experiments, using SKA-31 to activate SK
+Ca
+/IK
+Ca
+24
+ produced effects similar to NS309 though with attenuated potency and efficacy (compare 
+Figs. 4D–4F
+ with 
+Figs. 4A–4C
+). Nevertheless, for both pharmacological agents, a `threshold' V
+m
+ associated with significant reduction in CA occurred at ~−40 mV (
+Figs. 4A, 4D
+). These findings indicate that the efficacy of electrical conduction along the endothelium can be tuned according to the level of SK
+Ca
+/IK
+Ca
+ activation.
+Maintenance of dye transfer during inhibition of electrical conduction
+
+
+Impairment of electrical conduction during SK
+Ca
+/IK
+Ca
+ activation is interpreted to reflect greater current dissipation along the endothelium. Thus an essential question is: Does intercellular coupling persist when electrical conduction is inhibited? We used dye transfer as a functional qualitative index of GJC patency between neighboring ECs.
+4
+, 
+7
+, 
+10
+, 
+27
+, 
+30
+ An EC tube was exposed to the NS309 concentration that inhibited conduction (10 μmol/L) beginning 5 min before and throughout recordings. With 0.1% propidium iodide dye (MW = 668.4 Da) in the microelectrode, fluorescent images were acquired following 30 min of continuous recording. Under Control conditions (
+Fig. 5A
+) and during hyperpolarization (to −81 ± 4 mV) with inhibition of electrical conduction [CA (500 μm): 0.3 ± 0.1 mV/nA)], dye microinjected into one EC readily spread to neighboring ECs (
+Fig. 5B
+; n=3). Thus dye transfer during maximal activation of SK
+Ca
+/IK
+Ca
+ with NS309 was qualitatively similar to Control, confirming that intercellular coupling through GJCs remained patent during absence of electrical conduction. For reference, in EC tubes exposed to carbenoxolone (100 μmol/L) or β-glycyrrhetinic acid (40 μmol/L) to block GJCs, dye transfer was inhibited reversibly along with electrical conduction.
+30
+
+
+Figure 5. Intercellular dye transfer through GJCs is maintained during SK
+Ca
+/IK
+Ca
+ activation with NS309.
+
+
+
+
+Open in a new tab
+
+
+Propidium iodide dye (0.1% in 2M KCl) was included in microelectrode during intracellular recording to evaluate intercellular coupling through gap junction channels. Arrows indicate impaled cell in each panel and recordings lasted 30 min. 
+A,
+ Dye transfer during Control conditions. 
+B,
+ As in 
+A
+ with NS309 (10 μmol/L) introduced 5 min prior to cell penetration. With 500 μm separation between microelectrodes, cells hyperpolarized to −81 ± 1 mV and electrical conduction was abolished (
+Figs. 4A–4C
+) yet robust dye transfer to surrounding cells was maintained. Images are representative of n=3 experiments.
+Inhibition of electrical conduction independent of hyperpolarization
+
+
+The activation of SK
+Ca
+/IK
+Ca
+ consistently hyperpolarized ECs, raising the question: Does loss of electrical conduction during SK
+Ca
+/IK
+Ca
+ activation depend upon hyperpolarization? According to the Nernst relationship, raising [K
++
+]
+o
+ from 5 (Control) to 60 mmol/L (equimolar replacement of NaCl with KCl) reduces E
+K
+ from −89 mV to −23 mV and should thereby “clamp” V
+m
+ near Control (V
+m
+= −23±1 mV, n=7) and prevent hyperpolarization during K
++
+ channel activation. To test this effect, current was injected and V
+m
+ recorded before and during superfusion with either NS309 (1 μmol/L), 60 mmol/L [K
++
+]
+o
+, or both together. Despite lack of hyperpolarization, the decrease in CA (500 μm) during NS309 + 60 mmol/L [K
++
+]
+o
+ was not different from that during NS309 alone (
+Figs. 6A, 6B
+). However with 60 mmol/L [K
++
+]
+o
+ alone the I–V relationship deviated (P<0.05) from linearity when negative current exceeded −1.5 nA (
+Fig. 6C
+), attributable to the corresponding reduction in E
+K
+. By evaluating V
+m
+2 responses to −1 nA, comparisons between conditions were maintained within the linear range of the I–V relationship. Treatment with NS309 consistently reduced CA (500 μm) by half (
+Fig. 6D
+), confirming that inhibition of electrical conduction during SK
+Ca
+/IK
+Ca
+ activation was independent of a change in V
+m
+.
+
+
+Figure 6. Impaired electrical conduction during SK
+Ca
+/IK
+Ca
+ activation is independent of hyperpolarization.
+
+
+
+
+Open in a new tab
+
+
+Continuous (paired) recordings of V
+m
+ at Site 2 (V
+m
+2) located 500 μm from current microinjections at Site 1. 
+A,
+ V
+m
+2 during ±0.1–3 nA before and during SK
+Ca
+/IK
+Ca
+ activation with NS309 (1 μmol/L). During NS309, note hyperpolarization (to ~−60 mV) and decrease in V
+m
+2 responses. 
+B,
+ As in 
+A
+ before and during treatment with NS309 + 60 mmol/L [K
++
+]
+o
+ to prevent hyperpolarization to NS309. Note decrease in V
+m
+2 responses during NS309 similar to findings in 
+A
+. Transient hyperpolarization near end of recording (“↓”) attributable to slower washout of NS309 versus KCl. 
+a
+, 
+b
+ and 
+c
+ correspond to small vertical arrows in 
+A
+ and 
+B
+ showing individual recordings of V
+m
+2 during −1 nA injected at Site 1 for (
+a
+) control (ΔV
+m
+ = −6 mV), (
+b
+) NS309 (ΔV
+m
+ = −3 mV), and (
+c
+) NS309 + 60 mmol/L [K
++
+]
+o
+ (ΔV
+m
+ = −3 mV; note lack of hyperpolarization to NS309 with reduced hyperpolarization to −1 nA current). 
+C,
+ Summary data for ΔV
+m
+2 responses to full range of current injection (± 0.1–3 nA) during Control and during 60 mmol/L [K
++
+]
+o
+. Note deviation from linearity for ΔV 2 responses to >−1.5 nA during 60 mmol/L [K
++
+]
+o
+. *Significantly different from Control, P < 0.05. 
+D,
+ Summary data (means ± S.E.) for CA at Site 2 to −1 nA current injection at Site 1 during Control, during 60 mmol/L [K
++
+]
+o
+, during NS309 (1 μmol/L), and during NS309 (1 μmol/L) + 60 mmol/L [K
++
+]
+o
+. *Significantly different from Control (P < 0.05). +Significantly different from 60 mmol/L [K
++
+]
+o
+, P < 0.05. Summary data (means ± S.E.) in 
+C
+ and 
+D
+ are for n = 7.
+Inhibition of conduction by ACh
+
+
+To determine whether a physiological agonist that activates SK
+Ca
+/IK
+Ca
+ exerts similar effects, EC tubes were superfused with ACh (3 μmol/L).
+30
+ During peak hyperpolarization, responses at Site 2 decreased by ~70% versus Control (
+Fig. 7
+). Exposure to ACh + 60 mmol/L [K
++
+]
+o
+ confirmed that ACh inhibited CA (500 μm) irrespective of hyperpolarization (
+Supplemental Fig. I
+).Thus activating SK
+Ca
+/IK
+Ca
+ with a classic vasodilator also impaired electrical conduction irrespective of hyperpolarization.
+Enhanced electrical conduction with SK
+Ca
+/IK
+Ca
+ blockade
+
+
+Progressive activation of SK
+Ca
+/IK
+Ca
+ impaired electrical conduction in a graded manner (
+Fig. 4
+). Thus if a subpopulation of SK
+Ca
+/IK
+Ca
+ were open at rest than inhibition of these channels should enhance electrical conduction. This prediction was tested by injecting current and recording V
+m
+ before and during exposure to Ap + ChTX. Exposure to these SK
+Ca
+/IK
+Ca
+ blockers depolarized ECs (Control: −28±2 mV; Ap + ChTX: −18±2 mV; n=6; P<0.05) and increased CA (500 μm) by ~30% (P<0.05; 
+Fig. 8
+). Further, the relationship between ΔV
+m
+ at Site 2 (500 μm) and current injected at Site 1 remained linear (with greater slope) through the entire range of current injection (R
+2
+ ≥ 0.99; n = 6).
+
+
+A summary of the treatment effects of the preceding interventions (
+Figures 4
+, 
+6
+, 
+7
+, 
+8
+) on electrical conduction at a standard reference distance (500 μm) is given in 
+Supplemental Table II
+.
+Negligible role for K
+ATP
+ or BK
+Ca
+ channels
+
+
+If manipulating SK
+Ca
+/IK
+Ca
+ activity alters electrical conduction than complementary effects would be expected for other K
++
+ channels. We tested for such an effect of ATP-regulated K
++
+ channels (K
+ATP
+) using levcromakalim (10 μmol/L; n=5). However this K
+ATP
+ opener
+22
+, 
+25
+ had no significant effect on resting V
+m
+ (−27±1 mV) or CA (500 μm; Control, 8.4 ± 1.1, levcromakalim: 8.6 ± 1.1 mV/nA). Complementary experiments investigating a role for the large conductance Ca
+2+
+ (and voltage) - sensitive K
++
+ channel (BK
+Ca
+) using the activator NS1619
+22
+, 
+25
+ (10 or 30 μmol/L; n=4) were also without effect on resting V
+m
+ (−27±2 mV) or CA (500 μm; Control, 8.7±1.3, NS1619: 9.3±1.1 mV/nA). These findings indicate that neither K
+ATP
+ nor BK
+Ca
+ are functionally expressed in EC tubes.
+Negligible role for nitric oxide
+
+
+Endothelial cell hyperpolarization may also promote nitric oxide (NO) synthesis.
+31
+, 
+32
+ We therefore tested whether inhibition of NO synthase altered the effect of SK
+Ca
+/IK
+Ca
+ activation on electrical conduction. Irrespective of treatment with the inhibitor N
+ω
+-nitro-L-arginine (100 μmol/L), exposure to NS309 (1 μmol/L) or to ACh (3 μmol/L) suppressed CA (500 μm) to the same extent (
+Supplemental Fig. II
+).
+Discussion
+
+
+This study has revealed the ability of membrane ion channel activation to tune the efficacy of electrical conduction along the endothelium of resistance vessels. Using intact EC tubes freshly isolated from feed arteries of mouse skeletal muscle, findings illustrate that activation of SK
+Ca
+/IK
+Ca
+ impairs axial signal transmission. This effect is explained by a fall in membrane resistance (r
+m
+) that dissipates charge as current flows from cell to cell along the endothelium. During intracellular microinjection of propidium iodide, robust dye transfer between neighboring ECs confirmed that cell-cell coupling through GJCs was maintained in the absence of electrical conduction. Thus, irrespective of SMCs or of changing cell-cell coupling through GJCs, dynamic changes in r
+m
+ can profoundly alter the efficacy of electrical signal transmission along the endothelium of resistance vessels. Remarkably, such tuning of electrical conduction was governed by ion channels that are insensitive to voltage.
+
+
+The nature of electrical conduction along EC tubes
+
+
+Conduction amplitude was defined as the slope of the I–V relationship with responses routinely evaluated at −1 nA; i.e., within the linear range throughout our experiments. At a standard reference distance of 500 μm, our values of CA (~8 mV/nA; 
+Figures 2C–D
+, 
+3A
+) compare favorably with values (~7 mV per 0.8 nA) calculated for the conduction of hyperpolarization along resistance arteries of hamster skeletal muscle.
+7
+ Moreover, hyperpolarizing and depolarizing signals conducted with similar efficacy along EC tubes as shown by the linear (i.e., ohmic) changes in V
+m
+ throughout the range of currents injected (±0.1–3 nA) at each distance (
+Fig. 2
+). Such behavior indicates low functional expression of voltage-sensitive ion channels and is consistent with the lack of effect of NS1619 on V
+m
+ or CA. In turn, the deviation from linearity observed during hyperpolarization with >1.5 nA in the presence of 60 mmol/L [K
++
+]
+o
+ (
+Fig. 6C
+) can be explained by the reduction in E
+K
+. In contrast to the present findings, depolarizing currents injected into ECs (or SMCs) of feed arteries from hamsters evoked less than half of the absolute change in V
+m
+ than did hyperpolarizing current of equal intensity.
+7
+ Such deviation observed for intact vessels (versus the linearity of responses for EC tubes) may be attributed to the influence of SMCs through myoendothelial coupling;
+7
+, 
+9
+ e.g., through voltage gated K
++
+ channels (K
+v
+) that may not otherwise be present in ECs.
+25
+
+
+Whereas activating SK
+Ca
+/IK
+Ca
+ with NS309 (1 μmol/L) reduced CA by 50% or more at each distance (
+Fig. 3A
+), comparing absolute values does not resolve changes in the nature of electrical conduction because the local response to current injection (i.e., change in V
+m
+) is reduced. Expressing responses at each distance relative to the local response provides a normalized index of “Conduction Efficiency” and illustrates significantly greater decay in electrical conduction during SK
+Ca
+/IK
+Ca
+ activation when compared to Control (
+Fig. 3B
+). However, it is important to evaluate the effect of SK
+Ca
+/IK
+Ca
+ activation when conduction is initiated from a similar local change in V
+m
+. We therefore compared responses to −2 nA current during NS309 with responses to −1 nA under Control conditions. With local responses (ΔV
+m
+) not different between conditions, the decay in V
+m
+ over distance remained significantly greater during SK
+Ca
+/IK
+Ca
+ activation (
+Fig. 3C
+; 
+Supplemental Table I
+).
+
+
+Along the entire distance (2000 μm) studied, responses decayed by 4.4% per 100 μm. This value is consistent with ~5% per 100 μm reported for the decay of electrical conduction along the endothelium of retinal arterioles.
+33
+ Further, the consistency of such behavior suggests that the biophysical properties of EC tubes determined here can be applied to the endothelium of vessels in other resistance networks. Indeed, λ determined here for electrical conduction (~1.4 mm; 
+Fig. 3
+) is consistent with control values reported for intact guinea pig arterioles (~1.1 to 1.6 mm)
+15
+ and hamster retractor feed arteries (1.2 mm).
+16
+ A limitation of the present study is the lack of SMCs, which precludes resolution of how SK
+Ca
+/IK
+Ca
+ activation may influence electrical signaling through myoendothelial GJCs. Nevertheless, even with SMCs present in earlier studies,
+15
+, 
+16
+, 
+33
+ the similarity in values for λ across preparations and laboratories supports the role of the endothelium as the primary cellular pathway for axial current flow. In turn, minimal charge loss through myoendothelial GJCs is explained by the high input resistance of SMCs.
+8
+Tuning electrical conduction independent of GJC regulation
+
+
+Electrical conduction along the endothelium is promoted by high r
+m
+ preventing signal dissipation and low r
+a
+ through GJCs between neighboring cells. Whereas GJCs have been a focus for regulating vascular conduction,
+5
+, 
+17
+–
+21
+ the present study demonstrates that electrical conduction along the endothelium can be progressively inhibited by graded activation of SK
+Ca
+/IK
+Ca
+ (
+Fig. 4
+). This interpretation is consistent with the robust expression and ionic conductance of both K
+Ca
+2.3 (SK
+Ca
+) and K
+Ca
+3.1 (IK
+Ca
+) channels estimated from patch clamp studies of native ECs freshly isolated from mouse aortae
+23
+ and the established role of SK
+Ca
+/IK
+Ca
+ in governing EC hyperpolarization.
+9
+, 
+22
+, 
+25
+. From a typical resting V
+m
+ of ~−25 mV, incremental activation of SK
+Ca
+/IK
+Ca
+ with NS309 approached E
+K
+ and coincided with loss of conduction (
+Fig. 4A
+). In a reciprocal manner, blocking SK
+Ca
+/IK
+Ca
+ with Ap + ChTX depolarized EC tubes by ~10 mV with a ~30% increase in CA (500 μm; 
+Fig. 8
+). This modest effect of SK
+Ca
+/IK
+Ca
+ inhibition compared to SK
+Ca
+/IK
+Ca
+ activation on electrical conduction can be explained by a low percentage of the total SK
+Ca
+/IK
+Ca
+ in EC membranes being open under Control conditions.
+
+
+The SK
+Ca
+/IK
+Ca
+ opener SKA-31 had less potency and reduced efficacy compared to NS309 (
+Figs. 4A, 4D
+). Nevertheless, the apparent threshold of channel activation required to significantly reduce CA corresponded to a V
+m
+ of ~−40 mV for both agents (0.3 μmol/L NS309, 3 μmol/L SKA-31; 
+Fig. 4
+). Hyperpolarization may also promote the production of NO
+31
+, 
+32
+ which may in turn alter r
+m
+34
+ or cell-to-cell coupling through acting on GJCs.
+35
+ Nevertheless, the inhibition of electrical conduction by NS309 was maintained when hyperpolarization was prevented (
+Fig. 6
+) and when NO synthesis was inhibited (
+Supplemental Fig. II
+). Importantly, and similar to the direct activation of SK
+Ca
+/IK
+Ca
+ by NS309 and SKA-31, CA (500 μm) was reduced ~70% during indirect activation of these channels by ACh (
+Fig. 7
+). Further, as seen with NS309, preventing hyperpolarization to ACh (
+Supplemental Fig. I
+) or inhibiting NO synthesis (
+Supplemental Fig. II
+) did not alter the ability of ACh to suppress electrical conduction. Thus the modulation of r
+m
+ (and tuning of electrical conduction) along the endothelium may reflect a more generalized response to physiological agonists that signal through G protein-coupled receptors
+36
+ irrespective of NO.
+
+
+The present findings support the hypothesis that opening ion channels in the plasma membrane impairs electrical conduction along the endothelium. As dye transfer remained intact during exposure to NS309 when conduction was abolished (
+Fig. 4
+), loss of conduction cannot be attributed to closure of GJCs. In turn, despite the lack of effect for levcromakalim or NS1619, we infer that the activation or inhibition of other ion channels that are functionally expressed in membranes of electrically coupled cells can have effects consistent with those shown here for SK
+Ca
+/IK
+Ca
+. Consistent with this inference are recent findings from rat mesenteric arteries, where spreading vasodilation in response to ACh (or isoproterenol) was enhanced when K
++
+ channels (BK
+Ca
+ and K
+v
+) were inhibited in SMCs that were electrically coupled to ECs.
+37
+ Hyperpolarization can activate other K
++
+ channels (e.g., inward rectifying, K
+IR
+) to increase V
+m
+ and enhance electrical conduction.
+11
+, 
+38
+ Nevertheless, it is unlikely that such a role would be manifest in EC tubes given the linearity of the I–V relationship (
+Fig. 2
+) and a resting V
+m
+ (~−25mV) above that associated with the negative slope conductance of K
+IR
+.
+25
+ Further, given the same decrease in CA to NS309 or ACh when hyperpolarization was prevented (
+Figs. 6D
+ and 
+Supplemental Fig. I
+, respectively), it appears unlikely that that activation of K
+IR
+ contributes to electrical conduction along the endothelium. However, this conclusion does not preclude a role for K
+IR
+ expressed in SMCs to contribute to conducted vasodilation along intact vessels.
+11
+, 
+38
+Summary and conclusions
+
+
+Electrical signaling underlies the correspondence between changes in V
+m
+ and diameter along the resistance vasculature.
+6
+, 
+7
+, 
+10
+ Previous studies have focused on the role of intercellular coupling through GJCs in determining the efficacy of electrical conduction,
+1
+–
+3
+, 
+8
+ particularly as it applies to conducted vasodilation along arterioles and ascending vasodilation during exercise.
+2
+,
+14
+ Paradigms for studying conducted responses have typically involved stimulating a vessel segment (or the tissue in which vessels are embedded) while monitoring vasomotor responses at sites remote from the region of stimulation.
+14
+, 
+18
+, 
+19
+, 
+21
+, 
+37
+, 
+39
+, 
+40
+ However there is ambiguity in defining the number of cells activated, the precise stimulus intensity at the signal origin, and the specific role(s) of respective cell layers. In the present study, the endothelium of resistance arteries was isolated as an intact tube to eliminate the influence of blood flow or surrounding cells and tissue. Intracellular microelectrodes enabled electrical conduction to be initiated from a point source (single cell) within the electrical syncytium using prescribed current pulses while monitoring V
+m
+ at defined distances. In turn, selective activation (or inhibition) of SK
+Ca
+/IK
+Ca
+ along the endothelium resolved how electrical conduction can be tuned through changes in membrane resistance while individual cells remain coupled to each other through GJCs.
+
+
+This study presents two novel findings. First, that electrical conduction can be finely tuned through the activity of voltage-insensitive membrane ion channels. Thus our experiments are the first to demonstrate an integral role for SK
+Ca
+/IK
+Ca
+ activation in governing EC signaling that is distinct from their established role of initiating EC hyperpolarization
+9
+, 
+24
+ (
+Fig. 9
+). Second, that SK
+Ca
+/IK
+Ca
+ can define the spatial domain of electrical signaling along the endothelium (
+Fig. 9
+). The SK
+Ca
+/IK
+Ca
+ have gained recognition as therapeutic targets in light of their ability to initiate hyperpolarization and promote vasodilation to increase tissue blood flow.
+24
+, 
+41
+, 
+42
+ The present findings imply that selectively targeting ion channels for therapeutic intervention should account for integrated effects throughout resistance networks as well as local effects on vasomotor tone.
+
+
+Figure 9. Role for SK
+Ca
+/IK
+Ca
+ in tuning electrical conduction along EC tubes.
+
+
+
+
+Open in a new tab
+
+
+Cartoon illustrating biophysical determinants of electrical signaling along neighboring cells in an EC tube. 
+A,
+ Electrical current (+/-) microinjected into one cell spreads to neighboring cells through gap junction channels (GJC). 
+B,
+ Activation of SK
+Ca
+/IK
+Ca
+ (e.g., with NS309, SKA-31 or ACh; 
+Figs. 3
+, 
+4
+, 
+7
+) increases current leak through the plasma membrane (i.e., 
+r
+m
+ decreases), thus less current is available to spread to neighboring cells through GJC. 
+C,
+ Blocking SK
+Ca
+/IK
+Ca
+ (e.g., with apamin + charybdotoxin; 
+Fig. 8
+) reduces current leak across the plasma membrane (i.e., 
+r
+m
+ increases) thus more current is available to spread to neighboring cells through GJC. Axial resistance to current flow between cells through GJC (
+r
+a
+) is assumed to remain constant. With respective agents superfused over the entire EC tube, SK
+Ca
+/IK
+Ca
+ channels were either opened (e.g. via NS309; 
+B
+) or closed (Ap + ChTX; 
+C
+) along the entire EC tube.
+Supplementary Material
+
+
+1
+
+
+
+
+NIHMS374158-supplement-1.pdf
+ (490.7KB, pdf) 
+
+
+Novelty and Significance.
+
+
+What is known?
+
+
+
+
+The endothelium conducts electrical signals along resistance vessels to coordinate relaxation of smooth muscle cells.
+
+
+Gap junctions provide a low-resistance pathway for current to flow between endothelial cells.
+
+
+Small- and intermediate- Ca
+2+
+-activated K
++
+ channels (SK
+Ca
+/IK
+Ca
+) are highly expressed in endothelial cells and initiate hyperpolarization.
+
+
+What new information does this article contribute?
+
+
+
+
+Electrical conduction of hyperpolarization and depolarization along the endothelium produce equivalent (but opposite) changes in membrane potential.
+
+
+Irrespective of gap junctions or charge polarity, opening voltage-insensitive ion channels dissipates electrical signals along the endothelium.
+
+
+Activation of SK
+Ca
+/IK
+Ca
+ channels effectively “tunes” the ability of the endothelium to conduct electrical signals.
+
+
+
+
+The endothelium is recognized as the principal pathway for initiating vasodilation through SK
+Ca
+/IK
+Ca
+ activation and for the conduction of hyperpolarization in resistance networks. In regulating conducted vasodilation, attention has focused on the role and manipulation of intercellular gap junctions to alter the resistance to current flow between cells. In contrast, we studied whether altering the electrical resistance of endothelial plasma membranes via activation or blockade of ion channels can regulate electrical conduction.. Our new findings demonstrate that, irrespective of charge polarity, electrical conduction along the endothelium is impaired during SK
+Ca
+/IK
+Ca
+ activation and is enhanced by SK
+Ca
+/IK
+Ca
+ blockade. At the same time, neighboring cells remain well coupled to each other through gap junctions. We suggest that impaired tissue blood flow during endothelial dysfunction may reflect enhanced ion channel activation (i.e. “leaky” plasma membranes) that impairs coordinated control of vascular resistance. Therapeutic interventions designed to improve tissue blood flow by altering ion channel activation should take into account the effects on electrical conduction in resistance networks.
+Acknowledgements
+
+
+Dr. William F. Jackson provided helpful comments during the initial stages of this study.
+
+
+Sources of Funding:
+ This work was supported by NIH grants R37-HL041026, R01-HL086483 and F32-HL110701.
+Non-standard Abbreviations and Acronyms
+
+
+
+
+Ap
+
+
+apamin
+
+
+ACh
+
+
+acetylcholine
+
+
+BK
+Ca
+
+
+
+
+large conductance Ca
+2+
+ activated K
++
+ channels
+
+
+CA
+
+
+conduction amplitude
+
+
+ChTX
+
+
+charybdotoxin
+
+
+EC
+
+
+endothelial cell
+
+
+SK
+Ca
+/IK
+Ca
+
+
+
+
+small- and intermediate-conductance Ca
+2+
+ activated K
++
+ channels
+
+
+K
+ATP
+
+
+
+
+ATP-regulated K
++
+ channels
+
+
+K
+IR
+
+
+
+
+inward-rectifying K
++
+ channels
+
+
+K
+v
+
+
+
+
+voltage-gated K
++
+ channels
+
+
+NO
+
+
+nitric oxide
+
+
+NS1619
+
+
+1,3-dihydro-1-[2-hydroxy-5-(trifluoromethyl)phenyl]-5-(trifluoromethyl)-2H-benzimidazol-2-one
+
+
+NS309
+
+
+6,7-dichloro-1H-indole-2,3-dione 3-oxime
+
+
+SMC
+
+
+smooth muscle cell
+
+
+SKA-31
+
+
+naptho[1,2-
+d
+]thiazol-2-ylamine
+
+
+V
+m
+
+
+
+
+membrane potential
+
+
+Footnotes
+
+
+
+
+Subject Codes:
+ [95] Endothelium/vascular type/nitric oxide, [106] Electrophysiology, [118] Cardiovascular Pharmacology, [138] Cell signaling/signal transduction, [152] Ion channels/membrane transport
+
+
+Disclosures:
+ None.
+
+
+Publisher's Disclaimer:
+ This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+
+References
+
+
+
+
+
+
+1.
+Beny JL. Information networks in the arterial wall. News Physiol Sci. 1999;14:68–73. doi: 10.1152/physiologyonline.1999.14.2.68.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+2.
+Schmidt VJ, Wolfle SE, Boettcher M, de Wit C. Gap junctions synchronize vascular tone within the microcirculation. Pharmacol Rep. 2008;60:68–74.
+ [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+3.
+Bagher P, Segal SS. Regulation of blood flow in the microcirculation: Role of conducted vasodilation. Acta Physiol (Oxf) 2011;202:271–284. doi: 10.1111/j.1748-1716.2010.02244.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+4.
+Emerson GG, Segal SS. Endothelial cell pathway for conduction of hyperpolarization and vasodilation along hamster feed artery. Circ Res. 2000;86:94–100. doi: 10.1161/01.res.86.1.94.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+5.
+Looft-Wilson RC, Payne GW, Segal S. Connexin expression and conducted vasodilation along arteriolar endothelium in mouse skeletal muscle. J Appl Physiol. 2004;97:1152–1158. doi: 10.1152/japplphysiol.00133.2004.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+6.
+Wolfle SE, Schmidt VJ, Hoyer J, Kohler R, de Wit C. Prominent role of KCa3.1 in endothelium-derived hyperpolarizing factor-type dilations and conducted responses in the microcirculation in vivo. Cardiovasc Res. 2009;82:476–483. doi: 10.1093/cvr/cvp060.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+7.
+Emerson GG, Segal SS. Electrical coupling between endothelial cells and smooth muscle cells in hamster feed arteries: Role in vasomotor control. Circ Res. 2000;87:474–479. doi: 10.1161/01.res.87.6.474.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+8.
+Diep HK, Vigmond EJ, Segal SS, Welsh DG. Defining electrical communication in skeletal muscle resistance arteries: A computational approach. J Physiol. 2005;568:267–281. doi: 10.1113/jphysiol.2005.090233.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+9.
+Garland CJ, Hiley CR, Dora KA. EDHF: Spreading the influence of the endothelium. Br J Pharmacol. 2011;164:839–852. doi: 10.1111/j.1476-5381.2010.01148.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+10.
+Welsh DG, Segal SS. Endothelial and smooth muscle cell conduction in arterioles controlling blood flow. Am J Physiol. 1998;274:H178–186. doi: 10.1152/ajpheart.1998.274.1.H178.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+11.
+Crane GJ, Neild TO, Segal SS. Contribution of active membrane processes to conducted hyperpolarization in arterioles of hamster cheek pouch. Microcirculation. 2004;11:425–433. doi: 10.1080/10739680490457836.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+12.
+Figueroa XF, Duling BR. Dissection of two Cx37-independent conducted vasodilator mechanisms by deletion of Cx40: Electrotonic versus regenerative conduction. Am J Physiol Heart Circ Physiol. 2008;295:H2001–2007. doi: 10.1152/ajpheart.00063.2008.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+13.
+de Wit C. Different pathways with distinct properties conduct dilations in the microcirculation in vivo. Cardiovasc Res. 2009;85:604–613. doi: 10.1093/cvr/cvp340.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+14.
+Segal SS, Jacobs TL. Role for endothelial cell conduction in ascending vasodilatation and exercise hyperaemia in hamster skeletal muscle. J Physiol. 2001;536:937–946. doi: 10.1111/j.1469-7793.2001.00937.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+15.
+Hirst GD, Neild TO. An analysis of excitatory junctional potentials recorded from arterioles. J Physiol. 1978;280:87–104. doi: 10.1113/jphysiol.1978.sp012374.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+16.
+Emerson GG, Neild TO, Segal SS. Conduction of hyperpolarization along hamster feed arteries: Augmentation by acetylcholine. Am J Physiol Heart Circ Physiol. 2002;283:H102–109. doi: 10.1152/ajpheart.00038.2002.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+17.
+Segal SS, Duling BR. Conduction of vasomotor responses in arterioles: A role for cell-to-cell coupling? Am J Physiol Heart Circ Physiol. 1989;256:H838–845. doi: 10.1152/ajpheart.1989.256.3.H838.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+18.
+de Wit C, Roos F, Bolz SS, Kirchhoff S, Kruger O, Willecke K, Pohl U. Impaired conduction of vasodilation along arterioles in Connexin40-deficient mice. Circ Res. 2000;86:649–655. doi: 10.1161/01.res.86.6.649.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+19.
+Figueroa XF, Paul DL, Simon AM, Goodenough DA, Day KH, Damon DN, Duling BR. Central role of Connexin40 in the propagation of electrically activated vasodilation in mouse cremasteric arterioles in vivo. Circ Res. 2003;92:793–800. doi: 10.1161/01.RES.0000065918.90271.9A.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+20.
+Kurjiaka DT, Bender SB, Nye DD, Wiehler WB, Welsh DG. Hypertension attenuates cell-to-cell communication in hamster retractor muscle feed arteries. Am J Physiol Heart Circ Physiol. 2005;288:H861–870. doi: 10.1152/ajpheart.00729.2004.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+21.
+Wolfle SE, Schmidt VJ, Hoepfl B, Gebert A, Alcolea S, Gros D, de Wit C. Connexin45 cannot replace the function of Connexin40 in conducting endothelium-dependent dilations along arterioles. Circ Res. 2007;101:1292–1299. doi: 10.1161/CIRCRESAHA.107.163279.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+22.
+Nilius B, Droogmans G. Ion channels and their functional role in vascular endothelium. Physiol Rev. 2001;81:1415–1459. doi: 10.1152/physrev.2001.81.4.1415.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+23.
+Ledoux J, Bonev AD, Nelson MT. Ca2+-activated K+ channels in murine endothelial cells: Block by intracellular calcium and magnesium. J Gen Physiol. 2008;131:125–135. doi: 10.1085/jgp.200709875.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+24.
+Damkjaer M, Nielsen G, Bodendiek S, Staehr M, Gramsbergen JB, de Wit C, Jensen BL, Simonsen U, Bie P, Wulff H, Kohler R. Pharmacological activation of KCa3.1/KCa2.3 channels produces endothelial hyperpolarization and lowers blood pressure in conscious dogs. Br J Pharmacol. 2012;165:223–234. doi: 10.1111/j.1476-5381.2011.01546.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+25.
+Jackson WF. Potassium channels in the peripheral microcirculation. Microcirculation. 2005;12:113–127. doi: 10.1080/10739680590896072.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+26.
+Wolfle SE, Chaston DJ, Goto K, Sandow SL, Edwards FR, Hill CE. Non-linear relationship between hyperpolarisation and relaxation enables long distance propagation of vasodilatation. J Physiol. 2011;589:2607–2623. doi: 10.1113/jphysiol.2010.202580.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+27.
+Emerson GG, Segal SS. Electrical activation of endothelium evokes vasodilation and hyperpolarization along hamster feed arteries. Am J Physiol Heart Circ Physiol. 2001;280:H160–167. doi: 10.1152/ajpheart.2001.280.1.H160.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+28.
+Figueroa XF, Chen CC, Campbell KP, Damon DN, Day KH, Ramos S, Duling BR. Are voltage-dependent ion channels involved in the endothelial cell control of vasomotor tone? Am J Physiol Heart Circ Physiol. 2007;293:H1371–1383. doi: 10.1152/ajpheart.01368.2006.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+29.
+Socha MJ, Hakim CH, Jackson WF, Segal SS. Temperature effects on morphological integrity and Ca2+ signaling in freshly isolated murine feed artery endothelial cell tubes. Am J Physiol Heart Circ Physiol. 2011;301:H773–783. doi: 10.1152/ajpheart.00214.2011.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+30.
+Behringer EJ, Socha MJ, Polo-Parada L, Segal SS. Electrical conduction along endothelial cell tubes from mouse feed arteries: Confounding actions of glycyrrhetinic acid derivatives. Br J Pharmacol. 2012;166:774–787. doi: 10.1111/j.1476-5381.2011.01814.x. doi:10.1111/j.1476-5381.2011.01814.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+31.
+Stankevicius E, Lopez-Valverde V, Rivera L, Hughes AD, Mulvany MJ, Simonsen U. Combination of Ca2+ -activated K+ channel blockers inhibits acetylcholine-evoked nitric oxide release in rat superior mesenteric artery. Br J Pharmacol. 2006;149:560–572. doi: 10.1038/sj.bjp.0706886.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+32.
+Sheng JZ, Ella S, Davis MJ, Hill MA, Braun AP. Openers of SKCa and IKCa channels enhance agonist-evoked endothelial nitric oxide synthesis and arteriolar vasodilation. FASEB J. 2009;23:1138–1145. doi: 10.1096/fj.08-120451.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+33.
+Zhang T, Wu DM, Xu GZ, Puro DG. The electrotonic architecture of the retinal microvasculature: Modulation by angiotensin ii. J Physiol. 2011;589:2383–2399. doi: 10.1113/jphysiol.2010.202937.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+34.
+Yajima K, Nishiyama M, Yamamoto Y, Suzuki H. Inhibition of endothelium-dependent hyperpolarization by endothelial prostanoids in guinea-pig coronary artery. Br J Pharmacol. 1999;126:1–10. doi: 10.1038/sj.bjp.0702254.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+35.
+Blasits S, Maune S, Santos-Sacchi J. Nitric oxide uncouples gap junctions of supporting deiters cells from Corti's organ. Pflugers Arch. 2000;440:710–712. doi: 10.1007/s004240000355.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+36.
+Alexander SP, Mathie A, Peters JA. Guide to receptors and channels (GRAC), 5th Edition. Br J Pharmacol. 2011;164(Suppl 1):S1–324. doi: 10.1111/j.1476-5381.2011.01649_1.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+37.
+Beleznai TZ, Yarova PL, Yuill KH, Dora KA. Smooth muscle Ca2+ -activated and voltage-gated K+ channels modulate conducted dilation in rat isolated small mesenteric arteries. Microcirculation. 2011;18:487–500. doi: 10.1111/j.1549-8719.2011.00109.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+38.
+Jantzi MC, Brett SE, Jackson WF, Corteling R, Vigmond EJ, Welsh DG. Inward rectifying potassium channels facilitate cell-to-cell communication in hamster retractor muscle feed arteries. Am J Physiol Heart Circ Physiol. 2006;291:H1319–1328. doi: 10.1152/ajpheart.00217.2006.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+39.
+Duling BR, Berne RM. Propagated vasodilation in the microcirculation of the hamster cheek pouch. Circ Res. 1970;26:163–170. doi: 10.1161/01.res.26.2.163.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+40.
+Berg BR, Cohen KD, Sarelius IH. Direct coupling between blood flow and metabolism at the capillary level in striated muscle. Am J Physiol Heart Circ Physiol. 1997;272:H2693–2700. doi: 10.1152/ajpheart.1997.272.6.H2693.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+41.
+Feletou M. Calcium-activated potassium channels and endothelial dysfunction: Therapeutic options? Br J Pharmacol. 2009;156:545–562. doi: 10.1111/j.1476-5381.2009.00052.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+42.
+Dalsgaard T, Kroigaard C, Simonsen U. Calcium-activated potassium channels - a therapeutic target for modulating nitric oxide in cardiovascular disease? Expert Opin Ther Targets. 2010;14:825–837. doi: 10.1517/14728222.2010.500616.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+Associated Data
+
+
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+
+
+Supplementary Materials
+
+
+1
+
+
+
+
+NIHMS374158-supplement-1.pdf
+ (490.7KB, pdf) 
+
+
+
+
+                      
+
+                    
+
+                
+
+            
+
+        
+
+
+        
+
+
+
+
+
+
+
+    
+
+        
+
+            
+
+        
+
+    
+
+       
+
+              
+ACTIONS
+
+           
+
+               
+               
+
+                     
+
+                         
+
+                         
+View on publisher site
+
+                     
+
+               
+
+               
+               
+               
+
+                    
+
+                         
+
+                        
+PDF (1.7 MB)
+
+                    
+
+               
+
+               
+                
+               
+
+                   
+
+                       
+
+                       
+Cite
+
+                    
+
+               
+
+                
+               
+
+
+                        
+
+                            
+
+                            
+
+                            
+Collections
+
+                       
+
+               
+
+               
+
+                    
+
+                        
+
+                        
+Permalink
+
+                    
+
+                   
+
+
+
+    
+
+          
+PERMALINK
+
+          
+
+              
+
+              
+
+                  
+
+                  
+Copy
+
+              
+
+          
+
+    
+
+
+
+               
+
+           
+
+       
+
+     
+
+
+        
+
+            
+RESOURCES
+
+            
+                
+
+                    
+
+                        
+
+                            Similar articles
+                        
+
+                    
+
+                    
+
+                        
+                    
+
+                    
+
+                        
+
+                             Cited by other articles
+                        
+
+                    
+
+                    
+
+                          
+                    
+
+                    
+                        
+
+                            
+
+                                 Links to NCBI Databases
+                            
+
+                        
+
+                        
+
+                        
+
+                    
+                    
+                
+
+            
+        
+
+
+
+        
+
+    
+
+
+
+
+        
+
+
+
+    
+
+        
+
+            
+Cite
+
+             
+
+                 
+
+             
+
+        
+
+
+        
+
+
+
+  
+
+  
+
+      
+
+        
+
+            
+
+            
+Copy
+
+        
+
+      
+
+      
+
+          
+
+                
+
+                
+Download .nbib
+
+                
+.nbib
+
+            
+
+      
+
+      
+
+          
+
+
+
+  
+Format:
+
+  
+
+    
+      
+
+        AMA
+      
+
+    
+      
+
+        APA
+      
+
+    
+      
+
+        MLA
+      
+
+    
+      
+
+        NLM
+      
+
+    
+  
+
+
+
+      
+
+  
+
+
+
+    
+
+
+
+
+        
+
+  
+
+   
+
+        
+Add to Collections
+
+    
+
+    
+
+      
+
+
+
+
+
+    
+
+
+    
+
+        
+
+            
+
+            
+Create a new collection
+
+        
+
+        
+
+            
+
+            
+Add to an existing collection
+
+        
+
+    
+
+
+    
+
+        
+
+           
+
+                Name your collection
+               
+*
+
+          
+
+          
+
+        
+
+        
+
+             
+
+                Choose a collection
+              
+
+              
+
+              
+
+              
+
+                Unable to load your collection due to an error
+
+                
+Please try again
+
+              
+
+        
+
+    
+
+
+    
+
+        
+
+          Add
+        
+
+        
+
+          Cancel
+        
+
+    
+
+
+
+    
+
+  
+
+
+
+
+        
+
+      
+
+    
+
+  
+
+
+
+
+        
+    
+    
+
+
+
+    
+        
+
+            
+
+                Follow NCBI
+            
+
+
+            
+
+                
+                    
+
+                        
+
+                            
+
+                            
+
+                        
+
+                        
+NCBI on X (formerly known as Twitter)
+
+                    
+
+                
+
+                
+                    
+
+                        
+
+                            
+
+                            
+
+                        
+
+                        
+NCBI on Facebook
+
+                    
+
+                
+
+                
+                    
+
+                        
+
+                            
+
+                            
+
+                            
+
+                            
+
+                            
+
+                            
+
+                        
+
+                        
+NCBI on LinkedIn
+
+                    
+
+                
+
+                
+                    
+
+                        
+
+                            
+
+                            
+
+                        
+
+                        
+NCBI on GitHub
+
+                    
+
+                
+
+                
+                    
+
+                        
+
+                            
+
+                            
+
+                            
+
+                            
+
+                            
+
+                            
+
+                        
+
+                        
+NCBI RSS feed
+
+                    
+
+                
+            
+
+        
+
+    
+
+    
+
+        
+
+            
+                
+
+                    
+                        
+
+                            Connect with NLM
+                        
+
+                    
+
+                    
+
+                        
+                            
+
+                                
+
+                                    
+
+                                    
+
+                                
+
+                                
+NLM on X (formerly known as Twitter)
+
+                            
+
+                        
+
+                        
+                            
+
+                                
+
+                                    
+
+                                    
+
+                                
+
+                                
+NLM on Facebook
+
+                            
+
+                        
+
+                        
+                            
+
+                                
+
+                                    
+
+                                
+
+                                
+NLM on YouTube
+
+                            
+
+                        
+                    
+
+                
+
+            
+
+            
+                
+
+                    
+        
+
+            
+National Library of Medicine
+            
+ 8600 Rockville Pike
+ Bethesda, MD 20894
+
+        
+
+    
+                
+
+            
+
+            
+                
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Web Policies
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            FOIA
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            HHS Vulnerability Disclosure
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                
+
+            
+
+            
+                
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Help
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Accessibility
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Careers
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                
+
+            
+        
+
+
+        
+            
+
+                
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            NLM
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            NIH
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            HHS
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            USA.gov
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                
+
+            
+
+        
+    
+
+
+
+
+    
+
+
+        
+        
+    
+  
+ 
+
+
+
+    
+        
+
+
+
+    
+Back to Top
+
+    
+
+
+
+    
+
+
+        
+    
+    
+
+    
+    
+        
+    
+
+    window.ncbi = window.ncbi || {};
+    window.ncbi.pmc = window.ncbi.pmc || {};
+    window.ncbi.pmc.options = {
+        logLevel: 'INFO',
+        
+        staticEndpoint: 'https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/',
+        
+        citeCookieName: 'pmc-cf',
+    };
+
+
+    
+
+
+
+    
+    
+&#xA0;
+
+    
+
+        jQuery.getScript("https://cdn.ncbi.nlm.nih.gov/core/alerts/alerts.js", function () {
+            galert(['div.nav_and_browser', 'div.header', '#universal_header', '.usa-banner', 'body > *:nth-child(1)'])
+        });
+    
+
+
+
+    
+var exports = {};
+
+     
+
+
+    
+
+
+
+
+
+
+
+    
+    
+
+    
+
+
+

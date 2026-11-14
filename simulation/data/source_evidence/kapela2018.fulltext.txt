@@ -1,0 +1,7939 @@
+
+
+
+
+
+    
+
+
+        
+
+        
+
+        
+
+        
+
+        
+
+
+        
+        
+
+        
+        
+  
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+
+  
+  
+  @media screen and (min-width: 64em) {
+    div.pmc-wm {
+      background: repeat-y;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='350' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cfilter x='-.02' y='0' width='1.05' height='1' id='c'%3E%3CfeFlood flood-color='%23FFF'/%3E%3CfeComposite in='SourceGraphic'/%3E%3C/filter%3E%3Ctext id='b' font-family='Helvetica' font-size='11pt' style='opacity:1;fill:%23005ea2;stroke:none;text-anchor:middle' x='175' y='14'%3EAuthor Manuscript%3C/text%3E%3Cpath id='a' style='fill:%23005ea2' d='M0 8h350v3H0z'/%3E%3C/defs%3E%3Cuse xlink:href='%23a' transform='rotate(90 10 10)'/%3E%3Cuse xlink:href='%23b' transform='rotate(90 10 10)' filter='url(%23c)'/%3E%3C/svg%3E");
+      padding-left: 3rem;
+    }
+  }
+
+
+
+  
+
+
+
+        
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        
+
+            Biophysical properties of microvascular endothelium: Requirements for initiating and conducting electrical signals - PMC
+        
+
+
+        
+        
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+    
+        
+
+    
+
+    
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+    
+
+        
+    
+
+      Skip to main content
+    
+
+
+
+        
+            
+
+
+
+    
+
+        
+
+            
+
+                
+
+                    
+
+                
+
+
+                
+
+                    
+
+                        An official website of the United States government
+                    
+
+                    
+Here's how you know
+
+                
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                    
+Here's how you know
+
+                
+
+        
+    
+        
+            
+
+        
+
+
+            
+
+        
+
+
+        
+
+            
+
+                
+
+                    
+
+                    
+
+                        
+
+                            
+Official websites use .gov
+
+                            
+
+                            A
+                            
+.gov
+ website belongs to an official
+                            government organization in the United States.
+                        
+
+                    
+
+                
+
+
+                
+
+                    
+
+
+                    
+
+                        
+
+                            
+Secure .gov websites use HTTPS
+
+                            
+
+                            A 
+lock
+ (
+                            
+
+                                
+
+                                    
+Lock
+
+                                    
+
+                                    Locked padlock icon
+                                    
+
+                                    
+
+                                
+
+
+) or 
+https://
+ means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            
+
+                        
+
+                    
+
+                
+
+            
+
+        
+
+    
+
+
+        
+
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+            
+
+                
+
+            
+
+
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                
+
+                    
+
+                
+
+            
+
+        
+    
+        
+            
+
+        
+
+
+
+            
+                
+
+                
+
+                    
+                        
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                            
+
+
+
+    
+
+
+
+                            Search
+                        
+
+        
+    
+        
+            
+
+        
+
+
+                    
+
+                    
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                                
+
+
+
+    
+
+
+
+
+                                
+Log in
+
+
+                                
+
+                                
+
+
+
+    
+
+
+
+
+                                
+
+                                
+
+
+
+    
+
+
+
+                            
+
+        
+    
+        
+            
+
+        
+
+
+
+                            
+
+                            
+
+                                
+                                    
+
+                                        
+
+                                        
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Dashboard
+        
+
+        
+    
+
+
+
+                                    
+
+                                
+                                    
+
+                                        
+
+                                        
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Publications
+        
+
+        
+    
+
+
+
+                                    
+
+                                
+                                    
+
+                                        
+
+                                        
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Account settings
+        
+
+        
+    
+
+
+
+                                    
+
+                                
+                                
+
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        Log out
+
+        
+    
+        
+            
+
+        
+
+
+                                
+
+                            
+
+                        
+
+                    
+                
+
+            
+        
+
+    
+
+
+    
+
+    
+        
+
+            
+
+                
+
+                    
+
+                        Search…
+                    
+
+                    
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                        
+
+                            Search NCBI
+                        
+
+                    
+
+        
+    
+        
+            
+
+        
+
+
+                
+
+
+                
+            
+
+        
+
+    
+
+    
+
+        
+
+            Primary site navigation
+        
+
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+            
+
+        
+
+        
+    
+        
+            
+
+        
+
+
+
+        
+            
+
+            
+
+                
+
+                    Search
+                
+
+
+                
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        
+                    
+
+                    
+
+                
+
+        
+    
+        
+            
+
+        
+
+
+            
+
+
+            
+        
+
+        
+
+        
+
+        
+
+        
+            
+
+                
+
+                    Logged in as:
+                    
+
+                
+
+                
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Dashboard
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Publications
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Account settings
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                
+
+            
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+    
+        
+
+        Log in
+
+        
+    
+        
+            
+
+        
+
+
+    
+
+
+
+
+    
+    
+        
+
+
+
+    
+
+        
+
+           
+
+               
+
+           
+
+            
+
+                
+
+                
+
+            
+
+        
+
+        
+
+            
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+            
+
+                
+
+                    
+
+                        
+                            
+
+                                Journal List
+                            
+
+                        
+                    
+
+                    
+
+                        
+                            
+
+                                User Guide
+                            
+
+                        
+                    
+
+                
+
+            
+
+        
+
+    
+
+
+
+
+    
+
+
+        
+        
+
+       
+  
+
+
+    
+
+   
+
+
+
+
+
+    
+
+        
+
+             
+
+                
+
+                    
+
+                        
+
+                            
+
+                        
+
+                    
+
+                    
+                    
+
+                        
+
+                                
+
+                        
+
+                    
+
+                    
+                    
+                        
+
+                             
+
+
+                                 
+
+                            
+
+                        
+
+                    
+                    
+
+                        
+
+                            
+
+                            
+
+                        
+
+                    
+
+                    
+                    
+
+                        
+
+                            
+
+                        
+
+                    
+
+                    
+                    
+
+                         
+
+                            
+
+                        
+
+                        
+
+
+
+    
+
+          
+PERMALINK
+
+          
+
+              
+
+              
+
+                  
+
+                  
+Copy
+
+              
+
+          
+
+    
+
+
+
+                    
+
+                
+
+            
+
+            
+
+                
+
+            
+
+        
+
+    
+
+
+
+    
+
+      
+
+        
+
+            
+
+                
+
+                    
+
+                        
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+
+    Learn more:
+    
+PMC Disclaimer
+
+    |
+    
+
+        PMC Copyright Notice
+    
+
+
+
+                    
+
+                
+
+                
+
+                    
+
+                    
+
+
+                      
+                        
+
+
+Microcirculation
+. Author manuscript; available in PMC: 2019 Feb 1.
+
+
+
+
+Published in final edited form as: 
+Microcirculation. 2018 Feb;25(2):10.1111/micc.12429. doi: 
+10.1111/micc.12429
+
+
+
+
+
+
+Search in PMC
+
+
+Search in PubMed
+
+
+View in NLM Catalog
+
+
+Add to search
+
+
+
+
+Biophysical properties of microvascular endothelium: Requirements for initiating and conducting electrical signals
+
+
+Adam Kapela
+
+
+Adam Kapela
+
+
+
+
+1
+Department of Biomedical Engineering, Florida International University, Miami, FL 33174, USA
+
+
+Find articles by 
+Adam Kapela
+
+
+
+
+
+
+1
+, 
+Erik J Behringer
+
+
+Erik J Behringer
+
+
+
+
+2
+Department of Medical Pharmacology and Physiology, University of Missouri, Columbia MO 65212, USA
+
+
+
+
+3
+Department of Basic Sciences, Loma Linda University, Loma Linda CA 92354, USA
+
+
+Find articles by 
+Erik J Behringer
+
+
+
+
+
+
+2,
+3
+, 
+Steven S Segal
+
+
+Steven S Segal
+
+
+
+
+2
+Department of Medical Pharmacology and Physiology, University of Missouri, Columbia MO 65212, USA
+
+
+
+
+4
+Dalton Cardiovascular Research Center, University of Missouri, Columbia, MO 65211, USA
+
+
+Find articles by 
+Steven S Segal
+
+
+
+
+
+
+2,
+4
+, 
+Nikolaos M Tsoukias
+
+
+Nikolaos M Tsoukias
+
+
+
+
+1
+Department of Biomedical Engineering, Florida International University, Miami, FL 33174, USA
+
+
+
+
+5
+School of Chemical Engineering, National Technical University of Athens, Athens, Greece
+
+
+Find articles by 
+Nikolaos M Tsoukias
+
+
+
+
+
+
+1,
+5,
+*
+
+
+
+
+
+
+Author information
+
+
+Copyright and License information
+
+
+
+
+
+
+
+
+
+
+1
+Department of Biomedical Engineering, Florida International University, Miami, FL 33174, USA
+
+
+
+
+2
+Department of Medical Pharmacology and Physiology, University of Missouri, Columbia MO 65212, USA
+
+
+
+
+3
+Department of Basic Sciences, Loma Linda University, Loma Linda CA 92354, USA
+
+
+
+
+4
+Dalton Cardiovascular Research Center, University of Missouri, Columbia, MO 65211, USA
+
+
+
+
+5
+School of Chemical Engineering, National Technical University of Athens, Athens, Greece
+
+
+
+
+
+
+*
+Corresponding Author: Nikolaos M. Tsoukias, Ph.D., Department of Biomedical Engineering, Florida International University, 10555 W. Flagler Str., EC 2674, Miami, FL 33174, Tel: +1 305 348-7291, Fax: +1 305 348-6954, 
+tsoukias@fiu.edu
+
+
+
+
+DR. ADAM KAPELA (Orcid ID : 0000-0002-1234-9643)
+
+
+PROF. STEVEN S. SEGAL (Orcid ID : 0000-0001-5667-2154)
+
+
+
+
+
+
+PMC Copyright notice
+
+
+
+
+PMCID: PMC5809195  NIHMSID: NIHMS918816  PMID: 
+29117630
+
+
+
+
+The publisher's version of this article is available at 
+Microcirculation
+
+
+
+
+Abstract
+
+
+Objective
+
+
+Electrical signaling along the endothelium underlies spreading vasodilation and blood flow control. We use mathematical modeling to determine the electrical properties of the endothelium and gain insight into the biophysical determinants of electrical conduction.
+Methods
+
+
+Electrical conduction data along endothelial cell (EC) tubes (40 μm wide, 2.5 mm long) isolated from mouse skeletal muscle resistance arteries were analyzed using cable equations and a multicellular computational model.
+Results
+
+
+Responses to intracellular current injection attenuate with an axial length constant (
+λ
+) of 1.2–1.4 mm. Data were fitted to estimate the axial (
+r
+a
+; 10.7 MΩ/mm) and membrane (
+r
+m
+; 14.5 MΩ·mm) resistivities, EC membrane resistance (
+R
+m
+; 12 GΩ), EC-EC coupling resistance (
+R
+gj
+; 4.5 MΩ) and predict that stimulation of ≥30 neighboring ECs is required to elicit 1 mV of hyperpolarization at distance = 2.5 mm. Opening Ca
+2+
+-activated K
++
+ channels (K
+Ca
+) along the endothelium reduced 
+λ
+ by up to 55%.
+Conclusions
+
+
+High 
+R
+m
+ makes the endothelium sensitive to electrical stimuli and able to conduct these signals effectively. Whereas the activation of a group of ECs is required to initiate physiologically relevant hyperpolarization, this requirement is increased by myoendothelial coupling and K
+Ca
+ activation along the endothelium inhibits conduction by dissipating electrical signals.
+Keywords:
+ modeling, endothelium, membrane resistance, membrane potential, spreading vasodilation
+Introduction
+
+
+The resistance vasculature consists of branching arteriolar networks and the feed arteries from which they are supplied. As respective vessels are arranged in series and parallel, matching blood flow to local tissue requirements requires coordinated dilatation of distal and proximal branches.
+1
+ In this manner, coordinated vasodilation along and among parallel branches of resistance networks depends primarily upon the interplay between electrical and Ca
+2+
+ signaling events.
+2
+,
+3
+ In particular, endothelial cell (EC) hyperpolarization that evokes vasodilation arises from Ca
+2+
+ activation of small- and intermediate-conductance calcium-activated K
++
+ channels (SK
+Ca
+ and IK
+Ca
+). This electrical signal is transmitted from cell-to-cell along the wall of arterioles to ascend into proximal feed arteries to attain peak levels of functional hyperaemia.
+4
+–
+6
+ Electrical conduction along the endothelium is attributed to the axial arrangement of ECs and their strong electrical coupling through gap junctions.
+7
+,
+8
+
+
+The interplay between gap junction patency underlying axial resistance and the activity of ion channels that govern membrane resistance (e.g., K
++
+ channels) determines whether an electrical signal of a given magnitude and duration is localized or is conducted along the vessel wall.
+9
+ For example, with constant axial resistance, electrical conduction along the endothelium of resistance arteries becomes impaired by excessive opening of SK
+Ca
+ and IK
+Ca
+ as demonstrated directly with the pharmacological channel opener NS309 and indirectly with the G
+q
+-coupled muscarinic receptor agonist acetylcholine (ACh).
+10
+ By the same effect of lowering cellular membrane resistance, opening large-conductance Ca
+2+
+-activated K
+Ca
+ channels in smooth muscle cells (SMCs) can also attenuate electrical conduction along intact vessels.
+11
+
+
+Conducted vasodilation has been mostly investigated by examining the spread of the vasomotor response 
+in situ
+ and 
+in vivo
+, but further insight into the underlying electrical signaling is needed. Given the central role of signal transmission through the endothelial layer in this phenomenon,
+8
+ the electrical properties of the endothelium in representative vascular beds requires characterization. Estimates for the endothelial coupling resistance have only been provided in cultured monolayers
+12
+ or have been deducted from electrical propagation along intact arterioles of the guinea-pig mesentery.
+13
+ There is also a paucity of data for the membrane resistivity of ECs in intact microvascular endothelium.
+
+
+Recent experimental advances have enabled investigation of the nature and properties of electrical conduction along the endothelium of resistance microvessels without the influence of the smooth muscle layer or the confounding effect of culturing conditions that alter cell phenotype.
+10
+,
+14
+ Experiments with endothelial tubes freshly isolated from feed arteries of mouse skeletal muscle have confirmed that the endothelium can conduct membrane potential (
+V
+m
+) changes, with a length constant (
+λ
+) λ 1.4 mm, a value similar to the 
+λ
+ of electrical decay and of spreading dilatations in intact microvessels which previous studies have shown to be 1.1–1.6 mm in guinea pig arterioles
+15
+ and 1.1–1.9 mm in hamster skeletal muscle feed arteries.
+16
+
+
+In the present study, we used mathematical modeling to determine the electrical properties of native intact microvascular endothelium and to thereby gain insight into the biophysical determinants of electrical conduction. We analyzed electrophysiological data
+10
+ using one- and two-dimensional cable equations, and a discrete-cell model of microvascular endothelial tubes that integrates Ca
+2+
+ and 
+V
+m
+ dynamics in ECs.
+17
+ We validated the applicability of cable equations to characterize conduction in EC tubes and extracted electrical parameters for native microvascular endothelial cells. Further, the multicellular computational model of the endothelial layer was utilized to link electrical properties of ECs to the conduction of electrical signals. Applying defined electrophysiological properties using the discrete model can thereby: (a) account for the current-voltage relationships of ion channels and serve as a benchmark for cable equations;
+18
+ and (b) evaluate the effect of experimental interventions that influence ion channels to affect the resistance of cell membranes.
+10
+ Our analysis examines the determinants of endothelial sensitivity to agonist stimulation and predicts minimal requirements for effective ascending vasodilation along feed arteries of skeletal muscle.
+Methods
+
+
+In silico analyses of experiments in endothelial tubes
+
+
+We analyzed data from an experimental study of electrical conduction along endothelial tubes freshly isolated from superior epigastric arteries of C57BL/6 mice.
+10
+
+
+V
+m
+ responses to injecting current into a single EC were measured at defined distances to characterize electrical conduction along the endothelium. Thus, in response to hyperpolarizing or depolarizing current pulses (0.1–3 nA, 2s), 
+V
+m
+ was recorded at 0.05, 0.5, 1, 1.5 and 2 mm remote from the local site of current injection. A typical endothelial tube used in these experiments had length 
+L
+ = 2.5 mm, diameter 
+D
+ = 40 μm and contained ~2000 ECs.
+10
+,
+19
+
+
+Different theoretical approaches were used to extract parameters associated with electrical conduction. These parameters included the length constant of signal attenuation (
+λ
+), axial (
+r
+a
+) and membrane (
+r
+m
+) resistivities, EC membrane resistance (
+R
+m
+), the resistance of EC-EC coupling through gap junctions (
+R
+gj
+), and the effect of SK
+Ca
+/IK
+Ca
+ activation on 
+λ
+. We start with a simple estimation of 
+R
+m
+ based upon the cable input resistance and 
+λ
+, then present a differential equation for current spread in a continuum cable model with its one- and two-dimensional solutions then follow with our implementation of detailed multicellular discrete models of the endothelial tube (
+Fig. 1
+).
+
+
+Figure 1.
+
+
+
+
+Open in a new tab
+
+
+Discrete multicellular model of endothelial tube. Idealized diamond-shaped ECs, each with length = 35 μm (
+L
+cell
+), width = 8.6 μm (
+d
+cell
+), and thickness 
+d
+, are arranged into a cylinder (
+dashed lines
+) with 
+N
+circum
+ (= 14) cells encompassing the circumferential direction (
+y
+) and 71 cells encompassing the axial direction (
+x
+). Under control conditions, each EC is coupled to its four immediate neighbors through gap junctions. The total number of ECs in the discrete model of an endothelial tube of length 
+L
+ = 2.5 mm and diameter 
+D
+ = 38 μm is 1988. Each EC is modeled as described in Silva et al.
+17
+ and contains: store-operated Ca
+2+
+channels (SOC); nonselective cation channels (NSC); volume regulated anion channels (VRAC); Ca
+2+
+-activated Cl
+−
+ channels (CaCC); small- and intermediate-conductance Ca
+2+
+-activated K
++
+ channels (SK
+Ca
+ and IK
+Ca
+); Na
++
+-K
++
+-ATPase (NaK); plasma membrane Ca
+2+
+-ATPase (PMCA); Na
++
+/Ca
+2+
+ exchanger (NCX); Na
++
+/K
++
+/Cl
+−
+ cotransporter (NaKCl); sarcoplasmic endoplasmic reticulum Ca
+2+
+-ATPase (SERCA); and IP
+3
+ receptors (IP
+3
+R). The electrical equivalent diagram of a rectangular region (
+dashed red line
+), which incorporates four halves of ECs and four gap junctions is shown (bottom right). Each EC has a total membrane resistance 
+R
+m
+, each EC-EC coupling has resistance 
+R
+gj
+, and there are 
+N
+circum
+ such rectangular regions in the circumferential direction. The effective membrane and axial resistivities of the endothelial tube can be derived from 
+N
+circum
+ parallel units having membrane resistance of 
+R
+m
+/2 and axial resistance of 
+R
+gj
+ over distance 
+L
+cell
+.
+Estimation of R
+m
+ from the cable input resistance
+
+
+In an isolated cell, the change in membrane potential (Δ
+V
+m
+) upon application of a stimulus current (
+I
+stim
+) is described by 
+Eq. 1
+: 
+
+
+
+
+
+Δ
+V
+m
+=
+R
+m
+I
+stim
+
+
+(1)
+
+
+
+
+ where 
+R
+m
+ is the membrane resistance of an individual cell. In a population of cells (i.e., endothelial tube), a current 
+I
+stim
+ will spread from the stimulated cell through gap junctions to other ECs, and the 
+V
+m
+ change in a nearby cell will be: 
+
+
+
+
+
+Δ
+V
+m
+,
+n
+=
+R
+m
+,
+n
+I
+stim
+,
+n
+
+
+(2)
+
+
+
+
+ where 
+I
+stim,n
+ = Σ
+GJs
+I
+gj,n
+ is the net stimulus current at 
+n
+th EC, and it is equal to the sum of all gap junction currents entering/leaving the 
+n
+th EC (
+Fig. 1
+). 
+I
+stim,n
+ is equivalent to current loss at 
+n
+th EC. Summation of 
+Eq. 2
+ over the total number of ECs (
+N
+cells
+) over which the 
+I
+stim
+ is distributed, gives: 
+
+
+
+
+
+∑
+n
+=
+1
+N
+cells
+Δ
+V
+m
+,
+n
+=
+∑
+n
+=
+1
+N
+cells
+R
+m
+,
+n
+I
+stim
+,
+n
+
+
+(3)
+
+
+
+
+Assuming linear and identical membrane resistances 
+R
+m,n
+ = 
+R
+m
+ for all 
+N
+cells
+: 
+
+
+
+
+
+N
+cells
+∑
+n
+=
+1
+N
+cells
+Δ
+V
+m
+,
+n
+N
+cells
+=
+R
+m
+∑
+n
+=
+1
+N
+cells
+I
+stim
+,
+n
+
+
+(4)
+
+
+
+
+Thus, in general: 
+
+
+
+
+
+N
+cells
+Δ
+V
+¯
+m
+=
+R
+m
+I
+stim
+,
+and
+R
+m
+=
+N
+cells
+Δ
+V
+¯
+m
+I
+stim
+
+
+(5)
+
+
+
+
+ where Δ
+V̄
+m
+ is the mean Δ
+V
+m
+ over 
+N
+cells
+.
+
+
+Assuming that 
+I
+stim
+ is applied at one end of an endothelial tube and 
+V
+m
+ decays exponentially along the tube length:
+10
+
+
+
+
+Δ
+V
+m
+=
+Δ
+V
+m
+,
+x
+0
+×
+e
+-
+x
+λ
+,
+for
+0
+≤
+x
+≤
+L
+.
+
+
+(6)
+
+
+
+
+ where Δ
+V
+m,x0
+ is the Δ
+V
+m
+ at the local site of current injection (
+x
+ − 
+x
+stim
+ = 0) and 
+λ
+ is the electrical length constant of the endothelial “cable” as determined from the recorded Δ
+V
+m
+ profile. The mean 
+V
+m
+ response can be approximated by: 
+
+
+
+
+
+Δ
+V
+¯
+m
+=
+Δ
+V
+m
+,
+x
+0
+L
+∫
+x
+=
+0
+L
+e
+-
+x
+λ
+d
+x
+=
+Δ
+V
+m
+,
+x
+0
+L
+λ
+(
+1
+-
+e
+-
+L
+λ
+)
+.
+
+
+(7)
+
+
+
+
+Combining 
+Eqs. 5
+ and 
+7
+, yields a first estimation of 
+R
+m
+ based on the cable input resistance (
+R
+in
+ = Δ
+V
+m,x0
+/
+I
+stim
+) and the length constant of signal’s attenuation (
+λ
+): 
+
+
+
+
+
+R
+m
+=
+N
+cells
+Δ
+V
+m
+,
+x
+0
+I
+stim
+λ
+(
+1
+-
+e
+-
+L
+λ
+)
+L
+
+
+(8)
+
+
+Continuum cable model
+
+
+An endothelial tube can be approximated as a continuum two-dimensional sheet of finite width and length with sealed edges.
+20
+,
+21
+ The steady-state response (
+V = ΔV
+m
+(
+x,y
+)) to a current stimulus at the point (
+x
+stim
+, 
+L
+circum
+/2) is given by the Helmholtz equation on a rectangular domain 0 ≤ 
+x
+ ≤ 
+L
+, 0 ≤ 
+y
+ ≤ 
+L
+circum
+ with sealed boundary conditions: 
+
+
+
+
+
+d
+ρ
+x
+x
+∂
+2
+V
+∂
+x
+2
++
+d
+ρ
+y
+y
+∂
+2
+V
+2
+∂
+y
+2
+-
+1
+ρ
+m
+V
+(
+x
+,
+y
+)
+=
+-
+I
+stim
+δ
+(
+x
+-
+x
+stim
+,
+y
+-
+L
+circum
+2
+)
+,
+
+
+(9)
+
+
+
+
+ where 
+δ
+ is the Dirac’s delta function at (
+x
+stim
+, 
+L
+circum
+/2); 
+L
+circum
+ is the tube’s circumference; 
+d
+ is the thickness of the endothelium (
+Fig. 1
+); 
+ρ
+xx
+ and 
+ρ
+yy
+ are the resistivities of the endothelium in the axial and circumferential directions per unit cross sectional area, respectively; and 
+ρ
+m
+ is the membrane (leakage) resistivity of the endothelium per unit surface area.
+One-dimensional cable solution
+
+
+In small arterioles (diameter < 50 μm), current spread in the circumferential direction can be neglected assuming cells encircling the vessel are isopotential, and one-dimensional solution of the Helmholtz equation (
+Eq. 9
+) yields the short cable equation:
+22
+
+
+
+
+Δ
+V
+m
+(
+x
+)
+=
+I
+stim
+λ
+r
+a
+2
+(
+exp
+(
+-
+∣
+x
+stim
+-
+x
+∣
+/
+λ
+)
++
+exp
+(
+-
+(
+x
+stim
++
+x
+)
+/
+λ
+)
++
+exp
+(
+-
+L
+/
+λ
+)
+(
+cosh
+(
+(
+x
+stim
++
+x
+)
+/
+λ
+)
++
+cosh
+(
+(
+x
+stim
+-
+x
+)
+/
+λ
+)
+)
+sinh
+(
+L
+/
+λ
+)
+)
+,
+
+
+(10)
+
+
+
+
+ where Δ
+V
+m
+(
+x
+) is change in membrane potential along endothelial tube of length 
+L
+, induced by stimulus current 
+I
+stim
+ injected at distance 
+x
+stim
+ from the tube’s end, and 
+r
+a
+ is the resistivity of an endothelial tube in the axial direction.
+
+
+If 
+L
+ ≫ 
+λ
+ and 
+x
+stim
+ λ 0, 
+Eq. 10
+ simplifies to the exponential solution for a semi-infinite cable: 
+
+
+
+
+
+Δ
+V
+m
+(
+x
+)
+=
+I
+stim
+λ
+r
+a
+exp
+(
+-
+x
+/
+λ
+)
+,
+for
+x
+≥
+x
+stim
+.
+
+
+(11)
+
+
+
+
+Since the endothelial tubes used in the experiments were of relatively short length compared to the electrical length constant (i.e., 
+L
+ = 2.5 mm vs. 
+λ
+ = 1.38 mm), 
+Eq. 10
+ was used to determine 
+λ
+ and 
+r
+a
+ by fitting Δ
+V
+m
+ data from.
+10
+ Given 
+r
+a
+ and 
+λ
+, the membrane resistivity to charge loss along an endothelial tube (
+r
+m
+) can then be determined from the relationship: 
+
+
+
+
+
+r
+m
+=
+r
+a
+λ
+2
+
+
+(12)
+
+
+
+
+Figure 1
+ depicts the idealized arrangement of ECs and gap junctions used to relate the resistivities 
+r
+m
+ and 
+r
+a
+ to 
+R
+m
+ and 
+R
+gj
+, respectively. For this application, 
+R
+gj
+ represents the combined resistance of gap junctions and the cytoplasm. The rectangular region on 
+Figure 1
+ (
+dashed red lines
+) incorporates four halves of neighboring ECs with four membrane appositions coupled through gap junctions. Its electrical equivalent diagram (
+Fig. 1
+) yields: 
+
+
+
+
+
+r
+m
+=
+(
+R
+m
+/
+2
+)
+L
+cell
+N
+circm
+,
+R
+m
+=
+2
+r
+m
+N
+circum
+/
+L
+cell
+,
+
+
+(13)
+
+
+
+
+
+
+r
+a
+=
+R
+g
+j
+N
+circum
+L
+cell
+,
+R
+g
+j
+=
+r
+a
+N
+circum
+L
+cell
+,
+
+
+(14)
+
+
+
+
+ where 
+L
+cell
+ (λ35 μm) is the length of an EC in the axial direction, 
+N
+circum
+ = 
+L
+circum
+/
+d
+cell
+ is the number of ECs encompassing the circumference of the endothelial tube (n = 14), and 
+d
+cell
+ (λ8.6 μm) is the width of an EC in the circumferential direction (
+Fig. 1
+).
+Two-dimensional cable solution
+
+
+The two-dimensional Δ
+V
+m
+ profile in the endothelial tube is the Green’s function of the Helmholtz equation (
+Eq. 9
+), which can be written as the double infinite series sum:
+23
+
+
+
+
+G
+(
+x
+,
+y
+,
+ξ
+stim
+,
+η
+stim
+)
+=
+1
+a
+b
+∑
+n
+=
+0
+∞
+∑
+m
+=
+0
+∞
+ε
+n
+ε
+m
+cos
+(
+p
+n
+x
+)
+cos
+(
+q
+m
+y
+)
+cos
+(
+p
+n
+ξ
+stim
+)
+cos
+(
+q
+m
+η
+stim
+)
+p
+n
+2
++
+q
+m
+2
++
+1
+λ
+2
+p
+n
+=
+π
+n
+a
+,
+q
+m
+=
+π
+m
+b
+,
+ε
+n
+=
+{
+1
+for
+n
+=
+0
+,
+2
+for
+n
+≠
+0.
+
+
+(15)
+
+
+
+
+When applied to endothelial tubes, 
+a
+ = 
+L
+, 
+b
+ = 
+L
+circum
+, 
+ξ
+stim
+ = 
+x
+stim
+, 
+d
+ = thickness of the endothelium and 
+η
+stim
+ = 
+L
+circum
+/2 (the stimulus position has to be symmetrical in the circumferential direction). Combining 
+Eqs. 9
+ and 
+15
+ gives: 
+
+
+
+
+
+Δ
+V
+x
+(
+x
+,
+y
+)
+=
+I
+stim
+ρ
+x
+x
+d
+G
+(
+x
+,
+y
+,
+x
+stim
+,
+L
+circum
+2
+)
+.
+
+
+(16)
+
+
+
+
+Eq. 16
+ was used to determine 
+ρ
+xx
+/
+d
+ and 
+λ
+ by fitting conduction data. Given 
+ρ
+xx
+/
+d
+ and 
+λ
+, the membrane resistivity per unit surface area, 
+ρ
+m
+, can be determined from the relationship: 
+
+
+
+
+
+ρ
+m
+ρ
+x
+x
+d
+=
+r
+m
+r
+a
+=
+λ
+2
+.
+
+
+(17)
+
+
+
+
+ based on the assumed shape of EC as a rhombus (
+Fig. 1
+), we can determine the membrane resistivities per unit vessel length (r
+m
+) and per cell (R
+m
+): 
+
+
+
+
+
+R
+m
+=
+2
+ρ
+m
+d
+cell
+L
+cell
+,
+r
+m
+=
+ρ
+m
+d
+cell
+N
+circum
+
+
+(18)
+
+
+
+
+And combining 
+Eqs. 14
+, 
+17
+ and 
+18
+ we can determine the axial resistivities per unit vessel length (r
+a
+) and per cell (R
+gj
+): 
+
+
+
+
+
+R
+g
+j
+=
+ρ
+x
+x
+d
+L
+cell
+d
+cell
+,
+r
+a
+=
+ρ
+x
+x
+d
+1
+N
+circum
+d
+cell
+
+
+(19)
+
+
+Discrete model of the endothelial tube
+
+
+A multicellular model of an endothelial tube was developed by coupling discrete ECs. To define the number and coupling of ECs in the model, we assume the idealized geometry of endothelial tubes as depicted in 
+Figure 1
+. ECs are arranged into a cylinder with 14 cells encompassing the circumferential direction (
+N
+circum
+ = 14), and 71 cells encompassing the axial direction with an average cell length of 35 μm (
+L
+EC
+). This gives a total number of 1988 ECs (
+N
+cells
+) for an endothelial tube 2.5 mm long. Under control conditions, each EC is coupled electrochemically to its four immediate neighbors making lateral connections (i.e., not through the end-to-end points). The coupling represents nonselective gap junctions and allows intercellular fluxes of K
++
+, Na
++
+, Cl
+−
+, Ca
+2+
+, and inositol (1,4,5)-trisphosphate (IP
+3
+). Respective fluxes are estimated based on the intercellular electrochemical gradients.
+24
+ Intercellular fluxes at the ends of the tube are set to zero, i.e., the model has sealed ends similarly to the short cable equations. Each EC is modeled as described in Silva et al..
+17
+ Thus, each EC is isopotential and well-mixed (zero dimensional), i.e., 
+V
+m
+ and cytosolic contents are assumed to be uniform withing each EC. A set of 11 ordinary differential equations describe cell membrane electrophysiology along with changes in 
+V
+m
+ and intracellular concentrations of Ca
+2+
+, Na
++
+, K
++
+, Cl
+−
+ and IP
+3
+. Stimulation with ACh is simulated by increasing the production rate of IP
+3
+ (
+Q
+IP3
+) with 
+Q
+IP3
+ increasing by 55 nM/s per arbitrary unit (a.u.) of ACh. A schematic diagram of the single EC with the implemented intracellular and plasma membrane components is shown in 
+Fig. 1
+. We set the 
+R
+m
+ and 
+R
+gj
+ as the free parameters to be determined by fitting model output to the experimental data. [Note: 
+R
+m
+ was adjusted by scaling all channel conductances in the EC model
+17
+ by the same factor, including the maximum K
+Ca
+ conductance G
+KCa,max
+].
+Conduction in intact vessels vs. in isolated endothelium
+
+
+An electrical analogue of the intact vessel
+24
+,
+25
+ allows formulation of a simplified analytical formula for extrapolating EC tube data and predicting 
+λ
+ in the intact vessel. The circuitry in a coupled two cell-layer system incorporates the endothelial (
+r
+m,EC
+) and SMC (
+r
+m,SMC
+) membrane resistivities, connected through the myoendothelial (ME) resistivity (
+r
+ME
+, i.e., resistance between endothelial and SMC layers over a unit length and proportional to ME 
+R
+gj
+).
+
+
+The current that is injected (or generated through channel opening) in an EC will spread (i.e., conduct) primarily along the endothelium. As current spreads it leaks through two parallel pathways; through the EC membrane as determined by 
+r
+m,EC
+ or by passing through the myoendothelial gap junctions and then through the SMC membrane. The net resistance for the second pathway is simply the sum 
+r
+ME
+ and 
+r
+m,SMC
+ (i.e., these resistances are in series). Thus, the combined leak resistivity in the intact vessel (
+r
+m,EC-SMC
+) can be calculated from the parallel connection of 
+r
+m,EC
+ with 
+r
+ME
+ and 
+r
+m,SMC
+ combined in series: 
+
+
+
+
+
+r
+m
+,
+EC
+-
+SMC
+=
+(
+r
+m
+,
+SMC
++
+r
+ME
+)
+×
+r
+m
+,
+EC
+/
+(
+r
+m
+,
+SMC
++
+r
+ME
++
+r
+m
+,
+EC
+)
+.
+
+
+(20)
+
+
+
+
+Assuming that the whole-vessel axial resistivity is not significantly affected by the presence of SMCs (i.e., 
+r
+a,SMC
+ ≫ 
+r
+a,EC
+ and 
+r
+a,EC-SMC
+ λ 
+r
+a,EC
+), 
+equations 12
+ and 
+20
+ yield: 
+
+
+
+
+
+λ
+E
+C
+-
+SMC
+/
+λ
+E
+C
+=
+r
+m
+,
+EC
+-
+SMC
+/
+r
+m
+,
+EC
+=
+(
+r
+m
+,
+SMC
++
+r
+ME
+)
+/
+(
+r
+m
+,
+SMC
++
+r
+ME
++
+r
+m
+,
+EC
+)
+,
+
+
+(21)
+
+
+
+
+ where 
+λ
+EC-SMC
+ is the length constant in the presence of the SMC layer (i.e., the intact vessel) and 
+λ
+EC
+ is the length constant of the isolated endothelium.
+Statistics
+
+
+The parameters estimated from the cable equations are given as best fit values ± 95% confidence interval. Parameters obtained from different experiments and fittings were compared with Student’s 
+t
+-test. Differences were accepted as statistically significant with 
+P
+ < 0.05.
+Results
+
+
+Data analysis using cable equations
+
+
+To provide a first estimate of 
+R
+m
+ we use 
+Eq. 8
+, and the reported responses for a typical current injection in an endothelial tube 2.5 mm long (i.e., 
+ΔV
+m,x0
+ λ −11.6 mV, 
+I
+stim
+ = −1 nA, 
+λ
+ = 1.38 mm, and 
+L
+ = 2.5 mm).
+10
+ The value of 
+λ
+ has been obtained from the distance over which Δ
+V
+m
+ was attenuated to 1/
+e
+ = 37% of the signal at its origin, thus assuming the exponential decay in an infinite cable (
+Table 1
+).
+10
+ According to 
+Eq. 8
+, an 
+R
+m
+ of 10.6 GΩ is predicted for 
+N
+cells
+ = 2000 (
+Table 1
+). An 
+R
+m
+ of 9 GΩ is predicted if we assume a smaller number of cells (
+N
+cells
+ = 1700) to account for possible overestimation of the number of ECs in the isolated tubes or a scenario in which some ECs lack strong gap junction coupling and do not participate in current dissipation. This predicted value of 
+R
+m
+ is four-fold higher than previous estimates based upon cultured human umbilical vein ECs.
+26
+
+
+Table 1.
+
+
+Endothelial tube parameters estimated under different experimental and theoretical schema (best fit ± 95% confidence interval).
+
+
+
+
+
+
+Data source
+
+
+Fitting
+
+
+
+
+λ
+ (mm)
+
+
+
+
+r
+a
+ (MΩ/mm)
+
+
+
+
+r
+m
+ (MΩ·mm)
+
+
+
+
+R
+m
+ (GΩ)
+
+
+
+
+R
+gj
+ (MΩ)
+
+
+
+
+
+
+
+
+Control experiment
+
+
+1-dim. inf. cable
+[1]
+x
+−
+x
+stim
+≥50μm
+
+
+1.38±0.08
+
+
+
+
+
+
+10.6
+
+
+
+
+
+
+
+
+1-dim. short cable
+[2]
+x
+−
+x
+stim
+≥50μm
+
+
+1.16±0.12
+*
+
+
+
+
+10.7±1.9
+
+
+14.5±1.0
+†
+
+
+
+
+11.6±0.8
+‡
+
+
+
+
+5.2±0.9
+§
+
+
+
+
+
+
+
+
+1-dim. short cable
+[2]
+x
+−
+x
+stim
+≥500μm
+
+
+1.14±0.33
+
+
+11.3±7.6
+
+
+14.6±2.5
+
+
+11.7±2.0
+
+
+5.5±3.7
+
+
+
+
+
+
+2-dim. short cable
+x
+−
+x
+stim
+≥50μm
+
+
+
+
+
+
+
+
+11.2±1.1
+
+
+4.5±0.9
+
+
+
+
+
+
+Discrete model
+[3]
+
+
+
+
+
+
+
+
+
+
+11.9
+
+
+4.5
+
+
+
+
+
+
+Discrete model (
+R
+m
+ = 11.9 GΩ, 
+R
+gj
+ = 4.5 MΩ)
+
+
+1-dim. short cable
+[4]
+x
+−
+x
+stim
+≥50μm
+
+
+1.17
+
+
+10.6
+
+
+14.5
+
+
+11.6
+
+
+5.2
+
+
+
+
+
+
+1-dim. short cable
+[4]
+x
+−
+x
+stim
+≥500μm
+
+
+1.23
+
+
+9.5
+
+
+14.2
+
+
+11.4
+
+
+4.6
+
+
+
+
+
+
+2-dim. short cable
+x
+−
+x
+stim
+≥50μm
+
+
+
+
+
+
+
+
+11.3
+
+
+4.4
+
+
+
+
+
+
+NS309 experiment
+
+
+1-dim. inf. cable
+x
+−
+x
+stim
+≥50μm
+
+
+0.85±0.06
+
+
+
+
+
+
+4.0
+[5]
+
+
+
+
+
+
+
+
+
+
+1-dim. short cable
+x
+−
+x
+stim
+≥50μm
+
+
+0.78±0.05
+*
+
+
+
+
+8.8±1
+
+
+5.3±0.3
+†
+
+
+
+
+4.2±0.2
+‡
+
+
+
+
+4.3±0.5
+§
+
+
+
+
+
+
+
+
+1-dim. short cable
+x
+−
+x
+stim
+≥500μm
+
+
+0.78±0.12
+
+
+8.6±3.5
+
+
+5.3±0.8
+
+
+4.2±0.6
+
+
+4.2±1.7
+
+
+
+
+
+
+2-dim. short cable
+x
+−
+x
+stim
+≥50μm
+
+
+
+
+
+
+
+
+4.0±0.3
+
+
+3.5±0.6
+
+
+
+
+
+
+ACh experiment
+
+
+1-dim. inf. cable
+x
+−
+x
+stim
+=500μm
+
+
+0.61 (55% drop)
+
+
+
+
+
+
+2.1
+[6]
+ (80% drop)
+
+
+
+
+
+
+
+
+
+
+Open in a new tab
+
+
+
+
+
+
+[1]
+– 
+Eqs. 6
+ and 
+8
+.
+
+
+
+
+
+
+[2]
+– 
+Eqs. 10
+, 
+12
+–
+14
+.
+
+
+
+
+
+
+[3]
+– 
+R
+m
+ and 
+R
+gj
+ in discrete model (
+Fig. 1
+).
+
+
+
+
+
+
+[4]
+– 
+Eqs. 10
+, 
+12
+–
+14
+ fitting discrete model.
+
+
+
+
+
+
+[5]
+– 
+R
+m
+′ = (
+λ
+ ′/
+λ
+)
+2
+ × 
+R
+m
+ = (0.85mm/1.38mm)
+2
+ × 10.6 GΩ
+
+
+
+
+
+
+[6]
+– 
+R
+m
+′ = (
+λ
+ ′/
+λ
+)
+2
+ × 
+R
+m
+ = (0.61mm/1.38mm)
+2
+ × 10.6 GΩ
+
+
+
+
+
+
+*
+– significantly different (
+P
+ < 0.003)
+
+
+
+
+
+
+†, ‡
+– significantly different (
+P
+ < 10
+−6
+)
+
+
+
+
+
+
+§
+– significantly different (
+P
+ < 0.038)
+
+
+
+
+In 
+Figure 2a
+ we fit representative Δ
+V
+m
+ data before (
+red stars
+) and following (
+red circles
+) NS309-induced opening of SK
+Ca
+/IK
+Ca
+ channels using the short cable equation (
+Eq. 10
+; 
+dashed green lines
+). Results are summarized in 
+Table 1
+. The short cable equation yields 
+λ
+ = 1.16±0.12 mm, 
+r
+a
+ = 10.7±1.9 MΩ/mm, and 
+r
+m
+ = 14.5±5.5 MΩ·mm for the control data. To convert the 
+r
+m
+ and 
+r
+a
+ (resistivities) to 
+R
+m
+ and 
+R
+gj
+ (resistances), we assume the number, arrangement and coupling of ECs are the same as indicated in the discrete model (
+Fig. 1
+). According to 
+Eqs. 12
+–
+14
+, 
+R
+m
+ = 11.6±0.8 GΩ and 
+R
+gj
+ = 5.2±0.9 MΩ.
+
+
+Figure 2.
+
+
+
+
+Open in a new tab
+
+
+(a)
+ Fittings of the cable and discrete models to experimental data. Data were taken from experiments 
+10
+ under control conditions (
+red stars
+) and following NS309 induced opening of SK
+Ca
+/IK
+Ca
+ (
+red circles
+), corresponding to 
+I
+stim
+ = −1 nA of current injection. Fitting short cable equation (
+Eq. 10
+) to the control and NS309 data yields 
+λ
+ = 1.16±0.12 mm and 0.78±0.05 mm, respectively (
+dashed green lines
+). Fitting of the discrete endothelial tube model gives a family of Δ
+V
+m
+ profiles (
+blue dotted lines
+). The most negative profile corresponds to the ECs located at the circumferential position that incorporates the stimulus point. Only this profile from the discrete model was used to fit the data. The remaining profiles predict 
+V
+m
+ responses at different positions in the circumferential direction; all merge to the same profile within ~400 μm distance from the stimulus. 
+(b)
+
+
+V
+m
+ profiles in axial and circumferential directions predicted in the discrete model fitting the control data in (a). Under resting conditions, all 1988 cells have 
+V
+m
+ = −20 mV (
+green dots
+). Each dot represents 
+V
+m
+ in individual EC. Injection of 
+I
+stim
+ = −1 nA into a single EC (at site indicated by arrow) creates strong 
+V
+m
+ hyperpolarization and gradients in both circumferential (
+y
+) and axial (
+x
+) dimensions from the local site of intracellular current injection. In these simulations, values for EC membrane resistance and coupling resistance were 
+R
+m
+ = 11.9 GΩ and 
+R
+gj
+ = 4.5 MΩ. At distances 
+x
+ − 
+x
+stim
+> 400 μm, 
+V
+m
+ profile is effectively isopotential in the circumferential direction, and the stimulus current spreads only in the axial direction.
+The short cable fitting was repeated using data points at distances greater than or equal to 500 μm away from the injection site (i.e., the first data point at 
+x
+−
+x
+stim
+ = 50 μm was excluded to avoid the effect of two-dimensional current spread at the site of current injection). Because of the reduced number of data points, the fitted parameters 
+λ
+ and 
+r
+a
+ had greater variance; however the resulting values were not significantly different than before exclusion of the 50 μm site (
+Table 1
+).
+
+
+The two-dimensional cable equation (
+Eq. 16
+) yields slightly lower (but not statistically different) estimates of 
+R
+m
+ = 11.2±1.1 GΩ and 
+R
+gj
+ = 4.5±0.9 MΩ, as compared to the results from the one-dimensional short cable equation (
+Table 1
+).
+Data analysis with discrete-cell model
+
+
+In 
+Figure 2a
+, control data were also fitted by the discrete model (
+blue dotted lines
+). Each dot represents Δ
+V
+m
+ from the initial resting level of 
+V
+m,rest
+ = −20.1 mV, following a −1 nA current injection. Similar results can be obtained with different values for resting EC 
+V
+m
+, which typically range from −20 mV to −40 mV. Δ
+V
+m
+ drops most rapidly close to the injection site where the current spreads with a gradient in two dimensions; i.e., circumferentially and axially (
+x
+−
+x
+stim
+ < 100 μm) (see also 
+Fig. 2b
+). For these simulations, values for the EC membrane and coupling resistances were optimized to fit the experimental control data (
+Fig. 2a
+, 
+stars
+). The resulting values were 11.9 GΩ for 
+R
+m
+ and 4.5 MΩ for 
+R
+gj
+. For these simulations, EC 
+R
+m
+ was adjusted by scaling all currents and volumes in the EC model with a common factor, so that the relative magnitudes of the currents and intracellular Ca
+2+
+ concentration ([Ca
+2+
+]
+i
+) responses remained the same as in the original EC model.
+17
+
+
+In 
+Figure 2b
+ we depict the 
+V
+m
+ values in all 1988 cells of the multicellular discrete model as a function of circumferential and axial distance from the site of current injection, from which the Δ
+V
+m
+ profiles in 
+Figure 2a
+ were obtained. The predicted 
+V
+m
+ profile shows steep 
+V
+m
+ gradients in axial dimension close to the injection site, where the injected current also dissipates in the circumferential direction. The 
+V
+m
+ gradient becomes isopotential circumferentially within a few cell lengths (i.e., within 100 μm) and after that point signal attenuation in the axial direction is only due to current loss through the EC membrane. The two-dimensional 
+V
+m
+ profile close to the injected cell deviates from the circumferentially isopotential behavior
+20
+ described by one-dimensional cable equations (both infinite and short cable equations) and explains the local dispersion shown in 
+Figure 2a
+ near the site of current injection.
+Evaluation of cable equations for parameter estimation
+
+
+To evaluate the performance of the various fitting scenarios in the extraction of EC 
+R
+m
+ and EC-EC 
+R
+gj
+, we used the discrete model with defined 
+R
+m
+ (= 11.9 GΩ) and 
+R
+gj
+ (= 4.5 MΩ) to simulate conduction data without the confounding effects of experimental errors. Predicted Δ
+V
+m
+ values were taken at distances away from the injection site similar to how the experiments were actually performed (i.e., 
+x
+−
+x
+stim
+ = 50, 500, 1000, 1500, 2000 μm). We then evaluated the accuracy of the one- and two-dimensional short cable equations in extracting the 
+R
+m
+ and 
+R
+gj
+ values from these computational data. The one-dimensional short cable equation (
+Eq. 10
+) applied for distant points (i.e., 
+x
+−
+x
+stim
+ ≥ 500 μm, where 
+V
+m
+ is circumferentially isopotential) and the two-dimensional cable equation applied for all points (i.e., 
+x
+−
+x
+stim
+ ≥ 50 μm) yielded estimates of 
+R
+m
+ and 
+R
+gj
+ with 5% and 2% error, as compared with values used in the discrete model (
+Table 1
+). When the one-dimensional short cable equation fitted all points (including the point closest to injection site where 
+V
+m
+ is not circumferentially isopotential), 
+R
+gj
+ was overestimated by 15% compared to the actual value, i.e., 5.2 MΩ vs. 4.5 MΩ (
+Table 1
+).
+
+
+To investigate the overestimation of 
+R
+gj
+ and its dependence on the diameter of an endothelial tube, additional simulations were performed with the discrete model. As tube diameter increases, more current can spread in the circumferential direction. 
+Figure 3
+ shows the estimation errors of 
+R
+gj
+ (a) and 
+R
+m
+ (b) as a function of endothelial tube diameter (
+D
+) using different fitting approaches. 
+Figure 3a
+ shows that fitting axial Δ
+V
+m
+ data that include the 50 μm point (i.e., 
+x
+−
+x
+stim
+ ≥ 50 μm) with the one-dimensional equation (
+Eq. 10
+) overestimates significantly 
+R
+gj
+ for vessels with diameter 
+D
+ > 50 μm (
+diamond symbols
+). This is because the two-dimensional current spread around the injection site in larger tubes increases the apparent signal attenuation in the axial direction and overestimates axial resistivity. At the same time, the error for 
+R
+m
+ remains relatively small for all fitting scenarios and diameters (
+Fig. 2b
+). This is because membrane resistivity depends mostly on input resistance and the total number of cells (compare 
+Eq. 5
+) and is less sensitive to the curvature of the fitted profile or the arrangement of ECs in the circumferential/longitudinal direction.
+
+
+Figure 3.
+
+
+
+
+Open in a new tab
+
+
+(a–b)
+ Estimations of the error for coupling resistance (a) and membrane resistance (b) as a function of endothelial tube circumference for different fitting schema. The discrete model with known 
+R
+m
+ (= 11.9 GΩ) and 
+R
+gj
+ (= 4.5 MΩ) (
+Fig. 1a
+) and control diameter 
+D
+control
+ = 38 μm was expanded in the circumferential direction to simulate hypothetical endothelial tubes with increasing diameters (
+D
+). Model predictions of Δ
+V
+m
+ in response to current injection at 
+x
+stim
+ were used to simulate 
+V
+m
+ measurements along an endothelial tube. The simulated Δ
+V
+m
+ were fitted with one- and two-dimensional cable equations (
+Eqs. 10
+ and 
+16
+) to estimate 
+R
+gj,fit
+ (a) and 
+R
+m,fit
+ (b). The fittings were performed with Δ
+V
+m
+ at 
+x
+−
+x
+stim
+= 50, 500, 1000, 1500, and 2000 μm (in the axial direction) (
+diamond and square symbols
+), and Δ
+V
+m
+ only at 
+x
+−
+x
+stim
+≥ 500 μm (
+triangles and crosses
+). Fitting the two-dimensional equation recovers correctly 
+R
+gj
+ and 
+R
+m
+ (
+R
+gj,fit
+/
+R
+gj
+ λ 1 and 
+R
+m,fit
+/
+R
+m
+ λ 1) for all diameters and data points (a, b 
+squares and crosses
+). On the other hand, the one-dimensional equation overestimates 
+R
+gj
+ (
+R
+gj,fit
+/R
+gj
+≫ 1) when applied to data with the 50 μm point from vessels > 50 μm in diameter (a, 
+diamond symbols
+).
+Effect of nonuniform EC-EC coupling
+
+
+In the control endothelial tube model, each EC connects to each of its four neighboring ECs with the same gap junctional resistance. 
+In vivo
+, the number of connections and the gap junction density may vary between individual cells or their effective number may be modulated by physiological stimuli (e.g., by phosphorylation or nitrosylation). We tested a hypothetical scenario of nonuniform EC-EC coupling, where the probability of gap junction occurrence (or functional coupling) between two neighboring ECs is reduced below 100% (
+Fig. 4a, b
+). 
+Figure 4a
+ shows the consequence of reducing the number of functional couplings between neighboring ECs by 25% (i.e., an EC is coupled, on average, to three of its four neighbors). Each EC-EC coupling has 
+R
+gj
+ (= 4.5 MΩ) as in the control model. Using the same hyperpolarizing current 
+I
+stim
+ = −1 nA injected to a single EC located at 
+x
+stim
+ = 0.1 mm, the reduced gap junctional coupling (
+crossed ovals
+) not only decreases the intercellular electrical coupling, it also increases the input resistance (
+R
+in
+ = Δ
+V
+m,x0
+/
+I
+stim
+) from the control 13.1 MΩ to 19.4 MΩ (
+Table 2
+). This effect results in greater 
+V
+m
+ change (hyperpolarization) at the site of stimulation (relative to control; green dotted line) with steeper decay of the signal along the endothelial tube’s length. 
+Figure 4b
+ shows that a two-fold reduction in 
+R
+gj
+ is required in order to compensate for the 25% smaller probability of EC-EC contacts. Because of the random determination of EC-EC couplings, a small number of ECs happens to be electrically isolated (as indicated by the broken lines connecting the profiles to the resting Δ
+V
+m
+ at 0 mV). While this is unlikely to occur in normal endothelial tubes, it may happen in disease states, e.g., sepsis.
+12
+
+
+Figure 4.
+
+
+
+
+Open in a new tab
+
+
+Impact of reduced gap junctional coupling on electrical conduction along resistance artery endothelium. (a) Representative simulation where the probability of gap junction connection between the two neighbor ECs is reduced from 100% (the control model) to 75%. (b) The resistance of individual EC-EC connections is reduced by half from the control 
+R
+gj
+ of 4.5 MΩ in (a). In both panels the same hyperpolarizing current 
+I
+stim
+ = −1 nA was injected into a single EC at 
+x
+stim
+ = 100 μm. The one-dimensional short cable (
+Eq. 10
+) fit of the control profile from 
+Figure 2a
+ is also shown for reference to control conditions (
+dashed green line
+).
+Table 2.
+
+
+Effect of reducing gap junctional coupling on cable parameters of endothelial tubes.
+
+
+
+
+
+
+
+
+Discrete model
+
+
+Fitted cable parameters (mean ± SD, 
+n
+ = 3)
+
+
+
+
+
+
+Probability of GJ coupling
+
+
+
+
+R
+gj
+ (MΩ)
+
+
+
+
+λ
+ (mm)
+
+
+
+
+r
+m
+ (MΩ·mm)
+
+
+
+
+r
+a
+ (MΩ/mm)
+
+
+
+
+R
+m
+ (GΩ)
+
+
+
+
+R
+gj
+ (MΩ)
+
+
+
+
+R
+in
+ (MΩ)
+
+
+
+
+
+
+
+
+
+
+1.0 (control)
+
+
+4.5 (control)
+
+
+1.23
+
+
+14.2
+
+
+9.5
+
+
+11.4
+
+
+4.6
+
+
+13.1
+
+
+
+
+
+
+0.90
+
+
+4.5
+
+
+1.09 ± 0.01
+
+
+14.4 ± 0.04
+
+
+12.1 ± 0.3
+
+
+11.5 ± 0.03
+
+
+5.9 ± 0.2
+
+
+14.7 ± 0.3
+
+
+
+
+
+
+0.75
+
+
+4.5
+
+
+0.85 ± 0.01
+
+
+14.7 ± 0.4
+
+
+20.2 ± 0.9
+
+
+11.8 ± 0.4
+
+
+9.9 ± 0.4
+
+
+19.4 ± 0.6
+
+
+
+
+
+
+0.75
+
+
+4.5/2
+
+
+1.2 ± 0.05
+
+
+14.5 ± 0.3
+
+
+10.1 ± 1
+
+
+11.6 ± 0.2
+
+
+4.9 ± 0.5
+
+
+13.1 ± 0.2
+
+
+
+
+
+
+
+
+Open in a new tab
+The effect of reducing the probability of EC-EC coupling on the cable properties is presented in 
+Table 2
+. Reducing the probability to 90% and 75% shortened 
+λ
+ by 11% and 31%, respectively, with respect to the control model. The apparent axial resistivity (
+r
+a
+) increased by 27% and 112%, respectively, while the effect on the apparent membrane resistivity (
+r
+m
+) was only 1% and 3%, respectively. [The apparent 
+R
+m
+ of an EC and the EC-EC 
+R
+gj
+ determined from 
+Eqs. 13
+ and 
+14
+ change proportionally to 
+r
+m
+ and 
+r
+a
+, respectively]. The reduction of EC-EC contacts by 25% effectively doubles the apparent 
+r
+a
+. To fully compensate the loss of 25% of connections and reproduce the experimentally observed r
+a
+, EC-EC 
+R
+gj
+ has to be approximately half of our estimated value (
+Table 2
+). Reducing the number of EC-EC contacts to 50% created small isolated clusters of ECs and inhibited electrical conduction (not shown). If the total gap junction number is preserved but distributed to only 75% of EC-EC contacts, 
+r
+a
+ increases by 50% (compare to 112% when 25% of EC-EC contacts were deleted) and 
+λ
+ drops by 20% (compare to 31%), while if the 75% of the control gap junctions are distributed uniformly to all EC-EC contacts 
+r
+a
+ increase by 33% and 
+λ
+ drops by 13%.
+Effect of ion channel activation in endothelial tubes
+
+
+In our functional experiments
+10
+, opening SK
+Ca
+/IK
+Ca
+ channels directly with NS309 (1 μM) reduced the 
+V
+m
+ response recorded at 500 μm (i.e., at a distance corresponding to ~14 ECs placed end-to-end) from the site of current injection by ~40% as compared to control conditions (
+Fig. 2a
+, 
+red circles
+ vs. 
+red stars
+). Fitting the NS309 data with the short cable equation at 
+x
+−
+x
+stim
+ > 50 μm (
+Eq. 10
+) predicts a ~30% reduction in the 
+λ
+ from 1.16±0.12 to 0.78±0.05 mm (or from 1.38±0.08 mm to 0.85±0.06 mm if exponential fit is used), and a ~60% drop in 
+R
+m
+ from 11.6±0.8 GΩ under control conditions to 4.2±0.2 GΩ (
+Table 1
+). A ~17% drop in 
+R
+gj
+ from 5.2±0.9 MΩ to 4.3±0.5 MΩ (
+P
+ < 0.038) is also predicted (
+Table 1
+), although NS309 has not been reported previously to activate gap junctions. The change in 
+R
+gj
+ is likely to be an artefact arising from fitting the one-dimensional cable equation too close to the stimulation (
+Figure 3a
+). No significant change in 
+R
+gj
+ is predicted with the one- and two-dimensional cable equations when fitted at 
+x
+−
+x
+stim
+ >500 μm and >50 μm, respectively (
+Table 1
+).
+
+
+In complementary experiments, stimulation with a maximal concentration of ACh (3 μM) that evoked hyperpolarization via indirect opening of SK
+Ca
+/IK
+Ca
+ channels reduced 
+V
+m
+ response at the 500 μm distance by ~70%.
+10
+ Fitting 
+Equation 11
+ yields a 
+λ
+ of 0.61 mm under global stimulation of all ECs with ACh, i.e., 55% drop compared to the control value of 
+λ
+ (=1.38 mm). The fitting used the control value of 
+r
+a
+ since 
+V
+m
+ response was measured only at one remote site. This decrement in 
+λ
+ corresponds to 80% reduction in 
+R
+m
+ from 10.6 GΩ to ~2.1 GΩ during maximal SK
+Ca
+/IK
+Ca
+ channel activation with ACh (
+Eq. 12
+–
+13
+) (
+Table 1
+).
+Effect of ion channel activation in EC model
+
+
+We tested whether the single EC model
+17
+ could predict responses in line to the experimentally observed effect of opening ion channels in the plasma membrane. 
+Figure 5
+ shows predicted changes in 
+V
+m
+ and 
+R
+m
+ in response to stimulation with NS309 and ACh. Stimulation with NS309 was simulated by directly setting the whole-cell conductances of SK
+Ca
+ and IK
+Ca
+ to their maximum values in the model equations [i.e., 
+G
+SKCa
+([Ca
+2+
+]
+i
+) = 
+G
+SKCa,max
+ (= 0.09 nS) and 
+G
+IKCa
+([Ca
+2+
+]
+i
+) = 
+G
+IKCa,max
+ (= 0.25 nS)] (
+NS309
+). Stimulation with a maximal concentration of ACh (3 μM) was simulated by 2 a.u. of ACh, which corresponds in the EC model to near maximal Ca
+2+
+-mediated opening of SK
+Ca
+, IK
+Ca
+, and Ca
+2+
+-activated chloride (CaCC) channels (
+Fig. 5a–d
+). To determine 
+R
+m
+ at a given time point, current pulses were applied periodically (2 s/pulse every 30 s) (
+Fig. 5a
+) and the resulting change in 
+V
+m
+ was normalized by the injected current to give 
+R
+m
+ as the ratio of Δ
+V
+m
+/
+I
+stim
+ (
+Fig. 5b
+). 
+Figure 5a
+ shows 
+ΔV
+m
+ excursions in response to a current of ±0.4 pA (similar values of 
+R
+m
+ were obtained when stronger stimulations were applied). As expected, the model predicts a drop in 
+R
+m
+ following channel opening. (Note in 
+Figure 5a
+ the diminished amplitude of 
+ΔV
+m
+ excursions in response to constant-amplitude 
+I
+stim
+ during hyperpolarization after channel opening.) NS309 and ACh (2 a.u.) reduced 
+R
+m
+ by ~80% (from 
+R
+m
+ = 11.5 GΩ to 
+R
+m
+ = 2.4 GΩ) (
+Fig. 5b
+), which would correspond to a theoretical drop in 
+λ
+ by 55% (from 1.38 mm to 0.62 mm) (
+Eqs. 12
+ and 
+13
+).
+
+
+Figure 5.
+
+
+
+
+Open in a new tab
+
+
+Impact of SK
+Ca
+/IK
+Ca
+ activation on endothelial membrane potential and membrane resistance predicted by the isolated EC model.
+17
+ (a) Predicted 
+V
+m
+ during direct maximum (100%) opening of SK
+Ca
+/IK
+Ca
+ (NS309) followed by application of ACh (2 a.u.). To determine 
+R
+m
+ at individual time points, current pulses were applied periodically (±0.4 pA for 2 s every 30 s), whereby the ratio of the resulting Δ
+V
+m
+ to the injected current corresponded to 
+R
+m
+. (b) Predicted changes in 
+R
+m
+ (defined as Δ
+V
+m
+/
+I
+stim
+) show ~80% drop during direct SK
+Ca
+/IK
+Ca
+ opening with NS309 and during indirect SK
+Ca
+/IK
+Ca
+ opening with ACh (from 
+R
+m
+ = 11.5 GΩ to 
+R
+m
+ = 2.4 GΩ). [Ca
+2+
+] transient and corresponding changes in channel conductance (
+G
+) during the stimulations are shown in (c) and (d).
+Computational modeling shows that stimulation with NS309 and ACh (2 a.u.) can reduce EC 
+R
+m
+ to the maximal levels observed in the experiments (
+Fig. 5b
+ vs. 
+Table 1
+, ACh (3 μM)). In contrast to the direct opening of SK
+Ca
+/IK
+Ca
+ channels using NS309, the 
+R
+m
+ response to ACh stimulus is mediated indirectly by a [Ca
+2+
+]
+i
+ transient (
+Fig. 5c
+). Unlike SK
+Ca
+ and CaCC channels which remain fully open under these conditions (due to their higher affinity for Ca
+2+
+ [i.e., 
+K
+SKCa
+ = 237 nM
+27
+ and 
+K
+CaCC
+ = 287 nM
+28
+], IK
+Ca
+ channels progressively close as the [Ca
+2+
+]
+i
+ decreases (
+Fig. 5c,d
+) due to their lower affinity for Ca
+2+
+ (
+K
+IKCa
+ = 740 nM
+29
+). Consequently, 
+R
+m
+ increases following the Ca
+2+
+ transient decay during stimulation with ACh (
+Fig. 5b
+). 
+Figure 5d
+ illustrates the whole-cell conductances of designated plasma membrane channels. [The conductances were calculated as the ratio of Δ
+I
+S
+/Δ
+V
+m
+, where Δ
+I
+S
+ is the change in the whole-cell current through channels 
+S
+]. CaCCs and SOCs do not significantly affect the total 
+R
+m
+ because of their relatively low whole-cell conductance compared to the conductance of IK
+Ca
+ and SK
+Ca
+ channels in the model.
+Transmembrane current required for EC hyperpolarization
+
+
+The high EC membrane resistivity (
+R
+m
+ = 12 GΩ) suggests that a relatively small transmembrane current can significantly alter 
+V
+m
+ in an isolated EC. Assuming single channel conductance (
+g
+KCa
+) of 6.8pS and open probability (
+P
+o
+) of 0.8 for SK
+Ca
+ and 17.1pS and 0.7 for IK
+Ca
+,
+30
+,
+31
+ and a maximum electrochemical gradient (
+V
+m,rest
+ − 
+E
+K
+) of ~60 mV, an estimate for the effect of single K
+Ca
+ channel on 
+V
+m
+ can be attained based on the equation: 
+
+
+
+
+
+∣
+Δ
+V
+m
+∣
+=
+P
+o
+g
+KCa
+(
+V
+m
+,
+rest
+-
+E
+K
+)
+R
+m
+
+
+(22)
+
+
+
+
+ where 
+E
+K
+ is the Nernst potential for K
++
+.
+
+
+Eq. 22
+ predicts up to 4 or 8 mV of hyperpolarization per single SK
+Ca
+ or IK
+Ca
+ channel activation, respectively. The effect of subsequent K
+Ca
+ channel activation will be reduced as result of a decrease in the electrochemical gradient and in R
+m
+. The effect of N
+KCa
+ channels can be approximated by
+
+
+
+
+∣
+Δ
+V
+m
+∣
+=
+N
+KCa
+P
+o
+g
+KCa
+1
+R
+m
++
+N
+KCa
+P
+o
+g
+KCa
+(
+V
+m
+,
+rest
+-
+E
+K
+)
+
+
+(23)
+
+
+
+
+[Note: 
+Eq. 23
+ is derived from ΔV
+m
+ = (
+V
+m
+ − 
+V
+m,rest
+) = −
+I
+NKCa
+ R
+m
+ = −
+N
+KCa
+P
+o
+g
+KCa
+ (
+V
+m
+ − 
+E
+K
+)
+R
+m
+ ↔ (1 + 
+N
+KCa
+P
+o
+g
+KCa
+) (
+V
+m
+ − 
+V
+m,rest
+) = −
+N
+KCa
+P
+o
+g
+KCa
+ (
+V
+m,rest
+ − 
+E
+K
+)
+R
+m
+]
+
+
+For 5 activated SK
+Ca
+ or 5 IK
+Ca
+ channels, 
+Eq. 23
+ predicts approximately 15 and 30 mV of hyperpolarization, respectively.
+Transmembrane current required for conducted hyperpolarization
+
+
+The high sensitivity of 
+V
+m
+ to K
+Ca
+ channel opening in the isolated EC is not observed during local stimulation of the endothelial layer. This is a result of current loss through gap junctions to neighboring unstimulated ECs and is reflected by the input resistance in the isolated finite endothelial layer of the experiments, 
+R
+in
+= 13 MΩ, which is significantly less than 
+R
+m
+ (12 GΩ). 
+R
+in
+ suggests that nanoAmperes of transmembrane current is required to evoke mVolts of hyperpolarization at the local site. Such hyperpolarizing currents could be attained through stimulation of several ECs.
+
+
+In 
+Figure 6
+ we used the discrete endothelial tube model to examine how many ECs should be stimulated at the local site to invoke local and distal hyperpolarizations similar to those observed in the experiments in response to current injection at one end. The 
+V
+m
+ in one row of overlapping ECs (
+Fig. 1
+) is depicted as 
+circles
+ prior and as 
+stars
+ following stimulation with Ach. We stimulate a number of ECs columns at one end of the tube with saturating [ACh] (3 a.u.) for 1 minute and the corresponding 
+V
+m
+ profiles (
+stars
+) are obtained. Identical profiles are assumed along the tube circumference due to symmetry. In experiments, 13 mV of local hyperpolarization was obtained with −1 nA current injection (
+Fig. 2
+). Model predicts that in order to produce a similar level of hyperpolarization approximately 56 ECs (2.8% of total ECs) need to be exposed to saturating [ACh]. Furthermore, millivolt-level hyperpolarization is achieved at 2.5mm away from the local site with stimulation of 14 ECs (i.e. one EC column).
+
+
+Figure 6.
+
+
+
+
+Open in a new tab
+
+
+Initiation and conduction of hyperpolarization reflects how many endothelial cells are stimulated. In the discrete multicellular model, profiles of spreading hyperpolarization (
+V
+m
+) in the axial direction (
+x
+) are shown for different number of ECs stimulated (
+N
+EC,stim
+) with ACh. The total number of ECs 
+N
+EC,tot
+ = 1988. In each profile (
+stars
+), ECs at the site of stimulation were exposed to saturating [ACh] (3 a.u.). The resting 
+V
+m
+ profile is shown for reference (
+circles
+). Approximately 56 ECs require stimulation to evoke a conducted response (
+green crosses
+) similar to injecting 
+I
+stim
+ = −1 nA (compare with 
+Fig. 2a
+) and millivolt-level hyperpolarization is achieved at 2.5mm away from the local site with stimulation of 14 ECs (i.e. one column). The magnitude of hyperpolarization is a saturating function (Michaelis-Menten type) of 
+N
+EC,stim
+ (
+Eq. 24
+).
+In vivo
+, the EC layer is significantly larger than the isolated segments of the experiments, is connected to SMCs through myoendothelial gap junctions and current can spread bidirectionally. Thus, the required number of ECs that need to be exposed to Ach locally, in order to generate a physiologically relevant electrical conduction would be higher. The magnitude of local hyperpolarization (Δ
+V
+m,x0
+) and the total hyperpolarizing current (
+I
+stim,total
+) depend on the number of stimulated ECs at the local site (
+N
+EC,stim
+) according to the following equation.
+
+
+
+
+∣
+Δ
+V
+m
+,
+x
+0
+∣
+≈
+(
+V
+m
+,
+rest
+-
+E
+K
+)
+N
+E
+C
+,
+stim
+G
+KCa
+R
+i
+n
+1
++
+N
+E
+C
+,
+stim
+G
+KCa
+R
+i
+n
+,
+
+
+(24)
+
+
+
+
+[Note: 
+Eq. 24
+ is derived from Delta;V
+m,x
+0
+ = (
+V
+m,x
+0
+ − 
+V
+m,rest
+) = −
+I
+stim,total
+R
+in
+ = − 
+N
+EC,stim
+G
+KCa
+(
+V
+m,x
+0
+ − 
+E
+K
+)
+R
+in
+ ↔ (1 + 
+N
+EC,stim
+G
+KCa
+)(
+V
+m,x
+0
+ − 
+V
+m,rest
+) = − 
+N
+EC,stim
+G
+KCa
+(
+V
+m,rest
+ − 
+E
+K
+)
+R
+in
+]
+
+
+For an EC layer of infinite length, 
+R
+in
+ (
+R
+in
+ = 
+r
+m
+/2
+λ
+ = 6 MΩ) will be reduced relatively to the isolated EC tube. Furthermore, the total membrane resistivity of the coupled EC-SMC system (
+r
+m,EC-SMC
+) may be reduced relatively to the isolated endothelium as current may leak through both cell membranes (see 
+Eq. 20
+). 
+Equations 6
+ and 
+24
+ predict that for 
+λ
+ = 1.2 mm and 
+R
+in
+ = 6 MΩ, opening of approximately 4700 SK
+Ca
+ (or 2100 IK
+Ca
+ channels) is required to generate 1 mV of hyperpolarization at a distal site, 2.5 mm away. This corresponds to K
+Ca
+ channels in 32–74 ECs (for maximum whole-cell K
+Ca
+ conductance (G
+KCa,max
+ = 0.35-0.8 nS)) significantly more than the requirement in the unidirectional spread in finite length of the experiments (
+Fig. 6
+).
+Conduction in intact vessels vs. in isolated endothelium
+
+
+The above predictions for conduction through the EC layer may underestimate the hyperpolarizing current requirement for conduction 
+in vivo
+ by not considering current spread to the smooth muscle layer. The effect will depend on the level of myoendothelial coupling and the resistivity of the smooth muscle membrane. Assuming similar current leakiness through the EC and SMC membranes (i.e., 
+r
+m,SMC
+ + 
+r
+ME
+ = 
+r
+m,EC
+) 
+equations 20
+ and 
+21
+ predict that 
+λ
+EC-SMC
+ is reduced to 70% of 
+λ
+EC
+ and 
+r
+m,EC-SMC
+ to half the 
+r
+m,EC
+. Then 
+R
+in,EC-SMC
+ = 
+r
+m,EC-SMC
+/(2
+λ
+EC-SMC
+) will be approximately 4.3MΩ or 28% less than that in the endothelial layer (and almost 1/3 of the R
+in
+ in the 2.5 mm isolated EC tube). The reduction in 
+λ
+ and in 
+R
+in,EC-SMC
+ combined, increases the local stimulatory requirement (to achieve 1 mV of hyperpolarization at 2.5 mm away) by three-fold (15000 SKCa or 7000 IK
+Ca
+) corresponding to the recruitment of 100–230 ECs (
+G
+KCa,max
+ = 0.35-0.8 nS).
+Discussion
+
+
+Recent experimental advances have provided the first data defining electrical conduction along the endothelium without the influence of the smooth muscle layer or the confounding effect of cell culture on EC morphology and phenotype.
+10
+ In this theoretical study, we have analyzed experimental data to determine the electrical properties of native intact microvascular endothelium (
+Table 1
+). One- and two-dimensional cable equations (
+Eqs. 10
+, 
+11
+ and 
+16
+) were fitted to the experimental data points enabling rigorous estimates of 
+λ
+, 
+r
+a
+, 
+r
+m
+, 
+R
+m
+, 
+R
+gj
+ (
+Table 1
+). We show that the estimated values differ depending on the equation used to fit the data and the selection of measurement points used to define the behavior of electrical signals over designated distances. Measurements near the site of stimulation (e.g., using intracellular current injection) should be analyzed with caution to account for the two dimensionality of current spread away from the stimulus site, particularly as vessel diameter increases (
+Fig. 3a
+). Independent predictions illustrate that global opening of SK
+Ca
+/IK
+Ca
+ along the endothelium, either directly (e.g., with NS309) or indirectly through Ca
+2+
+ elevation secondary to stimulation with ACh, inhibited electrical conduction in the model of an endothelial tube.
+
+
+Endothelial R
+gj
+
+
+
+
+Our analyses of data from endothelial tubes
+10
+ (
+Fig. 2a
+) with a discrete multicellular model (
+Fig. 2b
+) suggests an average resistance of EC-EC coupling through gap junctions (
+R
+gj
+) to be 4.5 MΩ. This value of 
+R
+gj
+ is based on the model with four cell boundaries participating in gap junctional coupling per EC. 
+In vivo
+, the number of connections and their resistance may vary between individual cells and can be reduced in disease states, e.g., sepsis.
+12
+ In particular, if the probability of gap junction connectivity of an EC with each of its four neighbors is reduced to 75%, then the actual resistance of intercellular coupling must be ~half of the original estimate for maintaining electrical signal transmission (
+Fig. 4b
+). This situation is different from 75% of gap junction channels being open in each of the four EC-EC contacts. Thus, a 2.25 MΩ (= 4.5/2 MΩ) 
+R
+gj
+ is predicted assuming that 75% of cell-to-cell contacts have open gap junctions (
+Table 2
+). These estimated values of 
+R
+gj
+ (= 2.2 to 4.5 MΩ) agree with a 3.3 MΩ 
+R
+gj
+ measured in cultured monolayers of microvascular ECs derived from rat skeletal muscle.
+12
+
+
+Although 
+r
+a
+ is derived from the experimental 
+V
+m
+ profiles, our estimation of EC-to-EC coupling resistance depends on the assumed geometry of ECs and the spatial arrangement of individual gap junction channels around cell borders and with neighboring cells. The EC-EC coupling resistance, 
+R
+gj
+, accounts for the combined resistance for current to traverse both the gap junctions and the cytoplasm. The model does not account explicitly for the cytoplasmic resistance because ECs are simplified as zero-dimensional and isopotential. Given the geometry of ECs and a typical cytoplasmic resistivity of ~1.5 Ω·m, the bulk cytoplasmic resistance could be ~1 MΩ, i.e., 20–40% of 
+R
+gj
+. [Theoretical estimations in cardiac myocytes attributed 48% of the total resistivity to cytoplasmic resistance and the remaining 52% to gap junctional resistance.
+32
+] The significant contribution of the gap junction pore to EC-to-EC coupling suggests that axial resistivity will increase as EC length decreases and more membranes have to be traversed per unit vessel length.
+Endothelial R
+m
+
+
+
+
+Our calculated values for resting 
+R
+m
+ are significantly higher (
+P
+ < 0.01) in freshly isolated endothelial tubes (11.6 ± 0.8 GΩ in 1-dimensional cable fit, 
+Table 1
+) than previously reported in cultured human umbilical vein endothelial cells (HUVEC) (2.3 ± 1.3 GΩ, 
+N
+ = 26)
+26
+ or in nonconfluent macrovascular ECs (1–5 GΩ).
+33
+ This discrepancy can be attributed to differences in EC size and volume (single EC dimensions of ~35 μm × 8.6 μm × 0.5 μm and volume of ~0.1 pL in endothelial tubes approximated here). EC length can span up to 140 μm, depending on species and vessels.
+7
+,
+25
+,
+34
+–
+36
+ For example, ECs were 104±2.5μm and 55±1.7μm long 
+in situ
+ in arterioles of the hamster cheek pouch and feed arteries of its retractor skeletal muscle, respectively. 
+36
+ The volume of single ECs can range from 0.4 pL in arterioles
+7
+ to 3 pL in cultured HUVEC.
+37
+ Since the total number of ion channels is likely to be lower in ECs having smaller volume and membrane surface area, the difference in EC dimensions between those in the resistance microvasculature relative to cultured HUVECs may contribute to the 5-fold greater 
+R
+m
+ for ECs in microvascular endothelial tubes. In addition, culture can introduce alterations in cell morphology (e.g., “cobblestone” appearance), the ion channel expression profile [e.g. emergence of large-conductance K
+Ca
+ channels
+38
+] and thereby increase transmembrane ion fluxes while reducing 
+R
+m
+. Similarly, the K
+Ca
+ conductance predicted from our experimental data is smaller than previous reports.
+39
+Optimal fitting of conduction data and extraction of parameters
+
+
+The one-dimensional cable equations assume one-dimensional current transport, an assumption that fails when the current is injected through a single EC and it spreads in both axial and circumferential directions close to the injection site (
+Fig. 2b
+). Thus, we tested if incorporation of data close to the site of current injection can significantly skew our estimation of 
+λ, r
+a
+, 
+r
+m
+ and derived 
+R
+m
+ and 
+R
+gj
+. We found that the short cable equation overestimated 
+R
+gj
+ relative to a model that accounts for transport in both circumferential and axial dimensions (
+Fig. 3a
+). This estimation error will increase significantly in vessels with larger diameters because of more current spread in the circumferential direction. In our examples, incorporation of a data point at 50 μm away from the site of intracellular current injection introduces significant error for tubes having diameters > 50 μm (
+Fig. 3a
+). Thus conduction parameters can be described most accurately with the two-dimensional cable equation, independent of tube diameter or selection of the 50 μm point. However, the two-dimensional function (
+Eq. 16
+) predicts incorrectly an infinite 
+V
+m
+ response to a finite 
+I
+stim
+ at 
+x
+ = 
+x
+stim
+, i.e., 
+ΔV
+m
+(
+x
+=
+x
+stim
+,
+y
+ =0) → −∞ for 
+I
+stim
+ = −1 nA. Since actual 
+ΔV
+m
+ at 
+x
+ = 
+x
+stim
+ is finite (e.g., 
+ΔV
+m,x0
+ λ −13 mV for 
+I
+stim
+ = −1 nA), 
+ΔV
+m,x0
+ (if measured) should never be included for fitting with the two-dimensional equation. A more physiological 
+ΔV
+m
+ at the stimulation site can be predicted by replacing the point injection (represented by the δ function in 
+Eq. 9
+) with current injected over a finite area.
+21
+ In the case of endothelial tubes when current is injected into a single isopotential EC, the size of the stimulation site should correspond to the area of one EC surface, i.e., 
+L
+cell
+×
+d
+cell
+/2.
+
+
+Electrical conduction along arterioles and microvascular endothelium has typically been analyzed with one-dimensional short-cable (
+Eq. 10
+) or exponential (
+Eq. 11
+) equations.
+15
+,
+18
+,
+20
+,
+22
+ An exponential decay in passive electrical spread is expected in an infinite cable (
+Eq. 11
+). However, given the finite length and sealed ends of isolated vessel
+16
+ and endothelial tube segments
+10
+ and the respective 
+λ,
+ an infinite cable approximation may give inaccurate 
+λ, r
+a
+, or 
+r
+m
+. The short cable equation (
+Eq. 10
+) accounts for the finite tube length, yielding an estimate of 
+λ
+ that is reduced by ~15% compared to the estimate based upon an exponential fit (
+Eq. 11
+) for the data set from 
+Figure 2
+ (
+Table 1
+). For a given 
+r
+a
+, 
+r
+m
+, and 
+I
+stim
+, the 
+ΔV
+m
+ response at the end of a short vessel segment (
+x
+ = 2.5 mm) with sealed ends (short cable equation) is ~4-fold higher compared to the prediction assuming infinite length.
+
+
+Overall, our analyses suggest that the one- and two-dimensional cable equations can adequately model electrical conduction in endothelial tubes having diameters < 150 μm only at 
+x
+ − 
+x
+stim
+ ≥ 500 μm and 
+x
+ − 
+x
+stim
+ ≥ 50 μm, respectively. However, there may be a statistical advantage in incorporating all available values when analyzing experiments with a limited number of data points and comparing preparations from different experimental groups such as old vs. young.
+Conduction in intact vessels
+
+
+Approximating equations enable extrapolation of the parameters derived from EC tube data (
+λ
+, 
+R
+gj
+, 
+R
+m
+) to estimate the electrical properties of intact vessels and to thereby estimate the physiological relevance of the EC tube data. Our results agree with the general notion that axial transmission of vasodilation is mediate by electrical signaling conducted predominantly through the endothelial layer. Assuming physiological values for myoendothelial coupling and smooth muscle membrane resistivity shows, however, that in these microvessels the presence of the smooth muscle layer could significantly affect ascending vasodilation (i.e. 
+λ
+ reduced by 30%, local stimulatory requirement increases by three-fold for same Δ
+V
+m
+ at 2.5mm). The accuracy of these predictions can increase with tissue-specific measurements of myoendothelial coupling resistance and smooth muscle cell membrane resistivity, and by accounting for the dynamic regulation of membrane resistances and the ability of changes in one cell layer to modulate resistivity and charge loss in the other (i.e. opening of K
+Ca
+ channels in ECs to hyperpolarize and close voltage-operated Ca
+2+
+ channels in SMCs).
+
+
+The predicted 
+λ
+ for the intact vessel (~1 mm) is less than the values reported for intact vessels in other vascular beds (>1 mm).
+15
+,
+16
+ Possible explanations for such discrepancy include: (a) impaired conduction in experiments with isolated endothelial tubes; (b) the presence of a facilitation mechanism in intact vessels that has not been accounted for in the model, e.g., through inward rectifier K
+ir
+ channels; (c) overestimation of the current leak through SMCs; and (d) greater EC length in the intact vessel versus in the endothelial tube (as the predicted 
+λ
+ is proportional to the assumed EC length of 35 μm in isolated tubes).
+19
+Conduction inhibition in endothelial tubes by open K
+Ca
+
+
+
+
+The EC model predicts that SK
+Ca
+/IK
+Ca
+ channel opening reduces 
+R
+m
+ significantly (by up to 80% (
+Fig. 5b
+)). Remarkably, this change was accomplished assuming a total maximum K
+Ca
+ conductance of 0.35nS which is below what has been previously measured in ECs (0.8 nS
+39
+). The multicellular model relates changes in EC 
+R
+m
+ to changes in 
+λ
+ and predicts a decrease in 
+λ
+ following global stimulation with ACh or direct opening of SK
+Ca
+/IK
+Ca
+.
+
+
+The levels of inhibition predicted here corroborate experimental data that show reduction of 
+λ
+ following SK
+Ca
+/IK
+Ca
+ channel opening (reduced to 0.8 mm with NS309 and to 0.6 mm during global stimulation with ACh).
+10
+ Note that the actual conduction experiments
+10
+ reflect the use of 1 μM NS309 as a submaximal concentration for opening SK
+Ca
+/IK
+Ca
+; i.e., with less than 100% of these channels open. Thus, both theory and experiments confirm the significant role of endothelial SK
+Ca
+/IK
+Ca
+ as modulators of conduction.
+Transmembrane current requirement for hyperpolarization and conduction
+
+
+The high membrane resistivity (
+R
+m
+ = 12 GΩ) estimated from the experimental data suggests that small transmembrane currents can significantly alter 
+V
+m
+. Thus, in an isolated EC, up to 4 and 8 mV of hyperpolarization is predicted per single SK
+Ca
+ or IK
+Ca
+ channel activation, respectively. The prediction that a few activated K
+Ca
+ channels per EC can lead to significant hyperpolarization suggests that the EC layer is sensitive to globally-applied agonists that elevate [Ca
+2+
+]
+i
+. On the contrary, the small input resistance of the EC layer (
+R
+in
+ = 13 MΩ in the 2.5 mm isolated EC tube; 
+R
+in
+ = 6 MΩ in the isolated EC layer of infinite length) suggests that significant current needs to be generated at a site for local hyperpolarization and conduction. We predict that recruitment of several thousand K
+Ca
+ channels is required for achieving physiologically relevant hyperpolarization millimeters away for intact vessels of similar size and electrical properties. Given the estimated K
+Ca
+ channel density from the analysis of the isolated tube data (
+G
+KCa,max
+ = 0.35 nS) or from reported values in porcine coronary endothelium (
+G
+KCa,max
+ = 0.8 nS), 100–230 ECs in intact vessel (vs. 30–75 ECs in the isolated infinite endothelial layer) need to be activated locally (directly through agonist binding to cell surface receptors or indirectly through intercellular Ca
+2+
+ spread) for achieving 1 mV of hyperpolarization at a distance of 2.5 mm. Future studies are needed to evaluate whether such a requirement is fulfilled 
+in vivo
+ or if mechanisms exist to enhance ascending vasodilation and minimize local stimulatory requirements.
+Conclusions
+
+
+We analyzed the properties of electrical conduction along native intact microvascular endothelium based upon recent experimental data and detailed computational modeling. This approach allows quantitation of the biophysical factors that govern electrical conduction along resistance microvessels. Since electrical conduction underlies spreading vasomotor/diameter responses in resistance networks, our computational results can facilitate the understanding of blood flow control in the microcirculation and provide mechanistic insight into aberrations in diseased states that can be tested experimentally.
+
+
+Fitting of the experimental data yielded axial (
+r
+a
+) and membrane (
+r
+m
+) resistivities of 10.7 MΩ/mm and 14.5 MΩ·mm, respectively. We predict a membrane resistance (
+R
+m
+) for the isolated EC of 11.9 (10–14) GΩ, an EC-EC coupling resistance (
+R
+gj
+) of 4.5 (2.7–5.2) MΩ, an input resistance (
+R
+in
+) for the isolated 2.5mm EC tube of 13 MΩ, and an ACh-recruited K
+Ca
+ conductance of 0.35 nS per EC (corresponding to 15 SK
+Ca
+ and 20 IK
+Ca
+). The high 
+R
+m
+ makes the microvascular EC membrane sensitive to stimulation (up to 4 or 8 mV of hyperpolarization predicted per single SK
+Ca
+ or IK
+Ca
+ opening per EC) and allows for efficient conduction. We estimate that local activation of 4700 SK
+Ca
+ or 2100 IK
+Ca
+ (i.e. recruitment of 30–75 ECs) is required for eliciting 1 mV of hyperpolarization at a distance of 2.5mm through passive electrical conduction along the endothelium. 
+In vivo
+, local sensitivity to agonists and conduction efficiency may be reduced relative to the isolated EC segment as a result of coupling to SMCs.
+
+
+The electrical properties characterized here suggest that a significant number of K
+Ca
+ channels and thus of ECs need to be recruited locally in order to achieve physiological significant levels of hyperpolarization. The stimulatory requirement may be increased by myoendothelial coupling and relaxed by the presence of mechanisms that facilitate electrical conduction. Contrary to the need for local K
+Ca
+ recruitment, open K
+Ca
+ channels throughout the vessels inhibit conduction by reducing 
+λ
+ by as much as 55%.
+Perspective
+
+
+Electrical conduction along resistance networks underlies spreading vasodilation but there is much to be learned with respect to the role of membrane ion channels in modulating electrical signal transmission from cell to cell along the vessel wall. To fill this gap, we used recent experimental data, theoretical analysis, and a detailed computational model to link the electrical properties of the endothelium, channel opening, and agonist stimulation to the properties of electrical conduction. The methodology developed here can be applied towards understanding alterations in Ca
+2+
+ homeostasis, ion channel activity and electrical conduction associated with endothelial dysfunction such as that observed during advanced age and cardiovascular disease.
+
+
+Although our focus was on electrical conduction along the endothelium of a resistance artery, studies have also presented evidence for signal propagation at the capillary level as well.
+40
+ Capillaries may sense neural activity in the brain
+41
+ or contraction in skeletal muscle
+42
+ and transmit signals to upstream feeding arteries to modulate local blood flow. Our theoretical analysis and derived parameters will facilitate future modeling studies that will examine conduction in the integrated vascular network. However, the assumption that passive, bidirectional electrotonic spread underlies signal propagation along the endothelium needs to be evaluated in other vessels, particularly in light of evidence for regenerative signal transmission
+41
+ and preferential upstream propagation of electrical signals.
+42
+Acknowledgments
+
+
+Funding
+
+
+This work was supported by the National Heart, Lung, and Blood Institute of the National Institutes of Health under award numbers SC1-HL095101, R15-HL121778 (N.M. Tsoukias), R37-HL041026 (S.S. Segal), F32-HL110701 and K99/R00AG047198 (E.J. Behringer). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+Abbreviations
+
+
+
+
+ACh
+
+
+acetylcholine
+
+
+a.u.
+
+
+arbitrary unit
+
+
+CaCC
+
+
+Ca
+2+
+-activated Cl
+−
+ channels
+
+
+[Ca
+2+
+]
+i
+
+
+
+
+intracellular Ca
+2+
+ concentration
+
+
+d
+
+
+thickness of the endothelium
+
+
+D
+
+
+diameter of an endothelial tube
+
+
+
+
+d
+cell
+
+
+
+
+width of an EC in the circumferential direction
+
+
+dim.
+
+
+dimensional
+
+
+EC
+
+
+endothelial cell
+
+
+
+
+E
+K
+
+
+
+
+Nernst potential for K
++
+
+
+G
+
+
+whole-cell conductance
+
+
+IK
+Ca
+
+
+
+
+intermediate-conductance Ca
+2+
+-activated K
++
+ channels
+
+
+IP
+3
+
+
+
+
+inositol (1,4,5)-trisphosphate
+
+
+IP
+3
+R
+
+
+IP
+3
+ receptors
+
+
+
+
+I
+stim
+
+
+
+
+stimulus current
+
+
+
+
+L
+cell
+
+
+
+
+length of an EC in the axial direction
+
+
+
+
+L
+circum
+
+
+
+
+circumference of an endothelial tube
+
+
+ME
+
+
+myoendothelial
+
+
+
+
+N
+circum
+
+
+
+
+number of ECs encompassing the circumference of the endothelial tube
+
+
+
+
+r
+a
+
+
+
+
+resistivity of an endothelial tube in the axial direction per unit length
+
+
+
+
+R
+gj
+
+
+
+
+resistance of cell-to-cell coupling through gap junctions
+
+
+
+
+R
+in
+
+
+
+
+input resistance
+
+
+
+
+r
+m
+
+
+
+
+membrane (leakage) resistivity of an endothelial tube per unit length
+
+
+
+
+R
+m
+
+
+
+
+cell membrane resistance
+
+
+SK
+Ca
+
+
+
+
+small-conductance Ca
+2+
+-activated K
++
+ channels
+
+
+SMC
+
+
+smooth muscle cell
+
+
+
+
+V
+m
+
+
+
+
+membrane potential
+
+
+x
+
+
+axial distance
+
+
+
+
+x
+stim
+
+
+
+
+axial position of stimulus
+
+
+Δ
+V
+m
+
+
+
+
+change in 
+V
+m
+
+
+Δ
+V
+m,x0
+
+
+
+
+Δ
+V
+m
+ at the stimulus site (i.e., signal origin)
+
+
+λ
+
+
+electrical length constant
+
+
+
+
+ρ
+xx
+
+
+
+
+effective resistivity of the endothelium in the axial direction per unit cross sectional area
+
+
+
+
+ρ
+yy
+
+
+
+
+effective resistivity of the endothelium in the circumferential direction per unit cross sectional area;
+
+
+
+
+ρ
+m
+
+
+
+
+effective membrane resistivity (leakage) of the endothelium per unit surface area.
+
+
+Footnotes
+
+
+
+
+
+
+Competing interests
+
+
+The authors declare that there are no conflicts of interest.
+
+
+
+
+
+
+Author contributions
+
+
+A.K. and N.M.T implemented the models, performed the simulations, and drafted the manuscript. E.J.B. and S.S.S. edited and revised the manuscript and provided the experimentally-derived data upon which the modeling is based. A.K., E.J.B., S.S.S. and N.M.T. approved the final version of the manuscript.
+
+
+
+
+References
+
+
+
+
+
+
+1.
+Segal SS. Regulation of blood flow in the microcirculation. Microcirculation. 2005;12:33–45. doi: 10.1080/10739680590895028.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+2.
+Busse R, Edwards G, Feletou M, Fleming I, Vanhoutte PM, Weston AH. EDHF: bringing the concepts together. Trends Pharmacol Sci. 2002;23:374–380. doi: 10.1016/s0165-6147(02)02050-3.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+3.
+Bagher P, Segal SS. Regulation of blood flow in the microcirculation: role of conducted vasodilation. Acta Physiol (Oxf) 2011;202:271–284. doi: 10.1111/j.1748-1716.2010.02244.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+4.
+Segal SS, Duling BR. Communication between feed arteries and microvessels in hamster striated muscle: segmental vascular responses are functionally coordinated. Circ Res. 1986;59:283–290. doi: 10.1161/01.res.59.3.283.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+5.
+Cohen KD, Berg BR, Sarelius IH. Remote arteriolar dilations in response to muscle contraction under capillaries. Am J Physiol Heart Circ Physiol. 2000;278:H1916–1923. doi: 10.1152/ajpheart.2000.278.6.H1916.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+6.
+Segal SS, Jacobs TL. Role for endothelial cell conduction in ascending vasodilatation and exercise hyperaemia in hamster skeletal muscle. J Physiol. 2001;536:937–946. doi: 10.1111/j.1469-7793.2001.00937.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+7.
+Haas TL, Duling BR. Morphology favors an endothelial cell pathway for longitudinal conduction within arterioles. Microvasc Res. 1997;53:113–120. doi: 10.1006/mvre.1996.1999.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+8.
+Emerson GG, Segal SS. Endothelial cell pathway for conduction of hyperpolarization and vasodilation along hamster feed artery. Circ Res. 2000;86:94–100. doi: 10.1161/01.res.86.1.94.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+9.
+Behringer EJ, Segal SS.  Ion channels in control of blood flow: Electrical conduction along endothelium of resistance arteries. In: Levitan I, Dopico AM, editors. Vascular Ion Channels in Physiology and Disease. Cham, Switzerland: Springer; 2016. pp. 79–99.
+ [
+Google Scholar
+]
+
+
+
+
+10.
+Behringer EJ, Segal SS. Tuning electrical conduction along endothelial tubes of resistance arteries through Ca2+-activated K+ channels. Circ Res. 2012;110:1311–1321. doi: 10.1161/CIRCRESAHA.111.262592.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+11.
+Beleznai TZ, Yarova PL, Yuill KH, Dora KA. Smooth muscle Ca2+-activated and voltage-gated K+ channels modulate conducted dilation in rat isolated small mesenteric arteries. Microcirculation. 2011;18:487–500. doi: 10.1111/j.1549-8719.2011.00109.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+12.
+Lidington D, Ouellette Y, Tyml K. Endotoxin increases intercellular resistance in microvascular endothelial cells by a tyrosine kinase pathway. J Cell Physiol. 2000;185:117–125. doi: 10.1002/1097-4652(200010)185:1<117::AID-JCP11>3.0.CO;2-7.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+13.
+Yamamoto Y, Klemm MF, Edwards FR, Suzuki H. Intercellular electrical communication among smooth muscle and endothelial cells in guinea-pig mesenteric arterioles. J Physiol. 2001;535:181–195. doi: 10.1111/j.1469-7793.2001.00181.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+14.
+Behringer EJ, Socha MJ, Polo-Parada L, Segal SS. Electrical conduction along endothelial cell tubes from mouse feed arteries: confounding actions of glycyrrhetinic acid derivatives. Br J Pharmacol. 2012;166:774–787. doi: 10.1111/j.1476-5381.2011.01814.x.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+15.
+Hirst GD, Neild TO. An analysis of excitatory junctional potentials recorded from arterioles. J Physiol. 1978;280:87–104. doi: 10.1113/jphysiol.1978.sp012374.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+16.
+Emerson GG, Neild TO, Segal SS. Conduction of hyperpolarization along hamster feed arteries: augmentation by acetylcholine. Am J Physiol Heart Circ Physiol. 2002;283:H102–109. doi: 10.1152/ajpheart.00038.2002.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+17.
+Silva HS, Kapela A, Tsoukias NM. A mathematical model of plasma membrane electrophysiology and calcium dynamics in vascular endothelial cells. Am J Physiol Cell Physiol. 2007;293:C277–293. doi: 10.1152/ajpcell.00542.2006.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+18.
+Hald BO, Jensen LJ, Sorensen PG, Holstein-Rathlou NH, Jacobsen JC. Applicability of cable theory to vascular conducted responses. Biophys J. 2012;102:1352–1362. doi: 10.1016/j.bpj.2012.01.055.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+19.
+Socha MJ, Hakim CH, Jackson WF, Segal SS. Temperature effects on morphological integrity and Ca2+ signaling in freshly isolated murine feed artery endothelial cell tubes. Am J Physiol Heart Circ Physiol. 2011;301:H773–783. doi: 10.1152/ajpheart.00214.2011.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+20.
+Neild TO. The relation between the structure and innervation of small arteries and arterioles and the smooth muscle membrane potential changes expected at different levels of sympathetic nerve activity. Proc R Soc Lond B Biol Sci. 1983;220:237–249. doi: 10.1098/rspb.1983.0097.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+21.
+Deakin MA, Neild TO, Turner RG. The extension of two-dimensional cable theory to arteries and arterioles. Bull Math Biol. 1985;47:409–424. doi: 10.1007/BF02459923.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+22.
+Crane GJ, Neild TO. An equation describing spread of membrane potential changes in a short segment of blood vessel. Phys Med Biol. 1999;44:N217–221. doi: 10.1088/0031-9155/44/10/402.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+23.
+Polyanin AD.  Handbook of linear partial differential equations for engineers and scientists. Boca Raton, Florida: Chapman & Hall/CRC; 2002. 
+ [
+Google Scholar
+]
+
+
+
+
+24.
+Kapela A, Nagaraja S, Tsoukias NM. A mathematical model of vasoreactivity in rat mesenteric arterioles. II. Conducted vasoreactivity. Am J Physiol Heart Circ Physiol. 2010;298:H52–65. doi: 10.1152/ajpheart.00546.2009.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+25.
+Diep HK, Vigmond EJ, Segal SS, Welsh DG. Defining electrical communication in skeletal muscle resistance arteries: a computational approach. J Physiol. 2005;568:267–281. doi: 10.1113/jphysiol.2005.090233.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+26.
+Vargas FF, Caviedes PF, Grant DS. Electrophysiological characteristics of cultured human umbilical vein endothelial cells. Microvasc Res. 1994;47:153–165. doi: 10.1006/mvre.1994.1012.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+27.
+Burnham MP, Bychkov R, Feletou M, Richards GR, Vanhoutte PM, et al.  Characterization of an apamin-sensitive small-conductance Ca2+-activated K+ channel in porcine coronary artery endothelium: relevance to EDHF. Br J Pharmacol. 2002;135:1133–1143. doi: 10.1038/sj.bjp.0704551.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+28.
+Fang QZ, Zhong N, Zhang Y, Zhou ZN. Tetrandrine inhibits Ca2+-activated chloride channel in cultured human umbilical vein endothelial cells. Acta Pharmacol Sin. 2004;25:327–333.
+ [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+29.
+Ahn SC, Seol GH, Kim JA, Suh SH. Characteristics and a functional implication of Ca2+-activated K+ current in mouse aortic endothelial cells. Pflugers Arch. 2004;447:426–435. doi: 10.1007/s00424-003-1201-1.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+30.
+Sonkusare SK, Dalsgaard T, Bonev AD, Hill-Eubanks DC, Kotlikoff MI, et al.  AKAP150-dependent cooperative TRPV4 channel gating is central to endothelium-dependent vasodilation and is disrupted in hypertension. Sci Signal. 2014;7:ra66. doi: 10.1126/scisignal.2005052.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+31.
+Parikh J, Kapela A, Tsoukias NM. Stochastic model of endothelial TRPV4 calcium sparklets: effect of bursting and cooperativity on EDH. Biophys J. 2015;108:1566–1576. doi: 10.1016/j.bpj.2015.01.034.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+32.
+Keener JP, Sneyd J.  Mathematical physiology. New York: Springer; 1998. 
+ [
+Google Scholar
+]
+
+
+
+
+33.
+Nilius B, Viana F, Droogmans G. Ion channels in vascular endothelium. Annu Rev Physiol. 1997;59:145–170. doi: 10.1146/annurev.physiol.59.1.145.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+34.
+Adamson RH. Microvascular endothelial cell shape and size in situ. Microvasc Res. 1993;46:77–88. doi: 10.1006/mvre.1993.1036.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+35.
+Sandow SL, Hill CE. Incidence of myoendothelial gap junctions in the proximal and distal mesenteric arteries of the rat is suggestive of a role in endothelium-derived hyperpolarizing factor-mediated responses. Circ Res. 2000;86:341–346. doi: 10.1161/01.res.86.3.341.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+36.
+Sandow SL, Looft-Wilson R, Doran B, Grayson TH, Segal SS, Hill CE. Expression of homocellular and heterocellular gap junctions in hamster arterioles and feed arteries. Cardiovasc Res. 2003;60:643–653. doi: 10.1016/j.cardiores.2003.09.017.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+37.
+Hillebrand U, Hausberg M, Stock C, Shahin V, Nikova D, et al.  17beta-estradiol increases volume, apical surface and elasticity of human endothelium mediated by Na+/H+ exchange. Cardiovasc Res. 2006;69:916–924. doi: 10.1016/j.cardiores.2005.11.025.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+38.
+Sandow SL, Grayson TH. Limits of isolation and culture: intact vascular endothelium and BKCa. Am J Physiol Heart Circ Physiol. 2009;297:H1–7. doi: 10.1152/ajpheart.00042.2009.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+39.
+Bychkov R, Burnham MP, Richards GR, Edwards G, Weston AH, et al.  Characterization of a charybdotoxin-sensitive intermediate conductance Ca2+-activated K+ channel in porcine coronary endothelium: relevance to EDHF. Br J Pharmacol. 2002;137:1346–1354. doi: 10.1038/sj.bjp.0705057.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+40.
+Berg BR, Cohen KD, Sarelius IH. Direct coupling between blood flow and metabolism at the capillary level in striated muscle. Am J Physiol. 1997;272:H2693–2700. doi: 10.1152/ajpheart.1997.272.6.H2693.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+41.
+Longden TA, Dabertrand F, Koide M, Gonzales AL, Tykocki NR, et al.  Capillary K+-sensing initiates retrograde hyperpolarization to increase local cerebral blood flow. Nat Neurosci. 2017;20:717–726. doi: 10.1038/nn.4533.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+42.
+Murrant CL, Lamb IR, Novielli NM. Capillary endothelial cells as coordinators of skeletal muscle blood flow during active hyperemia. Microcirculation. 2017:24. doi: 10.1111/micc.12348.
+ [
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+
+
+
+
+                      
+
+                    
+
+                
+
+            
+
+        
+
+
+        
+
+
+
+
+
+
+
+    
+
+        
+
+            
+
+        
+
+    
+
+       
+
+              
+ACTIONS
+
+           
+
+               
+               
+
+                     
+
+                         
+
+                         
+View on publisher site
+
+                     
+
+               
+
+               
+               
+               
+
+                    
+
+                         
+
+                        
+PDF (1.4 MB)
+
+                    
+
+               
+
+               
+                
+               
+
+                   
+
+                       
+
+                       
+Cite
+
+                    
+
+               
+
+                
+               
+
+
+                        
+
+                            
+
+                            
+
+                            
+Collections
+
+                       
+
+               
+
+               
+
+                    
+
+                        
+
+                        
+Permalink
+
+                    
+
+                   
+
+
+
+    
+
+          
+PERMALINK
+
+          
+
+              
+
+              
+
+                  
+
+                  
+Copy
+
+              
+
+          
+
+    
+
+
+
+               
+
+           
+
+       
+
+     
+
+
+        
+
+            
+RESOURCES
+
+            
+                
+
+                    
+
+                        
+
+                            Similar articles
+                        
+
+                    
+
+                    
+
+                        
+                    
+
+                    
+
+                        
+
+                             Cited by other articles
+                        
+
+                    
+
+                    
+
+                          
+                    
+
+                    
+                        
+
+                            
+
+                                 Links to NCBI Databases
+                            
+
+                        
+
+                        
+
+                        
+
+                    
+                    
+                
+
+            
+        
+
+
+
+        
+
+    
+
+
+
+
+        
+
+
+
+    
+
+        
+
+            
+Cite
+
+             
+
+                 
+
+             
+
+        
+
+
+        
+
+
+
+  
+
+  
+
+      
+
+        
+
+            
+
+            
+Copy
+
+        
+
+      
+
+      
+
+          
+
+                
+
+                
+Download .nbib
+
+                
+.nbib
+
+            
+
+      
+
+      
+
+          
+
+
+
+  
+Format:
+
+  
+
+    
+      
+
+        AMA
+      
+
+    
+      
+
+        APA
+      
+
+    
+      
+
+        MLA
+      
+
+    
+      
+
+        NLM
+      
+
+    
+  
+
+
+
+      
+
+  
+
+
+
+    
+
+
+
+
+        
+
+  
+
+   
+
+        
+Add to Collections
+
+    
+
+    
+
+      
+
+
+
+
+
+    
+
+
+    
+
+        
+
+            
+
+            
+Create a new collection
+
+        
+
+        
+
+            
+
+            
+Add to an existing collection
+
+        
+
+    
+
+
+    
+
+        
+
+           
+
+                Name your collection
+               
+*
+
+          
+
+          
+
+        
+
+        
+
+             
+
+                Choose a collection
+              
+
+              
+
+              
+
+              
+
+                Unable to load your collection due to an error
+
+                
+Please try again
+
+              
+
+        
+
+    
+
+
+    
+
+        
+
+          Add
+        
+
+        
+
+          Cancel
+        
+
+    
+
+
+
+    
+
+  
+
+
+
+
+        
+
+      
+
+    
+
+  
+
+
+
+
+        
+    
+    
+
+
+
+    
+        
+
+            
+
+                Follow NCBI
+            
+
+
+            
+
+                
+                    
+
+                        
+
+                            
+
+                            
+
+                        
+
+                        
+NCBI on X (formerly known as Twitter)
+
+                    
+
+                
+
+                
+                    
+
+                        
+
+                            
+
+                            
+
+                        
+
+                        
+NCBI on Facebook
+
+                    
+
+                
+
+                
+                    
+
+                        
+
+                            
+
+                            
+
+                            
+
+                            
+
+                            
+
+                            
+
+                        
+
+                        
+NCBI on LinkedIn
+
+                    
+
+                
+
+                
+                    
+
+                        
+
+                            
+
+                            
+
+                        
+
+                        
+NCBI on GitHub
+
+                    
+
+                
+
+                
+                    
+
+                        
+
+                            
+
+                            
+
+                            
+
+                            
+
+                            
+
+                            
+
+                        
+
+                        
+NCBI RSS feed
+
+                    
+
+                
+            
+
+        
+
+    
+
+    
+
+        
+
+            
+                
+
+                    
+                        
+
+                            Connect with NLM
+                        
+
+                    
+
+                    
+
+                        
+                            
+
+                                
+
+                                    
+
+                                    
+
+                                
+
+                                
+NLM on X (formerly known as Twitter)
+
+                            
+
+                        
+
+                        
+                            
+
+                                
+
+                                    
+
+                                    
+
+                                
+
+                                
+NLM on Facebook
+
+                            
+
+                        
+
+                        
+                            
+
+                                
+
+                                    
+
+                                
+
+                                
+NLM on YouTube
+
+                            
+
+                        
+                    
+
+                
+
+            
+
+            
+                
+
+                    
+        
+
+            
+National Library of Medicine
+            
+ 8600 Rockville Pike
+ Bethesda, MD 20894
+
+        
+
+    
+                
+
+            
+
+            
+                
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Web Policies
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            FOIA
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            HHS Vulnerability Disclosure
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                
+
+            
+
+            
+                
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Help
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Accessibility
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            Careers
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                
+
+            
+        
+
+
+        
+            
+
+                
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            NLM
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            NIH
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            HHS
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+        
+            USA.gov
+        
+
+        
+    
+
+
+
+                        
+
+                    
+                
+
+            
+
+        
+    
+
+
+
+
+    
+
+
+        
+        
+    
+  
+ 
+
+
+
+    
+        
+
+
+
+    
+Back to Top
+
+    
+
+
+
+    
+
+
+        
+    
+    
+
+    
+    
+        
+    
+
+    window.ncbi = window.ncbi || {};
+    window.ncbi.pmc = window.ncbi.pmc || {};
+    window.ncbi.pmc.options = {
+        logLevel: 'INFO',
+        
+        staticEndpoint: 'https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/',
+        
+        citeCookieName: 'pmc-cf',
+    };
+
+
+    
+
+
+
+    
+    
+&#xA0;
+
+    
+
+        jQuery.getScript("https://cdn.ncbi.nlm.nih.gov/core/alerts/alerts.js", function () {
+            galert(['div.nav_and_browser', 'div.header', '#universal_header', '.usa-banner', 'body > *:nth-child(1)'])
+        });
+    
+
+
+
+    
+var exports = {};
+
+     
+
+
+    
+
+
+
+
+
+
+
+    
+        
+
+
+
+    
+    
+
+    
+
+
+

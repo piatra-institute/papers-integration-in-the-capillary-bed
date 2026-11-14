@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "id": "paired-study",
+  "started": "2026-11-14T13:27:41.541938+00:00",
+  "finished": "2026-11-14T13:33:07.285906+00:00",
+  "command": [
+    "uv",
+    "run",
+    "python",
+    "/Users/ly3xqhl8g9/Data/i/theings/piatra/content/piatra-papers/2026/11/when-support-computes/simulation/run_all.py"
+  ],
+  "cwd": "simulation",
+  "runtime": {
+    "scope": "recorder",
+    "python": "3.14.3 (main, Mar 25 2026, 03:28:18) [Clang 22.1.1 ]",
+    "platform": "macOS-15.1-arm64-arm-64bit-Mach-O"
+  },
+  "execution_result": null,
+  "execution": {
+    "status": "PASS",
+    "exit_code": 0,
+    "detail": "command completed"
+  },
+  "input_scope": "execution-v1",
+  "additional_inputs": [
+    "simulation/data/parameters.json",
+    "simulation/data/source_evidence/manifest.json"
+  ],
+  "inputs": {
+    "simulation/capnet/experiment.py": "aca7606312a8f33cd0ae704b4a382d44322f0f027b1d6cd30fae2ae43c2f07fc",
+    "simulation/capnet/model.py": "54158f4f55370cce298a56bcc3632fcfeb3a2a71d92812d9ffdf6e41c7ee0043",
+    "simulation/capnet/network.py": "4f93799ba61cae62af774620acbb97a1e56184377b1f979ac301dba0a94ef331",
+    "simulation/data/parameters.json": "fc014c39c9f2b5a8f48793614ad8f313ed2165c2bc988e3ff0635f6c40bb27e5",
+    "simulation/data/source_evidence/manifest.json": "eff5114dee09788828c74961b0dbf381bbf95e1f28d96832a594e2ca0676f736",
+    "simulation/fetch_sources.py": "9c9045e33e5b3a54db4c5e30a8a5a69aa739f82aceba2e46895e93878925a9bd",
+    "simulation/pyproject.toml": "1d2095a135a3503d4fd5729e39135d0953c0af3c011796f9d912c64c39197d28",
+    "simulation/run_all.py": "046374781ee1efecf0ccd39a6a63a21588c917331ba884c93027cd58f7884659",
+    "simulation/tests/test_calibration_regressions.py": "c3a00eb4c426fa13bf192d8841f45672c17ef61a7c2415b0833be03bfbda98da",
+    "simulation/tests/test_core.py": "1d329e33cb2d7939d3547d266b4f6ec3bcdb3d2551974da44738a8f9cc27fcaa",
+    "simulation/tests/test_mechanism.py": "6b5c3fa622d531d7938f0e83dcf4c8eb3a3bb3af4fc91d0f8ade7ad8065ae5ca",
+    "simulation/uv.lock": "c9a58ce53f3e4a5fb181640f005d917090b572c6fea55444d9a29c9f66ae337c"
+  },
+  "artifacts": {
+    "simulation/output/results.json": "aa4fbbbe6e78246008f0c91afaa466fb5b0b3eb15a7a549f8b26680b62035cd5",
+    "simulation/output/calibration_traces.npz": "3ac757288d4c934ef31fac02fcdf644f724284023aafd5548c8239ca45b20a49",
+    "simulation/output/tests.xml": "8b2931fc88068e95c02bbe0035f3ccfe928e7f1e540826c66576a276ac7b5509",
+    "simulation/output/tests.log": "67d182bcd12e3a06a090126aae01a3872d33a8d4e1a2ee8f566f3fd1bb8c3a55",
+    "paper/figures/paired_predictions.pdf": "bb3106a7f4c79cbe68bbb30436def4a09d44f5606f45633726bc648321dc7ef3",
+    "paper/figures/paired_predictions.png": "5f2ddd233df804c66caa9795c263ce9787c893d603954ea5dddc01d422c9ff50",
+    "paper/figures/saturation_decomposition.pdf": "83f5d47fe2ecf1f7a91d88b0762855cf905cc96b15ffab06ec3db1b731e5aed5",
+    "paper/figures/saturation_decomposition.png": "9a3b9d700788129a3c62788cef914ae2739ad9fb466b9cc17ad5b6a3b2afcd32"
+  }
+}

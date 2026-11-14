@@ -1,0 +1,10 @@
+[project]
+name = "capillary-paired-inputs"
+version = "0.1.0"
+description = "Reproducible capillary electrical integration design study"
+requires-python = ">=3.11,<3.14"
+dependencies = ["numpy==2.2.6", "scipy==1.15.3", "matplotlib==3.10.3", "pytest==8.3.5"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

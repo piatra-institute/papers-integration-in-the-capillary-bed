@@ -1,0 +1,545 @@
+{
+  "sha": "759d6a9f2002ab7367791c65118500091749d75e",
+  "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/759d6a9f2002ab7367791c65118500091749d75e",
+  "tree": [
+    {
+      "path": ".gitattributes",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e6f0ebd28ae44e6a8e0a2d146faae07927cb282",
+      "size": 428,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/5e6f0ebd28ae44e6a8e0a2d146faae07927cb282"
+    },
+    {
+      "path": "LICENSE.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1a86b823c38f997942974323b8a5e0b6e27c549",
+      "size": 1117,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/c1a86b823c38f997942974323b8a5e0b6e27c549"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7df1737b054358f9e4e99b27259c21bf5f9fb19f",
+      "size": 2289,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/7df1737b054358f9e4e99b27259c21bf5f9fb19f"
+    },
+    {
+      "path": "functions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "47d0c2d82887aa64099c38f9c8caa195b9d0553f",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/47d0c2d82887aa64099c38f9c8caa195b9d0553f"
+    },
+    {
+      "path": "functions/abfload.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83b53a08e0339586e7c578716821fc567af38e08",
+      "size": 54506,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/83b53a08e0339586e7c578716821fc567af38e08"
+    },
+    {
+      "path": "functions/colorcanvas1.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1a52826b0617616f53eade3f7c5978f81d35795",
+      "size": 267,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/f1a52826b0617616f53eade3f7c5978f81d35795"
+    },
+    {
+      "path": "functions/colorcanvas3.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5168f0f77bfc698890087e1de8d8fef42dd76dbf",
+      "size": 257,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/5168f0f77bfc698890087e1de8d8fef42dd76dbf"
+    },
+    {
+      "path": "functions/getedgeval.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3de7f5e37b9ae16adb90dcdd3b3208cba6e0e8c",
+      "size": 552,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/c3de7f5e37b9ae16adb90dcdd3b3208cba6e0e8c"
+    },
+    {
+      "path": "functions/getnodefromsource.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcce923c8860e093bab0e31160ceb9eefec3a0d5",
+      "size": 860,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/bcce923c8860e093bab0e31160ceb9eefec3a0d5"
+    },
+    {
+      "path": "functions/getnodefromsourceXYZ.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "372f382670e69cb87c8124eb05281c45cab98fa8",
+      "size": 877,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/372f382670e69cb87c8124eb05281c45cab98fa8"
+    },
+    {
+      "path": "functions/largestcomponent.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "151e2ee239d7948d8e30e3e6b4a602b38f27b8bc",
+      "size": 1533,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/151e2ee239d7948d8e30e3e6b4a602b38f27b8bc"
+    },
+    {
+      "path": "functions/odeabort.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d59ee6e004b4d14dd2402fd23c19d203d1fb450c",
+      "size": 244,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/d59ee6e004b4d14dd2402fd23c19d203d1fb450c"
+    },
+    {
+      "path": "functions/odeprog.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bea40c9b5ddbc3f3539aaaa79293c680d05a13a",
+      "size": 3163,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/0bea40c9b5ddbc3f3539aaaa79293c680d05a13a"
+    },
+    {
+      "path": "functions/plotcolor.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab55f1e8c6974dd32faabce608b3628e50d02559",
+      "size": 941,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/ab55f1e8c6974dd32faabce608b3628e50d02559"
+    },
+    {
+      "path": "functions/plotgraph.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ab2acbe0d9f270e36b181591fa4243c319818b5",
+      "size": 1029,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/6ab2acbe0d9f270e36b181591fa4243c319818b5"
+    },
+    {
+      "path": "functions/plotspline.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5ce6be3b2f2560c948b29e21ff2d57e975c20ad",
+      "size": 7785,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/c5ce6be3b2f2560c948b29e21ff2d57e975c20ad"
+    },
+    {
+      "path": "functions/prepfig.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f425417e34bc30721e187c50ba16ff8c35d82288",
+      "size": 362,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/f425417e34bc30721e187c50ba16ff8c35d82288"
+    },
+    {
+      "path": "functions/splitgraph.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31a42c49416e266f6dd7cfc7ac6a0c2eabca0f96",
+      "size": 546,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/31a42c49416e266f6dd7cfc7ac6a0c2eabca0f96"
+    },
+    {
+      "path": "functions/subfromedge.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "706b1c9cd1d94bdcb0194db95dbc13f0c9f797dd",
+      "size": 362,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/706b1c9cd1d94bdcb0194db95dbc13f0c9f797dd"
+    },
+    {
+      "path": "functions/val_colored.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28cc2fd383edd8e8f7f16e440c94987e5ef3f85d",
+      "size": 1920,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/28cc2fd383edd8e8f7f16e440c94987e5ef3f85d"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "32fa76b082304b45dca1a5ff31d5846dc3be1010",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/32fa76b082304b45dca1a5ff31d5846dc3be1010"
+    },
+    {
+      "path": "scripts/Fig2",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "92b9c1d216c5dd09003a61c4e738fa246869bb96",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/92b9c1d216c5dd09003a61c4e738fa246869bb96"
+    },
+    {
+      "path": "scripts/Fig2/Fig2A.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4f78803361831e3dccde841d26d6f8ce727b525",
+      "size": 3660,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/a4f78803361831e3dccde841d26d6f8ce727b525"
+    },
+    {
+      "path": "scripts/Fig2/Fig2BCD.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9da2454a364fb6acfec6344d773e934b5400f992",
+      "size": 1714,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/9da2454a364fb6acfec6344d773e934b5400f992"
+    },
+    {
+      "path": "scripts/Fig2/Fig2E.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8adfd2cc9f702041cbe740e6ab5fff38c7aa49e1",
+      "size": 8756,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/8adfd2cc9f702041cbe740e6ab5fff38c7aa49e1"
+    },
+    {
+      "path": "scripts/Fig2/Fig2G.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7c679192c90c4705a6578a17c0ec560079ac40f",
+      "size": 6366,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/f7c679192c90c4705a6578a17c0ec560079ac40f"
+    },
+    {
+      "path": "scripts/Fig2/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4dbbb08abb18cb7fa16466725762e901b16c2bd",
+      "size": 497,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/f4dbbb08abb18cb7fa16466725762e901b16c2bd"
+    },
+    {
+      "path": "scripts/Fig3",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "24c2c30534b9e741e021446e83923619c077fcfe",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/24c2c30534b9e741e021446e83923619c077fcfe"
+    },
+    {
+      "path": "scripts/Fig3/Fig3AB.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a6aa7836866a624ce49a7b42d3e93732b8103d1",
+      "size": 7155,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/7a6aa7836866a624ce49a7b42d3e93732b8103d1"
+    },
+    {
+      "path": "scripts/Fig3/Fig3C.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c91527d707044179e9547c49f3ad3b358b85ce7",
+      "size": 9214,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/5c91527d707044179e9547c49f3ad3b358b85ce7"
+    },
+    {
+      "path": "scripts/Fig3/Fig3D.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64104e0b1c9a0342183b476f9a3459d3c1adafb6",
+      "size": 5778,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/64104e0b1c9a0342183b476f9a3459d3c1adafb6"
+    },
+    {
+      "path": "scripts/Fig3/Fig3E.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc1f92b180202155b29c59eceda44eaec2e3ebfa",
+      "size": 5721,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/fc1f92b180202155b29c59eceda44eaec2e3ebfa"
+    },
+    {
+      "path": "scripts/Fig3/Fig3F.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26129bac1a98d95dae6e7719c496dcacad46a85b",
+      "size": 5757,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/26129bac1a98d95dae6e7719c496dcacad46a85b"
+    },
+    {
+      "path": "scripts/Fig3/Fig3G.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14c960a1ae7c7cbc8402a6f3b65b7fca03591399",
+      "size": 5933,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/14c960a1ae7c7cbc8402a6f3b65b7fca03591399"
+    },
+    {
+      "path": "scripts/Fig3/Fig3H.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "896e1ff7bee9abaecd0160b898185ec9d124a8f7",
+      "size": 5150,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/896e1ff7bee9abaecd0160b898185ec9d124a8f7"
+    },
+    {
+      "path": "scripts/Fig3/Fig3I.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6d4c750c99974cad49bcc4a5b131f4d1abad830",
+      "size": 5147,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/a6d4c750c99974cad49bcc4a5b131f4d1abad830"
+    },
+    {
+      "path": "scripts/Fig3/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d48fea93d58ba212c98041ab71ded0ca03f1d802",
+      "size": 863,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/d48fea93d58ba212c98041ab71ded0ca03f1d802"
+    },
+    {
+      "path": "scripts/Fig3/saved_data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f6322bdb4bb15b439d71c1d279d56fe385595e2f",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/f6322bdb4bb15b439d71c1d279d56fe385595e2f"
+    },
+    {
+      "path": "scripts/Fig3/saved_data/Fig3C_TRPV_P0.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2d1403dace55b10242b16e252bb79122adc18f5",
+      "size": 149429,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/e2d1403dace55b10242b16e252bb79122adc18f5"
+    },
+    {
+      "path": "scripts/Fig3/saved_data/Fig3D_AllDataLongSegment.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fe71372c81a61dbf5266fbe2b3d61e41f4e3bbd",
+      "size": 16834806,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/8fe71372c81a61dbf5266fbe2b3d61e41f4e3bbd"
+    },
+    {
+      "path": "scripts/Fig3/saved_data/Fig3F_AllDataShortSegment.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5de275d247b38af2b79d29fcece9a043e52f6f45",
+      "size": 2442916,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/5de275d247b38af2b79d29fcece9a043e52f6f45"
+    },
+    {
+      "path": "scripts/Fig4",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "626fe6977757fe63ff1c7040ce523213a2bf2928",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/626fe6977757fe63ff1c7040ce523213a2bf2928"
+    },
+    {
+      "path": "scripts/Fig4/Fig4B.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1a67e1c2deb89c379f6c3790006ddc52f2f79c5",
+      "size": 11240,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/e1a67e1c2deb89c379f6c3790006ddc52f2f79c5"
+    },
+    {
+      "path": "scripts/Fig4/Fig4C.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51e8b624d086a6a38a05f803bfcf3d0491fd1ebc",
+      "size": 11287,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/51e8b624d086a6a38a05f803bfcf3d0491fd1ebc"
+    },
+    {
+      "path": "scripts/Fig4/Fig4D.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7239760d0cfdb082a1852c8b9f7a23f75bf118b0",
+      "size": 11266,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/7239760d0cfdb082a1852c8b9f7a23f75bf118b0"
+    },
+    {
+      "path": "scripts/Fig4/Fig4E.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "447eafc38c1fbcc8e96f684fb251016f585b282f",
+      "size": 11263,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/447eafc38c1fbcc8e96f684fb251016f585b282f"
+    },
+    {
+      "path": "scripts/Fig4/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41fff4444ea39e23c9dd168f3ac3188df872579d",
+      "size": 843,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/41fff4444ea39e23c9dd168f3ac3188df872579d"
+    },
+    {
+      "path": "scripts/Fig4/network",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d7b869b340e4cf8a15fbba2ca33692a98d768ce5",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/d7b869b340e4cf8a15fbba2ca33692a98d768ce5"
+    },
+    {
+      "path": "scripts/Fig4/network/Geometry_Fig4_only_cap.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08d28e511de75ea53cd73274680d70464b5410af",
+      "size": 582,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/08d28e511de75ea53cd73274680d70464b5410af"
+    },
+    {
+      "path": "scripts/Fig4/saved_data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e533eef8853465273c74d523cb96dc36cad121b",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/1e533eef8853465273c74d523cb96dc36cad121b"
+    },
+    {
+      "path": "scripts/Fig4/saved_data/Fig4BCDE_TRPV_P0.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb59e1e0348cc2ef6c7c3fa26197f9f83fe2d30b",
+      "size": 918280,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/eb59e1e0348cc2ef6c7c3fa26197f9f83fe2d30b"
+    },
+    {
+      "path": "scripts/Fig5",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2dd5e61113c7b01337026cdb45a52aa99801b447",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/2dd5e61113c7b01337026cdb45a52aa99801b447"
+    },
+    {
+      "path": "scripts/Fig5/Fig5A.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e677662f7f16dbd32b2bfff9f36c6fafcca860e",
+      "size": 19162,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/0e677662f7f16dbd32b2bfff9f36c6fafcca860e"
+    },
+    {
+      "path": "scripts/Fig5/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b58a907302ae8f0a899a3630257924c96e00eb94",
+      "size": 398,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/b58a907302ae8f0a899a3630257924c96e00eb94"
+    },
+    {
+      "path": "scripts/Fig5/network",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e9133372c9d81a5986268bdd23b4e747f676a5fb",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/e9133372c9d81a5986268bdd23b4e747f676a5fb"
+    },
+    {
+      "path": "scripts/Fig5/network/Geometry_Fig5.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7fae79ec5ae785436e7ccc5dbbcc7bb0efb1b52",
+      "size": 10316,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/d7fae79ec5ae785436e7ccc5dbbcc7bb0efb1b52"
+    },
+    {
+      "path": "scripts/Fig6",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "99931c230f48562673d2cd1a6cb4c468049b1b45",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/99931c230f48562673d2cd1a6cb4c468049b1b45"
+    },
+    {
+      "path": "scripts/Fig6/Fig6A.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe5afc17daabdef04dcf515c3679112fe05de7b7",
+      "size": 5250,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/fe5afc17daabdef04dcf515c3679112fe05de7b7"
+    },
+    {
+      "path": "scripts/Fig6/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3068e6573efb12a1249324b5b90d3a6d29998ca3",
+      "size": 358,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/3068e6573efb12a1249324b5b90d3a6d29998ca3"
+    },
+    {
+      "path": "scripts/Fig6/network",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cb5fa00fdc1bb3e862d87c619ea4e4d144aaca63",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/cb5fa00fdc1bb3e862d87c619ea4e4d144aaca63"
+    },
+    {
+      "path": "scripts/Fig6/network/Geometry_Fig6_Fig7B.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98fb8fb0162e500beff3e25af6c053860c46e9a5",
+      "size": 139297,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/98fb8fb0162e500beff3e25af6c053860c46e9a5"
+    },
+    {
+      "path": "scripts/Fig6/scriptFig6A.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98f742b01445931277a95da5b10d753e2f12e267",
+      "size": 5937,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/98f742b01445931277a95da5b10d753e2f12e267"
+    },
+    {
+      "path": "scripts/Fig7",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5ed8cace6efa30708e9b8461870b8c774875f9a8",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/5ed8cace6efa30708e9b8461870b8c774875f9a8"
+    },
+    {
+      "path": "scripts/Fig7/Fig7A2.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d5a4d03fcbcfe58557688bc59e4909bc1fcbafd",
+      "size": 11612,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/5d5a4d03fcbcfe58557688bc59e4909bc1fcbafd"
+    },
+    {
+      "path": "scripts/Fig7/Fig7A3.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af2edc5634211cc05f39ca275943c8087e3b212a",
+      "size": 16983,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/af2edc5634211cc05f39ca275943c8087e3b212a"
+    },
+    {
+      "path": "scripts/Fig7/Fig7B.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb3a2fccb9cc3bdf6d5b789bb09992a47c7ef631",
+      "size": 11470,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/eb3a2fccb9cc3bdf6d5b789bb09992a47c7ef631"
+    },
+    {
+      "path": "scripts/Fig7/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad77cd1197b4ae821adc12b9aa57c86668820dea",
+      "size": 792,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/ad77cd1197b4ae821adc12b9aa57c86668820dea"
+    },
+    {
+      "path": "scripts/Fig7/network",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5238fb87f9f680e7c6528bf0802b4ba8af8c2b16",
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/trees/5238fb87f9f680e7c6528bf0802b4ba8af8c2b16"
+    },
+    {
+      "path": "scripts/Fig7/network/Geometry_Fig7A.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d94c60b0d2261258028b59432a6ed1847070eea9",
+      "size": 502043,
+      "url": "https://api.github.com/repos/ntsoukias/Capillary-Kir-Model/git/blobs/d94c60b0d2261258028b59432a6ed1847070eea9"
+    }
+  ],
+  "truncated": false
+}
