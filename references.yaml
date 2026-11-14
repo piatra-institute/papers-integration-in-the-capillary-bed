@@ -207,3 +207,149 @@ references:
   volume: '41'
   issue: '13'
   page: '111872'
+- id: wessel1999
+  type: article-journal
+  author:
+  - family: Wessel
+    given: Ralf
+  - family: Kristan
+    given: William B.
+    suffix: Jr
+  - family: Kleinfeld
+    given: David
+  issued:
+    date-parts:
+    - - 1999
+      - 7
+      - 15
+  title: 'Supralinear Summation of Synaptic Inputs by an Invertebrate Neuron: Dendritic Gain Is Mediated by an “Inward
+    Rectifier” K<sup>+</sup> Current'
+  container-title: The Journal of Neuroscience
+  DOI: 10.1523/jneurosci.19-14-05875.1999
+  URL: https://doi.org/10.1523/jneurosci.19-14-05875.1999
+  volume: '19'
+  issue: '14'
+  page: 5875-5888
+- id: rall1967
+  type: article-journal
+  author:
+  - family: Rall
+    given: W
+  issued:
+    date-parts:
+    - - 1967
+      - 9
+  title: Distinguishing theoretical synaptic potentials computed for different soma-dendritic distributions of synaptic
+    input.
+  container-title: Journal of Neurophysiology
+  DOI: 10.1152/jn.1967.30.5.1138
+  URL: https://doi.org/10.1152/jn.1967.30.5.1138
+  volume: '30'
+  issue: '5'
+  page: 1138-1168
+- id: crane2004
+  type: article-journal
+  author:
+  - family: Crane
+    given: Glenis J.
+  - family: Neild
+    given: Timothy O.
+  - family: Segal
+    given: Steven S.
+  issued:
+    date-parts:
+    - - 2004
+      - 7
+      - 8
+  title: Contribution of Active Membrane Processes to Conducted Hyperpolarization in Arterioles of Hamster Cheek
+    Pouch
+  container-title: Microcirculation
+  DOI: 10.1080/10739680490457836
+  URL: https://doi.org/10.1080/10739680490457836
+  volume: '11'
+  issue: '5'
+  page: 427-435
+- id: diep2005
+  type: article-journal
+  author:
+  - family: Diep
+    given: Hai K.
+  - family: Vigmond
+    given: Edward J.
+  - family: Segal
+    given: Steven S.
+  - family: Welsh
+    given: Donald G.
+  issued:
+    date-parts:
+    - - 2005
+      - 9
+      - 28
+  title: 'Defining electrical communication in skeletal muscle resistance arteries: a computational approach'
+  container-title: The Journal of Physiology
+  DOI: 10.1113/jphysiol.2005.090233
+  URL: https://doi.org/10.1113/jphysiol.2005.090233
+  volume: '568'
+  issue: '1'
+  page: 267-281
+- id: hald2012
+  type: article-journal
+  author:
+  - family: Hald
+    given: Bjørn Olav
+  - family: Jensen
+    given: Lars Jørn
+  - family: Sørensen
+    given: Preben Graae
+  - family: Holstein-Rathlou
+    given: Niels-Henrik
+  - family: Brings Jacobsen
+    given: Jens Christian
+  issued:
+    date-parts:
+    - - 2012
+      - 3
+  title: Applicability of Cable Theory to Vascular Conducted Responses
+  container-title: Biophysical Journal
+  DOI: 10.1016/j.bpj.2012.01.055
+  URL: https://doi.org/10.1016/j.bpj.2012.01.055
+  volume: '102'
+  issue: '6'
+  page: 1352-1362
+- id: segal2015
+  type: article-journal
+  author:
+  - family: Segal
+    given: Steven S.
+  issued:
+    date-parts:
+    - - 2015
+  title: Integration and Modulation of Intercellular Signaling Underlying Blood Flow Control
+  container-title: Journal of Vascular Research
+  DOI: 10.1159/000439112
+  URL: https://doi.org/10.1159/000439112
+  volume: '52'
+  issue: '2'
+  page: 136-157
+- id: harraz2018
+  type: article-journal
+  author:
+  - family: Harraz
+    given: Osama F
+  - family: Longden
+    given: Thomas A
+  - family: Hill-Eubanks
+    given: David
+  - family: Nelson
+    given: Mark T
+  issued:
+    date-parts:
+    - - 2018
+      - 8
+      - 7
+  title: PIP2 depletion promotes TRPV4 channel activity in mouse brain capillary endothelial cells
+  container-title: eLife
+  DOI: 10.7554/elife.38689
+  URL: https://doi.org/10.7554/elife.38689
+  volume: '7'
+  page: e38689

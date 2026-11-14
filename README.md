@@ -1,6 +1,6 @@
 # Integration in the Capillary Bed
 
-A biophysical modeling study of paired-input electrical signaling from cerebral capillaries to an arteriole. The study compares distributed potassium-channel dynamics with passive conduction, independent local sensors, a compact dynamic filter and refitted ablations using single-site calibration, held-out paired stimuli and a common vascular output transform.
+A biophysical modeling study of paired-input electrical signaling from cerebral capillaries to an arteriole. The study compares distributed potassium-channel dynamics with passive conduction, independent local sensors, a bounded pooled dynamic filter and refitted ablations using single-site calibration, held-out paired stimuli and a common vascular output transform.
 
 [Read the paper](https://piatra.institute/papers/integration-in-the-capillary-bed.pdf)
 

@@ -1,0 +1,2366 @@
+
+
+
+    
+
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+  
+
+
+  
+
+
+
+  
+  
+    
+
+  
+
+
+
+        
+            
+            
+            
+            
+            
+            
+            
+            
+        
+
+        
+            Supralinear Summation of Synaptic Inputs by an Invertebrate Neuron: Dendritic Gain Is Mediated by an “Inward Rectifier” K+ Current - PMC
+        
+
+        
+        
+  
+  
+
+
+
+
+
+
+  
+    
+
+    
+        
+    
+
+    
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+        
+    
+      Skip to main content
+    
+
+
+        
+            
+
+
+    
+
+        
+            
+
+                
+
+                    
+                
+
+                
+
+                    
+
+                        An official website of the United States government
+                    
+                    Here's how you know
+                
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                    Here's how you know
+                
+
+        
+    
+        
+            
+        
+
+
+            
+        
+
+        
+
+            
+
+                
+
+                    
+                    
+
+                        
+
+                            Official websites use .gov
+                            
+                            A
+                            .gov website belongs to an official
+                            government organization in the United States.
+                        
+                    
+                
+
+                
+
+                    
+
+                    
+
+                        
+
+                            Secure .gov websites use HTTPS
+                            
+                            A lock (
+                            
+                                
+                                    Lock
+                                    
+                                    Locked padlock icon
+                                    
+                                    
+                                
+) or https:// means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            
+                        
+                    
+                
+            
+        
+    
+
+        
+
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+        
+
+            
+                
+            
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                
+                    
+                
+            
+
+        
+    
+        
+            
+        
+
+
+
+            
+                
+                
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                            
+
+
+
+    
+
+
+                            Search
+                        
+
+        
+    
+        
+            
+        
+
+
+                    
+
+                    
+                    
+                        
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                                
+
+
+
+    
+
+
+
+                                Log in
+
+                                
+                                
+
+
+
+    
+
+
+
+                                
+                                
+
+
+
+    
+
+
+                            
+
+        
+    
+        
+            
+        
+
+
+
+                            
+                            
+                                
+                                    
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Dashboard
+        
+
+        
+    
+
+
+                                    
+                                
+                                    
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Publications
+        
+
+        
+    
+
+
+                                    
+                                
+                                    
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Account settings
+        
+
+        
+    
+
+
+                                    
+                                
+                                
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        Log out
+
+        
+    
+        
+            
+        
+
+
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+    
+    
+        
+
+            
+
+                
+                    
+                        Search…
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                        
+                            Search NCBI
+                        
+                    
+
+        
+    
+        
+            
+        
+
+
+                
+
+                
+            
+        
+    
+
+    
+        
+
+            Primary site navigation
+        
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+            
+        
+
+        
+    
+        
+            
+        
+
+
+
+        
+            
+            
+                
+                    Search
+                
+
+                
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        
+                    
+                    
+                
+
+        
+    
+        
+            
+        
+
+
+            
+
+            
+        
+
+        
+        
+        
+
+        
+            
+
+                
+
+                    Logged in as:
+                    
+                
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Dashboard
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Publications
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Account settings
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+        
+
+        Log in
+
+        
+    
+        
+            
+        
+
+
+    
+
+
+    
+    
+        
+
+
+    
+
+        
+
+           
+
+               
+           
+            
+                
+                
+            
+        
+        
+
+            
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+Search in PMC
+
+
+
+            
+
+                
+                    
+                        
+                            
+                                Journal List
+                            
+                        
+                    
+                    
+                        
+                            
+                                User Guide
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+    
+
+
+        
+        
+
+       
+  
+
+
+    
+
+   
+
+
+
+
+
+    
+
+        
+
+             
+
+                
+                    
+                        
+                            
+                        
+                    
+                    
+                    
+                        
+                                
+                        
+                    
+                    
+                    
+                        
+                             
+
+                                 
+                            
+                        
+                    
+                    
+                        
+                            
+                            
+                        
+                    
+                    
+                    
+                        
+                            
+                        
+                    
+                    
+                    
+                         
+                            
+                        
+                        
+
+
+
+    
+
+          
+PERMALINK
+          
+
+              
+              
+                  
+                  Copy
+              
+          
+    
+
+                    
+                
+            
+            
+                
+            
+        
+    
+
+    
+
+      
+
+        
+
+            
+
+                
+
+                    
+
+                        
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    Learn more:
+    PMC Disclaimer
+    |
+    
+        PMC Copyright Notice
+    
+
+                    
+                
+                
+
+                    
+                    
+
+                      
+                        
+
+
+J Neurosci. 1999 Jul 15;19(14):5875–5888. doi: 10.1523/JNEUROSCI.19-14-05875.1999
+
+
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+
+
+
+Supralinear Summation of Synaptic Inputs by an Invertebrate Neuron: Dendritic Gain Is Mediated by an “Inward Rectifier” K+ Current
+
+Ralf Wessel
+
+
+Ralf Wessel
+
+
+1Departments of Physics and 
+
+Find articles by Ralf Wessel
+
+
+1, William B Kristan Jr
+
+
+William B Kristan Jr
+
+
+2Biology, University of California at San Diego, La Jolla, California 92093
+
+Find articles by William B Kristan Jr
+
+
+2, David Kleinfeld
+
+
+David Kleinfeld
+
+
+1Departments of Physics and 
+
+Find articles by David Kleinfeld
+
+
+1
+
+
+Author information
+Article notes
+Copyright and License information
+
+
+
+
+
+
+
+1Departments of Physics and 
+
+
+2Biology, University of California at San Diego, La Jolla, California 92093
+
+
+
+
+Received 1999 Mar 3; Revised 1999 Apr 15; Accepted 1999 May 4.
+
+
+
+Copyright © 1999 Society for Neuroscience
+
+PMC Copyright notice
+
+
+
+PMCID: PMC6783099  PMID: 10407027
+
+
+Abstract
+
+Dendritic processing of glutamatergic synaptic inputs was investigated in the anterior pagoda cell of leech. We observed that below spike threshold, the amplitude of individual EPSPs decreased with hyperpolarization and that simultaneous stimulation of pairs of synaptic inputs leads to the supralinear summation of EPSPs. Voltage-clamp measurements revealed a hyperpolarization-activated, Ba2+-sensitive, fast, noninactivating K+ conductance that depends on the external [K+]. These features are those of an “inward rectifier,” Kir. Microsurgery experiments, in combination with electrophysiological measurements, revealed an inhomogeneous spatial distribution of the Kir conductance. Furthermore, on surgical removal of the neurites that contain the Kir conductance, the amplitude of EPSPs from the remaining synaptic inputs increased with hyperpolarization. A model cell, with the Kir conductance as the sole voltage-dependent conductance, reproduced qualitatively the observed voltage dependence of individual EPSPs as well as the supralinear summation of EPSP pairs.
+
+Keywords: dendritic processing, leech, inward rectifier, supralinear summation, model, synaptic inputs
+
+Most neuronal dendrites have various voltage-gated channels (for review, see Midtgaard, 1994; Johnston et al., 1996; Yuste and Tank, 1996; Magee et al., 1998) along with ligand-gated channels that are activated by synaptic inputs from many presynaptic neurons. Understanding the interaction of membrane and synaptic properties is essential for the study of information processing in nervous systems (for review, see Borst and Egelhaaf, 1994; Mel, 1994; Koch, 1999).
+
+When two neighboring regions of a passive dendrite receive simultaneous synaptic inputs of the same type, the resulting postsynaptic potential is less than the linear sum of the potentials generated by each synapse alone. Such sublinear summation is caused by the increase in the membrane conductance attributable to the synaptic conductance, and by the corresponding drop in synaptic driving force by each PSP on the other synapse. Sublinear summation has been demonstrated experimentally (Burke, 1967; Kuno and Miyahara, 1969; Haag et al., 1992, 1995). However, linear summation (Burke, 1967; Langmoen and Andersen, 1983;Skydsgaard and Hounsgaard, 1994; Grabauskas and Bradley, 1996; Cash and Yuste, 1998) and supralinear summation (Margulis and Tang, 1998) have been observed as well, suggesting that the dendrites have voltage-gated channels that counteract the sources of sublinear summation. EPSP amplification has been shown in different neurons to be mediated by various mechanisms: activation of voltage-gated Na+ channels (Hirsch and Gilbert, 1991; Schwindt and Crill, 1995; Stuart and Sakmann, 1995; Haag and Borst, 1996; Lipowsky et al., 1996; Margulis and Tang, 1998), activation of voltage-gated Ca2+ channels (Deisz et al., 1991; Gillessen and Alzheimer, 1997; Seamans, 1997), and deactivation of the “inward rectifier” potassium channel Kir, (Kandel and Tauc, 1966; Kawaguchi et al., 1989).
+
+We examine dendritic integration in the nervous system of the medicinal leech (Muller et al., 1981). Specifically we have studied inputs from the pressure-sensitive sensory cells (P cell) onto the anterior pagoda (AP) cell (Stewart et al., 1989; Gu, 1991; Wolszon et al., 1995;Melinek and Muller, 1996; Osborn and Zipser, 1996) (Fig.1). The P cells make monosynaptic excitatory inputs onto the AP cell at specific locations in their neurites (Gu, 1991). A spike triggered in a P cell by a short current-pulse injection induces an EPSP in the AP cell (Gu, 1991). There are two P cells on each side, with similar morphology within the central neuropil (Muller and McMahan, 1976). P cells are mirror symmetric across the midline to their contralateral partner. In the intact leech the P cells respond to pressure on the skin and have receptive fields on the dorsal (Pd) and ventral (Pv) ipsilateral side of the skin (Nicholls and Baylor, 1968).
+
+
+Fig. 1.
+
+
+
+Open in a new tab
+
+Morphology of the AP cell and the contralateral dorsal P cell. A, Light microscopic image of the AP cell (yellow/green, fluorescein-filled) and one of the two contralateral P cells, the dorsal P cell (orange/red, rhodamine-filled). Note the extensive overlap of the AP and P cell neurites contralateral to the AP cell soma. All four P cells have similar morphology and are mirror symmetric across the midline to the P cells on the opposite side. The dim somata result from autofluorescence and serve to show the outline of the ganglion. Anterior is up. Scale bar, 100 μm. B, Schematic of the P-to-AP cell circuit.
+In the present study we ask the following questions. (1) What are the characteristics of individual P cell inputs to the AP cell? (2) What is the nature of the interaction among simultaneous P cell inputs? (3) How is such interaction mediated by synaptic or cellular properties?
+
+MATERIALS AND METHODS
+
+Preparation, dissection, and solutions. Leeches (Hirudo medicinalis) were obtained from a commercial supplier (Leeches USA, Westbury, NY) and maintained in artificial pond water at 15°C. Animals were anesthetized in ice-cold saline, and individual ganglia were dissected using surgical methods similar to those described previously (Muller et al., 1981). Ganglia were pinned ventral side up in Sylgard (Dow-Corning, Midland, MI)-lined Petri dishes (bath volume, 10 ml), and the connective tissue sheath over the neuronal somata was removed with fine scissors. For the hemisectioning experiments, the ganglia were cut at the desired location with a scalpel blade, and the AP cell was hyperpolarized below −60 mV with current injection for 30 min. Ganglia were superfused (3 ml/min) with normal leech saline containing (in mm): NaCl 115, KCl 4, CaCl2 1.8, MgCl2 1.5, glucose 10, Tris-maleate 4.6, Tris-base 5.4, pH 7.4. Equimolar amounts ofN-methyl-d-glucamine replaced Na+ in 0 Na+ salines. Equimolar amounts of Co2+ replaced Ca2+ in 0 Ca2+ salines. In solutions with increased Ca2+ or K+ concentration, the Na+ concentration was reduced by equal amounts to maintain osmolarity. Experiments were performed at room temperature (20–23°C).
+
+Electrophysiology. Intracellular recordings were made with sharp borosilicate microelectrodes (1 mm outer diameter, 0.75 mm inner diameter, A-M Systems, Carlsborg, WA) pulled on a micropipette puller (P-80, Sutter Instruments, Novato, CA) filled with 3 mK-acetate with resistances of 40–80 mOhm. An Axoprobe 1A (Axon Instruments, Foster City, CA) was used for current-clamp measurements, and an Axoclamp 2B (Axon Instruments) was used for either current-clamp (bridge mode) or two-electrode voltage-clamp (TEVC-mode) measurements. Analog data were low pass-filtered (four-pole Butterworth) at 1 kHz, digitized at 2 kHz, stored, and analyzed on a personal computer equipped with AT-MIO-16E-1 (National Instruments, Austin, TX) and Labview (National Instruments).
+
+The AP cell was impaled with two microelectrodes, one for passing current and one for measuring voltage. P cell somata were impaled and a spike was triggered with a +3 nA, 10 msec current pulse, which in turn produced an EPSP in the AP cell. This EPSP was constant in size and shape for >2 hr when allowing for a 3 min recovery period between trials. For shorter recovery periods, the EPSP peak amplitude decreased. In normal leech saline the EPSP displayed multiple components, indicating the activation of polysynaptic inputs in addition to the monosynaptic input. All polysynaptic inputs were abolished in saline with [Ca2+]oraised from 1.8 to 10 mm, which raises spike threshold, thereby reducing the efficacy of polysynaptic pathways (Nicholls and Purves, 1970; Cohen et al., 1978; Getting, 1981). Raising both [Mg2+]o and [Ca2+]o also abolished polysynaptic pathways, but in addition led to reduced monosynaptic EPSP peak amplitudes (Nicholls and Purves, 1970); therefore this combination was not used. All experiments involving synaptic stimulation were performed in leech saline with [Ca2+]o = 10 mm, similar to previous studies of synaptic interaction in leech (Nicholls and Purves, 1970).
+
+Data are expressed in the text and figures as mean ± SEM.
+
+Histology. To observe pairs of P and AP cells in light microscopy, an AP cell was iontophoretically injected with Fluorescein dextran [5% in H2O, 3000 molecular weight (MW), Molecular Probes, Eugene, OR], and the P cell was injected with tetramethylrhodamine dextran (5% in H2O, 3000 MW, Molecular Probes) using sharp electrodes of 10–30 MΩ resistance and pulsed current (−5 ± 2 nA, 10 Hz, 30 min). The ganglia were fixed in 2% paraformaldehyde in 0.1 m phosphate buffer for 2–12 hr, rinsed in PBS, and mounted in a solution of 20% PBS and 80% glycerin. Digital images were taken at 20× magnification with a confocal microscope (Bio-Rad, MRC1024, Hercules, CA) equipped with a krypton/argon laser using the 488 and 563 nm lines for excitation, and the emission filters 540/30 for fluorescein and 585LP for tetramethylrhodamine. Images were adjusted with respect to brightness and contrast using Adobe Photoshop (Adobe Systems, Mountain View, CA).
+
+Numerical simulations. Simulations were programmed in LabVIEW (National Instruments) using the forward Euler method with an integration time-step of 0.01 msec. The capacitance wasC = 0.5 nF. For simplicity, synaptic input was modeled as a pulsed change in conductance from 0 to Gsynduring a period of 200 msec. Synapses had a reversal potential,Esyn, of 0 mV. The model included a voltage-independent leak conductance, GL, and a voltage-dependent inward rectifier conductance,GKir, with reversal potentials ofEL = −45 mV andEK = −80 mV, respectively. The Kir-channel model was of the form:
+
+
+
+GKir=Gmax1+exp((V−V1/2)/γ).
+Equation 1
+
+
+Because the inward rectifier acts so quickly, it is permissible to neglect any time dependence. To insure consistency with the EPSP measurements, all parameter values were taken from I–Vcurves measured with voltage-clamp in saline with [Ca2+]o raised to 10 mm. The parameter values for the conductances wereGL = 24 nS,Gmax = 28 nS,V1/2 = −67 mV, and γ = 8 mV. The one-compartment model was of the form:
+
+
+
+C dVdt=GKir(V)(EK−V)+GL(EL−V)+νηGsyn(Esyn−V)+Iinj,
+Equation 2
+
+
+with V the membrane potential andIinj the injected current. The variable η takes the value 1 during the time of synaptic stimulation and is 0 otherwise, and the variable ν specifies the number of synaptic inputs. The difference between the membrane potential before and at the end of the synaptic input was taken as the EPSP peak amplitude.
+
+In the two-compartment model the synaptic conductance, the inward rectifier conductance Gmax2, and a leak conductance, GL2, were placed in the “neurite” compartment that was connected through an axial conductance, Gax, with the “soma” compartment that contained the leak conductance and the injected current. In this model, the measured leak conductanceGL is the result of the combined leak conductances from both compartments. Assuming for simplicity the same leak conductance GL2 in each compartment, Kirchoff’s law yields the relation between the measured leak conductance GL and the leak conductanceGL2 in each compartment:GL = GL2(GL2 + 2Gax)/(GL2 +Gax). Similarly, because the Kir conductance was placed in the “neurite” compartment but not in the soma compartment, Kirchoff’s law yields the relation between the measured Kir conductance Gmax and the Kir conductance Gmax2 in the “neurite” compartment: Gmax2 = (GaxGmax)/(Gax− Gmax). For the considered axial conductance of 40 nS, the relations yieldGL2 = 14 nS andGmax2 = 93 nS. The two-compartment model was of the form:
+
+
+
+C dVsdt=GL2(EL−VS)+Gax(VN−VS)+Iinj,
+Equation 3
+
+
+for the “soma” compartment and
+
+
+
+C dVNdt=GL2(EL−VN)+Gax(VS−VN)+GKir2(V)(EK−VN)+νηGsyn(Esyn−VN),
+Equation 4
+
+
+for the “neurite” compartment, withVS and VN the membrane potentials in the “soma” and “neurite” compartments, respectively, and GKir2(V) given by Equation 1 with parameters Gmax2 = 93 nS, V1/2 = −67 mV, γ = 11 mV, and Gsyn = 9 nS.
+RESULTS
+
+AMPA receptors mediating EPSPs
+
+We characterized the P-to-AP monosynaptic inputs under conditions that blocked polysynaptic pathways (see Materials and Methods) and found a major contribution to the EPSP from AMPA receptors and a much smaller fraction from an electrical coupling. When we blocked the presynaptic neurotransmitter release with saline that had its Ca2+ replaced by the Ca2+ channel blocker Co2+ (Simon et al., 1992), the EPSPs were reduced by 87 ± 1% (mean ± SEM, n = 3 cells) (Fig. 2A), suggesting that chemical transmission was the dominant source of the EPSP, with the residue caused by an electrical coupling.
+
+
+Fig. 2.
+
+
+
+Open in a new tab
+
+Contribution of AMPA receptors to P-to-AP EPSPs.A, Unitary average EPSPs (average of 4 trials) in response to contralateral Pd stimulation at an initial membrane potential of −65 mV in leech saline (10 mmCa2+) and in saline with 0 mmCa2+ and 1.8 mm Co2+, as indicated. B, Unitary average EPSPs (average of 4 trials) in response to contralateral Pd stimulation at an initial membrane potential of −65 mV in leech saline (10 mm Ca2+) and in the presence of 50 μm APV, as indicated. C, Unitary average EPSPs (average of 4 trials) in response to contralateral Pdstimulation at an initial membrane potential of −65 mV in leech saline (10 mm Ca2+), in the presence of 50 μm CNQX, and in the presence of of 50 μmCNQX and 50 μm APV, as indicated.
+The effect of APV was tested at holding potentials of −65 mV, i.e., below the threshold for spiking. The amplitude and time course of the average evoked EPSP were unaffected by the addition of 50 μm APV to the extracellular solution (n = 9 cells) (Fig. 2B). Assuming that APV blocks invertebrate NMDA receptors, this result suggests that NMDA receptors either are absent from the P-to-AP synapses or blocked by extracellular Mg2+ in the subthreshold range of membrane potentials. This observation is consistent with previous studies of other leech synapses that also failed to reveal APV-sensitive transmission (Thorogood and Brodfuehrer, 1995).
+
+The EPSP was reduced by 75 ± 2% (n = 12 cells) after addition of 50 μm CNQX to the extracellular solution (Fig. 2C), which suggests that the EPSPs are largely mediated by AMPA receptors. The remaining EPSP was not affected by further addition of 50 μm APV to the extracellular solution (n = 3 cells). Furthermore, this remaining EPSP did not depress in response to a train of 10 spikes at 5 Hz (n = 5 cells; data not shown), thus strengthening the hypothesis that the residue is caused by an electrical coupling as suggested above (Fig. 2A). At a membrane potential of −120 mV the EPSP was reduced by 73 ± 5% (n = 3 cells) after addition of 50 μm CNQX to the extracellular solution (data not shown), which suggests that at this membrane potential the response maintains a chemical component.
+Voltage dependence of EPSPs
+
+The amplitude and time course of the P-to-AP EPSPs displayed a voltage dependence that is anomalous for an AMPA response (Fig.3A). Below the threshold for spiking (approximately −50 mV in 10 mmCa2+ saline), the EPSP peak amplitude (Fig.3B, thick trace) (n = 9 cells) and duration (Fig. 3C) (n = 9 cells) decreased with hyperpolarization and did not reverse, even at soma membrane potentials well below the potassium equilibrium potentialEK. The voltage response to a constant current pulse (2000 msec, +0.2 nA) (Fig. 3B, inset) injected into the soma also decreased with hyperpolarization (Fig.3B, thin trace) (n = 10 cells). This voltage dependence is similar to the one of the EPSP peak amplitude, which suggests that the EPSP voltage dependence is caused by a postsynaptic membrane current rather than synaptic properties. The difference between the two voltage dependencies above −80 mV occurs because in the case of the current injection the amplitude of the current is constant, whereas in the case of synaptic stimulation the synaptic current decreases with depolarization attributable to the accompanying reduction in driving force.
+
+
+Fig. 3.
+
+
+
+Open in a new tab
+
+Dendritic gain in AP cells decreases with hyperpolarization in the subthreshold range. A, Response of a representative AP cell to synaptic stimulation via the contralateral dorsal P cell at different membrane potentials in saline with [Ca2+]o elevated to 10 mm. The amplitude and width of the EPSP decrease with hyperpolarization but do not reverse even at soma membrane potentials well below the potassium equilibrium potential. The arrow indicates the timing of the stimulus. B, Plots showing how the EPSP amplitude and the voltage response varied with initial membrane potential.Left axis, EPSP peak amplitude versus initial membrane potential for nine AP cells tested. Right axis, Average steady-state voltage responses to +0.2 nA, 2000 msec current pulses versus initial membrane potential (n = 10 AP cells). Inset, Voltage responses to +0.2 nA, 2000 msec current pulses at different initial membrane potentials.C, EPSP half-width versus initial membrane potential for nine AP cells.
+Supralinear summation of synaptic inputs
+
+To investigate synaptic interactions in the AP cell, we stimulated two P cells from the same side of the ganglion, first separately and then simultaneously, and compared the algebraic sum of the separate EPSPs with the EPSP elicited by simultaneous stimulation. Supralinear summation was observed when the initial membrane potential was between −110 and −70 mV (Fig.4A) (average of eight trials). The two bottom traces are the responses from separate ventral (Pv) and dorsal (Pd) contralateral P cell inputs. The gray trace indicates the algebraic sum of the two EPSPs, and the top trace is the response obtained from simultaneous stimulation of both P cells; it is significantly higher than the gray trace. We define a measure of linearity as:
+
+
+%linearity≡peaksimultaneouspeakalgebraic sum×100
+
+
+=VPdPv−Vin(VPd−Vin)+(VPv−Vin)×100,
+Equation 5
+
+
+with Vin the initial membrane potential,VPdPv the peak membrane potential after simultaneous activation of Pd and Pv, and VPd or VPv the peak membrane potential after separate activation of Pd or Pv, respectively. The EPSP peak amplitude for simultaneous stimulation was 122 ± 5% of the algebraic sum of the separate stimulation. For simultaneous stimulation of contralateral (contra/contra; 21 cells) or ipsilateral (ipsi/ipsi; six cells) P cells, we found supralinear summation in the range of initial membrane potential between −110 and −70 mV (average % linearity = 117 ± 2 and 117 ± 5% for contra/contra and ipsi/ipsi, respectively) (Fig. 4B). The EPSP peak amplitude for simultaneous stimulation decreased with hyperpolarization and covered a range between 2 and 16 mV (Fig. 4B,inset). Because EPSPs from ipsilateral stimulation were smaller in general than those from contralateral stimulation, we chose contra/contra stimulation for most experiments. Because of the small size of the EPSPs, we did not explore summation for ipsi/ipsi stimulation below a membrane potential of −90 mV. Synaptic inputs from opposite sides (ipsi/contra, n = 9 cells) summed in a linear manner (average % linearity = 102 ± 2%), suggesting that synaptic inputs from opposite sides are electrically remote from each other. This observation is consistent with the anatomical observation that the processes of a P cell remain largely on the same side as the soma (Fig. 1).
+
+
+Fig. 4.
+
+
+
+Open in a new tab
+
+Supralinear summation of synaptic inputs from two sources. A, Averaged results from a representative AP cell (8 trials). The preparation was in a saline with high Ca2+ concentration to avoid polysynaptic pathways. The two bottom traces are the responses from individual ventral and dorsal P cell stimulation. The somata of both P cells were contralateral to the AP cell soma. In this case, the EPSP from Pv is smaller than from Pd, although the relative sizes varied in different preparations. The gray trace indicates the algebraic sum of the two EPSPs. Thetop trace is the response to simultaneous stimulation of both P cells; its peak is 122% of the algebraic sum of individual stimulation. B, Peak EPSP from simultaneous stimulation of contralateral dorsal and ventral (▪, 21 cells) or ipsilateral dorsal and ventral (■, 6 cells) P cells expressed as % of algebraic sum at different membrane potentials (mean ± SEM; 5–10 trials). The arrow indicates the zero-current membrane potentialVo. Inset, EPSP peak amplitude from simultaneous stimulation of dorsal and ventral P cells for the data points shown in the main figure, showing that the EPSP amplitudes decrease with hyperpolarization, as in Figure3B.
+Cellular properties: the inward rectifier Kir
+
+To test the possibility that the voltage dependence and supralinear summation of EPSPs is caused by postsynaptic membrane properties, we used a two-electrode voltage clamp to measure theI–V characteristics of AP cells. We note that the voltage clamp is only assumed to be effective in the AP cell soma. When the cell membrane potential was stepped to test voltages between −120 and −30 mV from a holding potential of −70 mV with the ganglion in normal leech saline, the resulting current showed a strong inward rectification. Furthermore, the current activated in <1 msec, and for test voltages below −50 mV it did not inactivate during the 3 sec voltage steps used in these experiments (Fig.5A). The steady-stateI–V curve measured from the current at the end of the 3 sec voltage step was strongly nonlinear (Fig. 5B, thick trace) (n = 8 cells). In 0 Na+, 0 Ca2+, 1.8 mm Co2+saline, chosen to isolate K+ and Cl− currents, the I–V curve was only marginally changed (Fig. 5B, dotted line) (n = 7 cells). The shift of the zero-current potential to a more hyperpolarized level is presumably attributable to the absence of the Na+ and Ca2+ leak currents. In contrast, an increase of [K+]o to 15 and 45 mm led to a significant increase of the inward current (Fig. 5B,thin lines) (n = 6 cells), strongly suggesting that K+ is the dominant current carrier.
+
+
+Fig. 5.
+
+
+
+Open in a new tab
+
+Evidence for an inward rectifier, Kir.A, Current–response (average of 9 trials) to voltage steps from a holding potential of −70 mV to various test membrane potentials between −120 and −30 mV. B, The current at the end of the 3 sec voltage step plotted versus the test membrane potential in (1) normal leech saline ([K+]o = 4 mm) (average of 8 cells), (2) 0 Na+, 0 Ca2+, 1.8 mm Co2+saline (average of 7 cells), (3) saline with [K+]o elevated to 15 (average of 6 cells), and (4) saline with [K+]oelevated to 45 mm (average of 5 cells). C, Measured current, IM, in normal saline ([K+]o = 4 mm) minus the non-K+ leak current,IL =GL(V −EL). The value of the equilibrium leak potential, EL, was assumed to be −50 mV, and the non-K+ leak conductance was estimated for each cell from the measured current,IM,EK, at the assumedEK value of −80 mV:GL =IM,EK/(EK− EL). The insetshows the measured current and the estimated non-K+leak current for one representative cell. D, Potassium chord conductance, G = (IM −IL)/(V −EK). The continuous curve is a least-squares fit of the Boltzmann equation to the data points. The fitting parameters are Gmax = 40 nS,V1/2 = −76 mV, and γ = 12 mV. For comparison the average non-K+ leak conductance,GL = 28 ± 2 nS, is indicated by the horizontal arrow. The inset shows the potassium chord conductance for [K+]o = 15 and 45 mm, estimated as described in the text. For comparison the chord conductance for [K+]o = 4 mm (i.e., the data shown in the graph) is replotted in the inset.
+In an attempt to separate the K+ current from the measured current IM, we assumed that the measured current is the sum of the K+ currentIK =GK(V −EK), and a non-K+ leak current IL =GL(V −EL) (Hagiwara and Yoshii, 1979), with a voltage-independent conductance,GL, and a reversal potential,EL = −50 mV, a value assumed close to the zero-current membrane potential that was used previously in modeling studies of leech neurons (Calabrese et al., 1995). At the equilibrium potential for potassium, EK, the K+ current vanishes and thus at V =EK the measured currentIM,EK is equal to the non-K+leak current, i.e., IM,EK =IL,EK =GL(EK −EL). We estimated the non-K+ leak conductance for each cell using the relation GL =IM,EK/(EK −EL).
+
+The value of EK for leech neurons has been estimated by various methods: extrapolation from the change of membrane potential with [K+]o(EK = −83 mV) (Nicholls and Kuffler, 1964), flame photometry (EK = −86 mV) (Nicholls and Kuffler, 1965), and ion exchanger microelectrodes (EK = −80 mV) (Deitmer and Schlue, 1981;Schlue and Deitmer, 1984). A value of EK = −80 mV has been used previously in modeling studies in the leech (Calabrese et al., 1995). We took EK = −80 mV for our data analysis.
+
+With these assumptions in mind, subtracting for each cell the estimated non-K+ leak current IL =GL(V −EL) from the measured currentIM reveals the potassium currentIK = IM −IL for that cell. For illustration, the measured current IM and the estimated non-K+ leak current IL are shown for one representative AP cell in Figure 5C(inset). Because the leak current varies between cells, we performed this procedure on each cell rather than on the mean to minimize the variation in the estimated potassium current between cells. The average potassium current thus derived from eight cells is shown in Figure 5C. The shape of the potassiumI–V curve with a local minimum at −50 mV suggests that there is only a minor contribution of a potassium leak current to this I–V curve. An upper bound of the potassium leak current is a straight line that crosses the data point atEK = −80 mV and the data point at the local minimum at −50 mV, yielding a potassium leak conductance of <2.7 nS. Above −50 mV, additional potassium conductances that are activated with depolarization contribute to the current. Thus data points above −50 mV were excluded from the subsequent analysis of the potassium chord conductance.
+
+From the average potassium I–V curveIK = IM −IL, we obtained the potassium chord conductance:
+
+
+
+GK=IM−ILV−EK,
+Equation 6
+
+
+(Fig. 5D, black dots). The continuous curve is a least-squares fit of a Boltzmann factor:
+
+
+
+GK=Gmax1+exp((V−V1/2)/γ),
+Equation 7
+
+
+to the calculated data points. The fitting parameters are the maximal conductance, Gmax = 40 nS, the membrane potential at which the conductance is half-activated,V1/2 = −76 mV, and the slope factor, γ = 12 mV. Because γ = kT/ze, wherekT is the thermal energy (25 meV at T = 297 K), e is the elementary electric charge, and z is the number of effective charges of the gating particle, the value of γ = 12 mV yields approximately z = 2.
+
+The observed features of this potassium conductance, i.e., (1) opening with hyperpolarization, (2) activation in <1 msec, and (3) no inactivation, are consistent with the previously described inward rectifier Kir (Hagiwara and Jaffe, 1979; Hagiwara, 1983; Doupnik et al., 1995; Fakler and Ruppersberg, 1996; Isomoto et al., 1997; Nichols and Lopatin, 1997).
+
+In our experiments the chord conductance was best fitted to a Boltzmann expression with a slope factor of γ = 12 mV, corresponding to an effective gating charge of z = 2. Interestingly, the estimated effective gating charge is consistent with the Mg2+ block that controls, in part, rectification for Kir channels (Vandenberg, 1987). Inward rectification has previously been fitted to a Boltzman expression with a similar steepness for the voltage dependence: γ = 7 (Hagiwara and Takahashi, 1974); γ = 12–14 (Stanfield et al., 1985); γ = 6–15 (Williams et al., 1988); γ = 10–15 (Lopatin et al., 1994); γ = 12 (Dong and Werblin, 1995); γ = 10 (Aleksandrov et al., 1996).
+
+This Kir conductance has been shown previously to be sensitive to external Ba2+ (Hagiwara et al., 1978; Constanti and Galvan, 1983; Tachibana, 1983; Shingai and Christensen, 1986; Williams et al., 1988; Uchimura et al., 1989; Kass et al., 1990; Golard et al., 1992; Kubo et al., 1993; Dong and Werblin, 1995; Holt and Eatock, 1995;Aleksandrov et al., 1996; Döring et al., 1998; Mermelstein et al., 1998; Töpert et al., 1998). For the AP cell, the current, measured in voltage-clamp at a test potential of −120 mV in 15 mm Ba2+, was reduced down to 56 ± 5% (mean ± SEM, n = 4 cells) compared with the value from control measurements in 0 Na+, 0 Ca2+, 1.8 mm Co2+saline. The Ba2+-sensitive current was similar in its voltage dependence (n = 2 cells; data not shown) to the estimated potassium current (Fig. 5C). Thus this aspect of the conductance is also consistent with the description of the inward rectifier.
+[K+]o-dependent gating
+
+It has been noted previously that the gating of the Kir conductance changes with external [K+]: with increased [K+]o, the chord conductance shifts to more depolarized levels and the maximal chord conductance increases (Hagiwara and Takahashi, 1974; Hagiwara et al., 1976; Hagiwara and Yoshii, 1979; Leech and Stanfield, 1981; Stanfield et al., 1985; Williams et al., 1988; Uchimura et al., 1989; Dong and Werblin, 1995; Holt and Eatock, 1995; Aleksandrov et al., 1996; Lopatin and Nichols, 1996a,b). To test whether the conductance under investigation displays this property, we measured the I–Vcurve in saline with [K+]o = 4, 15, and 45 mm (Fig. 5B). According to the Nernst equation and assuming that [K+]i= 96 mm (a value consistent with [K+]o = 4 mm andEK = −80 mV) is independent of [K+]o, the potassium equilibrium potential EK would be −47, and −19 mV for [K+]o = 15 and 45 mm, respectively. Assuming for simplicity thatEL and GL remain constant, we obtained the chord conductance as described above for [K+]o = 15 and 45 mm(Fig. 5D, inset) (n = 6 cells). For comparison, the chord conductance for [K+]o = 4 mm is replotted in the inset. The observed shift to more depolarized levels and the increase of the chord conductance with increasing [K+]o is consistent with the description of the Kir conductance.
+Spatial distribution of the Kir channels
+
+Microsurgery experiments, similar to those performed on hippocampal neurons (Benardo et al., 1982), in combination with slope resistance measurements revealed an inhomogeneous spatial distribution of the Kir conductance. Because of the activation of the Kir conductance with hyperpolarization, the observed voltage response to a constant-current pulse (+0.2 nA, 2000 msec) decreased with hyperpolarization in the intact ganglion (Fig.6A, intact,B, gray curve) (n = 10 cells). When the ganglion was cut (see Materials and Methods) between the ipsilateral lateral and the medial packet (Fig. 6A,cut), we observed that the voltage response to a constant-current pulse no longer decreased with hyperpolarization (Fig.6A, cut; Fig. 6B,black curve) (n = 11 cells). This observation indicates that the Kir channels are expressed contralateral but not ipsilateral to the cut, i.e., the border between the ipsilateral lateral and medial packet. Cutting the ganglion down the midline (data not shown) did not separate the soma from the Kir channels.
+
+
+Fig. 6.
+
+
+
+Open in a new tab
+
+Inhomogeneous spatial distribution of the Kir channels. A, Top, Schematic diagram of the AP cell in an intact (left) and surgically cut (right) ganglion. The location of the cut is indicated by the rectangle. Bottom, Voltage responses to +0.2 nA, 2000 msec current pulses at different initial membrane potentials for the intact (left) and cut (right) AP cell in normal saline. B, Average steady-state voltage responses to +0.2 nA, 2000 msec current pulses versus initial membrane potential for intact (gray, 10 cells) and cut (black, 11 cells) AP cells. The voltage response does not increase with depolarization in the cut cell, indicating a lack of Kir channels ipsilateral to the cut.C, Inset, EPSPs in response to stimulation of the synaptic input remaining after the cut (average of 8 trials alternating between a membrane potential of −65 and −95 mV). The presynaptic ipsilateral P cells were stimulated with +4 nA, 500 msec current pulses initiating an average of 20 spikes.C, Comparison of the voltage dependence of the EPSP peak amplitude in intact (gray, 9 cells) (Fig.2B; 10 mm Ca saline) and cut (black, 6 cells, 10 mm Ca saline) AP cells. In cut AP cells the EPSP peak amplitude decreases with depolarization. In all cases tested the EPSP peak amplitude at −65 mV was smaller than at −95 mV. On average the EPSP peak amplitude at −65 mV was 55 ± 4% of the amplitude at −95 mV.
+Although most synaptic inputs were severed by the cut described above, a few synaptic inputs were still present on the neurites proximal to the soma. Stimulation of the ipsilateral P cells with a +4 nA, 500 msec current pulse triggered on average 20 spikes, which evoked measurable EPSPs in the AP cell. In the cut cell the amplitude of the EPSP increased with hyperpolarization (Fig. 6C, insetand black curve) (n = 6 cells), consistent with a passive dendrite, rather than decreased, as was observed in the intact cell (Fig. 6C, gray curve) (n = 9 cells). In all cases tested the EPSP peak amplitude at −65 mV was smaller than at −95 mV. The average EPSP peak amplitude at −65 mV was 55 ± 4% of the amplitude at −95 mV. Thus, when neurites containing the dominant fraction of the Kir conductance had been surgically removed, the EPSP peak amplitude increased with hyperpolarization in a manner consistent with a passive dendrite and a synaptic reversal potential that was more positive than −65 mV.
+
+Despite the drastic surgical procedure, the AP cell soma and proximal neurite under investigation appeared to be healthy. The following observations are taken as evidence of normal functioning of the cut AP cell. (1) The voltage response to a constant-current pulse at a membrane potential of −65 mV is slightly larger than in the intact cell, i.e., the slope resistance increased in the cut cell, indicating that the cut ends sealed rather than remained open; (2) the voltage response to a constant-current pulse decreased with depolarization above −65 mV, indicating that voltage-gated conductances remained active (in the intact cell it was not possible to explore this range of membrane potential because of the occurrence of spikes triggered at the contralateral spike initiating zone); and (3) the cut cell still received synaptic inputs.
+Model calculations
+
+We have used numerical simulations to illustrate how the opposing effects of the reduced synaptic driving force and the deactivation of the inward rectifier with depolarization interact to produce the observed voltage dependence of (1) the EPSP peak amplitude and (2) the summation of pairs of synaptic inputs in the AP cell. The one-compartment model (Fig.7A, inset) contained a leak conductance, GL, the inward rectifier conductance, GKir, two synaptic conductances, Gsyn, and an injected current, Iinj. Because all EPSP measurements were taken in saline with [Ca2+]o raised to 10 mm, the parameter values for GL andGKir were taken from I–Vmeasurements in saline with this ion composition (see Materials and Methods for details). To prevent confusion with the effects of the inward rectifier, additional conductances that might be activated, in particular above a membrane potential of −50 mV, were excluded from these simulations. For simplicity the synaptic input was modeled as a chemical synapse, ignoring the electrical component that contributes ∼25% to the EPSP.
+
+
+Fig. 7.
+
+
+
+Open in a new tab
+
+Model of interactions ofGKir with GL andGsyn. A, I–Vcurve, I =GKir(V −EK) +GL(V −EL), with the inward rectifier conductance, GKir =Gmax/(1 + exp(V− V1/2)/γ)), the leak conductance,GL = 24 nS, the leak reversal potential, EL = −45 mV, the potassium equilibrium potential, EK = −80 mV, and the parameters of the inward rectifier conductance,Gmax = 28 nS,V1/2 = −67 mV, γ = 8 mV (all parameters from measurements from AP cells in 10 mmCa2+ saline). The I–V curve for the model without the inward rectifier is indicated by the dotted line. Inset, Schematic diagram of the model.B, Response characteristics of the model cell.Left axis, Voltage response, ΔV, of the model cell to a +0.2 nA, 200 msec current pulse. Right axis, Slope resistance, dV/dI, of the I–Vcurve in A. The slope resistance for the model without the inward rectifier is indicated by the dotted line.C, Voltage dependence of the EPSP peak amplitude. The synaptic input is modeled by a 200-msec-long pulsed conductance change of different magnitudes: Gsyn = 2, 5, and 8 nS, Esyn = 0 mV. The result for the model without the inward rectifier (GKir = 0,Gsyn = 5 nS) is shown for comparison (dotted line). The data points from Figure3B are replotted for comparison (gray squares). D, Voltage dependence of summing two synaptic inputs of equal conductance change (Gsyn = 2, 5, and 8 nS;Esyn = 0 mV). The result for the model without the inward rectifier (GKir = 0;Gsyn = 5 nS) is shown for comparison (dotted line). The result for the model with increased Kir conductance (GKir = 50 nS;Gsyn = 5 nS) is shown by thedashed trace. The result for the two-compartment model (see Materials and Methods for details) is shown by the gray trace. The data points from Figure 4B are replotted for comparison (gray squares).
+The combined effect of the leak current and the inward rectifier current:
+
+
+
+I=GKir(V−EK)+GL(V−EL)
+Equation 8
+
+
+with the inward rectifier conductance:
+
+
+
+GKir=Gmax1+exp((V−V1/2)/γ)
+Equation 9
+
+
+leads to an I–V curve with a strong nonlinearity in the subthreshold range of membrane potential (Fig. 7A,thick curve). The leak current alone is shown by the dotted line for comparison. From the monotonously growing I–Vcurve we derive the slope resistance:
+
+
+
+dVdI=dIdV−1=dGKirdV(V−EK)+GKir+GL−1.
+Equation 10
+
+
+The slope resistance is a measure of the voltage response to an infinitesimal small current pulse and is thus a useful measure to discuss the cell’s response to a synaptic current.
+
+The nonlinear I–V curve yields a slope resistance with a steep voltage dependence in the subthreshold range of membrane potential (Fig. 7B, thick trace). At extremely negative membrane potentials (i.e., below −120 mV), the inward rectifier is fully activated. The slope resistance is 1/(GL + Gmax) and independent of the membrane potential. With less hyperpolarization the Kir conductance is partially deactivated, and the slope resistance increases. Because of the potassium outward current aboveEK = −80 mV, the slope resistance overshoots the leak resistance 1/GL (Fig.7B, dotted line), reaches a peak (61 mOhm at −54 mV), and approaches asymptotically 1/GL from above with further depolarization. The shape of the slope resistance is caused by the interplay of the Kir conductance and the value ofEK, which results in an outward potassium current with a peak in the subthreshold range of membrane potential. Although the slope resistance represents the voltage response to an infinitesimally small current pulse, we find that it is still a good approximation of the steady-state voltage response of the model cell (see Materials and Methods) to a +0.2 nA current pulse (Fig.7B, thin trace), a level of current expected in the case of synaptic stimulation. This will allow us to discuss the voltage dependence of the EPSP peak amplitude and the summation of synaptic inputs in terms of the interplay between the slope resistance and the synaptic driving force.
+
+First, we consider the voltage response of the model cell (Fig.7A, inset) to a synaptic conductance change (see Materials and Methods). The voltage dependence of the model cell responses to excitatory synaptic inputs follows the slope resistance; however, it is modulated by the counteracting change in the synaptic driving force (Fig. 7C). In particular, in the limit of an infinitesimally small synaptic conductance change, the model cell’s voltage response is determined by a constant slope resistance and driving force: ΔV ≅ (dV/dI)Gsyn (V −Esyn). For larger synaptic conductance changes, however, both the slope resistance and the driving force change dynamically. Starting at a membrane potential of −130 mV, the inward rectifier is fully activated, and the slope resistance is independent of voltage. The EPSP peak amplitude decreases with depolarization, as is expected because of the reduced driving force. At less hyperpolarized levels the inward rectifier conductance decreases (compare with Fig. 5D), and the slope resistance increases sharply with increasing depolarization (compare with Fig.7B). The resulting increase of EPSP amplitudes is stronger than the decrease caused by the reduced driving force, which leads to a net increase of EPSP amplitudes with depolarization in the range of membrane potential between approximately −90 and −60 mV (Fig.7C; also compare with Fig. 3B). Because of the reduction of the inward rectifier outward current with depolarization above −70 mV, the slope resistance is larger than the leak resistance and reaches a peak of 61 mOhm at −54 mV (Fig. 7B). As a result the EPSP amplitude reaches values larger than in the case without the inward rectifier (Fig. 7C) (Gsyn = 5 nS). Beyond the peak the slope resistance decreases with depolarization, asymptotically reaching the value of the leak resistance. Now the EPSP peak amplitude decreases with depolarization caused by both the reduced slope resistance and the reduced driving force.
+
+Second, we consider the summation of pairs of synaptic inputs. We observe that when two synaptic inputs are stimulated simultaneously and the resulting membrane potential at the peak of the EPSP is in the range where the slope resistance (Fig. 7B) increases with depolarization, the resulting EPSP peak amplitude is larger than the algebraic sum of the EPSPs from individual stimulation, i.e., supralinear summation (Fig. 7D). The membrane potential at the peak of the EPSP is larger than the initial membrane potential. The difference increases with increasing synaptic conductance. Thus the voltage dependence of the supralinearity, expressed as “% linearity” versus initial membrane potential, shifts with the synaptic conductance.
+
+The model explained qualitatively how the Kir conductance can lead to the supralinear summation of synaptic inputs in the considered range of membrane potential. The amplitude and width of the measured % linearity versus membrane potential relation is less well explained by this simple model. However, larger values of supralinearity, similar to those measured, are reproduced in a model with an increased Kir conductance (Gmax = 50 nS,Gsyn = 5 nS) (Fig. 7C,dashed trace).
+
+Because of the spatial extent of the neuron, the control of the membrane potential at the sites of electrically remote synaptic inputs and Kir conductances is limited. Therefore the sites of synaptic inputs and Kir conductances are sampled over a smaller range of membrane potential around the local resting membrane potential than the somatic recording site is. It is expected that this sampling error leads to a broadening of the % linearity versus membrane potential relation. Such broadening, caused by the limited control of the membrane potential in the neurites, is illustrated using a two-compartment model (Fig.7D, gray trace). In this model the synaptic conductance, the inward rectifier conductance, and a leak conductance were placed in the neurite compartment, which was connected through an axial conductance with the soma compartment that contained the leak conductance and the injected current (see Materials and Methods for details).
+
+Some insight into the numerical results for the summation of synaptic inputs may be found by considering the equation for the one-compartment model in the particular limit of a small synaptic conductance, and with the membrane conductance dominated by GKir(V), i.e.,GS ≪ GL ≪GKir(V). In terms of the % linearity measure, defined in Equation 5, we find (see ):
+
+
+
+%linearity≅1+Esyn−EKγ e(Vin−V1/2)/γ1+e(Vin−V1/2)/γ−1GsynGKir(Vin)×100.
+Equation 11
+
+
+This equation shows that the relation between the synaptic reversal potential and the synaptic conductance is not solely multiplicative; in particular, the supralinearity increases with increasing Esyn. At levels ofVin significantly hyperpolarized toV1/2, i.e., Vin≪ (V1/2 − γ), the term in square parentheses becomes negative, yielding sublinear summation. However, at levels of Vin closer toV1/2 the term turns positive, yielding supralinear summation. At levels of Vindepolarized to V1/2, the Kir conductanceGKir(V) is no longer the dominating membrane conductance and the above approximate relation (Eq.11) no longer holds. For a more general relation, see .
+DISCUSSION
+
+Inward rectification is responsible for nonlinear subthreshold summation of synaptic inputs
+
+The major findings of the present experiments are as follows: (1) AP cell neurites express an inhomogeneous spatial distribution of the Kir conductance, (2) activation of the Kir conductance by hyperpolarization decreases the EPSP peak amplitude and half width, and (3) deactivation of the Kir conductance with EPSPs causes supralinear summation of paired excitatory synaptic inputs.
+
+The observed voltage dependence of the EPSP peak amplitude was reversed when the neurites expressing the Kir channel were surgically removed. Both the observed voltage dependence of EPSPs as well as the supralinear summation were reproduced qualitatively in a model with the inward rectifier as the sole voltage-dependent conductance.
+
+The physiological significance of the Kir conductance could be demonstrated experimentally only in the subthreshold range of membrane potential, as a result of the lack of a Na+ channel blocker for leech to abolish spikes (Kleinhaus and Angstadt, 1995). However, the extension of the tail end of the activation curve for the Kir conductance into the range of membrane potential above threshold suggests that the physiological significance extends into this range, as demonstrated in the modeling study (Fig. 7). In particular, because the Kir conductances are located in the neurites remote from the soma (Fig. 6), the activation curve, as measured in the soma, represents only a lower estimate of the Kir conductance located in the neurite. Therefore, the Kir conductance in the neurite is likely to be larger than the somatic measurement revealed and thus is expected to contribute significantly to the neurite conductance at zero-current potential.
+Comparison with other amplifying mechanisms
+
+The activation of voltage-gated Na+conductances (Hirsch and Gilbert, 1991; Schwindt and Crill, 1995;Stuart and Sakmann, 1995; Haag and Borst, 1996; Lipowsky et al., 1996;Margulis and Tang, 1998) or Ca2+ conductances (Deisz et al., 1991; Gillessen and Alzheimer, 1997; Seamans, 1997) by EPSPs amplifies the magnitude of the EPSPs en route to other areas of the neuron. Na+ conductances mediate supralinear temporal summation in cultured rat hippocampal neurons (Margulis and Tang, 1998). The presence of the hyperpolarization-activated currentIh in pyramidal cell dendrites (Stuart and Spruston, 1998) decreases EPSP amplitude and duration (Magee, 1998).
+
+The experimental evidence suggests that the Na+ and Ca2+ currents, as well as the mixed Na+/K+ H-current, play a minor, if any, role for the observed voltage dependence of the EPSP peak amplitude and supralinear summation in the AP cell in the subthreshold range of membrane potential (less than −55 mV) under investigation. (1) The AP cell I–V curve is only marginally changed in 0 Na+, 0 Ca2+, 1.8 mmCo2+ saline (Fig. 5B) but changes significantly with changes in [K+]o. These observations suggest that the slope resistance (Fig.7B) is dominated by the voltage-dependent potassium conductance. (2) The slope of the voltage dependence of the EPSP peak amplitude as a function of membrane potential was reversed when the neurites expressing the Kir conductance were surgically removed (Fig. 6C). (3) The observed voltage dependence of EPSPs as well as the supralinear summation were reproduced qualitatively in a model with the inward rectifier as the sole voltage-dependent conductance (Fig. 7C,D).
+
+Two kinds of postsynaptic receptors—NMDA or conductance-decrease receptors—could cause, in principle, the observed EPSP voltage dependence. We consider both possibilities unlikely. (1) In the AP cell, the EPSP was not affected by 50 μm APV, a NMDA receptor blocker in vertebrates, whereas most of the EPSP mediated by chemical transmission was blocked by 50 μm CNQX, a blocker of AMPA-type glutamate receptors. (2) If the observed EPSPs were caused by a potassium conductance-decrease EPSP (Kobayashi and Libet, 1968; Weight and Votava, 1970; Krnjevic et al., 1971; Kuba and Koketsu, 1976; Ross, 1989), the binding of a neurotransmitter could lead to a decrease in membrane conductance. Such an EPSP would reverse around EK = −80 mV, and the EPSP half-width is likely be of the order of seconds. Neither of these features were observed in the P-to-AP EPSP (Fig. 3).
+
+The logical possibility that the CNQX-sensitive glutamate receptor channels are themselves voltage dependent is excluded by the observation that in the truncated preparation without the Kir conductance, the EPSP peak amplitude decreases with depolarization (Fig. 6C), consistent with voltage-independent glutamate receptor channels and a decrease in driving force with depolarization. We were unable to measure the reversal potential of the P-to-AP synapse, because depolarizing the AP cells caused spikes and large decreases of the input resistance. However, previous studies ofl-glutamate excitation in leech Retzius cells have shown that glutamate causes a conductance increase in both sodium and potassium ions (James and Walker, 1979). Extrapolation of the change of the voltage response to glutamate excitation with the membrane potential indicated a reversal potential around −10 mV (Mat Jais et al., 1983), close to the value of 0 mV for mammalian AMPA receptors (Johnston and Wu, 1995).
+Generalization to other systems
+
+Kir channels are expressed in various invertebrate (Kandel and Tauc, 1966; Benson and Levitan, 1983) and vertebrate neurons (Constanti and Galvan, 1983; Gaehwiler and Brown, 1985; Stanfield et al., 1985;Faber and Korn, 1986; Lasater, 1986; Shingai and Christensen, 1986;Williams et al., 1988; Kawaguchi et al., 1989; Uchimura et al., 1989;Ueda et al., 1992; Dong and Werblin, 1995; Holt and Eatock, 1995;Krapivinsky et al., 1998; Mermelstein et al., 1998; Töpert et al., 1998). In some cases the Kir conductance contributes significantly to membrane conductance at rest. For instance, for neurons of the nucleus accumbens, the Kir conductance has been estimated to account for ∼40% of the resting conductance (Uchimura et al., 1989). The decrease of the EPSP amplitude and width with hyperpolarization, attributable to the activation of the Kir conductance, has been demonstrated in both invertebrate (Kandel and Tauc, 1966) and vertebrate (Kawaguchi et al., 1989) neurons. Thus we expect that the functional significance of the inward rectifier for dendritic integration of multiple synaptic inputs that we observed in the leech AP cell is important in other systems.
+Functional role of the inward rectifier
+
+By conducting outward current in the voltage range a few millivolts positive to EK, Kir channels help to maintain a resting potential near EK. However, once other depolarizing influences act on the cell, the Kir channels close down, and the membrane potential is free to change (Hille, 1992). The Kir conductance can also have a major integrative effect on a neuron with an extended spatial structure: the Kir conductance acts like a distributed shunting inhibition, reducing the input resistance, increasing the effective dendritic length, and reducing the time constant, thus decreasing the ability of temporally and/or spatially isolated excitatory synaptic inputs to sum effectively. When a dendrite receives sufficient excitatory input to turn off the Kir conductance, the slope resistance and time constant of the cell will increase, which leads to greater temporal and spatial summation of subsequent excitatory potentials, thereby increasing their potency at the spike initiation zone. In addition, the shortened dendritic electronic length effectively makes the dendrites more compact, which allows distal excitatory inputs to begin to influence each other (Wilson, 1992; Nisenbaum and Wilson, 1995).
+
+The question of whether postsynaptic neurons operate as temporal integrators or coincidence detectors is a much discussed issue in computational neuroscience (Jaslove, 1992; Softky and Koch, 1993;Shadlen and Newsome, 1994, 1995; Softky, 1994, 1995; Koenig et al., 1996; Reyes et al., 1996; Geiger et al., 1997; Agmon-Snir et al., 1998). Interestingly, the Kir channel provides the biophysical basis for both modes of summation. On the one hand, because of the deactivation of the Kir conductance with depolarization, multiple EPSPs occurring on the same branch and within a narrow window of time produce a bigger response than would occur if they were on separate branches or occurred outside this time window. Thus, it may be speculated that the Kir channel provides the nonlinearity that favors coincidence detection. On the other hand, because of the deactivation of the Kir conductance with depolarization, the membrane time constant increases with depolarization, thus increasing the integration time and turning the cell into a temporal integrator. As a result, the cell may readily switch from a coincidence detector at hyperpolarized levels (small time constant) to a temporal integrator at more depolarized levels (large time constant) of membrane potential (Nisenbaum and Wilson, 1995).
+
+
+This appendix provides details on the derivation of Equation 11. In the steady state with Iinj = 0 the membrane potential of the model cell (Eq. 2) is determined by:
+
+
+
+V=f(V)=GLEL+GKir(V)EK+GsynEsynGL+GKir(V)+Gsyn,
+Equation A1
+
+
+with GKir(V) given by Equation 1. The initial membrane potential Vinis given by the same expression, , withGsyn = 0. For simplicity, we consider the case of identical synaptic inputs and seek to find an analytic expression of the measure of summation (Eq. 5), % linearity ≡L × 100, with:
+
+
+
+L≡peaksimultaneouspeakalgebraic sum=VPP−Vin2(VP−Vin),
+Equation A2
+
+
+as an expansion in the synaptic conductance,Gsyn, in the limit thatGsyn ≪ (GL +GKir(Vin)). Our procedure is to expand f(V) to second order in both changes in potential, δV ≡V − Vin, and synaptic conductance, Gsyn, to obtain the form:
+
+
+
+δV(Gsyn)≅aGsyn+bGsyn2,
+Equation A3
+
+
+from which L is given by Equations EA2 andEA3:
+
+
+
+L=12 δV(2Gsyn)δV(Gsyn)≅12 a(2Gsyn)+b(2Gsyn)2aGsyn+bGsyn2≅1+ba Gsyn
+Equation A4
+
+
+To first order in the ratioGsyn/(GL +GKir(Vin)) we find:
+
+
+
+L≅1+α1−α (EL−EK)γ2(EL−EK)γGKir(Vin)GL (Esyn−EK)γ+(Esyn−EL)γ+α1−α (EL−EK)γGKir(Vin)GL (Esyn−EK)γ+(Esyn−EL)γ−(EL−EK)γ−1 GsynGKir(Vin)+GL,
+Equation A5
+
+
+where α is defined as:
+
+
+
+α≡GKir(Vin)GL(GKir(Vin)+GL)2 e(Vin−V1/2)/γ1+e(Vin−V1/2)/γ.
+Equation A6
+
+
+The function α is positive for all values ofVin and goes smoothly to 0 with both increased hyperpolarization below V1/2 and increased depolarization above V1/2. Therefore, summation of synaptic inputs can be supralinear only for a range of potentials that lie close to V1/2, otherwise:
+
+
+
+L≅1−GsynGLfor Vin≫V1/2GsynGKir(Vin)+GLfor Vin≪V1/2,
+Equation A7
+
+
+and the summation is sublinear.
+
+We consider the zero-order limit of two cases for the analytic expression of L (Eq. EA5). In the limit thatGKir(Vin) ≫GL, with implicit restrictions on the value of Vin relative toV1/2, we find:
+
+
+
+α≅GLGKir(Vin) e(Vin−V1/2)/γ1+e(Vin−V1/2)/γ,
+Equation A8
+
+
+and the value of L, neglecting terms of orderGL/GKir(Vin) and higher, is:
+
+
+L≅1+(Esyn−EK)γ e(Vin−V1/2)/γ1+e(Vin−V1/2)/γ−1GsynGKir(V);
+
+
+ GKir(Vin)≫GL,
+Equation A9
+
+
+as reproduced in the main text (Eq. 11) using % linearity ≡ L × 100. In the opposite limit,GL ≫GKir(Vin), with implicit restrictions on the value of Vinrelative to V1/2, we find that:
+
+
+
+α≅GKir(Vin)GL e(Vin−V1/2)/γ1+e(Vin−V1/2)/γ,
+Equation A10
+
+
+and thus L is always <1, i.e.:
+
+
+
+L≅1−gSGL;GL≫GK.
+Equation A11
+
+
+In general, there will be a critical value that the ratioGKir(Vin)/GLmust exceed for supralinear summation to occur. This value will clearly change as a function of potential, Vin, and as shown above (Eq. EA7), outside of a range of potentials nearV1/2 there will be no supralinearity.
+Footnotes
+
+
+
+
+This work was supported by the National Science Foundation. We thank Peter Brodfuehrer and Haim Sompolinsky for discussions, James Eisenhart and Elizabeth Yoder for assistance in obtaining Figure 1, and Charles Stevens and Theodore Bullock for critical reading of earlier versions of this manuscript.
+
+Correspondence should be addressed to Ralf Wessel, Department of Physics, University of California at San Diego, La Jolla, CA 92093-0319.
+
+REFERENCES
+
+
+1.Agmon-Snir H, Carr CE, Rinzel J. The role of dendrites in auditory coincidence detection. Nature. 1998;393:268–272. doi: 10.1038/30505. [DOI] [PubMed] [Google Scholar]
+
+2.Aleksandrov A, Velimirovic B, Clapham DE. Inward rectification of the IRK1 K+ channel reconstituted in lipid bilayers. Biophys J. 1996;70:2680–2687. doi: 10.1016/S0006-3495(96)79837-5. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+3.Benardo LS, Masukawa LM, Prince DA. Electrophysiology of isolated hippocampal pyramidal dendrites. J Neurosci. 1982;2:1614–1622. doi: 10.1523/JNEUROSCI.02-11-01614.1982. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+4.Benson JA, Levitan IB. Serotonin increases an anomalously rectifying K+ current in the Aplysia neuron R15. Proc Natl Acad Sci USA. 1983;80:3522–3525. doi: 10.1073/pnas.80.11.3522. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+5.Borst A, Egelhaaf M. Dendritic processing of synaptic information by sensory interneurons. Trends Neurosci. 1994;17:257–263. doi: 10.1016/0166-2236(94)90009-4. [DOI] [PubMed] [Google Scholar]
+
+6.Burke EE. Composite nature of the monosynaptic excitatory postsynaptic potential. J Neurophysiol. 1967;30:1114–1137. doi: 10.1152/jn.1967.30.5.1114. [DOI] [PubMed] [Google Scholar]
+
+7.Calabrese RL, Nadim F, Olsen OH. Heartbeat control in the medicinal leech: a model system for understanding the origin, coordination, and modulation of rhythmic motor patterns. J Neurobiol. 1995;27:390–402. doi: 10.1002/neu.480270311. [DOI] [PubMed] [Google Scholar]
+
+8.Cash S, Yuste R. Input summation by cultured pyramidal neurons is linear and position-independent. J Neurosci. 1998;18:10–15. doi: 10.1523/JNEUROSCI.18-01-00010.1998. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+9.Cohen JL, Weiss K, Kupfermann I. Motor control of buccal muscles in Aplysia. J Neurophysiol. 1978;41:157–180. doi: 10.1152/jn.1978.41.1.157. [DOI] [PubMed] [Google Scholar]
+
+10.Constanti A, Galvan M. Fast inward-rectifying current accounts for anomalous rectification in olfactory cortex neurons. J Physiol (Lond) 1983;385:153–178. doi: 10.1113/jphysiol.1983.sp014526. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+11.Deisz RA, Fortin G, Zieglgaensberger W. Voltage dependence of excitatory postsynaptic potentials in rat neocortical neurons. J Neurophysiol. 1991;65:371–382. doi: 10.1152/jn.1991.65.2.371. [DOI] [PubMed] [Google Scholar]
+
+12.Deitmer JW, Schlue WR. Measurements of the intracellular potassium activity of Retzius cells in the leech central nervous system. J Exp Biol. 1981;91:87–101. [Google Scholar]
+
+13.Döring F, Derst C, Wischmeyer E, Karschin C, Schneggenburger R, Daut J, Karschin A. The epithelial inward rectifier channel Kir7.1 displays unusual K+ permeation properties. J Neurosci. 1998;18:8625–8636. doi: 10.1523/JNEUROSCI.18-21-08625.1998. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+14.Dong CJ, Werblin FS. Inwardly rectifying potassium conductance can accelerate the hyperpolarizing response in retinal horizontal cells. J Neurophysiol. 1995;74:2258–2265. doi: 10.1152/jn.1995.74.6.2258. [DOI] [PubMed] [Google Scholar]
+
+15.Doupnik CA, Davidson N, Lester HA. The inward rectifier potassium channel family. Curr Opin Neurobiol. 1995;5:268–277. doi: 10.1016/0959-4388(95)80038-7. [DOI] [PubMed] [Google Scholar]
+
+16.Faber DS, Korn H. Instantaneous inward rectification in the Mauthner cell: a postsynaptic booster for excitatory inputs. Neuroscience. 1986;19:1037–1043. doi: 10.1016/0306-4522(86)90120-x. [DOI] [PubMed] [Google Scholar]
+
+17.Fakler B, Ruppersberg JP. Functional and molecular diversity classifies the family of inward-rectifier K+ channels. Cell Physiol Biochem. 1996;6:195–209. [Google Scholar]
+
+18.Gaehwiler BH, Brown DA. GABAB-receptor-activated K+ current in voltage-clamped CA3 pyramidal cells in hippocampal cultures. Proc Natl Acad Sci USA. 1985;82:1558–1562. doi: 10.1073/pnas.82.5.1558. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+19.Geiger JRP, Lubke J, Roth A, Frotscher M, Jonas P. Submillisecond AMPA receptor mediated signaling at a principal neuron-interneuron synapse. Neuron. 1997;18:1009–1023. doi: 10.1016/s0896-6273(00)80339-6. [DOI] [PubMed] [Google Scholar]
+
+20.Getting PA. Mechanisms of pattern generation underlying swimming in Tritonia. I. Neural network formed by monosynaptic connections. J Neurophysiol. 1981;46:65–79. doi: 10.1152/jn.1981.46.1.65. [DOI] [PubMed] [Google Scholar]
+
+21.Gillessen T, Alzheimer C. Amplification of EPSPs by low Ni2+- and amiloride-sensitive Ca2+ channels in apical dendrites of rat CA1 pyramidal neurons. J Neurophysiol. 1997;77:1639–1643. doi: 10.1152/jn.1997.77.3.1639. [DOI] [PubMed] [Google Scholar]
+
+22.Golard A, Witkovsky P, Tranchina D. Membrane currents of horizontal cells isolated from turtle retina. J Neurophysiol. 1992;68:351–361. doi: 10.1152/jn.1992.68.2.351. [DOI] [PubMed] [Google Scholar]
+
+23.Grabauskas G, Bradley RM. Synaptic interactions due to convergent input from gustatory afferent fibers in the rostral nucleus of the solitary tract. J Neurophysiol. 1996;76:2919–2927. doi: 10.1152/jn.1996.76.5.2919. [DOI] [PubMed] [Google Scholar]
+
+24.Gu X. Effect of conduction block at axon bifurcations on synaptic transmission to different postsynaptic neurons in the leech. J Physiol (Lond) 1991;441:755–778. doi: 10.1113/jphysiol.1991.sp018777. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+25.Haag J, Borst A. Amplification of high-frequency synaptic inputs by active dendritic membrane processes. Nature. 1996;379:639–641. [Google Scholar]
+
+26.Haag J, Egelhaaf M, Borst A. Dendritic integration of motion information in visual interneurons of the blowfly. Neurosci Lett. 1992;140:173–176. doi: 10.1016/0304-3940(92)90095-o. [DOI] [PubMed] [Google Scholar]
+
+27.Haag J, Borst A, Egelhaaf M. Mechanisms of dendritic integration underlying gain control in fly motion-sensitive interneurons. J Comput Neurosci. 1995;2:5–18. doi: 10.1007/BF00962705. [DOI] [PubMed] [Google Scholar]
+
+28.Hagiwara S.  Membrane potential-dependent ion channels in cell membrane. Distinguished lecture series of the society of general physiologists, Vol. 3. Raven; New York: 1983.  [Google Scholar]
+
+29.Hagiwara S, Jaffe LA. Electrical properties of egg cell membranes. Annu Rev Biophys Bioeng. 1979;8:385–416. doi: 10.1146/annurev.bb.08.060179.002125. [DOI] [PubMed] [Google Scholar]
+
+30.Hagiwara S, Takahashi K. The anomalous rectification and cation selectivity of the membrane of a starfish egg cell. J Membr Biol. 1974;18:61–80. doi: 10.1007/BF01870103. [DOI] [PubMed] [Google Scholar]
+
+31.Hagiwara S, Yoshii M. Effects of internal potassium and sodium on the anomalous rectification of the starfish egg as examined by internal perfusion. J Physiol (Lond) 1979;292:251–265. doi: 10.1113/jphysiol.1979.sp012849. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+32.Hagiwara S, Miyazaki S, Rosenthal NP. Potassium current and the effect of cesium on this current during anomalous rectification of the egg cell membrane of a starfish. J Gen Physiol. 1976;67:621–638. doi: 10.1085/jgp.67.6.621. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+33.Hagiwara S, Miyazaki S, Moody W, Patalk J. Blocking effect of barium and hydrogen ions on the potassium current during anomalous rectification in the starfish egg. J Physiol (Lond) 1978;279:167–185. doi: 10.1113/jphysiol.1978.sp012338. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+34.Hille B.  Ionic channels of excitable membranes. Sinauer; Sunderland, MA: 1992.  [Google Scholar]
+
+35.Hirsch JA, Gilbert CD. Synaptic physiology of horizontal connections in the cat’s visual cortex. J Neurosci. 1991;11:1800–1809. doi: 10.1523/JNEUROSCI.11-06-01800.1991. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+36.Holt JR, Eatock RA. Inwardly rectifying currents of saccular hair cells from the leopard frog. J Neurophysiol. 1995;73:1484–1502. doi: 10.1152/jn.1995.73.4.1484. [DOI] [PubMed] [Google Scholar]
+
+37.Isomoto S, Kondo C, Kurachi Y. Inwardly rectifying potassium channels: their molecular heterogeneity and function. Jpn J Physiol. 1997;47:11–39. doi: 10.2170/jjphysiol.47.11. [DOI] [PubMed] [Google Scholar]
+
+38.James VA, Walker RJ. The ionic mechanism responsible for the L-glutamate excitation of leech Retzius cells. Comp Biochem Physiol. 1979;64C:261–265. [Google Scholar]
+
+39.Jaslove S. The integrative properties of spiny distal dendrites. Neuroscience. 1992;47:495–519. doi: 10.1016/0306-4522(92)90161-t. [DOI] [PubMed] [Google Scholar]
+
+40.Johnston D, Wu SMS.  Foundations of cellular neurophysiology. MIT; Cambridge, MA: 1995.  [Google Scholar]
+
+41.Johnston D, Magee JC, Colbert CM, Christie BR. Active properties of neuronal dendrites. Annu Rev Neurosci. 1996;19:165–186. doi: 10.1146/annurev.ne.19.030196.001121. [DOI] [PubMed] [Google Scholar]
+
+42.Kandel ER, Tauc L. Anomalous rectification in the metacerebral giant cells and its consequences for synaptic transmission. J Physiol (Lond) 1966;183:287–304. doi: 10.1113/jphysiol.1966.sp007867. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+43.Kass RS, Arena JP, Walsh KB. Measurement and block of potassium channel currents in the heart: importance of channel type. Drug Dev Res. 1990;19:115–127. [PubMed] [Google Scholar]
+
+44.Kawaguchi Y, Wilson CJ, Emson PC. Intracellular recording of identified neostriatal patch and matrix spiny cells in a slice preparation preserving cortical inputs. J Neurophysiol. 1989;62:1052–1068. doi: 10.1152/jn.1989.62.5.1052. [DOI] [PubMed] [Google Scholar]
+
+45.Kleinhaus AL, Angstadt JD. Diversity and modulation of ionic conductances in leech neurons. J Neurobiol. 1995;27:419–433. doi: 10.1002/neu.480270313. [DOI] [PubMed] [Google Scholar]
+
+46.Kobayashi H, Libet B. Generation of slow postsynaptic potentials without increases in ionic conductances. Proc Natl Acad Sci USA. 1968;60:1304–1311. doi: 10.1073/pnas.60.4.1304. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+47.Koch C.  Biophysics of computation. Oxford UP; Oxford: 1999.  [Google Scholar]
+
+48.Koenig P, Engel AK, Singer W. Integrator or coincidence detector? The role of the cortical neuron revisited. Trends Neurosci. 1996;19:130–137. doi: 10.1016/s0166-2236(96)80019-1. [DOI] [PubMed] [Google Scholar]
+
+49.Krapivinsky G, Medina I, Eng L, Krapivinsky L, Yang Y, Clapham DE. A novel inward rectifier K+ channel with unique pore properties. Neuron. 1998;20:995–1005. doi: 10.1016/s0896-6273(00)80480-8. [DOI] [PubMed] [Google Scholar]
+
+50.Krnjevic K, Pumain R, Renaud L. The mechanism of excitation by acetylcholine in the cerebral cortex. J Physiol (Lond) 1971;215:247–268. doi: 10.1113/jphysiol.1971.sp009467. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+51.Kuba K, Koketsu K. Analysis of the slow excitatory postsynaptic potential in bullfrog sympathetic ganglion cells. Jpn J Physiol. 1976;26:651–669. doi: 10.2170/jjphysiol.26.651. [DOI] [PubMed] [Google Scholar]
+
+52.Kubo Y, Baldwin TJ, Jan YN, Jan LY. Primary structure and functional expression of a mouse inward rectifier potassium channel. Nature. 1993;362:127–133. doi: 10.1038/362127a0. [DOI] [PubMed] [Google Scholar]
+
+53.Kuno M, Miyahara JT. Non-linear summation of unit synaptic potentials in spinal motorneurons of the cat. J Physiol (Lond) 1969;201:465–477. doi: 10.1113/jphysiol.1969.sp008767. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+54.Langmoen IA, Andersen P. Summation of excitatory postsynaptic potentials in hippocampal pyramidal neurons. J Neurophysiol. 1983;50:1320–1329. doi: 10.1152/jn.1983.50.6.1320. [DOI] [PubMed] [Google Scholar]
+
+55.Lasater EM. Ionic currents of cultured horizontal cells isolated from white perch retina. J Neurophysiol. 1986;55:499–513. doi: 10.1152/jn.1986.55.3.499. [DOI] [PubMed] [Google Scholar]
+
+56.Leech CA, Stanfield PR. Inward rectification in frog skeletal muscle fibres and its dependence on membrane potential and external potassium. J Physiol (Lond) 1981;319:295–309. doi: 10.1113/jphysiol.1981.sp013909. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+57.Lipowsky R, Gillessen T, Alzheimer C. Dendritic Na+ channels amplify EPSPs in hippocampal CA1 pyramidal cells. J Neurophysiol. 1996;4:2181–2191. doi: 10.1152/jn.1996.76.4.2181. [DOI] [PubMed] [Google Scholar]
+
+58.Lopatin AN, Nichols CG. [K+] dependence of open-channel conductance in cloned inward rectifier potassium channels (IRK1, Kir2.1). Biophys J. 1996a;71:682–694. doi: 10.1016/S0006-3495(96)79268-8. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+59.Lopatin AN, Nichols CG. [K+] dependence of polyamine-induced rectification in inward rectifier potassium channels (IRK1, Kir2.1). J Gen Physiol. 1996b;108:105–113. doi: 10.1085/jgp.108.2.105. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+60.Lopatin AN, Makhina EN, Nichols CG. Potassium channel block by cytoplasmic polyamines as the mechanism of intrinsic rectification. Nature. 1994;373:366–369. doi: 10.1038/372366a0. [DOI] [PubMed] [Google Scholar]
+
+61.Magee JC. Dendritic hyperpolarization-activated currents modify the integrative properties of hippocampal CA1 pyramidal neurons. J Neurosci. 1998;18:7613–7624. doi: 10.1523/JNEUROSCI.18-19-07613.1998. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+62.Magee J, Hoffman D, Colbert C, Johnston D. Electrical and calcium signalling in dendrites of hippocampal pyramidal neurons. Annu Rev Physiol. 1998;60:327–346. doi: 10.1146/annurev.physiol.60.1.327. [DOI] [PubMed] [Google Scholar]
+
+63.Margulis M, Tang CM. Temporal integration can readily switch between sublinear and supralinear summation. J Neurophysiol. 1998;79:2809–2813. doi: 10.1152/jn.1998.79.5.2809. [DOI] [PubMed] [Google Scholar]
+
+64.Mat Jais AM, Kerkut GA, Walker RJ. The ionic mechanism associated with the biphasic glutamate response on leech Retzius cells. Comp Biochem Physiol. 1983;74C:425–432. doi: 10.1016/0742-8413(84)90139-7. [DOI] [PubMed] [Google Scholar]
+
+65.Mel B. Information processing in dendritic trees. Neural Comput. 1994;6:1031–1085. [Google Scholar]
+
+66.Melinek R, Muller KJ. Action potential initiation site depends on neuronal excitation. J Neurosci. 1996;16:2585–2591. doi: 10.1523/JNEUROSCI.16-08-02585.1996. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+67.Mermelstein PG, Song WJ, Tkatch T, Yan Z, Surmeier DJ. Inwardly rectifying potassium (IRK) currents are correlated with IRK subunit expression in rat nucleus accumbens medium spiny neurons. J Neurosci. 1998;18:6650–6661. doi: 10.1523/JNEUROSCI.18-17-06650.1998. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+68.Midtgaard J. Processing of information from different sources: spatial synaptic integration in the dendrites of vertebrate CNS neurons. Trends Neurosci. 1994;17:166–173. doi: 10.1016/0166-2236(94)90095-7. [DOI] [PubMed] [Google Scholar]
+
+69.Muller KJ, McMahan UJ. The shapes of sensory and motor neurones and the distribution of their synapses in ganglia of the leech: a study using intracellular injection of horseradish peroxide. Proc R Soc Lond B Biol Sci. 1976;194:481–499. doi: 10.1098/rspb.1976.0090. [DOI] [PubMed] [Google Scholar]
+
+70.Muller KJ, Nicholls JG, Stent GS.  Neurobiology of the leech. Cold Spring Harbor Laboratory; Cold Spring Harbor, New York: 1981.  [Google Scholar]
+
+71.Nicholls CG, Lopatin AN. Inward rectifier potassium channels. Annu Rev Physiol. 1997;59:171–191. doi: 10.1146/annurev.physiol.59.1.171. [DOI] [PubMed] [Google Scholar]
+
+72.Nicholls JG, Baylor DA. Specific modalities and receptive fields of sensory neurons in the CNS of the leech. J Neurophysiol. 1968;31:740–756. doi: 10.1152/jn.1968.31.5.740. [DOI] [PubMed] [Google Scholar]
+
+73.Nicholls JG, Kuffler SW. Extracellular space as a pathway for exchange between blood and neurons in the central nervous system of the leech: ionic composition of glial cells and neurons. J Neurophysiol. 1964;27:645–671. doi: 10.1152/jn.1964.27.4.645. [DOI] [PubMed] [Google Scholar]
+
+74.Nicholls JG, Kuffler SW. Na and K content of glial cells and neurons determined by flame photometry in the central nervous system of the leech. J Neurophysiol. 1965;28:519–525. doi: 10.1152/jn.1965.28.3.519. [DOI] [PubMed] [Google Scholar]
+
+75.Nicholls JG, Purves D. Monosynaptic chemical and electrical connections between sensory and motor cells in the central nervous system of the leech. J Physiol (Lond) 1970;209:647–667. doi: 10.1113/jphysiol.1970.sp009184. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+76.Nisenbaum ES, Wilson CJ. Potassium currents responsible for inward and outward rectification in rat neostriatal spiny projection neurons. J Neurosci. 1995;15:4449–4463. doi: 10.1523/JNEUROSCI.15-06-04449.1995. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+77.Osborn CE, Zipser B (1996) Sensory integration in the leech AP cell. Soc Neurosci Abstr 428.15.
+
+
+78.Reyes AD, Rubel EW, Spain WJ. In vitro analysis of optimal stimuli for phase-locking and time-delayed modulation of firing in avian nucleus laminaris neurons. J Neurosci. 1996;16:993–1007. doi: 10.1523/JNEUROSCI.16-03-00993.1996. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+79.Ross EM. Signal sorting and amplification through G protein coupled receptors. Neuron. 1989;3:141–152. doi: 10.1016/0896-6273(89)90027-5. [DOI] [PubMed] [Google Scholar]
+
+80.Schlue WR, Deitmer JW. Potassium distribution and membrane potential of sensory neurons in the leech nervous system. J Neurophysiol. 1984;51:689–704. doi: 10.1152/jn.1984.51.4.689. [DOI] [PubMed] [Google Scholar]
+
+81.Schwindt PC, Crill WE. Amplification of synaptic current by persistent sodium conductance in apical dendrite of neocortical neurons. J Neurophysiol. 1995;74:2220–2224. doi: 10.1152/jn.1995.74.5.2220. [DOI] [PubMed] [Google Scholar]
+
+82.Seamans JK, Gorelova NA, Yang CR. Contributions of voltage-gated Ca2+-channels in the proximal versus distal dendrites to synaptic integration in prefrontal cortical neurons. J Neurosci. 1997;17:5936–5948. doi: 10.1523/JNEUROSCI.17-15-05936.1997. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+83.Shadlen MN, Newsome WT. Noise, neural codes, and cortical organization. Curr Opin Neurobiol. 1994;4:569–579. doi: 10.1016/0959-4388(94)90059-0. [DOI] [PubMed] [Google Scholar]
+
+84.Shadlen MN, Newsome WT. Is there a signal in the noise? Curr Opin Neurobiol. 1995;5:248–250. doi: 10.1016/0959-4388(95)80033-6. [DOI] [PubMed] [Google Scholar]
+
+85.Shingai R, Christensen BN. Excitable properties and voltage-sensitive ion conductances of horizontal cells isolated from catfish (Ictalurus punctatus) retina. J Neurophysiol. 1986;56:32–49. doi: 10.1152/jn.1986.56.1.32. [DOI] [PubMed] [Google Scholar]
+
+86.Simon TW, Opdyke CA, Calabrese RL. Modulatory effects of FMRF-NH2 on outward currents and oscillatory activity in heart interneurons of the medicinal leech. J Neurosci. 1992;12:525–537. doi: 10.1523/JNEUROSCI.12-02-00525.1992. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+87.Skydsgaard M, Hounsgaard J. Spatial integration of local transmitter responses in motoneurons of the turtle spinal cord in vitro. J Physiol (Lond) 1994;479:233–246. doi: 10.1113/jphysiol.1994.sp020291. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+88.Softky W. Sub-millisecond coincidence detection in active dendritic trees. Neuroscience. 1994;58:13–41. doi: 10.1016/0306-4522(94)90154-6. [DOI] [PubMed] [Google Scholar]
+
+89.Softky W. Simple codes versus efficient codes. Curr Opin Neurobiol. 1995;5:239–247. doi: 10.1016/0959-4388(95)80032-8. [DOI] [PubMed] [Google Scholar]
+
+90.Softky W, Koch C. The highly irregular firing of cortical cells is inconsistent with temporal integration of random EPSPs. J Neurosci. 1993;13:334–350. doi: 10.1523/JNEUROSCI.13-01-00334.1993. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+91.Stanfield PR, Nakajima Y, Yamaguchi K. Substance P raises neuronal membrane excitability by reducing inward rectification. Nature. 1985;315:498–501. doi: 10.1038/315498a0. [DOI] [PubMed] [Google Scholar]
+
+92.Stewart RR, Nicholls JG, Adams WB. Na+, K+, and Ca2+ currents in identified leech neurons in culture. J Exp Biol. 1989;141:1–20. doi: 10.1242/jeb.141.1.1. [DOI] [PubMed] [Google Scholar]
+
+93.Stuart G, Sakmann B. Amplification of EPSPs by axosomatic sodium channels in neocortical pyramidal neurons. Neuron. 1995;15:1065–1076. doi: 10.1016/0896-6273(95)90095-0. [DOI] [PubMed] [Google Scholar]
+
+94.Stuart G, Spruston N. Determinants of voltage attenuation in neocortical pyramidal neuron dendrites. J Neurosci. 1998;18:3501–3510. doi: 10.1523/JNEUROSCI.18-10-03501.1998. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+95.Tachibana M. Ionic currents of solitary horizontal cells isolated from goldfish retina. J Physiol (Lond) 1983;345:329–351. doi: 10.1113/jphysiol.1983.sp014981. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+96.Thorogood MS, Brodfuehrer P. The role of glutamate in swim initiation in the medicinal leech. Invert Neurosci. 1995;1:223–233. doi: 10.1007/BF02211024. [DOI] [PubMed] [Google Scholar]
+
+97.Töpert C, Döring F, Wischmeyer E, Karschin C, Brockhaus J, Ballanyi K, Derst C, Karschin A. Kir2.4: a novel K+ inward rectifier channel associated with motoneurons of cranial nerve nuclei. J Neurosci. 1998;18:4096–4105. doi: 10.1523/JNEUROSCI.18-11-04096.1998. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+98.Uchimura N, Cherubini E, North RA. Inward rectification in rat nucleus accumbens neurons. J Neurophysiol. 1989;62:1280–1286. doi: 10.1152/jn.1989.62.6.1280. [DOI] [PubMed] [Google Scholar]
+
+99.Ueda Y, Kaneko A, Kaneda M. Voltage-dependent ionic currents in solitary horizontal cells isolated from cat retina. J Neurophysiol. 1992;68:1143–1150. doi: 10.1152/jn.1992.68.4.1143. [DOI] [PubMed] [Google Scholar]
+
+100.Vandenberg CA. Inward rectification of a potassium channel in cardiac ventricular cells depends on internal magnesium ions. Proc Natl Acad Sci USA. 1987;84:2560–2564. doi: 10.1073/pnas.84.8.2560. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+101.Weight F, Votava J. Slow synaptic excitation in sympathetic ganglion cells: evidence for synaptic inactivation of potassium conductance. Science. 1970;170:755–758. doi: 10.1126/science.170.3959.755. [DOI] [PubMed] [Google Scholar]
+
+102.Williams JT, North RA, Tokimasa T. Inward rectification of resting and opiate-activated potassium currents in rat locus coeruleus neurons. J Neurosci. 1988;8:4299–4306. doi: 10.1523/JNEUROSCI.08-11-04299.1988. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+103.Wilson CJ.  Dendritic morphology, inward rectification, and the functional properties of neostriatal neurons In: Single neuron computation (McKenna T, Davis J, Zornetzer SF, eds), pp 141–171. Academic; San Diego: 1992.  [Google Scholar]
+
+104.Wolszon LR, Passani MB, Macagno ER. Interaction during a critical period inhibit bilateral projections in embryonic neurons. J Neurosci. 1995;15:1506–1515. doi: 10.1523/JNEUROSCI.15-02-01506.1995. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+105.Yuste R, Tank DW. Dendritic integration in mammalian neurons, a century after Cajal. Neuron. 1996;16:701–716. doi: 10.1016/s0896-6273(00)80091-4. [DOI] [PubMed] [Google Scholar]
+
+
+Articles from The Journal of Neuroscience are provided here courtesy of Society for Neuroscience
+
+                      
+
+                    
+                
+            
+        
+
+        
+
+
+
+
+
+
+    
+        
+            
+        
+    
+
+       
+              
+ACTIONS
+           
+               
+               
+                     
+                         
+                         View on publisher site
+                     
+               
+               
+               
+               
+                    
+                         
+                        PDF (561.1 KB)
+                    
+               
+               
+                
+               
+                   
+                       
+                       Cite
+                    
+               
+                
+               
+
+                        
+                            
+                            
+                            Collections
+                       
+               
+               
+                    
+                        
+                        Permalink
+                    
+                   
+
+
+
+    
+
+          
+PERMALINK
+          
+
+              
+              
+                  
+                  Copy
+              
+          
+    
+
+               
+           
+       
+     
+
+        
+            
+RESOURCES
+            
+                
+
+                    
+
+                        
+                            Similar articles
+                        
+                    
+                    
+
+                        
+                    
+                    
+
+                        
+                             Cited by other articles
+                        
+                    
+                    
+
+                          
+                    
+                    
+                        
+
+                            
+                                 Links to NCBI Databases
+                            
+                        
+                        
+
+                        
+                    
+                    
+                
+            
+        
+
+
+        
+    
+
+
+        
+
+
+
+    
+
+        
+
+            
+Cite
+             
+                 
+             
+        
+
+        
+
+
+
+  
+
+  
+      
+        
+            
+            Copy
+        
+      
+      
+          
+                
+                Download .nbib
+                .nbib
+            
+      
+      
+          
+
+
+
+  Format:
+  
+    
+      
+        AMA
+      
+    
+      
+        APA
+      
+    
+      
+        MLA
+      
+    
+      
+        NLM
+      
+    
+  
+
+      
+  
+
+    
+
+
+        
+
+  
+
+   
+
+        
+Add to Collections
+    
+    
+
+      
+
+
+
+
+    
+
+    
+        
+
+            
+            Create a new collection
+        
+        
+
+            
+            Add to an existing collection
+        
+    
+
+    
+        
+
+           
+                Name your collection
+               *
+          
+          
+        
+        
+
+             
+                Choose a collection
+              
+              
+              
+              
+
+                Unable to load your collection due to an error
+                Please try again
+              
+        
+    
+
+    
+
+        
+          Add
+        
+        
+          Cancel
+        
+    
+
+    
+  
+
+
+        
+
+      
+    
+  
+
+
+
+        
+    
+    
+
+
+    
+        
+
+            
+
+                Follow NCBI
+            
+
+            
+
+                
+                    
+                        
+                            
+                            
+                        
+                        NCBI on X (formerly known as Twitter)
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                        
+                        NCBI on Facebook
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                        NCBI on LinkedIn
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                        
+                        NCBI on GitHub
+                    
+                
+
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                        NCBI RSS feed
+                    
+                
+            
+        
+    
+
+    
+
+        
+
+            
+                
+
+                    
+                        
+
+                            Connect with NLM
+                        
+                    
+
+                    
+
+                        
+                            
+                                
+                                    
+                                    
+                                
+                                NLM on X (formerly known as Twitter)
+                            
+                        
+
+                        
+                            
+                                
+                                    
+                                    
+                                
+                                NLM on Facebook
+                            
+                        
+
+                        
+                            
+                                
+                                    
+                                
+                                NLM on YouTube
+                            
+                        
+                    
+                
+            
+
+            
+                
+                    
+        
+
+            National Library of Medicine
+             8600 Rockville Pike Bethesda, MD 20894
+        
+    
+                
+            
+
+            
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Web Policies
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            FOIA
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            HHS Vulnerability Disclosure
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+
+            
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Help
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Accessibility
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            Careers
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+        
+
+        
+            
+
+                
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            NLM
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            NIH
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            HHS
+        
+
+        
+    
+
+
+                        
+                    
+                        
+                            
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+            USA.gov
+        
+
+        
+    
+
+
+                        
+                    
+                
+            
+        
+    
+
+
+    
+
+
+        
+        
+    
+  
+
+
+    
+        
+
+
+    Back to Top
+    
+
+    
+
+
+        
+    
+    
+
+    
+    
+        
+    
+    
+
+    
+    
+    
+
+
+    
+     
+
+    
+
+
+
+    
+        
+
+    
+    
+
+    
+

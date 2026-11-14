@@ -2,9 +2,10 @@
 """Offline, deterministic analysis. Downloads belong only in fetch_sources.py."""
 from pathlib import Path
 import os
+import tempfile
 os.environ.setdefault('OPENBLAS_NUM_THREADS','1')
 os.environ.setdefault('VECLIB_MAXIMUM_THREADS','1')
-os.environ.setdefault('MPLCONFIGDIR','/private/tmp/when-support-computes-matplotlib')
+os.environ.setdefault('MPLCONFIGDIR',str(Path(tempfile.gettempdir())/'capnet-matplotlib'))
 import json, platform, time, subprocess, sys
 from xml.etree import ElementTree as ET
 import numpy as np
@@ -14,7 +15,9 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from capnet.network import build, CELL_LENGTH_UM, PA_UNITS_PER_NODE
-from capnet.model import Solver, Params, R_GAS,TEMP_K,FARADAY,K_IN,K_REST,K_KIR,C_CAP,C_PA_UNIT,R_GJ_PA
+from capnet.pooled import saturating_filter_trace
+from resetting_study import run_resetting_study
+from capnet.model import Solver, Params, kir_slope, R_GAS,TEMP_K,FARADAY,K_IN,K_REST,K_KIR,C_CAP,C_PA_UNIT,R_GJ_PA
 from capnet.experiment import parameters,pack,sample,trace,Protocol,residual,flow,filter_trace,BOUNDS,BASE,connected_patch
 
 HERE=Path(__file__).resolve().parent
@@ -23,7 +26,8 @@ SEED=20261114
 DT=2.; RECORD=10.; CANDIDATES=8192; LOCAL_CANDIDATES=512
 TRAIN=[Protocol((site,),(k,)) for site in ('tip0','level3','level2') for k in (6.,8.,10.,12.)]
 KLEVELS=(6.,8.,10.,12.);DELAYS=(0.,100.,250.,500.)
-MODEL_LABELS={'distributed':'Distributed Kir','passive':'Passive cable','sensor_only':'Active distal branches / passive trunk','capillary_linear':'Capillary-linear / active arteriole','arteriole_linear':'Active capillary / linear arteriole','dynamic_filter':'Pooled dynamic filter','independent_sensors':'Independent-sensor oracle'}
+NON_DISTRIBUTED=('passive','capillary_linear','dynamic_filter','independent_sensors')
+MODEL_LABELS={'distributed':'Distributed Kir','passive':'Passive cable','sensor_only':'Active distal branches / passive trunk','capillary_linear':'Capillary-linear / active arteriole','arteriole_linear':'Active capillary / linear arteriole','dynamic_filter':'Pooled saturating filter','independent_sensors':'Independent-sensor oracle'}
 
 
 def plain(x):
@@ -109,7 +113,7 @@ def main():
     confirm=(abs(long_feat[:,1])<1.)&(long_feat[:,0]>=19.6)&(long_feat[:,0]<=26.8)
     accepted=accepted[confirm];long_h=long_h[confirm];long_feat=long_feat[confirm]
     keep_amp=long_feat[:,0];best=int(np.argmin(abs(keep_amp-23.2)))
-    nominal=accepted[best];pn=parameters(nominal);pfilter_base=parameters([.4,.06,50.])
+    nominal=accepted[best];pn=parameters(nominal)
     nominal_long_h=long_h[best];target_broad=long_feat[best]
     print(f'Endpoint screen {len(endpoint_accepted)}/{CANDIDATES}; reversible screen {len(accepted)}; nominal {nominal}',flush=True)
     target=training(so,pn)[0]
@@ -130,14 +134,21 @@ def main():
         sol=min(sols,key=lambda z:np.sum(z.fun**2));fp=np.array([sol.x[0],sol.x[1],np.exp(sol.x[2])]);fitted[mode]=parameters(fp)
         fits[mode]={'parameters':fp,'rmse_mv':float(np.sqrt(np.mean(sol.fun[:-2]**2))),'free_parameters':3,'success':bool(sol.success),'function_evaluations':sol.nfev,'multistart_objective_sse':[float(np.sum(z.fun**2)) for z in sols],'multistart_parameters':[[float(z.x[0]),float(z.x[1]),float(np.exp(z.x[2]))] for z in sols],'broad_endpoint_error_mv':float(sol.fun[-2]/10),'broad_recovery_error_mv':float(sol.fun[-1]/10),'objective':'single-site weak traces plus broad18s endpoint and5s recovery; each anchor weighted10, same bounds and three starts'}
         print(mode,fits[mode]['rmse_mv'],fp,flush=True)
+    # Fit the passive cable first, freeze it, then fit a bounded shared controller.
+    # This gives the pooled alternative six fitted coefficients in total, including
+    # the driver's three; all were learned from isolated-input targets only.
+    pfilter_base=fitted['passive']
     passive_base=training(so,pfilter_base,'passive')[0]
     filter_bt,filter_bh=broad_trace(so,pfilter_base,'passive')
     def fobj(theta):
-        weak=(filter_trace(passive_base,theta)[:,fitmask]-target[:,fitmask]).ravel()
-        br=broad_features(filter_bt,filter_trace(filter_bh,theta))[0]-target_broad
+        weak=(saturating_filter_trace(passive_base,theta,RECORD)[:,fitmask]-target[:,fitmask]).ravel()
+        br=broad_features(filter_bt,saturating_filter_trace(filter_bh,theta,RECORD))[0]-target_broad
         return np.concatenate([weak,10*br])
-    fsol=least_squares(fobj,[1.,.1,30.],bounds=([0,-50,.1],[100,50,1000]),max_nfev=300)
-    theta=fsol.x;fits['dynamic_filter']={'parameters':theta,'rmse_mv':float(np.sqrt(np.mean(fsol.fun[:-2]**2))),'free_parameters':3,'success':bool(fsol.success),'broad_endpoint_error_mv':float(fsol.fun[-2]/10),'broad_recovery_error_mv':float(fsol.fun[-1]/10),'input':'fixed literature BASE passive cable (.4nS,.06nS,50MOhm); no fitted driver parameters or paired observations'}
+    fsols=[least_squares(fobj,x0,bounds=([0,.01,RECORD],[100,1000,1000]),max_nfev=300)
+           for x0 in ([30.,30.,30.],[50.,100.,300.],[30.,10.,1000.])]
+    fsol=min(fsols,key=lambda z:np.sum(z.fun**2))
+    theta=fsol.x;fits['dynamic_filter']={'parameters':theta,'parameter_names':['ceiling_mv','input_scale_mv','tau_ms'],'rmse_mv':float(np.sqrt(np.mean(fsol.fun[:-2]**2))),'free_parameters':3,'fitted_driver_parameters':3,'total_fitted_parameters':6,'success':bool(fsol.success),'broad_endpoint_error_mv':float(fsol.fun[-2]/10),'broad_recovery_error_mv':float(fsol.fun[-1]/10),'input':'passive cable fitted on the same singleton targets, frozen before fitting the pooled filter; no paired observations','driver_parameters':fits['passive']['parameters'],'equation':'tau dy/dt = -y + a tanh(x/s)','bounds':{'lower':[0,.01,RECORD],'upper':[100,1000,1000]},'tau_at_lower_bound':bool(np.isclose(theta[2],RECORD)),'ceiling_at_upper_bound':bool(np.isclose(theta[0],100.)),'multistart_objective_sse':[float(np.sum(z.fun**2)) for z in fsols]}
+    print('saturating_filter',fits['dynamic_filter'],flush=True)
     fits['independent_sensors']={'rmse_mv':0.,'free_parameters':0,'privilege':'exact single-site waveform for every tested site, including held-out topology; no paired trace'}
     # Local synthetic-data uncertainty is distinct from published-endpoint screening.
     local=nominal*np.exp(rng.uniform(-.20,.20,(LOCAL_CANDIDATES,3)))
@@ -168,9 +179,9 @@ def main():
                 else:bs=b
                 z+=bs
         elif model=='dynamic_filter':
-            # Drive from fixed passive cable, not refitted passive rival.
+            # Drive from the calibrated passive cable, then apply the bounded controller.
             ta,raw=trace(ss,pfilter_base,q,mode='passive',block_nodes=block,block_fraction=.9 if block else 0.)
-            z=np.stack([filter_trace(raw[0,:,j],theta) for j in range(raw.shape[-1])],axis=-1)
+            z=np.stack([saturating_filter_trace(raw[0,:,j],theta,RECORD) for j in range(raw.shape[-1])],axis=-1)
         else:
             ta,z=trace(ss,fitted[model],q,mode=model,block_nodes=block,block_fraction=.9 if block else 0.)
             z=z[0]
@@ -199,10 +210,10 @@ def main():
                 sib=next(r for r in vals if r['geometry']=='siblings');far=next(r for r in vals if r['geometry']=='distant')
                 contrast['models'][model]=sib['residual_mv']-far['residual_mv']
             contrast['minimum_rival_gap_mv']=min(abs(contrast['models']['distributed']-v) for m,v in contrast['models'].items() if m!='distributed')
-            contrast['nondistributed_rival_gap_mv']=min(abs(contrast['models']['distributed']-contrast['models'][m]) for m in ('passive','capillary_linear','dynamic_filter','independent_sensors'))
+            contrast['nondistributed_rival_gap_mv']=min(abs(contrast['models']['distributed']-contrast['models'][m]) for m in NON_DISTRIBUTED)
             geometries.append(contrast)
     # Grid selection uses nominal model only; uncertainty evaluated at SAME selected window.
-    chosen=max(geometries,key=lambda z:z['minimum_rival_gap_mv'])
+    chosen=max(geometries,key=lambda z:z['nondistributed_rival_gap_mv'])
     ck=chosen['k_mm'];cd=chosen['delay_ms'];q=Protocol(('tip0','tip1'),(ck,ck),delay=cd)
     print('Selected design',chosen,flush=True)
     ensemble_results={}
@@ -211,8 +222,60 @@ def main():
         t,ab=trace(so,pp,q,rest=rr)
         _,ac=trace(so,pp,Protocol(('tip0','tip4'),(ck,ck),delay=cd),rest=rr)
         w=window(t,q);gc=np.mean(ab[:,w,0]-ac[:,w,0],axis=1)
-        rivals=np.array([v for m,v in chosen['models'].items() if m!='distributed']);lo=float(np.min(gc));hi=float(np.max(gc));robust_gap=min(0. if lo<=v<=hi else min(abs(lo-v),abs(hi-v)) for v in rivals)
+        rivals=np.array([chosen['models'][m] for m in NON_DISTRIBUTED]);lo=float(np.min(gc));hi=float(np.max(gc));robust_gap=min(0. if lo<=v<=hi else min(abs(lo-v),abs(hi-v)) for v in rivals)
         ensemble_results[label]={'interval_minimum_rival_gap_mv':float(robust_gap),'n':len(xx),'geometry_contrast_mv':summary_range(gc),'all_geometry_contrasts_mv':gc,'parameters':xx,'minimum_abs_contrast_mv':float(np.min(abs(gc))),'sign_consistent':bool(np.all(gc>0) or np.all(gc<0))}
+    # Resolve concentration fragility explicitly; these extra samples do not
+    # retroactively change the predeclared four-concentration design selection.
+    concentration_rows=[];concentration_summary={}
+    dense_k=np.round(np.arange(6.,14.0001,.05),2)
+    for delay in (0.,250.):
+        rows=[]
+        for k in dense_k:
+            tq=Protocol(('tip0','tip1'),(float(k),float(k)),delay=delay)
+            tt,hs=get_trace('T1','distributed',('tip0','tip1'),float(k),delay)
+            _,hf=get_trace('T1','distributed',('tip0','tip4'),float(k),delay)
+            value=float(np.mean((hs-hf)[window(tt,tq),0]))
+            row={'k_mm':float(k),'delay_ms':delay,'geometry_contrast_mv':value}
+            rows.append(row);concentration_rows.append(row)
+        cross=[{'lower_k_mm':a['k_mm'],'upper_k_mm':b['k_mm'],
+                'lower_contrast_mv':a['geometry_contrast_mv'],'upper_contrast_mv':b['geometry_contrast_mv']}
+               for a,b in zip(rows,rows[1:]) if a['geometry_contrast_mv']*b['geometry_contrast_mv']<0]
+        for bracket in cross:
+            refinement={}
+            for side in ('lower','upper'):
+                k=bracket[side+'_k_mm'];tq=Protocol(('tip0','tip1'),(k,k),delay=delay)
+                tt,hs=get_trace('T1','distributed',('tip0','tip1'),k,delay,dt=.5)
+                _,hf=get_trace('T1','distributed',('tip0','tip4'),k,delay,dt=.5)
+                refinement[side+'_contrast_half_ms_mv']=float(np.mean((hs-hf)[window(tt,tq),0]))
+            refinement['sign_bracket_retained']=bool(refinement['lower_contrast_half_ms_mv']*refinement['upper_contrast_half_ms_mv']<0)
+            bracket['refinement']=refinement
+        band=[z['geometry_contrast_mv'] for z in rows if 9.<=z['k_mm']<=10.5]
+        low=[z['geometry_contrast_mv'] for z in rows if z['k_mm']<=10.5]
+        concentration_summary[str(delay)]={'zero_crossing_brackets':cross,
+            'sampled_positive_below_10_5':bool(np.all(np.array(low)>0)),
+            'band_9_to_10_5_mm':summary_range(band),
+            'band_minimum_mv':float(min(band)), 'sampled_step_mm':.05}
+    # Record a local membrane diagnostic: stimulated source cells move from
+    # negative to positive Kir differential slope as concentration rises. The
+    # sibling geometry loads those same source cells more strongly. Keep the
+    # unstimulated shared-path readout distinct from an inactive distant tip.
+    local_diagnostics=[]
+    rest_nominal=so.rest(pn);gbar,gbg,ebg,dv=so.node_params(pn)
+    for k in (10.,12.,14.):
+        for geometry,pair in [('siblings',('tip0','tip1')),('distant',('tip0','tip4'))]:
+            tq=Protocol(pair,(k,k));tt,hh=trace(so,pn,tq,rest=rest_nominal,record=list(range(net.n)))
+            ww=window(tt,tq);vv=rest_nominal[:,None,:]-hh
+            km=np.full(net.n,K_REST);km[np.concatenate([net.sites[x] for x in pair])]=k
+            slope=kir_slope(vv,km,gbar[:,None,:],dv[:,None,:])
+            src=net.sites['tip0']
+            local_diagnostics.append({'k_mm':k,'geometry':geometry,
+                'source_nodes':src,'source_mean_hyperpolarization_mv':float(np.mean(hh[0,ww][:,src])),
+                'source_mean_kir_differential_conductance_ns':float(np.mean(slope[0,ww][:,src])),
+                'shared_fork_node':23,'shared_fork_hyperpolarization_mv':float(np.mean(hh[0,ww,23])),
+                'arteriolar_hyperpolarization_mv':float(np.mean(hh[0,ww,net.zone2]))})
+    concentration={'rows':concentration_rows,'summary':concentration_summary,'local_diagnostics':local_diagnostics,
+        'interpretation':'finite nominal sweep; sign brackets are sampled, not exact bifurcation boundaries. The 9 to 10.5 mM band is a conditional concentration-tolerance diagnostic, not a physiological safety range.'}
+    print('Concentration boundary',concentration_summary,flush=True)
     # Focal perturbation in unstimulated common trunk, rebaseline and remeasure singles.
     block=(15,16,17);drug={}
     for model in fits:
@@ -234,7 +297,7 @@ def main():
     _,cc=get_trace('T1','distributed',('tip0','tip1'),ck,cd,dt=2.)
     w=window(t,q)
     conv={'dt_ms':[2.,1.,.5],'max_trace_error_2_vs_half_mv':float(np.max(abs(cc-bb))),'window_error_2_vs_half_mv':float(abs(np.mean(cc[w,0]-bb[w,0]))),'max_trace_error_1_vs_half_mv':float(np.max(abs(aa-bb)))}
-    near_model=min((m for m in fits if m!='distributed'),key=lambda m:abs(chosen['models']['distributed']-chosen['models'][m]))
+    near_model=min(NON_DISTRIBUTED,key=lambda m:abs(chosen['models']['distributed']-chosen['models'][m]))
     conv['nearest_rival']=near_model;conv['geometry_contrast_by_dt']={}
     for ds in (2.,1.,.5):
         ccvals={}
@@ -283,18 +346,39 @@ def main():
     weak_result={'parameters':[.2,.1,100.],'single_peak_mv':float(np.max(wa[0,:,0])),'pair_residual_peak_abs_mv':float(np.max(abs(wb[0,:,0]-2*wa[0,:,0]))),'pair_window_residual_mv':float(np.mean(wb[0,weak_w,0]-2*wa[0,weak_w,0])),'end_recovery_mv':float(wb[0,-1,0])}
     outer=parameters([.4,.06,1000.]);_,oa=trace(so,outer,Protocol(('tip0',),(8.,)));_,ob=trace(so,outer,Protocol(('tip0','tip1'),(8.,8.)));outer_result={'r_gj_mohm':1000.,'single_peak_mv':float(np.max(oa[0,:,0])),'pair_residual_peak_abs_mv':float(np.max(abs(ob[0,:,0]-2*oa[0,:,0])))}
     effect=abs(chosen['models']['distributed'])
-    nearest=chosen['minimum_rival_gap_mv']
+    nearest=chosen['nondistributed_rival_gap_mv']
     zsum=2.8015852181129683
     # Four independent condition means after shared singleton/baseline cancellation.
-    precision={'two_sided_alpha':.05,'power':.8,'zsum':zsum,'independent_condition_sd_mv':1.,'condition_mean_se_required_mv':nearest/(2*zsum),'replicates_per_condition_at_sd_1mv':int(np.ceil((2*zsum/max(nearest,1e-12))**2)),'contrast_se_required_mv':nearest/zsum,'assumption':'four independent condition means for residual geometry contrast; repeated frames are not independent replicates; prespecified design/window, normal approximation'}
+    precision={'two_sided_alpha':.05,'power':.8,'zsum':zsum,'independent_condition_sd_mv':1.,'condition_mean_se_required_mv':nearest/(2*zsum),'replicates_per_condition_at_sd_1mv':int(np.ceil((2*zsum/max(nearest,1e-12))**2)),'contrast_se_required_mv':nearest/zsum,'condition_mean_count':4,'exact_matched_singles_pair_only_replicates_at_sd_1mv':int(np.ceil((np.sqrt(2)*zsum/max(nearest,1e-12))**2)),'assumption':'H_AB-H_AC-H_B+H_C uses four independent condition means; the common H_A cancels. If singleton equality is known exactly, H_AB-H_AC has only two mean errors. The primary calculation retains uncertainty from measured singles. Repeated frames are not independent replicates; prespecified design/window, normal approximation'}
+    for item in ensemble_results.values():
+        gap=item['minimum_abs_contrast_mv'] if item['sign_consistent'] else 0.
+        item['pooled_null_precision']={'gap_mv':gap,
+            'condition_mean_se_required_mv':gap/(2*zsum),
+            'replicates_per_condition_at_sd_1mv':int(np.ceil((2*zsum/max(gap,1e-12))**2)),
+            'meaning':'worst sampled distributed contrast against exact pooled-input zero; no rival parameter envelope is needed for an invariant null'}
+    singleton_pass=lrms<=.25
+    recovery_fail=abs(local_bf[:,1])>=1.
+    amplitude_fail=(local_bf[:,0]<19.6)|(local_bf[:,0]>26.8)
+    measured_kir_bounds=(np.array([.18-.1,.18+.1])*np.sqrt(3))
+    local_screen_diagnostics={'singleton_rmse_pass_count':int(singleton_pass.sum()),
+        'singleton_pass_recovery_failure_count':int(np.sum(singleton_pass&recovery_fail)),
+        'singleton_pass_positive_persistent_count':int(np.sum(singleton_pass&(local_bf[:,1]>=1.))),
+        'singleton_pass_amplitude_failure_count':int(np.sum(singleton_pass&amplitude_fail)),
+        'singleton_pass_low_amplitude_recovered_count':int(np.sum(singleton_pass&(local_bf[:,0]<19.6)&~recovery_fail)),
+        'singleton_pass_any_broad_failure_count':int(np.sum(singleton_pass&~lmask)),
+        'positive_persistent_recovery_mv':summary_range(local_bf[singleton_pass&(local_bf[:,1]>=1.),1]),
+        'measured_kir_mean_plus_minus_sd_bounds_ns':measured_kir_bounds,
+        'accepted_overlap_measured_kir_count':int(np.sum((accepted[:,0]>=measured_kir_bounds[0])&(accepted[:,0]<=measured_kir_bounds[1]))),
+        'persistence_definition':'residual hyperpolarization at 5 s after offset; this finite observation alone does not demonstrate permanent latching'}
     drug_effect=abs(drug['distributed']['drug_geometry_change_mv']);drug_gap=abs(drug['distributed']['drug_geometry_change_mv']-drug[drug_near]['drug_geometry_change_mv'])
     drug_precision={'nearest_rival':drug_near,'nearest_gap_mv':drug_gap,'condition_mean_se_to_detect_drug_effect_mv':drug_effect/(np.sqrt(8)*zsum),'condition_mean_se_to_distinguish_nearest_rival_mv':drug_gap/(np.sqrt(8)*zsum),'replicates_per_condition_to_detect_at_sd1mv':int(np.ceil((np.sqrt(8)*zsum/max(drug_effect,1e-12))**2)),'assumption':'eight independent means for drug-minus-control geometry residual; idealized block and predeclared nominal design'}
-    results={'schema':1,'execution':{'status':'PASS','tests':test_result,'seed':SEED,'python':platform.python_version(),'numpy':np.__version__,'scipy':scipy.__version__,'matplotlib':matplotlib.__version__},'constants':{'gas_constant':R_GAS,'temperature_k':TEMP_K,'faraday':FARADAY,'potassium_in_mm':K_IN,'potassium_rest_mm':K_REST,'kir_slope_mv':K_KIR,'capacitance_cap_pf':C_CAP,'capacitance_pa_unit_pf':C_PA_UNIT,'pa_gap_resistance_mohm':R_GJ_PA,'cell_length_um':CELL_LENGTH_UM,'pa_units_per_node':PA_UNITS_PER_NODE,'pa_nodes':15,'pa_length_um':300,'t1_capillary_cells':45,'t2_capillary_cells':90,'t3_capillary_cells':48,'tip_site_cells':2,'broad_site_cells':16,'pulse_ms':500,'step_ms':DT,'record_ms':RECORD,'anchor_objective_weight':10,'passive_slope_floor_ns':.001,'flow_max_diameter_fraction':.3,'flow_hyperpolarization_scale_mv':10,'poiseuille_power':4,'pharmacology_block_fraction':.9,'katp_effective_conductance_ns':.1,'local_match_threshold_mv':.25,'local_log_perturbation':.2,'fit_protocol_count':len(TRAIN)+1,'weak_fit_protocol_count':len(TRAIN),'branch_levels':4,'cells_per_segment':3,'pa_readout_distance_um':240,'t2_attachment_spacing_um':120,'tip_site_mean_distance_um':220,'protocol_onset_ms':100,'fit_sample_ms':50,'distal_active_capillary_nodes_t1':42,'rest_drift_tolerance_mv_per_ms':1e-10,'free_parameter_count':3,'pair_conditions':len(pair_rows)//len(fits),'topology_count':3,'recovery_observation_ms':23000,'recovery_post_offset_ms':5000,'baseline_settling_check_ms':8000},'literature':{'longden2017_hyperpolarization_mv':23.2,'longden2017_sem_mv':1.8,'longden2017_latency_ms':240,'longden2017_latency_sem_ms':30,'calibration_lower_mv':19.6,'calibration_upper_mv':26.8,'baseline_lower_mv':-45,'baseline_upper_mv':-25,'measured_gbar_kir_mean':.18,'measured_gbar_kir_sd':.1,'measured_gkir_3mm_mean':.18*np.sqrt(3),'measured_gkir_3mm_sd':.1*np.sqrt(3),'measured_gbg_mean_ns':.06,'measured_gbg_sd_ns':.04,'calibration_strong_duration_ms':18000,'calibration_strong_k_mm':10,'calibration_endpoint_window_ms':100,'single_site_literature_target_note':'Published amplitude and reversibility screen at matched18s duration;2SEM acceptance and1mV recovery threshold are adopted design constraints, not raw-data likelihood. Exposure connected exposure footprint16cells is a structural assumption, with8cell sensitivity also evaluated. No latency calibration or external validation.'},'parameter_bounds':{'g_kir_ns':BOUNDS[:,0],'g_bg_ns':BOUNDS[:,1],'r_gj_mohm':BOUNDS[:,2]},'nominal_parameters':dict(zip(['g_kir_ns','g_bg_ns','r_gj_mohm'],nominal)),'fixed_parameters':{'g_kir_pa_ns':.65,'g_bg_pa_ns':.2,'e_bg_mv':-30,'e_bg_pa_mv':-30,'dv_kir_mv':25},'calibration':{'footprint_shape':'BFS-connected left distal subtree; selected16-cell structural assumption shared by every model','broad_node_indices':connected_patch(net,16),'broad_source_to_readout_distance_um':{'min':float(np.min(net.dist_um[connected_patch(net,16)])+240),'mean':float(np.mean(net.dist_um[connected_patch(net,16)])+240),'max':float(np.max(net.dist_um[connected_patch(net,16)])+240)},'footprint_screen':footprint_screen,'candidate_count':CANDIDATES,'accepted_count':len(accepted),'nominal_strong_response_mv':keep_amp[best],'post_offset_check_ms':5000,'recovery_threshold_mv':1.,'reversible_accepted_count':len(accepted),'endpoint_accepted_count':len(endpoint_accepted),'rejected_after_duration_and_recovery_count':int(mask.sum()-len(accepted)),'long_duration_response_mv':summary_range(long_feat[:,0]),'long_duration_recovery_mv':summary_range(long_feat[:,1]),'long_duration_ms':18000,'long_post_offset_check_ms':5000,'accepted_recovery_mv':summary_range(long_feat[:,1]),'nominal_recovery_mv':float(target_broad[1]),'nominal_one_mv_onset_ms':float(long_t[np.where(nominal_long_h>=1.)[0][0]]),'nominal_baseline_settling_error_mv':float(np.max(abs(so.rest(pn,t_end=8000)-so.rest(pn)))),'accepted_strong_response_mv':summary_range(keep_amp),'accepted_parameter_ranges':{n:summary_range(accepted[:,i]) for i,n in enumerate(['g_kir','g_bg','r_gj'])},'baseline_pa_mv':float(so.rest(pn)[0,net.zone2]),'nominal_selection':'closest to published mean among reversible18s-screen accepted draws; no paired response used','single_trace_provenance':'synthetic nominal model; twelve local protocols plus connected broad exposure on T1 only; every fifth10ms sample in local traces','fits':fits},'identifiability':{'sensitivity_steps':sensitivity_scales,'reported_log_step':.00001,'reported_step_stays_reversible':sensitivity_scales[-1]['all_perturbations_reversible'],'log_sensitivity_singular_values':sv,'condition_number':float(sv[0]/sv[-1]),'local_linear_correlation':cor,'broad_anchor_in_jacobian':True,'local_candidate_count':len(local),'matched_count':len(lkeep),'match_rmse_mv':summary_range(lkeep_rms),'matched_parameter_ranges':{n:summary_range(lkeep[:,i]) for i,n in enumerate(['g_kir','g_bg','r_gj'])},'meaning':'finite-design local sensitivity and tolerance set, neither posterior probability nor population confidence interval'},'heldout':{'errors':errors,'rows':pair_rows,'geometry_grid':geometries},'outer_coupling_sensitivity':outer_result,'simpler_suffices':weak_result,'design':{'matched_singleton_max_difference_mv':symmetry_error,'selected':chosen,'ensemble':ensemble_results,'pharmacology':drug,'pharmacology_precision':drug_precision,'precision':precision,'selection':'nominal-grid maximum minimum absolute geometry-contrast gap from all refitted rivals; equal-depth sibling vs distant T1 tips; no experimental outcomes observed','window_start_ms':q.onset+q.delay+q.duration-100,'window_end_ms':q.onset+q.delay+q.duration},'convergence':conv,'katp_scenario':{'single_mv':float(np.mean(kas[0,kw,0])),'paired_mv':float(np.mean(kat[0,kw,0])),'residual_mv':float(np.mean(kat[0,kw,0]-2*kas[0,kw,0])),'interpretation':'assumed effective capillary-node KATP input; no explicit pericyte compartment or metabolic kinetics'}}
+    results={'schema':1,'execution':{'status':'PASS','tests':test_result,'seed':SEED,'python':platform.python_version(),'numpy':np.__version__,'scipy':scipy.__version__,'matplotlib':matplotlib.__version__},'constants':{'gas_constant':R_GAS,'temperature_k':TEMP_K,'faraday':FARADAY,'potassium_in_mm':K_IN,'potassium_rest_mm':K_REST,'kir_slope_mv':K_KIR,'capacitance_cap_pf':C_CAP,'capacitance_pa_unit_pf':C_PA_UNIT,'pa_gap_resistance_mohm':R_GJ_PA,'cell_length_um':CELL_LENGTH_UM,'pa_units_per_node':PA_UNITS_PER_NODE,'pa_nodes':15,'pa_length_um':300,'t1_capillary_cells':45,'t2_capillary_cells':90,'t3_capillary_cells':48,'tip_site_cells':2,'broad_site_cells':16,'pulse_ms':500,'step_ms':DT,'record_ms':RECORD,'anchor_objective_weight':10,'passive_slope_floor_ns':.001,'flow_max_diameter_fraction':.3,'flow_hyperpolarization_scale_mv':10,'poiseuille_power':4,'pharmacology_block_fraction':.9,'katp_effective_conductance_ns':.1,'local_match_threshold_mv':.25,'local_log_perturbation':.2,'fit_protocol_count':len(TRAIN)+1,'weak_fit_protocol_count':len(TRAIN),'branch_levels':4,'cells_per_segment':3,'pa_readout_distance_um':240,'t2_attachment_spacing_um':120,'tip_site_mean_distance_um':220,'protocol_onset_ms':100,'fit_sample_ms':50,'distal_active_capillary_nodes_t1':42,'rest_drift_tolerance_mv_per_ms':1e-10,'free_parameter_count':3,'pair_conditions':len(pair_rows)//len(fits),'topology_count':3,'recovery_observation_ms':23000,'recovery_post_offset_ms':5000,'baseline_settling_check_ms':8000},'literature':{'longden2017_hyperpolarization_mv':23.2,'longden2017_sem_mv':1.8,'longden2017_latency_ms':240,'longden2017_latency_sem_ms':30,'calibration_lower_mv':19.6,'calibration_upper_mv':26.8,'baseline_lower_mv':-45,'baseline_upper_mv':-25,'measured_gbar_kir_mean':.18,'measured_gbar_kir_sd':.1,'measured_gkir_3mm_mean':.18*np.sqrt(3),'measured_gkir_3mm_sd':.1*np.sqrt(3),'measured_gbg_mean_ns':.06,'measured_gbg_sd_ns':.04,'calibration_strong_duration_ms':18000,'calibration_strong_k_mm':10,'calibration_endpoint_window_ms':100,'single_site_literature_target_note':'Published amplitude and reversibility screen at matched18s duration;2SEM acceptance and1mV recovery threshold are adopted design constraints, not raw-data likelihood. Exposure connected exposure footprint16cells is a structural assumption, with8cell sensitivity also evaluated. No latency calibration or external validation.'},'parameter_bounds':{'g_kir_ns':BOUNDS[:,0],'g_bg_ns':BOUNDS[:,1],'r_gj_mohm':BOUNDS[:,2]},'nominal_parameters':dict(zip(['g_kir_ns','g_bg_ns','r_gj_mohm'],nominal)),'fixed_parameters':{'g_kir_pa_ns':.65,'g_bg_pa_ns':.2,'e_bg_mv':-30,'e_bg_pa_mv':-30,'dv_kir_mv':25},'calibration':{'footprint_shape':'BFS-connected left distal subtree; selected16-cell structural assumption shared by every model','broad_node_indices':connected_patch(net,16),'broad_source_to_readout_distance_um':{'min':float(np.min(net.dist_um[connected_patch(net,16)])+240),'mean':float(np.mean(net.dist_um[connected_patch(net,16)])+240),'max':float(np.max(net.dist_um[connected_patch(net,16)])+240)},'footprint_screen':footprint_screen,'candidate_count':CANDIDATES,'accepted_count':len(accepted),'nominal_strong_response_mv':keep_amp[best],'post_offset_check_ms':5000,'recovery_threshold_mv':1.,'reversible_accepted_count':len(accepted),'endpoint_accepted_count':len(endpoint_accepted),'rejected_after_duration_and_recovery_count':int(mask.sum()-len(accepted)),'long_duration_response_mv':summary_range(long_feat[:,0]),'long_duration_recovery_mv':summary_range(long_feat[:,1]),'long_duration_ms':18000,'long_post_offset_check_ms':5000,'accepted_recovery_mv':summary_range(long_feat[:,1]),'nominal_recovery_mv':float(target_broad[1]),'nominal_one_mv_onset_ms':float(long_t[np.where(nominal_long_h>=1.)[0][0]]),'nominal_baseline_settling_error_mv':float(np.max(abs(so.rest(pn,t_end=8000)-so.rest(pn)))),'accepted_strong_response_mv':summary_range(keep_amp),'accepted_parameter_ranges':{n:summary_range(accepted[:,i]) for i,n in enumerate(['g_kir','g_bg','r_gj'])},'baseline_pa_mv':float(so.rest(pn)[0,net.zone2]),'nominal_selection':'closest to published mean among reversible18s-screen accepted draws; no paired response used','single_trace_provenance':'synthetic nominal model; twelve local protocols plus connected broad exposure on T1 only; every fifth10ms sample in local traces','fits':fits},'identifiability':{'screen_diagnostics':local_screen_diagnostics,'sensitivity_steps':sensitivity_scales,'reported_log_step':.00001,'reported_step_stays_reversible':sensitivity_scales[-1]['all_perturbations_reversible'],'log_sensitivity_singular_values':sv,'condition_number':float(sv[0]/sv[-1]),'local_linear_correlation':cor,'broad_anchor_in_jacobian':True,'local_candidate_count':len(local),'matched_count':len(lkeep),'match_rmse_mv':summary_range(lkeep_rms),'matched_parameter_ranges':{n:summary_range(lkeep[:,i]) for i,n in enumerate(['g_kir','g_bg','r_gj'])},'meaning':'finite-design local sensitivity and tolerance set, neither posterior probability nor population confidence interval'},'heldout':{'concentration_boundary':concentration,'errors':errors,'rows':pair_rows,'geometry_grid':geometries},'outer_coupling_sensitivity':outer_result,'simpler_suffices':weak_result,'design':{'matched_singleton_max_difference_mv':symmetry_error,'selected':chosen,'ensemble':ensemble_results,'pharmacology':drug,'pharmacology_precision':drug_precision,'precision':precision,'selection':'nominal-grid maximum minimum absolute geometry-contrast gap from nondistributed controls; exact pooled-input null is the precision target. Distal-active and arteriole-linear retain distributed Kir and fail broad singleton calibration, so their parameter-sensitive differences are localization diagnostics, excluded from design optimization. Equal-depth sibling vs distant T1 tips; no experimental outcomes observed','window_start_ms':q.onset+q.delay+q.duration-100,'window_end_ms':q.onset+q.delay+q.duration},'convergence':conv,'katp_scenario':{'single_mv':float(np.mean(kas[0,kw,0])),'paired_mv':float(np.mean(kat[0,kw,0])),'residual_mv':float(np.mean(kat[0,kw,0]-2*kas[0,kw,0])),'interpretation':'assumed effective capillary-node KATP input; no explicit pericyte compartment or metabolic kinetics'}}
+    results['resetting']=run_resetting_study(nominal)
     prov=HERE/'data'/'parameters.json'
     if prov.exists():results['parameter_provenance']=json.loads(prov.read_text())
     results['execution']['elapsed_seconds']=time.time()-start
     (OUT/'results.json').write_text(json.dumps(plain(results),indent=2,allow_nan=False)+'\n')
-    np.savez_compressed(OUT/'calibration_traces.npz',times=np.arange(10,1610,10),target=target,local_parameters=local,local_rmse=lrms,screen_parameters=candidates,screen_amplitude=amplitude,screen_accepted=mask)
+    np.savez_compressed(OUT/'calibration_traces.npz',times=np.arange(10,1610,10),target=target,local_parameters=local,local_rmse=lrms,local_broad_features=local_bf,screen_parameters=candidates,screen_amplitude=amplitude,screen_accepted=mask)
     figure_results(results,get_trace,pair_names)
     print(json.dumps({'accepted':len(accepted),'nominal':nominal.tolist(),'design':plain(chosen),'seconds':time.time()-start,'reversible_accepted_count':len(accepted),'endpoint_accepted_count':len(endpoint_accepted),'rejected_after_duration_and_recovery_count':int(mask.sum()-len(accepted)),'long_duration_response_mv':summary_range(long_feat[:,0]),'long_duration_recovery_mv':summary_range(long_feat[:,1]),'long_duration_ms':18000,'long_post_offset_check_ms':5000},indent=2),flush=True)
 
@@ -306,7 +390,7 @@ def figure_results(r,get_trace,pairs):
     ax=axes[0,0]
     for model in ['distributed','sensor_only','arteriole_linear','dynamic_filter']:
         t,sib=get_trace('T1',model,('tip0','tip1'),ck,cd);_,far=get_trace('T1',model,('tip0','tip4'),ck,cd)
-        ax.plot(t,sib[:,0]-far[:,0],label={'distributed':'Distributed','sensor_only':'Distal-active','arteriole_linear':'Arteriole-linear','dynamic_filter':'Filter'}[model],lw=2)
+        ax.plot(t,sib[:,0]-far[:,0],label={'distributed':'Distributed','sensor_only':'Distal-active','arteriole_linear':'Arteriole-linear','dynamic_filter':'Saturating filter'}[model],lw=2)
     ax.axvspan(r['design']['window_start_ms'],r['design']['window_end_ms'],color='.85',alpha=.5)
     ax.set(xlabel='Time (ms)',ylabel='Sibling minus distant pair (mV)',title='A  Geometry contrast');ax.legend(loc='upper right')
     ax=axes[0,1]
@@ -315,7 +399,7 @@ def figure_results(r,get_trace,pairs):
     ax.set(xticks=range(4),xticklabels=[int(x) for x in DELAYS],yticks=range(4),yticklabels=[int(x) for x in KLEVELS],xlabel='Second input delay (ms)',ylabel='Local potassium (mM)',title='B  Timing and intensity');fig.colorbar(im,ax=ax,label='mV')
     ax=axes[1,0]
     modes=list(MODEL_LABELS);values=[r['design']['selected']['models'][m] for m in modes]
-    ax.barh(range(len(modes)),values,color=['#175b86']+['#8ba9ba']*6);ax.set(yticks=range(len(modes)),yticklabels=['Distributed','Passive','Distal-active','Capillary-linear','Arteriole-linear','Dynamic filter','Independent oracle'],xlabel='Fixed-window geometry contrast (mV)',title='C  Fitted models');ax.axvline(0,color='k',lw=.7)
+    ax.barh(range(len(modes)),values,color=['#175b86']+['#8ba9ba']*6);ax.set(yticks=range(len(modes)),yticklabels=['Distributed','Passive','Distal-active','Capillary-linear','Arteriole-linear','Saturating filter','Independent oracle'],xlabel='Fixed-window geometry contrast (mV)',title='C  Fitted models');ax.axvline(0,color='k',lw=.7)
     ax=axes[1,1]
     data=[r['design']['ensemble'][key]['all_geometry_contrasts_mv'] for key in ['published_screen','synthetic_single_match']]
     ax.boxplot(data,tick_labels=['Source\nscreen','Single-site\nfit'],showfliers=True)
@@ -327,5 +411,24 @@ def figure_results(r,get_trace,pairs):
     rr=residual(a[:,0],bs[:,0],ab[:,0])
     for key,label in [('flow','Total flow residual'),('saturation','Output-transform residual'),('beyond_saturation','Beyond output transform')]:ax.plot(t,rr[key],label=label,lw=2)
     ax.set(xlabel='Time (ms)',ylabel='Residual in normalized flow',title='Electrical and output-transform contributions');ax.legend();fig.savefig(FIG/'saturation_decomposition.pdf');fig.savefig(FIG/'saturation_decomposition.png',dpi=170);plt.close(fig)
+
+    fig,ax=plt.subplots(figsize=(8,5),layout='constrained')
+    for delay,color in [(0.,'#175b86'),(250.,'#ad5429')]:
+        rows=[x for x in r['heldout']['concentration_boundary']['rows'] if x['delay_ms']==delay]
+        ax.plot([x['k_mm'] for x in rows],[x['geometry_contrast_mv'] for x in rows],
+                label=f'Delay {int(delay)} ms',color=color,lw=2)
+        for bracket in r['heldout']['concentration_boundary']['summary'][str(delay)]['zero_crossing_brackets']:
+            mid=(bracket['lower_k_mm']+bracket['upper_k_mm'])/2
+            ax.axvspan(bracket['lower_k_mm'],bracket['upper_k_mm'],color=color,alpha=.3)
+            ax.annotate(f"{bracket['lower_k_mm']:.2f}–{bracket['upper_k_mm']:.2f} mM",(mid,0),
+                        xytext=(.98,.80) if delay==0 else (.71,.20),
+                        textcoords='axes fraction',ha='right',color=color,
+                        arrowprops={'arrowstyle':'-','color':color},fontsize=12)
+    ax.axvspan(9,10.5,color='#d8e7ce',alpha=.5,label='Examined band')
+    ax.axhline(0,color='.3',lw=.8)
+    ax.set(xlabel='Local potassium (mM)',ylabel='Sibling minus distant pair (mV)',
+           title='Concentration-dependent sign reversal')
+    fig.legend(loc='outside upper center',ncols=3,frameon=False)
+    fig.savefig(FIG/'concentration_boundary.pdf');fig.savefig(FIG/'concentration_boundary.png',dpi=170);plt.close(fig)
 
 if __name__=='__main__':main()

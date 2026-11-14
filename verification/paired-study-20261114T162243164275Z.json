@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "id": "paired-study",
+  "started": "2026-11-14T15:39:50.039800+00:00",
+  "finished": "2026-11-14T15:46:14.064637+00:00",
+  "command": [
+    "uv",
+    "run",
+    "python",
+    "run_all.py"
+  ],
+  "cwd": "simulation",
+  "runtime": {
+    "scope": "recorder",
+    "python": "3.14.3 (main, Mar 25 2026, 03:28:18) [Clang 22.1.1 ]",
+    "platform": "macOS-15.1-arm64-arm-64bit-Mach-O"
+  },
+  "execution_result": null,
+  "execution": {
+    "status": "PASS",
+    "exit_code": 0,
+    "detail": "command completed"
+  },
+  "input_scope": "execution-v1",
+  "additional_inputs": [
+    "simulation/data/parameters.json",
+    "simulation/data/source_evidence/manifest.json",
+    "simulation/data/source_evidence/additional_sources_manifest.json"
+  ],
+  "inputs": {
+    "simulation/capnet/experiment.py": "2cc6befe289d25e0adc58d5939ac200e8fc4f4d96abb3538aa78fc9d646255d9",
+    "simulation/capnet/model.py": "54158f4f55370cce298a56bcc3632fcfeb3a2a71d92812d9ffdf6e41c7ee0043",
+    "simulation/capnet/network.py": "4f93799ba61cae62af774620acbb97a1e56184377b1f979ac301dba0a94ef331",
+    "simulation/capnet/pooled.py": "ac0e32e4c86fec0dd4d87d7ed1a73639e9f6fccc0a0c154dc3ab213eecb305c5",
+    "simulation/data/parameters.json": "d0acce862237e0255c511e2bb744dad69916f906842f76620e6d807902ae0346",
+    "simulation/data/source_evidence/additional_sources_manifest.json": "a13aca235bca28daede252087ce3085ab5bf41d671c170836dc4adf31059c6d9",
+    "simulation/data/source_evidence/manifest.json": "eff5114dee09788828c74961b0dbf381bbf95e1f28d96832a594e2ca0676f736",
+    "simulation/fetch_sources.py": "9c9045e33e5b3a54db4c5e30a8a5a69aa739f82aceba2e46895e93878925a9bd",
+    "simulation/pyproject.toml": "1d2095a135a3503d4fd5729e39135d0953c0af3c011796f9d912c64c39197d28",
+    "simulation/resetting_study.py": "f7419f0be3d29c049821cd8701bd1215b0dab4899adb289c17a6b697a12d0f1b",
+    "simulation/run_all.py": "d843c806867bce0960399664aa8d855dd433c86531d44f4edb471038ba701e9e",
+    "simulation/tests/test_calibration_regressions.py": "c3a00eb4c426fa13bf192d8841f45672c17ef61a7c2415b0833be03bfbda98da",
+    "simulation/tests/test_core.py": "1d329e33cb2d7939d3547d266b4f6ec3bcdb3d2551974da44738a8f9cc27fcaa",
+    "simulation/tests/test_mechanism.py": "6b5c3fa622d531d7938f0e83dcf4c8eb3a3bb3af4fc91d0f8ade7ad8065ae5ca",
+    "simulation/tests/test_pooled.py": "1ae54963b66b7d37ba71a80698f58cc56fee7d842f0372faba7be0ce398bee5a",
+    "simulation/tests/test_resetting.py": "d574aefae6600a4feb0659fc5139d1db3f23e916f7c78497a233032900de2640",
+    "simulation/uv.lock": "c9a58ce53f3e4a5fb181640f005d917090b572c6fea55444d9a29c9f66ae337c"
+  },
+  "artifacts": {
+    "simulation/output/results.json": "097c59f866bc6d633011e8a8f797ce8bb213389eab6750cf8e3c04954e42b6bc",
+    "simulation/output/calibration_traces.npz": "6d989c59b7ea905d93856d4e2f345694ff405758006b41651d25b255166af411",
+    "simulation/output/tests.xml": "937ec95345df0a0e032b26b15bb7d5938753c1081aa384a0e07fecbb9d43fc8e",
+    "simulation/output/tests.log": "cb33560600afb978632295058e896d4dcc51b03e64bb3d3db30a009a07df623f",
+    "paper/figures/paired_predictions.pdf": "4f2c79268685a0155078216f679d7309e24974cc3f60cfbcd567e2cfa18fb03b",
+    "paper/figures/paired_predictions.png": "8b5043bfc2f18c5942076d0a725017dcebaa67fa83be8393471b0147d4bbe7e5",
+    "paper/figures/saturation_decomposition.pdf": "fb5f34ab78ea65485e1a548b93bd6f8bdccaefcc8e61f36a56391f7a8ff439e9",
+    "paper/figures/saturation_decomposition.png": "ae448d78f1473c3304f2b360e0fb76e05cac9e6fd1d93e69580c3ea9a63ef23b",
+    "paper/figures/concentration_boundary.pdf": "3c451cded4b181a7c6c84c5ffeb6c46cb82863ed4c7e71e2f190820e3de3e3e9",
+    "paper/figures/concentration_boundary.png": "a6db9743040f0e2a0e5b274a540711efb6d67086cc470694a76dd910b3508d7c"
+  }
+}

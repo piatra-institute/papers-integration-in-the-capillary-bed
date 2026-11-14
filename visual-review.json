@@ -1,0 +1,54 @@
+{
+  "pdf_sha256": "96687e306c6ae46d92e251be37a4b5450f168f55b0e0523ba4ce09ff1cc6669d",
+  "reviewed": "2026-11-14",
+  "reviewer": {
+    "tool": "agy",
+    "model": "gemini-4-hydrogen-xhigh",
+    "family": "google"
+  },
+  "authors": [
+    {
+      "tool": "codex",
+      "model": "gpt-6-astra",
+      "family": "openai"
+    },
+    {
+      "tool": "claude-code",
+      "model": "claude (earlier drafting)",
+      "family": "anthropic"
+    }
+  ],
+  "page_count": 18,
+  "pages_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "all_pages_inspected": true,
+  "notes": "Every page rendered at 110 dpi with pdftoppm and inspected by the independent reviewer; no layout problems reported.",
+  "reports": [
+    {
+      "path": "reviews/2026-11-closure-round1.json",
+      "sha256": "6a72ffda898426a09b70782a108f7aad713331da77bbe83e639a8844fc743a5e"
+    },
+    {
+      "path": "reviews/2026-11-closure-round2.json",
+      "sha256": "068324e894718c0fb6865bb7d747acbba93ace4dc889b7334c6c8b2b6a81056b"
+    }
+  ]
+}

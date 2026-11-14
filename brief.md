@@ -14,7 +14,7 @@ Biophysical modeling, parameter identifiability analysis, held-out synthetic pre
 
 ## Strongest serious alternative
 
-Independent nonlinear local sensors followed by passive endothelial conduction and a common saturating vascular output can generate nonadditive flow without distributed electrical interaction. A parameter-matched dynamic filter and refitted channel/coupling ablations test whether apparent mechanistic complexity is necessary for the observed response class. A clean experiment therefore measures electrical responses as well as diameter, includes time-shifted single-input controls, and localizes channel perturbations away from the stimulus sites when feasible.
+Independent nonlinear local sensors followed by passive endothelial conduction and a common saturating vascular output can generate nonadditive flow without distributed electrical interaction. A bounded dynamic filter driven by a calibrated passive cable and refitted channel/coupling ablations test whether simpler models can explain the response class. The filter and driver have separate fitted parameter sets. A clean experiment therefore measures electrical responses as well as diameter, includes time-shifted single-input controls, and localizes channel perturbations away from the stimulus sites when feasible.
 
 ## Cornerstone literature
 

@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "references_sha256": "3dd548f9da65061cab67d04e05aab07e025711742521b28ddde47114ef532d07",
+  "references_sha256": "6506b7652965a588ffcc6763e90f12b8b24f366f21a81f58fa90ad21615847a6",
   "bibliography_inputs": {
-    "references.yaml": "3dd548f9da65061cab67d04e05aab07e025711742521b28ddde47114ef532d07"
+    "references.yaml": "6506b7652965a588ffcc6763e90f12b8b24f366f21a81f58fa90ad21615847a6"
   },
   "entries": [
     {
@@ -60,7 +60,7 @@
         }
       },
       "registry": "Crossref",
-      "fetched_at": "2026-11-14T12:47:30.089851+00:00",
+      "fetched_at": "2026-11-14T16:37:06.862904+00:00",
       "record_sha256": "7f8f06153b1f12896136787fd93bd16e2416cf0a8ff73fd53496abc3796659a3",
       "suggestions": [],
       "message": "identity matches"
@@ -120,7 +120,7 @@
         }
       },
       "registry": "Crossref",
-      "fetched_at": "2026-11-14T12:47:30.842589+00:00",
+      "fetched_at": "2026-11-14T16:37:07.547930+00:00",
       "record_sha256": "c7a883638842bc8dba4b1375f830358230313d31e4643b040e7a7832af23511a",
       "suggestions": [],
       "message": "identity matches"
@@ -180,7 +180,7 @@
         }
       },
       "registry": "Crossref",
-      "fetched_at": "2026-11-14T12:47:31.382261+00:00",
+      "fetched_at": "2026-11-14T16:37:08.179938+00:00",
       "record_sha256": "b32c6e676bb16e5a746a4105c92a8e1d6b35e434347959f0a390e177403164b5",
       "suggestions": [],
       "message": "different fields: page"
@@ -239,7 +239,7 @@
         }
       },
       "registry": "Crossref",
-      "fetched_at": "2026-11-14T12:47:32.375235+00:00",
+      "fetched_at": "2026-11-14T16:37:08.872351+00:00",
       "record_sha256": "ec2067fa12eb6eb223ecad47ba268ce212a73f231125f5cce8424d82ee64b902",
       "suggestions": [],
       "message": "identity matches"
@@ -299,7 +299,7 @@
         }
       },
       "registry": "Crossref",
-      "fetched_at": "2026-11-14T12:47:32.950077+00:00",
+      "fetched_at": "2026-11-14T16:37:09.417440+00:00",
       "record_sha256": "60c86d0d1bec15d76fc370a3e394b6f1f0b597bd0a755aca39daa33acc3aa528",
       "suggestions": [],
       "message": "different fields: page"
@@ -358,7 +358,7 @@
         }
       },
       "registry": "Crossref",
-      "fetched_at": "2026-11-14T12:47:34.490956+00:00",
+      "fetched_at": "2026-11-14T16:37:09.977084+00:00",
       "record_sha256": "ede934a7bbed14c63771132804a1f3d58cafa769a33e0b6eb459cbbfc81ca1e2",
       "suggestions": [],
       "message": "identity matches"
@@ -417,7 +417,7 @@
         }
       },
       "registry": "Crossref",
-      "fetched_at": "2026-11-14T12:47:35.100996+00:00",
+      "fetched_at": "2026-11-14T16:37:10.539086+00:00",
       "record_sha256": "03ab5bf4f2f31d679bcc8672cc2fda650e63ad425640e2b42ca395d054bebb90",
       "suggestions": [],
       "message": "identity matches"
@@ -477,7 +477,7 @@
         }
       },
       "registry": "Crossref",
-      "fetched_at": "2026-11-14T12:47:35.867368+00:00",
+      "fetched_at": "2026-11-14T16:37:11.245384+00:00",
       "record_sha256": "84394ac18852972224f4f495ee9fc36fc4df4f4ec63bb120a1bda410f6eb6029",
       "suggestions": [],
       "message": "identity matches"
@@ -536,10 +536,427 @@
         }
       },
       "registry": "Crossref",
-      "fetched_at": "2026-11-14T12:47:36.593655+00:00",
+      "fetched_at": "2026-11-14T16:37:11.946008+00:00",
       "record_sha256": "4378a4cb409f989d72a8c59743275db8d2c1f7241d3fc6336d8eba9a09e73245",
       "suggestions": [],
       "message": "identity matches"
+    },
+    {
+      "id": "wessel1999",
+      "doi": "10.1523/jneurosci.19-14-05875.1999",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Supralinear Summation of Synaptic Inputs by an Invertebrate Neuron: Dendritic Gain Is Mediated by an “Inward Rectifier” K<sup>+</sup> Current",
+          "registry": [
+            "Supralinear Summation of Synaptic Inputs by an Invertebrate Neuron: Dendritic Gain Is Mediated by an “Inward Rectifier” K<sup>+</sup>Current"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "wessel",
+          "registry": "wessel",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            1999
+          ],
+          "registry": [
+            1999,
+            1999,
+            1999,
+            1999
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "The Journal of Neuroscience",
+          "registry": [
+            "The Journal of Neuroscience"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "19",
+          "registry": "19",
+          "match": true
+        },
+        "issue": {
+          "reference": "14",
+          "registry": "14",
+          "match": true
+        },
+        "page": {
+          "reference": "5875-5888",
+          "registry": "5875-5888",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T16:37:12.659288+00:00",
+      "record_sha256": "4a37c5f8129d6afcda4aba60d890e1d57b691a658d36bfd56ab2631508717104",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "rall1967",
+      "doi": "10.1152/jn.1967.30.5.1138",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Distinguishing theoretical synaptic potentials computed for different soma-dendritic distributions of synaptic input.",
+          "registry": [
+            "Distinguishing theoretical synaptic potentials computed for different soma-dendritic distributions of synaptic input."
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "rall",
+          "registry": "rall",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            1967
+          ],
+          "registry": [
+            1967,
+            1967,
+            1967
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "Journal of Neurophysiology",
+          "registry": [
+            "Journal of Neurophysiology"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "30",
+          "registry": "30",
+          "match": true
+        },
+        "issue": {
+          "reference": "5",
+          "registry": "5",
+          "match": true
+        },
+        "page": {
+          "reference": "1138-1168",
+          "registry": "1138-1168",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T16:37:13.676594+00:00",
+      "record_sha256": "475b50c45d2876ed44df0c60a8bebf433a6145ea0af469a1cab0ffca8b6dc9c8",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "crane2004",
+      "doi": "10.1080/10739680490457836",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Contribution of Active Membrane Processes to Conducted Hyperpolarization in Arterioles of Hamster Cheek Pouch",
+          "registry": [
+            "Contribution of Active Membrane Processes to Conducted Hyperpolarization in Arterioles of Hamster Cheek Pouch"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "crane",
+          "registry": "crane",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2004
+          ],
+          "registry": [
+            2004,
+            2004,
+            2004,
+            2010
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "Microcirculation",
+          "registry": [
+            "Microcirculation"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "11",
+          "registry": "11",
+          "match": true
+        },
+        "issue": {
+          "reference": "5",
+          "registry": "5",
+          "match": true
+        },
+        "page": {
+          "reference": "427-435",
+          "registry": "427-435",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T16:37:14.560992+00:00",
+      "record_sha256": "f0d620f3e398f24bb6a989b22340cc2c346a24ae7be21ec1ce012b8923706086",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "diep2005",
+      "doi": "10.1113/jphysiol.2005.090233",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Defining electrical communication in skeletal muscle resistance arteries: a computational approach",
+          "registry": [
+            "Defining electrical communication in skeletal muscle resistance arteries: a computational approach"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "diep",
+          "registry": "diep",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2005
+          ],
+          "registry": [
+            2005,
+            2005,
+            2005,
+            2005
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "The Journal of Physiology",
+          "registry": [
+            "The Journal of Physiology"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "568",
+          "registry": "568",
+          "match": true
+        },
+        "issue": {
+          "reference": "1",
+          "registry": "1",
+          "match": true
+        },
+        "page": {
+          "reference": "267-281",
+          "registry": "267-281",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T16:37:15.387125+00:00",
+      "record_sha256": "f25d7080678d40ebfc0e5698f846e06b28d6259dfe7a0c4041c951ceae2b40f3",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "hald2012",
+      "doi": "10.1016/j.bpj.2012.01.055",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Applicability of Cable Theory to Vascular Conducted Responses",
+          "registry": [
+            "Applicability of Cable Theory to Vascular Conducted Responses"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "hald",
+          "registry": "hald",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2012
+          ],
+          "registry": [
+            2012,
+            2012,
+            2012
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "Biophysical Journal",
+          "registry": [
+            "Biophysical Journal"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "102",
+          "registry": "102",
+          "match": true
+        },
+        "issue": {
+          "reference": "6",
+          "registry": "6",
+          "match": true
+        },
+        "page": {
+          "reference": "1352-1362",
+          "registry": "1352-1362",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T16:37:16.058696+00:00",
+      "record_sha256": "d0a5b5b37f84576ab20991c010c15e646f2554f810f417291664b8b0e4f8f9c6",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "segal2015",
+      "doi": "10.1159/000439112",
+      "outcome": "verified",
+      "compared_fields": {
+        "title": {
+          "reference": "Integration and Modulation of Intercellular Signaling Underlying Blood Flow Control",
+          "registry": [
+            "Integration and Modulation of Intercellular Signaling Underlying Blood Flow Control"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "segal",
+          "registry": "segal",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2015
+          ],
+          "registry": [
+            2015,
+            2015,
+            2015,
+            2015
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "Journal of Vascular Research",
+          "registry": [
+            "Journal of Vascular Research"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "52",
+          "registry": "52",
+          "match": true
+        },
+        "issue": {
+          "reference": "2",
+          "registry": "2",
+          "match": true
+        },
+        "page": {
+          "reference": "136-157",
+          "registry": "136-157",
+          "match": true
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T16:37:16.791120+00:00",
+      "record_sha256": "a532c050c5eeb1b449621e44ed96ef61083c69ea38c2c50a3a38b060d22190ba",
+      "suggestions": [],
+      "message": "identity matches"
+    },
+    {
+      "id": "harraz2018",
+      "doi": "10.7554/elife.38689",
+      "outcome": "advisory",
+      "compared_fields": {
+        "title": {
+          "reference": "PIP2 depletion promotes TRPV4 channel activity in mouse brain capillary endothelial cells",
+          "registry": [
+            "PIP2 depletion promotes TRPV4 channel activity in mouse brain capillary endothelial cells"
+          ],
+          "registry_subtitle": [],
+          "similarity": 1.0,
+          "match": true
+        },
+        "author": {
+          "reference": "harraz",
+          "registry": "harraz",
+          "match": true
+        },
+        "year": {
+          "reference": [
+            2018
+          ],
+          "registry": [
+            2018,
+            2018,
+            2018
+          ],
+          "match": true
+        },
+        "container-title": {
+          "reference": "eLife",
+          "registry": [
+            "eLife"
+          ],
+          "match": true
+        },
+        "volume": {
+          "reference": "7",
+          "registry": "7",
+          "match": true
+        },
+        "issue": {
+          "reference": null,
+          "registry": null,
+          "match": true
+        },
+        "page": {
+          "reference": "e38689",
+          "registry": null,
+          "match": false
+        }
+      },
+      "registry": "Crossref",
+      "fetched_at": "2026-11-14T16:37:17.495289+00:00",
+      "record_sha256": "8cf3eb7910d4089dd0bed2469d2b00213ee161489bce654af15e7fa4d1c5ea82",
+      "suggestions": [],
+      "message": "different fields: page"
     }
   ]
 }

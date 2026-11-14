@@ -1,0 +1,204 @@
+{
+ "claims_coverage": {
+  "complete": true,
+  "note": "Checked all 240 claims in claims.yaml (213 computation, 16 source, 5 interpretation, 4 assumption, 2 definition). Every passage appears verbatim in paper/PAPER.md, and all 213 computation claims resolve to simulation/output/results.json and match reported*scale within rounding tolerance. Automated token scan of paper/PAPER.md found no unbound quantities (remaining numerals are citation keys/years, Kir2.1, November 2026, math constants/exponents such as 1, 0, 2, 4, unit exponents -1 and 1/2, Pandoc image widths 100%/88%, and the pinned commit SHA).",
+  "unbound_numbers": []
+ },
+ "contribution_after": {
+  "assessment": "The paper remains a useful synthesis rather than a falsifying physiological test or major empirical advance. It contributes a clean distribution-free null theorem (G_V = 0 for deterministic pooled controllers driven by summed single-site waveforms regardless of common output saturation), an exact algebraic separation of electrical interaction from shared Poiseuille/diameter saturation, and an honest numerical stress test—including a simultaneous-stimulation design (46–129 obs/cond), nearby concentration sign reversal (11.80–11.85 mM), and negative conductance-band slow-resetting sensitivity—built atop published Kir/TRPV4 mechanisms (Moshkforoush et al. 2020; Harraz et al. 2018) and Longden's (2026) paired-capillary proposal, without external paired tissue data to validate model kinetics or coupling.",
+  "verdict": "useful synthesis"
+ },
+ "new_problems": [],
+ "source_claims": [
+  {
+   "claim_id": "source-longden2017-181",
+   "depth": "fulltext",
+   "note": "Inspected simulation/data/source_evidence/longden2017.txt (Results and Fig. 2 text): documents capillary K+-sensing retrograde hyperpolarization (-23.2 ± 1.8 mV to 10 mM K+, 240 ± 30 ms onset latency), <100 uM Ba2+ block, and ablation of KIR currents in EC KIR2.1-/- mice.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-moshkforoush2020-182",
+   "depth": "fulltext",
+   "note": "Inspected simulation/data/source_evidence/moshkforoush2020.txt (Results, Fig. 5 caption, and main-text discussion of saddle-node bifurcations and SI Fig. S7): explicitly shows threshold excitation and states that graded responses can be achieved by summation of binary inputs from multiple activated capillary network regions (note: SI Appendix Fig. S7 file failed to fetch, as recorded in sources.md).",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-postnov2015-183",
+   "depth": "fulltext",
+   "note": "Inspected simulation/data/source_evidence/postnov2015.txt: hypothesizes and analyzes bistability powered by negative differential resistance/conductance from an N-shaped whole-cell I-V curve to support regenerative conducted pulse transmission along vascular endothelium.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-rivers1997-184",
+   "depth": "abstract",
+   "note": "Inspected Crossref-registered abstract in simulation/data/source_evidence/rivers1997.crossref.json: methacholine applied simultaneously at 1 to 4 sites along a single hamster cheek-pouch arteriole reached a limited ~5 um maximum even at 10-fold higher concentration or longer duration, whereas dilations became cumulative when initiated on adjacent arterioles. Full text was not inspected.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-longden2026-185",
+   "depth": "fulltext",
+   "note": "Inspected simulation/data/source_evidence/longden2026.txt (Abstract, signal-combining sections, and experimental outlook): explicitly frames capillary arithmetic, temporal/spatial combination of hyperpolarizing signals, current shunts via Cl- clamping, and impaling a bifurcating capillary with two current-injection electrodes plus an upstream voltage-recording electrode.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-isaacs2024-186",
+   "depth": "fulltext",
+   "note": "Inspected simulation/data/source_evidence/isaacs2024.txt (Significance, Results): shows optogenetic hyperpolarization of individual thin-strand pericytes dilates upstream penetrating arterioles and implicates pericyte KATP channels via pinacidil, genetic disruption, laser ablation, and glibenclamide inhibition.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-hariharan2022-187",
+   "depth": "fulltext",
+   "note": "Inspected simulation/data/source_evidence/hariharan2022.txt (Abstract and Results text): demonstrates that lowering extracellular glucose (<1 mM) or blocking GLUT1 flips an energy switch activating pericyte KATP-mediated hyperpolarization and Kir2.1-dependent retrograde upstream blood-flow increases.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-moshkforoush2020-188",
+   "depth": "fulltext",
+   "note": "Inspected simulation/data/source_evidence/moshkforoush2020.txt (Methods, Multicellular Models): states verbatim that Rgj has not been measured in capillaries and therefore explores 10 MOhm to 1 GOhm based on arterial endothelial estimates and cytoplasmic calculations.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-behringer2012-189",
+   "depth": "fulltext",
+   "note": "Inspected simulation/data/source_evidence/behringer2012.fulltext.txt (Methods and Results): shows SKCa/IKCa activation (NS309, SKA-31, ACh) in skeletal-muscle endothelial tubes shortens the electrical length constant lambda from 1380 to 850 um and reduces conducted hyperpolarization by >=50% via signal dissipation through lowered membrane resistance while propidium iodide dye coupling remains intact.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-kapela2018-190",
+   "depth": "fulltext",
+   "note": "Inspected simulation/data/source_evidence/kapela2018.fulltext.txt (Results, Table 1, Conclusions): estimates endothelial Rm = 12 GOhm and Rgj = 4.5 MOhm and models how the interplay between gap-junction resistance and membrane resistance (KCa channel opening) jointly governs signal initiation and electrical conduction.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-wessel1999",
+   "depth": "fulltext",
+   "note": "Verified DOI 10.1523/jneurosci.19-14-05875.1999 via Crossref API and inspected simulation/data/source_evidence/wessel1999.fulltext.txt (Abstract, Modeling Equations 3–4, Fig. 7): demonstrates Kir-dependent supralinear summation of paired excitatory synaptic inputs in leech anterior pagoda cells and reproduces it with Kir (GKir2(V)) as the sole voltage-dependent conductance alongside passive leak and axial coupling.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-crane2004",
+   "depth": "abstract",
+   "note": "Verified DOI 10.1080/10739680490457836 via Crossref API and inspected Crossref-registered abstract in simulation/data/source_evidence/crane2004.crossref.json: reports transient ACh-induced conducted hyperpolarization areas exceeding passive predictions in 11/15 smooth muscle and 5/7 endothelial intracellular recordings in hamster cheek-pouch arterioles. Full text was not inspected.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-diep2005",
+   "depth": "fulltext",
+   "note": "Verified DOI 10.1113/jphysiol.2005.090233 via Crossref API and inspected simulation/data/source_evidence/diep2005.fulltext.txt (Abstract, Results/Discussion): demonstrates in skeletal-muscle resistance-artery models that cellular orientation and gap-junctional coupling resistance control differential spread along ECs vs SMCs and filter transient events into sustained voltage responses.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-hald2012",
+   "depth": "fulltext",
+   "note": "Verified DOI 10.1016/j.bpj.2012.01.055 via Crossref API and inspected simulation/data/source_evidence/hald2012.fulltext.txt (Discussion, Reaching steady state): shows membrane resistance rm depends nonlinearly on Vm along arterioles, yet an exponential decay function still fits almost all simulated conduction profiles well away from the stimulus site.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-segal2015",
+   "depth": "fulltext",
+   "note": "Verified DOI 10.1159/000439112 via Crossref API and inspected simulation/data/source_evidence/segal2015.fulltext.txt (endothelial-tube discussion): explains that opening plasma-membrane K+ channels inhibits intercellular conducted electrical signaling along the endothelium while gap junctions remain fully patent as confirmed by robust dye transfer.",
+   "verdict": "supported"
+  },
+  {
+   "claim_id": "source-harraz2018",
+   "depth": "fulltext",
+   "note": "Verified DOI 10.7554/elife.38689 via Crossref API and inspected simulation/data/source_evidence/harraz2018.fulltext.txt (Results on reciprocal channel regulation, Fig. 6C): reports PGE2-induced PIP2 depletion reciprocally activates TRPV4 and suppresses Kir2.1 currents in brain cECs at room temperature with fitted exponential time constants tau = 4.9 min (294 s) and 6.4 min (384 s).",
+   "verdict": "supported"
+  }
+ ],
+ "summary": "All 11 prior referee and harness findings (harness:H1–H2 and hydrogen:F1–F9) are cleanly closed, with all 25 simulation unit tests passing in-memory, all 240 claims.yaml bindings verified, all 7 new Crossref DOIs confirmed live, all 16 source verdicts confirmed, and all 18 built PDF page images visually clean. No new problems were introduced; the revised manuscript stands as a useful synthesis providing an invariant pooled-input null theorem, flow residual decomposition, simultaneous-stimulation design (46–129 obs/cond), explicit concentration sign-reversal boundaries, and negative conductance-band slow-resetting sensitivity analysis.",
+ "verdicts": [
+  {
+   "evidence": "REVIEW/diff.patch L3040–3047 and verification/paired-study.json show command updated to ['uv', 'run', 'python', 'run_all.py'] with cwd 'simulation'; REVIEW/diff.patch L2749–2753 and simulation/run_all.py L8 replace the hardcoded old-repo MPLCONFIGDIR with tempfile.gettempdir()/'capnet-matplotlib'. SHA-256 verification across all 17 declared inputs and 10 declared artifacts in verification/paired-study.json and all 9 build-manifest inputs plus pdf_sha256 in paper/build-manifest.json returned zero mismatches.",
+   "finding_id": "harness:H1",
+   "severity": "major",
+   "verdict": "closed"
+  },
+  {
+   "evidence": "references.yaml (crane2004 entry, checked across all 16 bibliography entries) normalizes author names to 'Crane, Glenis J.', 'Neild, Timothy O.', and 'Segal, Steven S.' with no non-initial uppercase author names remaining anywhere in references.yaml, and renders in normal capitalization on REVIEW/pages/page-17.png.",
+   "finding_id": "harness:H2",
+   "severity": "minor",
+   "verdict": "closed"
+  },
+  {
+   "evidence": "REVIEW/diff.patch L2773, L2833–2834, L2905 (simulation/run_all.py L29, L216, L308) restrict design selection to nondistributed_rival_gap_mv over NON_DISTRIBUTED = ('passive', 'capillary_linear', 'dynamic_filter', 'independent_sensors'), selecting (10 mM, 0 ms) with G_V = 0.833261 mV (recomputed 46 observations/condition at s <= 0.148712 mV). paper/PAPER.md L152–177, L200, L216 excludes sensor_only and arteriole_linear from design selection and explains their -1.841 and -1.879 mV broad-exposure calibration failures.",
+   "finding_id": "hydrogen:F1",
+   "severity": "major",
+   "verdict": "closed"
+  },
+  {
+   "evidence": "REVIEW/diff.patch L2843, L2919–2924 (simulation/run_all.py L225, L353–358) and paper/PAPER.md L202, L216 replace the uncertain arteriole_linear sizing target with the invariant pooled-input null G_V = 0 when single-site waveforms match, eliminating rival parameter spread against the null and reporting worst sampled ensemble requirements alongside nominal (recomputed: 46 nominal at 0.833261 mV, 129 published_screen at 0.494392 mV, 96 synthetic_single_match at 0.572485 mV).",
+   "finding_id": "hydrogen:F2",
+   "severity": "major",
+   "verdict": "closed"
+  },
+  {
+   "evidence": "REVIEW/diff.patch L3616–3642 (simulation/capnet/pooled.py L5–21) and L2794–2809, L2818–2821 (simulation/run_all.py L140–151, L181–184) replace filter_trace on uncalibrated BASE passive with saturating_filter_trace (tau dy/dt = -y + a tanh(x/s), enforcing tau >= 10 ms) driven by calibrated frozen fitted['passive']. Recomputed Table C R_V = -0.001008008 mV and G_V = 0; paper/PAPER.md L98, L159, L164, L175 explicitly discloses bound-hitting (tau = 10.0 ms lower bound, a = 100.0 mV upper bound) and poor single/paired fits (0.575 / 1.149 mV) while basing rejection on the model-independent pooled-input null theorem.",
+   "finding_id": "hydrogen:F3",
+   "severity": "major",
+   "verdict": "closed"
+  },
+  {
+   "evidence": "REVIEW/diff.patch L2845–2896 (simulation/run_all.py L227–296) and paper/PAPER.md L204–206 plus Fig. 3 (concentration_boundary.pdf) document the 0.05 mM concentration sweep, sign inversion brackets, dt = 0.5 ms refinement check, and source-shunting mechanism. Independent recomputation confirms [11.80, 11.85] mM zero crossing at d = 0 ms (+0.00662 to -0.01215 mV at dt = 2.0 ms; +0.00725 to -0.01150 mV at dt = 0.5 ms) and [12.05, 12.10] mM at d = 250 ms (+0.00442 to -0.00019 mV at dt = 2.0 ms; +0.00439 to -0.00020 mV at dt = 0.5 ms), plus positive 9.0–10.5 mM band (0.463–0.835 mV).",
+   "finding_id": "hydrogen:F4",
+   "severity": "major",
+   "verdict": "closed"
+  },
+  {
+   "evidence": "REVIEW/diff.patch L2180, L2219, L2225–2227 (paper/PAPER.md L65, L100, L104–106), L2567–2595, L2647–2657 (capnet/experiment.py), and L24070–24205 (simulation/resetting_study.py) explicitly report 0/29 overlap with [0.139, 0.485] nS, 503/513 single-RMSE matches, 241 5s-persistent failures, 189 low-amplitude recoveries, and test an imposed slow Kir-loss/depolarizing-conductance reset (motivated by harraz2018): 0/125 measured-band grid passes across 8 scenarios, while 384 s Kir suppression without TRPV4 conductance restores 7/7 nominal +/-0.5% perturbations vs 5/7 unadapted (recomputed identically at dt = 2.0 ms; dt = 0.5 ms check matches 0.000103 mV max endpoint change).",
+   "finding_id": "hydrogen:F5",
+   "severity": "major",
+   "verdict": "closed"
+  },
+  {
+   "evidence": "REVIEW/diff.patch L2208, L2310, L2323, L2330 (paper/PAPER.md L92, L200, L210, L216) shift the primary design to simultaneous stimulation (0 ms delay instead of 250 ms), explicitly warn that the 30 ms vs 240 +- 30 ms onset discrepancy prevents direct transfer of the simulated window, and require choosing pulse duration and a common response-aligned averaging window from independent single-input recordings with preparation-specific effect/covariance pilots.",
+   "finding_id": "hydrogen:F6",
+   "severity": "major",
+   "verdict": "closed"
+  },
+  {
+   "evidence": "REVIEW/diff.patch L2610–2611, L2620 (simulation/capnet/experiment.py L75–76, L106) fix sensor_only via ((net.dist_um >= 70.) | np.isnan(net.dist_um)) and update the docstring; test_resetting.py::test_distal_active_control_includes_anastomosis_bridge passes in our 25-test run, paper/PAPER.md L96 matches the code definition, and independent recomputation of T3 bridge_tips sensor_only R_V matches results.json identically (2.466903670 mV at d = 0 ms; 1.002159223 mV at d = 250 ms).",
+   "finding_id": "hydrogen:F7",
+   "severity": "minor",
+   "verdict": "closed"
+  },
+  {
+   "evidence": "REVIEW/diff.patch L2359–2507 (references.yaml) and L2151, L2225, L2343 (paper/PAPER.md L17, L104, L226) add and substantively engage all 7 requested works (wessel1999, rall1967, crane2004, diep2005, hald2012, segal2015, harraz2018); live Crossref API lookups verified matching DOIs, venues, dates, pages/article-numbers, and authors for all 7 (gonzales2020 from F8.evidence was not needed as F8.repair requested harraz2018 for PIP2/TRPV4 while isaacs2024 and hariharan2022 cover pericyte signaling).",
+   "finding_id": "hydrogen:F8",
+   "severity": "major",
+   "verdict": "closed"
+  },
+  {
+   "evidence": "REVIEW/diff.patch L2141–2352 (paper/PAPER.md L9, L17–19, L71, L81, L83, L96, L100, L108, L144, L162, L200, L216, L224, L234) eliminates all 12 ', not' and 2 'rather than' constructions (verified: 0 occurrences remain across paper/PAPER.md) and removes or rewrites trailing disclaimer sentences as direct scope statements; abstract is 183 words (<= 250).",
+   "finding_id": "hydrogen:F9",
+   "severity": "minor",
+   "verdict": "closed"
+  }
+ ],
+ "visual": {
+  "all_pages_inspected": true,
+  "page_count": 18,
+  "pages_inspected": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ],
+  "problems": []
+ }
+}

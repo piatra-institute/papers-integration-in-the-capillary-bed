@@ -20,6 +20,36 @@ class Protocol:
     end: float = 1600.
 
 
+@dataclass(frozen=True)
+class SlowReset:
+    """Imposed slow channel modulation, not an identified PIP2 kinetic model.
+
+    A hypothetical receptor drive starts with the first pulse and ends with the
+    last. Kir availability falls exponentially while this drive is present and
+    recovers exponentially afterwards. A complementary ohmic depolarizing
+    conductance represents the sign of TRPV4 recruitment, not its GHK law or
+    stochastic openings. Time constants, conductance and spatial scope are
+    declared sensitivity assumptions. Potassium alone is not asserted to cause
+    receptor activation.
+    """
+    depletion_tau_ms: float = 60000.
+    trpv4_depletion_tau_ms: float | None = None
+    recovery_tau_ms: float = 180000.
+    trpv4_max_ns: float = .02
+    kir_loss_fraction: float = 1.
+    reversal_mv: float = 0.
+    scope: str = 'all_capillaries'
+
+    def activation(self, t, onset, offset, tau_ms=None):
+        if t <= onset:
+            return 0.
+        duration = min(t, offset) - onset
+        z = -np.expm1(-duration / (tau_ms or self.depletion_tau_ms))
+        if t > offset:
+            z *= np.exp(-(t-offset)/self.recovery_tau_ms)
+        return float(z)
+
+
 def parameters(x):
     x = np.atleast_2d(x)
     mat = np.tile(BASE, (len(x), 1))
@@ -38,10 +68,12 @@ def sample(rng, n):
 
 
 def trace(solver, p, protocol, mode='distributed', rest=None, record=None,
-          dt_record=10., block_nodes=(), block_fraction=0., katp=False):
+          dt_record=10., block_nodes=(), block_fraction=0., katp=False,
+          slow_reset=None):
     """Positive hyperpolarization. Linear controls preserve resting current and tangent.
 
-    The sensor-only control keeps full voltage-dependent Kir at a fixed set of all terminal tips and calibration input cells;
+    The sensor-only control keeps full voltage-dependent Kir in distal branches
+    (distance >= 70 um) and anastomosis bridge cells; proximal trunk and PA are linear.
     independent-sensor oracle is implemented by summing isolated full-model responses.
     Focal block is conducted with its own baseline, then contemporaneous singles.
     """
@@ -71,7 +103,7 @@ def trace(solver, p, protocol, mode='distributed', rest=None, record=None,
         lm = net.pa.copy()
     elif mode == 'sensor_only':
         lm = np.ones(net.n, dtype=bool)
-        lm[net.cap & (net.dist_um >= 70.)] = False
+        lm[net.cap & ((net.dist_um >= 70.) | np.isnan(net.dist_um))] = False
     else:
         raise ValueError(mode)
     scale = 1./(1. + (1e3/p.r_gj[:,None])*solver.lam[None,:])
@@ -81,6 +113,17 @@ def trace(solver, p, protocol, mode='distributed', rest=None, record=None,
     every = int(round(dt_record/dt))
     out, times = [], []
     cache = {}
+    if slow_reset is not None:
+        if mode != 'distributed':
+            raise ValueError('Slow-reset sensitivity is defined only for the distributed membrane law')
+        if slow_reset.scope == 'all_capillaries':
+            reset_mask = net.cap[None, :]
+        elif slow_reset.scope == 'exposed_patch':
+            reset_mask = np.zeros((1, net.n), dtype=bool)
+            for name in protocol.sites:
+                reset_mask[:, net.sites[name]] = True
+        else:
+            raise ValueError(slow_reset.scope)
     for step in range(int(round(protocol.end/dt))):
         t = step*dt
         active = tuple(protocol.onset + (protocol.delay if j else 0) <= t < protocol.onset + (protocol.delay if j else 0) + protocol.duration for j in range(len(protocol.sites)))
@@ -97,7 +140,17 @@ def trace(solver, p, protocol, mode='distributed', rest=None, record=None,
             forcing = i_kir(rest,k,gbar,dv)-i_kir(rest,K_REST,gbar,dv)
             cache[active] = k,gkatp,forcing
         k,gkatp,forcing = cache[active]
-        ionic = gbg*(v-ebg)+i_kir(v,k,gbar,dv)
+        ikir = i_kir(v,k,gbar,dv)
+        ionic = gbg*(v-ebg)+ikir
+        if slow_reset is not None:
+            activation = slow_reset.activation(t, protocol.onset,
+                protocol.onset + protocol.delay + protocol.duration)
+            trpv4_activation = slow_reset.activation(t, protocol.onset,
+                protocol.onset + protocol.delay + protocol.duration,
+                slow_reset.trpv4_depletion_tau_ms)
+            ionic += reset_mask * (
+                -activation * slow_reset.kir_loss_fraction * ikir
+                + trpv4_activation * slow_reset.trpv4_max_ns * (v - slow_reset.reversal_mv))
         lin = irest+slope*(v-rest)+forcing
         ionic = np.where(lm[None,:],lin,ionic)
         if katp:

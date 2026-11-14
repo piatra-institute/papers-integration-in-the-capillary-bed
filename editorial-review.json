@@ -1,0 +1,52 @@
+{
+  "manuscript_sha256": "ccad96b8a9d3fe401e6d4075fd465daba0abe3bbb9138333d4864a2b88b39a66",
+  "reviewed": "2026-11-14",
+  "reviewer": {
+    "tool": "agy",
+    "model": "gemini-4-hydrogen-xhigh",
+    "family": "google"
+  },
+  "authors": [
+    {
+      "tool": "codex",
+      "model": "gpt-6-astra",
+      "family": "openai"
+    },
+    {
+      "tool": "claude-code",
+      "model": "claude (earlier drafting)",
+      "family": "anthropic"
+    }
+  ],
+  "full_read": true,
+  "argument_review": true,
+  "structure_review": true,
+  "voice_review": true,
+  "source_review": true,
+  "final_read": true,
+  "open_findings": {
+    "blocker": 0,
+    "major": 0,
+    "minor": 0
+  },
+  "notes": "All 11 prior referee and harness findings (harness:H1–H2 and hydrogen:F1–F9) are cleanly closed, with all 25 simulation unit tests passing in-memory, all 240 claims.yaml bindings verified, all 7 new Crossref DOIs confirmed live, all 16 source verdicts confirmed, and all 18 built PDF page images visually clean. No new problems were introduced; the revised manuscript stands as a useful synthesis providing an invariant pooled-input null theorem, flow residual decomposition, simultaneous-stimulation design (46–129 obs/cond), explicit concentration sign-reversal boundaries, and negative conductance-band slow-resetting sensitivity analysis.",
+  "contribution": {
+    "assessment": "The paper remains a useful synthesis rather than a falsifying physiological test or major empirical advance. It contributes a clean distribution-free null theorem (G_V = 0 for deterministic pooled controllers driven by summed single-site waveforms regardless of common output saturation), an exact algebraic separation of electrical interaction from shared Poiseuille/diameter saturation, and an honest numerical stress test—including a simultaneous-stimulation design (46–129 obs/cond), nearby concentration sign reversal (11.80–11.85 mM), and negative conductance-band slow-resetting sensitivity—built atop published Kir/TRPV4 mechanisms (Moshkforoush et al. 2020; Harraz et al. 2018) and Longden's (2026) paired-capillary proposal, without external paired tissue data to validate model kinetics or coupling.",
+    "verdict": "useful synthesis"
+  },
+  "reports": [
+    {
+      "path": "reviews/2026-11-referee-hydrogen.json",
+      "sha256": "d88501a022c810e25dc2a9bf7c1e17d1bf9e1e134b2c317ed866da115be547c6"
+    },
+    {
+      "path": "reviews/2026-11-closure-round1.json",
+      "sha256": "6a72ffda898426a09b70782a108f7aad713331da77bbe83e639a8844fc743a5e"
+    },
+    {
+      "path": "reviews/2026-11-closure-round2.json",
+      "sha256": "068324e894718c0fb6865bb7d747acbba93ace4dc889b7334c6c8b2b6a81056b"
+    }
+  ],
+  "remaining": "No open findings recorded."
+}

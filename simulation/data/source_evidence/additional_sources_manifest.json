@@ -1,0 +1,172 @@
+{
+  "schema": 1,
+  "retrieved_at": "2026-11-14T15:38:07.604701+00:00",
+  "notes": "Registry records retrieved with curl before bibliography addition; local text derivatives preserve reading evidence. Primary manifest unchanged. Files are source inspection copies, not numerical input datasets.",
+  "files": [
+    {
+      "citation_id": "wessel1999",
+      "file": "simulation/data/source_evidence/wessel1999.crossref.json",
+      "url": "https://api.crossref.org/works/10.1523/jneurosci.19-14-05875.1999",
+      "kind": "registry",
+      "sha256": "ad7e0ab8ca0ed5872fbc5bcc2a9554cd87cb303511f6ffbe22bccfe8b1309b34"
+    },
+    {
+      "citation_id": "wessel1999",
+      "file": "simulation/data/source_evidence/wessel1999.epmc.json",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1523/jneurosci.19-14-05875.1999&format=json",
+      "kind": "discovery",
+      "sha256": "3832ba60407122575ae5f36033c2f1fa4bb8be7aa55a5e3599dce7da2800f1fb"
+    },
+    {
+      "citation_id": "wessel1999",
+      "file": "simulation/data/source_evidence/wessel1999.fulltext.html",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6783099/",
+      "kind": "fulltext",
+      "sha256": "8c8cff5d34a58512656050a6ba31da26d0e454a27c9700b7ee1f647c6d348cfb"
+    },
+    {
+      "citation_id": "wessel1999",
+      "file": "simulation/data/source_evidence/wessel1999.fulltext.txt",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6783099/",
+      "kind": "derived-text",
+      "sha256": "e962d6ef9a00fcdb3deb6fcb187b0a84a5c3e9e87b3656054ba3aa5783ef202f"
+    },
+    {
+      "citation_id": "rall1967",
+      "file": "simulation/data/source_evidence/rall1967.crossref.json",
+      "url": "https://api.crossref.org/works/10.1152/jn.1967.30.5.1138",
+      "kind": "registry",
+      "sha256": "6de911edcc064b10dbf5bd10f55442546e7066bda1e661b952dea789db30e4c1"
+    },
+    {
+      "citation_id": "rall1967",
+      "file": "simulation/data/source_evidence/rall1967.epmc.json",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1152/jn.1967.30.5.1138&format=json",
+      "kind": "discovery",
+      "sha256": "ad331769e2770f2779512be4ff1515a6f8bbae2ebbe8ac90453bd8f7536dc8de"
+    },
+    {
+      "citation_id": "crane2004",
+      "file": "simulation/data/source_evidence/crane2004.crossref.json",
+      "url": "https://api.crossref.org/works/10.1080/10739680490457836",
+      "kind": "registry",
+      "sha256": "32face3b94ca177206b7e669810685121a482428856e59748b171e6642d3506b"
+    },
+    {
+      "citation_id": "diep2005",
+      "file": "simulation/data/source_evidence/diep2005.crossref.json",
+      "url": "https://api.crossref.org/works/10.1113/jphysiol.2005.090233",
+      "kind": "registry",
+      "sha256": "aed7940478845e1fb0bc4ba463a26ed7a8f30b4d76a7482a3f872c8e3847a926"
+    },
+    {
+      "citation_id": "diep2005",
+      "file": "simulation/data/source_evidence/diep2005.epmc.json",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1113/jphysiol.2005.090233&format=json",
+      "kind": "discovery",
+      "sha256": "7c5f5b96c3f528155d18b7940734ea8de761b781ecc8c2b6a6e25912ad3573b7"
+    },
+    {
+      "citation_id": "diep2005",
+      "file": "simulation/data/source_evidence/diep2005.fulltext.html",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1474767/",
+      "kind": "fulltext",
+      "sha256": "515dda2165ad5bc5dcf4d9bac2049a94194636aefe8d4549ad1fc536d803a430"
+    },
+    {
+      "citation_id": "diep2005",
+      "file": "simulation/data/source_evidence/diep2005.fulltext.txt",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1474767/",
+      "kind": "derived-text",
+      "sha256": "cd48b8a2040634117a9566dbf9f3d6821b0bcafd3307eea3f4859d5fe39910f4"
+    },
+    {
+      "citation_id": "hald2012",
+      "file": "simulation/data/source_evidence/hald2012.crossref.json",
+      "url": "https://api.crossref.org/works/10.1016/j.bpj.2012.01.055",
+      "kind": "registry",
+      "sha256": "cab8086c0718fc994181eecd8b20539a98c69c3eff437497cf7c901ebe52400e"
+    },
+    {
+      "citation_id": "hald2012",
+      "file": "simulation/data/source_evidence/hald2012.epmc.json",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1016/j.bpj.2012.01.055&format=json",
+      "kind": "discovery",
+      "sha256": "277b776c09b9a2f8f5580e2d43e4458eeae35af3ed3bdc218bda8c61354ce585"
+    },
+    {
+      "citation_id": "hald2012",
+      "file": "simulation/data/source_evidence/hald2012.fulltext.html",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3309280/",
+      "kind": "fulltext",
+      "sha256": "cdea5bf96285a9ba74cff0dd8f79df45704e93e01da5c2e13364cba3139dad2b"
+    },
+    {
+      "citation_id": "hald2012",
+      "file": "simulation/data/source_evidence/hald2012.fulltext.txt",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3309280/",
+      "kind": "derived-text",
+      "sha256": "6a81258ee211efcc8edb39d0e2a854286d7727c9d84326dc5ef5b578cb4aab42"
+    },
+    {
+      "citation_id": "segal2015",
+      "file": "simulation/data/source_evidence/segal2015.crossref.json",
+      "url": "https://api.crossref.org/works/10.1159/000439112",
+      "kind": "registry",
+      "sha256": "2b0a2f8f2d68c69d1704918a80a1cfefed33551b1ff23c0bbef2c3a062b00a26"
+    },
+    {
+      "citation_id": "segal2015",
+      "file": "simulation/data/source_evidence/segal2015.epmc.json",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1159/000439112&format=json",
+      "kind": "discovery",
+      "sha256": "e53d70c072031a8ff929fc6f8d19c2e515ebda79e017811ecf6353416aa59fb1"
+    },
+    {
+      "citation_id": "segal2015",
+      "file": "simulation/data/source_evidence/segal2015.fulltext.html",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4670584/",
+      "kind": "fulltext",
+      "sha256": "70335c96a5ef1cd3e61a98279670c5a45fa2ed9984c47d9ee24a856d2f6ec7b7"
+    },
+    {
+      "citation_id": "segal2015",
+      "file": "simulation/data/source_evidence/segal2015.fulltext.txt",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4670584/",
+      "kind": "derived-text",
+      "sha256": "247ad96ff9574e5fef50fa7e6cea78fc6b690f6d060eadc4f2dffc18c96991bf"
+    },
+    {
+      "citation_id": "harraz2018",
+      "file": "simulation/data/source_evidence/harraz2018.crossref.json",
+      "url": "https://api.crossref.org/works/10.7554/elife.38689",
+      "kind": "registry",
+      "sha256": "02f0bb0827a0a748e8fb3b5e3b29e31473fd2f0912d1935ebfa7c309cd6ac028"
+    },
+    {
+      "citation_id": "harraz2018",
+      "file": "simulation/data/source_evidence/harraz2018.fulltext.txt",
+      "url": "https://cdn.elifesciences.org/articles/38689/elife-38689-v2.xml",
+      "kind": "derived-text",
+      "sha256": "d14430533256a9b16f17f5d53331dabe184e0ac7648cfb44e4d5878e2ff4dae2"
+    },
+    {
+      "citation_id": "harraz2018",
+      "file": "simulation/data/source_evidence/harraz2018.fulltext.xml",
+      "url": "https://cdn.elifesciences.org/articles/38689/elife-38689-v2.xml",
+      "kind": "fulltext",
+      "sha256": "62bb6737df0563fecbc70087af56ce5bd96e4ecbfb798648cc631da130a8b196"
+    }
+  ],
+  "unavailable": [
+    {
+      "citation_id": "rall1967",
+      "url": "https://journals.physiology.org/doi/pdf/10.1152/jn.1967.30.5.1138",
+      "reason": "HTTP 403; no abstract in registry or PubMed; only bibliographic identity inspected"
+    },
+    {
+      "citation_id": "crane2004",
+      "reason": "Only registry abstract inspected; no full-text claims made"
+    }
+  ]
+}

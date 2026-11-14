@@ -1,0 +1,146 @@
+{
+ "central_claims": [
+  "1. Screening 8,192 sampled parameter vectors against an 18 s 10 mM K+ hyperpolarization window (19.6-26.8 mV, resting baseline -45 to -25 mV) and <1 mV recovery after 5 s yields 29 admissible vectors for a 16-cell distal footprint (0 for 8 cells); the selected nominal distributed-Kir model (G_Kir = 0.6879 nS, G_bg = 0.0493 nS, R_gj = 10.61 MOhm) is approximated on synthetic single-site targets by mechanistic ablations (0.208-0.491 mV RMSE) and a 3-parameter compact dynamic filter (0.078 mV RMSE).",
+  "2. Time-aligned residual algebra separates electrical interaction R_V(t) = H_AB(t) - H_A(t) - H_B(t - delta) from any common diameter-to-flow nonlinearity via R_Q - S_Q = F(H_AB) - F(H_A + H_B); across 128 withheld paired protocols on three topologies, the distributed model produces large electrical residuals missed by both the additive oracle (0.303 mV paired RMSE) and the fitted pooled dynamic filter (0.299 mV paired RMSE).",
+  "3. On a symmetric binary tree, comparing sibling (tip0, tip1) against equal-distance distant (tip0, tip4) pairs with matched single-site waveforms yields geometry contrast G_V = H_AB - H_AC = 0 identically for any unique-solution pooled controller (dz/dt = f(z, u)), whereas the distributed model predicts G_V = +0.2119 mV at the selected design (10 mM K+, 500 ms pulses, 250 ms delay, 750-850 ms window).",
+  "4. Refitted localization ablations (sensor_only +0.3241 mV, arteriole_linear +0.3193 mV) retain geometry effects; maximizing the minimum nominal rival gap selects 10 mM K+ and 250 ms delay with a 0.1074 mV gap against arteriole_linear, requiring per-condition mean SE <= 0.0192 mV (2,724 observations per condition at SD = 1 mV, two-sided alpha = 0.05, 80% power), whereas a 90% trunk-Kir block shifts G_V by only -0.0047 mV (0.000027 mV rival gap, below discretization error)."
+ ],
+ "checks_not_done": [
+  "Full compilation of the manuscript PDF and visual inspection of rendered pages and figure layouts (paired_predictions.pdf, saturation_decomposition.pdf) were not executed because this review environment is strictly read-only.",
+  "Full re-execution of simulation/run_all.py (~5.5 min end-to-end pipeline writing output files and figures) was not run under the read-only constraint; instead all 18 unit tests in simulation/tests/ were run in-memory and passed, and key metrics were recomputed directly from capnet, results.json, and calibration_traces.npz.",
+  "Full-text reading of rivers1997 (only Crossref bibliographic metadata and abstract in rivers1997.crossref.json were inspected), external supplementary derivations of moshkforoush2020 beyond moshk_Fig4C.m and moshkforoush2020.txt, and full-body reading of behringer2012.fulltext.txt and kapela2018.fulltext.txt beyond keyword matches were not performed."
+ ],
+ "contribution": {
+  "closest_prior_work": [
+   {
+    "how_verified": "Inspected full reference record via Crossref DOI lookup and source_evidence/moshkforoush2020.txt lines 1106-1453 and moshk_Fig4C.m.",
+    "identifier": "DOI: 10.1073/pnas.2000151117",
+    "relation": "Provides the exact capillary Kir2.1 + background conductance + gap-junction model equations, conductances (0.18 +- 0.10 nS/mM^0.5, G_bg 0.06 +- 0.04 nS), saddle-node bistability analysis, and network multi-capillary summation, along with PIP2 and stochastic TRPV4 resetting mechanisms omitted here.",
+    "work": "Moshkforoush et al. (2020), The capillary Kir channel as sensor and amplifier of neuronal signals: Modeling insights on K+-mediated neurovascular communication, PNAS 117(28):16626-16637"
+   },
+   {
+    "how_verified": "Inspected Crossref DOI metadata and source_evidence/longden2026.txt lines 999-1176.",
+    "identifier": "DOI: 10.1152/ajpcell.00065.2026",
+    "relation": "Explicitly proposes paired-branch stimulation, temporal combination, current shunting, Kir2.1 multiplication, and upstream voltage recording in bifurcating capillaries; the reviewed manuscript attaches synthetic numerical calibrations, localization ablations, and sample-size bounds to that experimental proposal.",
+    "work": "Longden (2026), Cerebral capillary computation, Am J Physiol Cell Physiol 330(5):C1220-C1236"
+   },
+   {
+    "how_verified": "Verified via live Crossref API lookup (10.1523/jneurosci.19-14-05875.1999) and confirmed cited as Ref. 40 in source_evidence/moshkforoush2020.txt line 1452.",
+    "identifier": "DOI: 10.1523/jneurosci.19-14-05875.1999",
+    "relation": "Uncited prior work establishing experimentally and with a Kir+leak branched-cable model that spatially distributed inward-rectifier K+ channels generate supralinear summation of paired inputs along shared electrically coupled branches.",
+    "work": "Wessel, Kristan & Kleinfeld (1999), Supralinear Summation of Synaptic Inputs by an Invertebrate Neuron: Dendritic Gain Is Mediated by an \"Inward Rectifier\" K+ Current, J Neurosci 19(14):5875-5888"
+   },
+   {
+    "how_verified": "Verified bibliographic record via live Crossref API lookup (10.1152/jn.1967.30.5.1138).",
+    "identifier": "DOI: 10.1152/jn.1967.30.5.1138",
+    "relation": "Uncited classical foundation for using paired-input timing and spatial geometry at an upstream soma/readout to distinguish distributed branched cable integration from lumped point models.",
+    "work": "Rall (1967), Distinguishing theoretical synaptic potentials computed for different soma-dendritic distributions of synaptic input, J Neurophysiol 30(5):1138-1168"
+   }
+  ],
+  "strongest_feasible_extension": "Two direct improvements achievable using the repository's capnet solver and published biophysical data (Moshkforoush et al. 2020; Harraz et al. 2018 eLife 10.7554/elife.38689) would turn this into a sharp falsifiable study: (1) incorporate slow PIP2/TRPV4 channel adaptation and 37 C kinetics so realistic capillary Kir densities (0.312 +- 0.173 nS) recover reversibly instead of collapsing the valid parameter space to a <0.5% bistability cliff; and (2) optimize the discrimination design jointly over singleton fit + G_V rather than minimax against already-falsified ablations, shifting the primary test to simultaneous stimulation (10 mM K+, 0 ms delay, G_V = 0.833 mV -> 46 obs/condition against pooled controllers) while evaluating a bounded sigmoidal pooled controller (tau y_dot = -y + a tanh(x/s)) and focal bifurcation-node Kir block (dist_um = 70 um) instead of passive-trunk block.",
+  "verdict": "useful synthesis",
+  "what_is_new": "The manuscript contributes (1) a distribution-free null theorem showing that any deterministic lumped controller driven purely by summed single-site arteriolar waveforms yields zero sibling-minus-distant geometry contrast (G_V = 0) regardless of output flow saturation, (2) an exact algebraic decomposition (R_Q - S_Q = F(H_AB) - F(H_A + H_B)) separating network electrical residuals from downstream vasomotor curvature, and (3) systematic held-out benchmarking of single-site-calibrated localization ablations across 128 paired protocols on three network topologies."
+ },
+ "findings": [
+  {
+   "category": "statistics",
+   "confidence": "high",
+   "evidence": "In simulation/run_all.py L205, chosen = max(geometries, key=lambda z: z['minimum_rival_gap_mv']) selects (10 mM, 250 ms) (distributed G_V = +0.211888 mV, gap = 0.107373 mV vs arteriole_linear +0.319261 mV) solely because arteriole_linear crosses distributed at (10 mM, 0 ms) (+0.847705 vs +0.833261 mV, gap = 0.014443 mV). Yet Table B and results.json show arteriole_linear and sensor_only already fail 18 s single-site broad calibration (-1.8786 and -1.8408 mV) and overpredict 10 mM tip0 single-site magnitude by +62-71% (0.5027 and 0.5278 vs 0.3095 mV) while being distributed capillary-Kir models themselves (PAPER.md L156). Excluding already-falsified distributed ablations leaves nondistributed models predicting G_V = 0 everywhere, making (10 mM, 0 ms) yield G_V = 0.833261 mV and requiring only 46 replicates/condition (59x fewer than 2,724).",
+   "id": "F1",
+   "location": "paper/PAPER.md L194; simulation/run_all.py L205",
+   "passage": "The most separating candidate in the examined base-tree grid uses 10 mM potassium, 500 ms pulses and a second-input delay of 250 ms. Compare a sibling pair with an equally distant pair in opposite halves of the tree, using the same first input in both trials. The predicted arteriolar geometry contrast is 0.212 mV.",
+   "problem": "Minimax design selection optimizes around an already-falsified distributed-Kir ablation (arteriole_linear), discarding a 4x larger (10 mM, 0 ms) signal against pooled models and inflating sample size 59-fold.",
+   "repair": "Filter out or jointly penalize models already falsified on single-site calibration (-1.88 mV broad error; >60% 10 mM singleton error) and optimize test protocols using both singleton/R_V divergence and G_V against valid nondistributed nulls (recovering K=10 mM, d=0 ms at ~46 replicates/condition).",
+   "severity": "major"
+  },
+  {
+   "category": "statistics",
+   "confidence": "high",
+   "evidence": "Using results.json design.precision (zsum = 2.801585, SD = 1 mV, SE = 2s), the nominal gap 0.107373 mV gives 2,724 replicates/condition. However, substituting the manuscript's own frozen-rival ensemble interval gaps from L196 and results.json (0.047900 mV for published_screen, 0.038956 mV for synthetic_single_match) increases required sample sizes to 13,684 and 20,688 per condition (5x-7.6x larger). Moreover, recomputing arteriole_linear G_V across the same 29 accepted parameter vectors in results.json yields [0.121512, 0.252422] mV (median 0.170349), completely overlapping distributed's [0.128211, 0.271361] mV (median 0.180921): the apparent +0.107 mV rival excess arises from comparing a single mismatched fit (g_bg = 0.0280 nS with -1.879 mV broad error) against distributed uncertainty without propagating rival uncertainty.",
+   "id": "F2",
+   "location": "paper/PAPER.md L196, L204; simulation/run_all.py L214-215, L287-289",
+   "passage": "At this same protocol and time window, the source-screen ensemble spans 0.128 to 0.271 mV, and the single-trace sensitivity set spans 0.134 to 0.280 mV. These intervals compare varying distributed parameters with fixed nominal rival fits.",
+   "problem": "The headline 2,724 observations/condition sample-size calculation ignores rival parameter uncertainty and masks complete distribution overlap with arteriole_linear, while the paper's own ensemble interval gaps require 13,684-20,688 observations/condition.",
+   "repair": "Propagate parameter uncertainty jointly across both distributed and refitted rival models when computing minimum contrast gaps and sample-size requirements, or avoid sizing experiments around a small parameter-sensitive difference between two distributed-Kir variants.",
+   "severity": "major"
+  },
+  {
+   "category": "correctness",
+   "confidence": "high",
+   "evidence": "From results.json calibration.fits.dynamic_filter, the fitted parameters are [a, b, tau] = [2.886070, 0.881050, 0.114902 ms] with single_rmse = 0.078402 mV. Re-running least_squares from starts tau = 30, 300, and 3000 ms consistently collapses tau to 0.1149-0.3205 ms. Because dt_record = 10 ms, exp(-10/0.114902) = 1.60e-38, so filter_trace reduces identically to a memoryless static quadratic y = 2.8861 x + 0.8810 x^2 (verified: 2 * b * x0 * x1 = 0.080717 mV, matching Table C R_V = 0.080717 mV to 6 decimal places). Moreover, run_all.py L133 & L172 drive dynamic_filter using uncalibrated BASE passive [0.4, 0.06, 50.0] rather than the fitted passive model [0.80, 0.02, 200.0]; driving theta on fitted passive raises single_rmse from 0.07840 to 3.03551 mV (and refitting still degrades single_rmse 5.7x to 0.45030 mV).",
+   "id": "F3",
+   "location": "paper/PAPER.md L96, L156; simulation/run_all.py L133-140, L170-173",
+   "passage": "The compact filter follows $\\tau\\dot y=-y+a x+b x^2$, where $x$ is the output of a fixed passive network at predeclared published-model parameters. It fits 3 coefficients: $a$, $b$ and $\\tau$. It can generate an electrical interaction through its pooled nonlinear state; its capacity is not restricted to adding responses.",
+   "problem": "The pooled 'dynamic filter' suffers total time-constant collapse (tau = 0.115 ms << 10 ms step), degenerating into an instantaneous static quadratic polynomial driven by an uncalibrated BASE cable rather than the fitted passive network.",
+   "repair": "Enforce tau >= 10 ms (above dt_record) and test a realistic saturating/sigmoidal pooled nonlinearity (e.g., tanh or Hill transform) driven by the calibrated passive cable; disclose the tau collapse and driver dependence explicitly if retaining the quadratic form.",
+   "severity": "major"
+  },
+  {
+   "category": "correctness",
+   "confidence": "high",
+   "evidence": "In results.json heldout.geometry_grid and direct capnet sweeps across [6, 14] mM, distributed G_V is strongly non-monotonic and reverses sign inside the examined [6, 12] mM grid: at d = 0 ms, G_V drops from +0.833261 mV (10 mM) to +0.392588 (11 mM), crosses zero near 11.8 mM (+0.026019 at 11.75 mM; -0.012148 at 11.85 mM), and reaches -0.064854 (12 mM) and -0.424890 mV (14 mM). At the selected d = 250 ms, G_V collapses 23-fold from +0.211888 mV (10 mM) to +0.009207 mV (12 mM) before flipping negative at 12.25 mM (-0.012962 mV; -0.083633 at 14 mM). Internal node traces at 12 mM, d = 0 confirm the cause: sibling shared branch node 46 saturates (9.593 mV vs 12.765 mV in distant tip4), inverting amplification to saturation. PAPER.md never reports or discusses this sign inversion.",
+   "id": "F4",
+   "location": "paper/PAPER.md L194; simulation/output/results.json heldout.geometry_grid",
+   "passage": "The predicted arteriolar geometry contrast is 0.212 mV. The closest tested localization ablation differs by 0.107 mV; the nondistributed rivals differ by 0.212 mV. This is a finite-grid selection for the nominal fit, not a global optimum over anatomical networks or drugs.",
+   "problem": "Geometry contrast G_V undergoes an unreported 23-fold collapse and sign inversion (crossing zero near 11.8-12.1 mM K+) right above the selected 10 mM operating point, creating severe fragility to focal-puff concentration uncertainty.",
+   "repair": "Report and explain the local-saturation zero crossing between 10 and 12.2 mM K+, plot its boundary explicitly, and characterize the safe [K+]_o operating window below 10.5 mM where G_V retains consistent sign and magnitude.",
+   "severity": "major"
+  },
+  {
+   "category": "reality-check",
+   "confidence": "high",
+   "evidence": "First, 0/29 accepted vectors fall within Moshkforoush et al. (2020)'s measured capillary Kir mean +- SD at K_rest = 3 mM (0.312 +- 0.173 nS = [0.139, 0.485] nS); all 29 lie at [0.5303, 0.7857] nS with r_gj hugging the 10 MOhm lower bound [10.037, 12.236]. Second, because PIP2 depletion and stochastic TRPV4 resetting (moshkforoush2020.txt L1266-1289; postnov2015.txt L3) are omitted, results.json identifiability.sensitivity_steps shows +/-0.5% perturbations (+0.5% g_kir or -0.5% g_bg) around nominal latch permanently after 18 s broad exposure (45.73 mV endpoint, +51.55 mV recovery) and inflate Jacobian condition number 8.6x (1627.4 to 14057.2). Third, inspecting calibration_traces.npz shows 503/513 (98.1%) local perturbations achieve single_rmse <= 0.25 mV, yet 430/503 (85.5%) fail the 18 s screen (189 low amplitude, 241 permanently latched at +51.28 to +52.11 mV), leaving 73. Reporting only '73 of 513' conceals this catastrophic fragility.",
+   "id": "F5",
+   "location": "paper/PAPER.md L63, L98-100; simulation/output/results.json identifiability.sensitivity_steps",
+   "passage": "A local sensitivity sample retains 73 of 513 parameter vectors under the single-trace tolerance of 0.25 mV and the broad-exposure criteria. The perturbations are bounded and clipped to the prior limits. These are sensitivity sets conditional on the model, footprint, fixed constants and sampled domain, not posterior credible intervals.",
+   "problem": "Omitting channel resetting traps all 29 accepted vectors outside measured capillary Kir conductances and <0.5% from an irreversible latching cliff, while reporting '73 of 513' conceals that 503/513 match single-site traces yet 241 latch permanently.",
+   "repair": "Explicitly report the 503/513 single-RMSE pass count, the 241/503 irreversible latching failures, and the 0/29 overlap with [0.139, 0.485] nS; add slow resetting (e.g., PIP2/TRPV4 adaptation) to test whether realistic Kir densities recover without knife-edge tuning.",
+   "severity": "major"
+  },
+  {
+   "category": "reality-check",
+   "confidence": "high",
+   "evidence": "PAPER.md L35 & L90 show the model produces a 1 mV onset in 30 ms using published 293 K room-temperature Nernst scaling, instantaneous channel gating, and r_gj = 10.61 MOhm, 8x faster than Longden et al. (2017)'s measured 240 +- 30 ms onset latency (longden2017.txt L19). Despite acknowledging that timing is uncalibrated ('timing is not an identified in-vivo prediction', L35), the proposed experiment locks in a specific 250 ms inter-stimulus delay and a fixed 750-850 ms post-onset window (after Pulse A ended at 600 ms) selected entirely from this uncalibrated relaxation timescale.",
+   "id": "F6",
+   "location": "paper/PAPER.md L35, L90, L194",
+   "passage": "The selected nominal response is 22.133 mV, from a baseline of -30.740 mV. Its first 1 mV deflection occurs after 30 ms, compared with the published onset latency of 240 $\\pm$ 30 ms [@longden2017]. The model responds earlier under this detection rule.",
+   "problem": "An 8x kinetic mismatch (30 ms model onset vs 240 +- 30 ms measured) under 293 K instantaneous gating undercuts committing the experimental test to a fixed 250 ms delay and 750-850 ms readout window.",
+   "repair": "Either adjust temperature/gating kinetics and R_gj to match the 240 ms experimental latency or reformulate the experimental protocol around response-aligned adaptive time windows and simultaneous (d = 0 ms) overlap rather than fixed 250 ms/750-850 ms timing.",
+   "severity": "major"
+  },
+  {
+   "category": "correctness",
+   "confidence": "high",
+   "evidence": "In simulation/capnet/network.py L94-101, topology T3 assigns dist = np.nan to the 3 anastomosis bridge cells (indices 60, 61, 62). Consequently, in simulation/capnet/experiment.py L74, net.cap & (net.dist_um >= 70.) evaluates False on all three bridge nodes, keeping them linearized (lm = True) instead of active distal capillaries as described in PAPER.md L94 ('leaves the distal capillary branches active'). Direct simulation on T3 bridge_tips (tip3, tip4) shows fixing nan bridge nodes to active changes sensor_only R_V from 0.967020 to 1.002159 mV (+0.035139 mV) at d = 250 ms and 2.388487 to 2.466904 mV (+0.078417 mV) at d = 0 ms. Moreover, experiment.py L44 docstring inaccurately states sensor_only preserves Kir at 'all terminal tips and calibration input cells', whereas L74 activates 42/45 capillary cells on T1.",
+   "id": "F7",
+   "location": "simulation/capnet/experiment.py L44, L72-74; simulation/capnet/network.py L101",
+   "passage": "    elif mode == 'sensor_only':\n        lm = np.ones(net.n, dtype=bool)\n        lm[net.cap & (net.dist_um >= 70.)] = False",
+   "problem": "NaN distance comparison bug leaves T3 anastomosis bridge cells passive in the sensor_only ablation, contradicting the manuscript definition and distorting T3 residuals.",
+   "repair": "Replace (net.dist_um >= 70.) with ((net.dist_um >= 70.) | np.isnan(net.dist_um)) in experiment.py L74, update L44 docstring to reflect distal branches (dist >= 70 um) + bridge, and re-run T3 metrics.",
+   "severity": "minor"
+  },
+  {
+   "category": "missing-literature",
+   "confidence": "high",
+   "evidence": "Crossref lookups and moshkforoush2020.txt verify three uncited cornerstone bodies of literature directly engaged by this work: (1) Wessel, Kristan & Kleinfeld (1999, 10.1523/jneurosci.19-14-05875.1999, cited as Ref. 40 in moshkforoush2020.txt L1452) already demonstrated both experimentally and in a pure Kir+leak branched cable model that spatially distributed Kir generates supralinear paired-input summation; (2) Rall (1967, 10.1152/jn.1967.30.5.1138) established spatial geometry discrimination of paired inputs on branched cables; (3) microvascular conduction classics Crane et al. (2004, 10.1080/10739680490457836), Diep et al. (2005, 10.1113/jphysiol.2005.090233), Hald et al. (2012, 10.1016/j.bpj.2012.01.055), Segal (2015, 10.1159/000439112), and capillary PIP2/TRPV4/pericyte papers Harraz et al. (2018, 10.7554/elife.38689) and Gonzales et al. (2020, 10.1073/pnas.1922755117) underpin the omitted channel resetting and junctional integration.",
+   "id": "F8",
+   "location": "paper/PAPER.md L15-17, L33, L222",
+   "passage": "The relevant question is therefore whether a specified paired-input observation separates distributed amplification from simpler fitted alternatives.",
+   "problem": "Keystone prior work on Kir-mediated paired supralinearity (Wessel et al. 1999), cable geometry discrimination (Rall 1967), microvascular conduction (Crane 2004; Diep 2005; Hald 2012), and PIP2/TRPV4 resetting (Harraz 2018) is omitted.",
+   "repair": "Cite Wessel, Kristan & Kleinfeld (1999) and Rall (1967) in the paired-integration motivation, microvascular cable classics (Crane 2004, Diep 2005, Hald 2012, Segal 2015) alongside Behringer/Kapela, and Harraz et al. (2018) for the omitted PIP2/TRPV4 resetting mechanism.",
+   "severity": "major"
+  },
+  {
+   "category": "prose",
+   "confidence": "high",
+   "evidence": "Standards check on paper/PAPER.md (4,140 words; Abstract 190 words <= 250; 0 em-dashes; 0 sibling corpus references) shows 12 occurrences of ', not' (lines 9, 69, 79, 81, 94, 98, 102, 138, 156, 194, 204, 212) plus 2 'rather than' (lines 53, 63), totaling 14 negative-contrast constructions (3.38 per 1,000 words), alongside appended trailing disclaimer sentences on L9, L17, L69, L79, L194, and L204 that breach standards.md L29 ('remember that swapping it for \", not\" is the same habit... Narrow an overclaim by restating it at the right scale, not by adding a disclaimer sentence').",
+   "id": "F9",
+   "location": "paper/PAPER.md L9, L17, L69, L79, L81, L94, L98, L102, L138, L156, L194, L204, L212",
+   "passage": "The contribution is a quantified discrimination test, not the already proposed idea of capillary summation. Unknown exposure geometry and coupling, fixed membrane assumptions, and synthetic calibration prevent these predictions from identifying the mechanism used in an intact brain.",
+   "problem": "Repeated ', not' negative-contrast framing (12 occurrences) and trailing disclaimer sentences violate standards.md prose guidelines.",
+   "repair": "Rewrite negative-contrast sentences positively to state what the method establishes, remove redundant disclaimer tags (e.g., L9, L17, L69, L79, L194, L204), and tighten the overclaim directly at the appropriate scope.",
+   "severity": "minor"
+  }
+ ],
+ "paper": "Integration in the Capillary Bed: Paired-Input Predictions for Electrical Signaling to Arterioles (paper/PAPER.md)"
+}

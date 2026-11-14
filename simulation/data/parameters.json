@@ -317,27 +317,26 @@
     },
     "dynamic_filter": {
       "value": {
-        "fixed_cable_gkir_ns": 0.4,
-        "fixed_cable_gbg_ns": 0.06,
-        "fixed_cable_rgj_mohm": 50,
-        "gain_bounds": [
+        "driver": "single-site-fitted passive cable, parameters frozen before filter fitting",
+        "amplitude_bounds_mv": [
           0,
           100
         ],
-        "quadratic_gain_bounds": [
-          -50,
-          50
+        "input_scale_bounds_mv": [
+          0.01,
+          1000
         ],
         "tau_bounds_ms": [
-          0.1,
+          10,
           1000
-        ]
+        ],
+        "filter_parameters": 3,
+        "driver_parameters": 3
       },
       "units": "mixed, keys explicit",
       "status": "countermodel-design",
-      "citation_id": "moshkforoush2020",
-      "locator": "Published-model scales supply fixed cable; filter architecture and fitted bounds are design assumptions",
-      "note": "The fixed passive driver is not fitted to the nominal distributed model. Three fitted coefficients (linear gain, quadratic gain and time constant) match the distributed model fitted dimension."
+      "locator": "capnet/pooled.py and run_all.py, single-site-only fitting",
+      "note": "tau*y_dot=-y+a*tanh(x/s). Bounded pooled nonlinearity with a time constant no shorter than the 10ms recording interval. Driver is calibrated using singles, then frozen; its three fitted parameters are additional to the three filter coefficients. No paired responses used in either stage."
     },
     "precision_assumptions": {
       "value": {
@@ -348,7 +347,35 @@
       "units": "probabilities and mV",
       "status": "experiment-planning-assumption",
       "locator": "run_all.py, precision calculation",
-      "note": "Independent condition means and a prespecified scalar contrast, normal approximation. The1mV trial standard deviation is an assumed planning scenario, not a measured noise level. Repeated imaging frames are not independent replicates."
+      "note": "Four independently estimated condition means for the singleton-corrected sibling-minus-distant residual, normal approximation against the pooled-controller zero. The 1mV trial standard deviation is a planning assumption. Localization variants retaining distributed capillary dynamics are descriptive controls and do not set design or sample size. Repeated frames are not independent observations."
+    },
+    "slow_reset_sensitivity": {
+      "value": {
+        "source_kir_modulation_tau_ms": 384000,
+        "source_trpv4_modulation_tau_ms": 294000,
+        "assumed_fast_modulation_tau_ms": 60000,
+        "assumed_recovery_tau_ms": 180000,
+        "assumed_max_depolarizing_conductance_ns": [
+          0,
+          0.02,
+          0.08
+        ],
+        "assumed_depolarizing_reversal_mv": 0,
+        "scopes": [
+          "all_capillaries",
+          "exposed_patch"
+        ],
+        "grid_axis_counts": [
+          5,
+          5,
+          5
+        ]
+      },
+      "units": "mixed, keys explicit",
+      "status": "source-motivated-sensitivity-assumption",
+      "citation_id": "harraz2018",
+      "locator": "Results, reciprocal channel regulation; Fig. 6C; Moshkforoush2020 Methods, Modulation of Kir and TRPV4 Currents by PIP2",
+      "note": "Harraz PGE2 experiments report 6.4min Kir suppression and 4.9min TRPV4 recruitment under pharmacological, room-temperature conditions. Applying those rates to a receptor drive assumed to coincide with K exposure is a transfer assumption. The extra 1min rate, recovery rate, ohmic TRPV4 surrogate, amplitudes and spatial scope are design choices; no K-triggered biochemical law or body-temperature kinetics are identified. Full grid and refinement are in resetting_study.py."
     }
   },
   "general_limits": [
